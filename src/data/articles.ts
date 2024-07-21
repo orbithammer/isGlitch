@@ -1582,4 +1582,31 @@ export const articlesData = [
             `Now, if you'll excuse me, I need to go explain to my wife why I've spent our anniversary dinner fund on a "premium rocking algorithm" for a baby we don't even have. I'm sure she'll understand. After all, it's for the theoretical child we might have if we ever muster the enthusiasm to procreate in this godforsaken world.`,
         ]
     },
+    {
+        id: 70,
+        articleUrl: `20240722-tesla-introduces-freedom`,
+        category: `tech`,
+        img: `/images/20240722-tesla-introduces-freedom.webp`,
+        alt: `a tesla car with a cloud of exhaust coming out the back, alpine mountain background`,
+        header: `Tesla Introduces "Freedom Fumes" Option: Adds Fake Exhaust to EVs`,
+        subhead: `New feature allows drivers to "own the libs" with simulated pollution`,
+        tags: [`Tesla`, `Elon Musk`],
+        author: `Et Al`,
+        datePublished: new Date(2024,6,22,8),
+        articleBody: [
+            `Elon Musk, the mercurial CEO of Tesla, has once again proven that no idea is too absurd for the electric vehicle giant. In a move that has left environmental activists speechless and coal rollers gleeful, Tesla announced its latest "innovation": the Freedom Fumes™ option.`,
+
+            `This groundbreaking feature allows Tesla owners to simulate the experience of driving a gas-guzzling, planet-destroying vehicle without actually harming the environment. The package includes a state-of-the-art fake exhaust system that belches out water vapor mixed with artificial fragrance, perfectly mimicking the noxious fumes of a diesel truck.`,
+
+            `"We're giving the people what they want," Musk declared at a press conference, wearing a "Make Tailpipes Great Again" hat. "Now our customers can own the libs without owning their conscience."`,
+
+            `The Freedom Fumes™ system offers various "flavor profiles," including "Classic Diesel," "Leaded Gasoline Nostalgia," and "Coal Mine Canary." For an additional fee, drivers can also opt for the "Rolling Coal Deluxe" setting, which emits a thick black cloud visible from space.`,
+
+            `Tesla's marketing department has been quick to capitalize on the new feature, launching a campaign with the slogan "Have Your Electric Cake and Pollute It Too!" Early adopters have praised the option, with one Tesla owner enthusing, "Now I can park at my local diner without being called a 'tree-hugger' by the regulars!"`,
+
+            `Environmental groups have condemned the move, calling it "a slap in the face with a tailpipe-shaped glove." Greenpeace released a statement reading, "We thought Musk was just blowing smoke, but now he's literally selling it."`,
+
+            `As Tesla stock inexplicably rose on the news, industry analysts were left wondering if this was the beginning of a new era in automotive design or simply the final proof that reality has become stranger than fiction. Either way, it's clear that in the race to the bottom, Elon Musk has once again taken the lead—leaving nothing but fake smoke in his wake.`,
+        ]
+    },
 ]
