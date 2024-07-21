@@ -1,8 +1,8 @@
 # isGlitch.com
 
-[![GitHub license](https://img.shields.io/github/license/orbithammer/theGlitch)](https://github.com/orbithammer/theGlitch/blob/main/LICENSE)
-[![GitHub issues](https://img.shields.io/github/issues/orbithammer/theGlitch)](https://github.com/orbithammer/theGlitch/issues)
-[![GitHub stars](https://img.shields.io/github/stars/orbithammer/theGlitch)](https://github.com/orbithammer/theGlitch/stargazers)
+[![GitHub license](https://img.shields.io/github/license/orbithammer/isGlitch)](https://github.com/orbithammer/isGlitch/blob/main/LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/orbithammer/isGlitch)](https://github.com/orbithammer/isGlitch/issues)
+[![GitHub stars](https://img.shields.io/github/stars/orbithammer/isGlitch)](https://github.com/orbithammer/isGlitch/stargazers)
 
 Welcome to **isGlitch.com** - the online-est of tech rags. Where satire meets silicon and the truth isn’t binary. 
 
@@ -43,11 +43,11 @@ To get a local copy up and running, follow these simple steps.
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/orbithammer/theGlitch.git
+   git clone https://github.com/orbithammer/isGlitch.git
    ```
 2. Navigate to the project directory:
    ```sh
-   cd theGlitch
+   cd isGlitch
    ```
 3. Install dependencies:
    ```sh
