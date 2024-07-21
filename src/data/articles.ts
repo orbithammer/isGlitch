@@ -1560,7 +1560,7 @@ export const articlesData = [
         articleUrl: `20240721-babys-first-subscription`,
         category: `reviews`,
         img: `/images/20240721-babys-first-subscription.webp`,
-        alt: `an angry screaming baby in a bassinet`,
+        alt: `an angry screaming baby in a bassinet full of money`,
         header: `Baby's First Subscription: Snoo Bassinet Rocks Wallets, Not Infants`,
         subhead: `Parents now pay monthly fee to access "Baby Silence" premium tier`,
         tags: [`Snoo`, `Parenting`],
