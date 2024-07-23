@@ -1625,7 +1625,7 @@ export const articlesData = [
 
             `At a hastily organized press conference, Apple CEO Tim Cook proudly showcased the iOU, holding it aloft like a modern-day Moses with the Ten Commandments. "This changes everything," Cook declared, his eyes gleaming with the fervor of a man who'd just discovered fire. "No more worrying about server outages or forgotten passwords. With iOU, your wealth is quite literally in your hands!"`,
 
-            `The iOU comes in various denominations, each featuring a portrait of a different tech luminary. The $1 bill sports a grinning Mark Zuckerberg, while the $100 flaunts a brooding Elon Musk smoking a joint. For a mere $999, customers can purchase a leather iWallet to store their iOUs, complete with a built-in abacus for those tricky calculations.`,
+            `The iOU comes in various denominations, each featuring a portrait of a different Apple luminary. The $1 bill sports a jolly Steve Wozniak, while the $100 Steve Jobs in his iconic black turtleneck, gripping $4,650 in his fist. For a mere $999, customers can purchase a leather iWallet to store their iOUs, complete with a built-in abacus for those tricky calculations.`,
 
             `When pressed about the striking similarity between iOU and traditional currency, Cook scoffed. "Money? Please. This is a disruptive, blockchain-disabled, peer-to-peer value transfer protocol. Completely different."`,
 
