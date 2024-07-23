@@ -167,7 +167,7 @@ export const articlesData = [
         alt: `an apple with the outline of another apple cut out convering the face of a woman painted by da Vinci`,
         header: `Apple Crushes Creativity and Its Reputation in New iPad Ad`,
         subhead: `Baffles consumers, raises concerns about tech giant's direction`,
-        tags: [`Apple`],
+        tags: [`Apple`, `Tim Cook`],
         author: `Et Al`,
         datePublished: new Date(2024,4,11),
         articleBody: [
@@ -1607,6 +1607,35 @@ export const articlesData = [
             `Environmental groups have condemned the move, calling it "a slap in the face with a tailpipe-shaped glove." Greenpeace released a statement reading, "We thought Musk was just blowing smoke, but now he's literally selling it."`,
 
             `As Tesla stock inexplicably rose on the news, industry analysts were left wondering if this was the beginning of a new era in automotive design or simply the final proof that reality has become stranger than fiction. Either way, it's clear that in the race to the bottom, Elon Musk has once again taken the lead—leaving nothing but fake smoke in his wake.`,
+        ]
+    },
+    {
+        id: 71,
+        articleUrl: `20240723-tim-cook-hails`,
+        category: `tech`,
+        img: `/images/20240723-tim-cook-hails.webp`,
+        alt: `Tim Cook in raining money`,
+        header: `Apple Unveils iOU: Revolutionary Paper-Based Transaction System`,
+        subhead: `Tim Cook hails "game-changing innovation," forgets to mention it's just money`,
+        tags: [`Apple`, `Tim Cook`],
+        author: `Et Al`,
+        datePublished: new Date(2024,6,23,18),
+        articleBody: [
+            `In a desperate bid to salvage its reputation amidst the global digital payment meltdown, Apple has announced its latest "innovation" – the iOU. This groundbreaking system, touted as the future of financial transactions, is essentially a small rectangular piece of paper with a number printed on it.`,
+
+            `At a hastily organized press conference, Apple CEO Tim Cook proudly showcased the iOU, holding it aloft like a modern-day Moses with the Ten Commandments. "This changes everything," Cook declared, his eyes gleaming with the fervor of a man who'd just discovered fire. "No more worrying about server outages or forgotten passwords. With iOU, your wealth is quite literally in your hands!"`,
+
+            `The iOU comes in various denominations, each featuring a portrait of a different tech luminary. The $1 bill sports a grinning Mark Zuckerberg, while the $100 flaunts a brooding Elon Musk smoking a joint. For a mere $999, customers can purchase a leather iWallet to store their iOUs, complete with a built-in abacus for those tricky calculations.`,
+
+            `When pressed about the striking similarity between iOU and traditional currency, Cook scoffed. "Money? Please. This is a disruptive, blockchain-disabled, peer-to-peer value transfer protocol. Completely different."`,
+
+            `The tech world has reacted with a mixture of awe and confusion. Google promptly announced its rival product, gCash, which is identical to iOU but comes in slightly different shades of green. Meanwhile, Amazon's Andy Jassy was spotted frantically Googling "how to make paper" and "is money patented?"`,
+
+            `As for the general public, reactions have been mixed. Millennial influencer Zoe Brighton tweeted, "OMG, Apple invented money! #mindblown #iOU4life," while her grandfather, Harold, merely sighed and muttered something about "reinventing the wheel."`,
+
+            `In a surprising turn of events, FTC Chair Lina Khan has announced plans to classify all these new "innovative payment solutions" as securities. "If it looks like a duck, swims like a duck, and quacks like a duck, then it's probably a highly regulated financial instrument," Khan stated, barely suppressing an eye-roll.`,
+
+            `In a final stroke of marketing genius, Apple has announced that each iOU will come with a free U2 album whether you want it or not. Because if there's one thing that pairs well with financial crisis, it's unsolicited Bono.`,
         ]
     },
 ]
