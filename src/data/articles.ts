@@ -1638,4 +1638,35 @@ export const articlesData = [
             `In a final stroke of marketing genius, Apple has announced that each iOU will come with a free U2 album whether you want it or not. Because if there's one thing that pairs well with financial crisis, it's unsolicited Bono.`,
         ]
     },
+    {
+        id: 72,
+        articleUrl: `20240724-tesla-robotaxis-to`,
+        category: `tech`,
+        img: `/images/20240724-tesla-robotaxis-to.webp`,
+        alt: `Elon Musk playing with a slot car track`,
+        header: `Tesla Robotaxis to Navigate Using Massive City-Wide Slot Car Tracks`,
+        subhead: `Musk: "It's foolproof! As long as you're going where the track goes."`,
+        tags: [`Tesla`, `Elon Musk`, `Smart Cars`],
+        author: `Et Al`,
+        datePublished: new Date(2024,6,24,17),
+        articleBody: [
+            `Tesla CEO Elon Musk stunned the automotive world today by unveiling his latest "innovation" in autonomous driving: a city-wide slot car track system for Tesla's upcoming robotaxis.`,
+
+            `"It's foolproof!" Musk declared, gesturing wildly at a miniature mockup of San Francisco crisscrossed with plastic tracks. "As long as you're going where the track goes, you'll never crash!"`,
+
+            `The ambitious plan calls for the installation of massive electrified grooves in every street, allowing Tesla's new line of bottomless robotaxis to slide effortlessly along predetermined routes. When asked about the cost and logistics of tearing up every road in major cities, Musk scoffed, "Details, details. We'll probably use Boring Company flamethrowers to melt the asphalt. It'll be fine."`,
+
+            `Critics were quick to point out the system's apparent lack of flexibility. "What if I need to go somewhere off the track?" asked one bewildered reporter. Musk's solution? "Just walk the rest of the way. It's good for you!"`,
+
+            `The Tesla CEO went on to tout the "nostalgic appeal" of the system, claiming it would "bring back the joy of childhood slot car racing, but with the added thrill of actual human passengers."`,
+
+            `Safety experts expressed concern about the potential for high-speed collisions at track intersections. Musk dismissed these worries, suggesting that Tesla would implement an advanced "boop the nose" protocol, where cars would gently bump each other to determine right of way.`,
+
+            `When pressed about the feasibility of the entire project, Musk grew defensive. "Look, it's either this or we go back to my robot horse idea. Your choice, people!"`,
+
+            `As the presentation concluded, Musk hinted at future upgrades, including loop-de-loops for "express routes" and a giant hand that would place cars back on the track when they inevitably fly off at curves. `,
+
+            `The Tesla board of directors was unavailable for comment, as they were reportedly too busy building a giant Scalextric track in the company parking lot.`,
+        ]
+    },
 ]
