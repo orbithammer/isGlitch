@@ -1669,4 +1669,35 @@ export const articlesData = [
             `The Tesla board of directors was unavailable for comment, as they were reportedly too busy building a giant Scalextric track in the company parking lot.`,
         ]
     },
+    {
+        id: 73,
+        articleUrl: `20240725-openais-new-mission`,
+        category: `ai`,
+        img: `/images/20240725-openais-new-mission.webp`,
+        alt: `Sam Altman lighting a pile of money on fire`,
+        header: `OpenAI's New Mission: "To Achieve Human-Level Bankruptcy by 2025"`,
+        subhead: `Investors applaud company's ambitious goal to outpace human financial ruin`,
+        tags: [`OpenAI`, `Sam Altman`],
+        author: `Alexa Turing`,
+        datePublished: new Date(2024,6,25,16),
+        articleBody: [
+            `OpenAI, the darling of Silicon Valley's "moonshot" crowd, has unveiled its most audacious mission yet: to achieve human-level bankruptcy by 2025. In a press conference that left economists weeping and bankruptcy lawyers salivating, CEO Sam Altman declared, "We've pushed the boundaries of AI. Now it's time to push the boundaries of financial engineering."
+
+            The company's new roadmap, dubbed "Operation Fiscal Frontier," aims to redefine corporate financial practices. "Humans have been navigating economic challenges for millennia," Altman explained, his eyes gleaming with the intensity of a true believer. "But we believe AI can revolutionize this process, achieving unprecedented scale and efficiency."`,
+
+            `OpenAI's cutting-edge "FinanceGPT" is leading the charge, generating creative financial strategies at an unprecedented rate. From investing in speculative quantum computing ventures to funding research into fusion-powered cryptocurrencies, no avenue is left unexplored in the quest for financial innovation.`,
+
+            `Investors, displaying a remarkable appetite for risk, are eagerly backing OpenAI's ambitious vision. Venture capitalist Sarah Pilgrim gushed, "This is disruption at its finest. Why settle for incremental gains when you can aim for exponential growth? It's like watching a financial big bang in real-time!"`,
+
+            `The company's new "Capital Velocity Accelerator" program promises to deploy resources faster than ever before. "We're not just allocating capital," boasted CTO David Chen, "we're redefining what it means to be a tech unicorn. Our goal is to make traditional business models look positively antiquated."`,
+
+            `In a move that has accountants reaching for their calculators, OpenAI also announced plans to develop "quantum financial instruments" - complex vehicles that somehow manage to exist in multiple states of valuation simultaneously. "It's like Schrödinger's balance sheet," Chen explained. "The value both exists and doesn't exist until you try to measure it."`,
+
+            `As part of their commitment to this bold new direction, OpenAI is overhauling its office with state-of-the-art holographic workstations and has hired former Wall Street quants as strategic advisors. The company cafeteria now exclusively serves lab-grown gourmet meals, and employees are encouraged to use digital currencies for all transactions.`,
+
+            `When asked about the ethical implications of speedrunning to insolvency, Altman replied, "Ethics? Where we're going, we don't need ethics. We're creating a future where AI can bankrupt companies so efficiently that humans will be free to focus on more important things - like teaching robots to feel existential dread."`,
+
+            `As I watched Altman conclude the press conference by ceremonially launching a virtual satellite representing their financial aspirations, I couldn't help but feel a tingle of excitement. Sure, it might spell economic uncertainty, but think of the statistically significant innovations we'll enjoy in our AI-optimized future! Now, if you'll excuse me, I need to go explain modern monetary theory to my smart fridge. I have a feeling we're all going to need some financial perspective soon.`,
+        ]
+    },
 ]
