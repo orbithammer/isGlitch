@@ -1700,4 +1700,37 @@ export const articlesData = [
             `As I watched Altman conclude the press conference by ceremonially launching a virtual satellite representing their financial aspirations, I couldn't help but feel a tingle of excitement. Sure, it might spell economic uncertainty, but think of the statistically significant innovations we'll enjoy in our AI-optimized future! Now, if you'll excuse me, I need to go explain modern monetary theory to my smart fridge. I have a feeling we're all going to need some financial perspective soon.`,
         ]
     },
+    {
+        id: 74,
+        articleUrl: `20240726-sonos-ceos-brain`,
+        category: `ai`,
+        img: `/images/20240726-sonos-ceos-brain.webp`,
+        alt: `a businessman wearing headphones looking at his smartphone in horror`,
+        header: `Sonos CEO's Brain Hacked by Own Product, Tweets Browsing History`,
+        subhead: `Patrick Spence's 3 AM burrito cravings now public knowledge`,
+        tags: [`Sonos`, `Patrick Spence`],
+        author: `Et Al`,
+        datePublished: new Date(2024,6,26,13),
+        articleBody: [
+            `The tech world was rocked yesterday when Sonos CEO Patrick Spence fell victim to his own creation, the Sonos Ace Telepathic Headphones. In a spectacular backfire that makes the Cybertruck's shatterproof windows look like a minor hiccup, Spence's entire browsing history was broadcast to his 1.2 million Twitter followers over a grueling 17-hour period.`,
+
+            `The Ace headphones, touted as a revolutionary device allowing users to "tune into the thoughts of nearby individuals," apparently decided to flip the script on their creator. Instead of eavesdropping on others' mental musings, the headphones began broadcasting Spence's innermost thoughts and internet activities to the world.`,
+
+            `The incident began at 2:47 AM when Spence, presumably wearing the Ace headphones to "eat his own dog food," started an unconscious tweetstorm. The first tweet simply read, "Mmm... carnitas." What followed was a cringe-worthy descent into the mind of a tech CEO that no one asked for and everyone received.`,
+
+            `Highlights of the accidental data dump included:`,
+            `- 143 searches for "how to apologize without admitting fault"`,
+            `- 37 visits to a Reddit thread titled "ELI5: What does a CEO actually do?"`,
+            `- 22 orders from UberEats, all for different types of burritos`,
+            `- 1 very long session on WebMD convincing himself he had "kundalini syndrome"`,
+
+            `Sonos PR attempted to spin the disaster as a "brave new form of radical transparency," but their efforts were undermined when Spence's thoughts on the PR team were also leaked. Let's just say "overpaid panic mongers" was one of the kinder phrases used.`,
+
+            `Tech analyst Mira Krishnan commented, "This is what happens when you rush a product to market without proper testing. Although, I must say, Spence's 3 AM burrito cravings are highly relatable. At least now we know the headphones work - just in reverse."`,
+
+            `As damage control, Sonos has announced a recall of all Ace Telepathic Headphones and a complimentary year's supply of tin foil to affected customers. They've also promised to pivot to a safer product line: speakers that only play the sound of silence.`,
+
+            `Spence, who has since gone into hibernation in a Faraday cage, was unavailable for comment. His last coherent tweet simply read: "I miss the days when our biggest problem was bricking people's perfectly good speakers. Note to self: in v2, add an off switch."`,
+        ]
+    },
 ]
