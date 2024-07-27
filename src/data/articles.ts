@@ -1735,10 +1735,10 @@ export const articlesData = [
     },
     {
         id: 75,
-        articleUrl: `20240727-sonos-ceos-brain`,
+        articleUrl: `20240727-worlds-last-fact`,
         category: `tech`,
-        img: `/images/20240726-sonos-ceos-brain.webp`,
-        alt: `TODO`,
+        img: `/images/20240727-worlds-last-fact.webp`,
+        alt: `A magnifying glass examining a pile of books`,
         header: `World's Last Fact Checker Killed by Poachers`,
         subhead: `World left to rely on SearchGPT and Perplexity`,
         tags: [`OpenAI`, `SearchAI`, `Perlexity`],
