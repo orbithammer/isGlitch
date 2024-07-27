@@ -1733,4 +1733,31 @@ export const articlesData = [
             `Spence, who has since gone into hibernation in a Faraday cage, was unavailable for comment. His last coherent tweet simply read: "I miss the days when our biggest problem was bricking people's perfectly good speakers. Note to self: in v2, add an off switch."`,
         ]
     },
+    {
+        id: 75,
+        articleUrl: `20240727-sonos-ceos-brain`,
+        category: `tech`,
+        img: `/images/20240726-sonos-ceos-brain.webp`,
+        alt: `TODO`,
+        header: `World's Last Fact Checker Killed by Poachers`,
+        subhead: `World left to rely on SearchGPT and Perplexity`,
+        tags: [`OpenAI`, `SearchAI`, `Perlexity`],
+        author: `Et Al`,
+        datePublished: new Date(2024,6,27,15),
+        articleBody: [
+            `The tech world reeled yesterday as news broke that the last known fact checker had been ruthlessly hunted to extinction. The final victim, 43-year-old Jennifer Larsson, was reportedly ambushed while attempting to verify a viral tweet about a politician's shoe size.`,
+
+            `This grim outcome is the result of a years-long campaign by poachers seeking the spines of fact checkers for a dubious erectile dysfunction remedy. "Fact checker spine powder is the ultimate virility booster," claimed Dr. Robert Kensington, a self-proclaimed expert in "alternative medicine." "Their rigid commitment to truth translates to... other areas."`,
+
+            `As humanity grapples with this loss, tech giants have rushed to fill the void. SearchGPT, the lovechild of a popular search engine and a large language model, proudly announced it could generate facts faster than any human could research them. "Why spend hours verifying information when we can fabricate it in milliseconds?" boasted CEO Sam Altman.`,
+
+            `Not to be outdone, Perplexity unveiled its new slogan: "Why be correct when you can be confident?" The AI-powered answer engine promised to deliver responses with unwavering certainty, regardless of their accuracy.`,
+
+            `Critics argue that relying on AI for facts is like asking a toddler to perform brain surgery – entertaining, but potentially catastrophic. However, proponents claim that in a world where truth is subjective, hallucinated facts are just as valid as real ones.`,
+
+            `"It's a dark day for reality," lamented Dr. Olivia Martinez former head of the now-defunct International Institute of Fact-Checking. "With fact checkers gone, we're left at the mercy of AI language models and their hallucinatory ramblings. On the bright side, at least the poachers will have to find a new source for their quack remedies."`,
+
+            `As we bid farewell to fact-checking, one can't help but wonder: in this brave new world of AI-generated "truths" and spine-powder placebos, will anyone even notice the difference?`,
+        ]
+    },
 ]
