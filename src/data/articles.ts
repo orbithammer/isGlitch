@@ -1791,4 +1791,37 @@ export const articlesData = [
             `As the chaos unfolds, one thing becomes clear: in the world of tech compensation, $10 doesn't buy what it used to, and $1 of virtual candy certainly doesn't sweeten the deal. It does, however, buy a whole lot of headaches, server crashes, and lukewarm fast food. At least the tech vendors will have something to snack on while they ponder their career choices and the true cost of a global outage – all while crushing candy and what remains of their professional dignity.`,
         ]
     },
+    {
+        id: 77,
+        articleUrl: `20240729-casio-invents-time`,
+        category: `reviews`,
+        img: `/images/20240729-casio-invents-time.webp`,
+        alt: `closeup of a Casio watch on the ankle of a jogger`,
+        header: `Casio Invents Time Travel to 1985 with Revolutionary Watch`,
+        subhead: `Experts hail it as "the future of the past of fitness tracking"`,
+        tags: [`Casio`],
+        author: `Pieter Klykbeit`,
+        datePublished: new Date(2024,6,29,7),
+        articleBody: [
+            `Breaking news from the world of haute horlogerie: Casio, the brand your calculator-wielding math teacher swore by, has stumbled into accidental brilliance. Their latest "innovation" – a $56 step-tracking watch – is nothing short of a temporal paradox wrapped around your wrist.`,
+
+            `As your resident Entertainment Division curmudgeon, I normally wouldn't touch a tech story with a ten-foot antenna. But when whispers of this retro marvel reached my vinyl-lined ears, I knew I had to investigate. After all, I haven't been this excited about a timepiece since my Tamagotchi died in '97.`,
+
+            `Casio's marketing geniuses claim this watch "tracks steps." Revolutionary stuff, truly. Next, they'll tell us it also displays the time. But here's the kicker – it does nothing else. Absolutely nothing. It's as if Casio's R&D team took a collective nap sometime during the Reagan administration and just woke up.`,
+
+            `And you know what? The masses are eating it up like it's the second coming of the Walkman.`,
+
+            `In an era where your toaster probably has more processing power than the Apollo missions, this glorified pedometer is flying off shelves faster than you can say "Y2K bug." It's almost as if people are tired of watches that do everything except make them a sandwich. Who would've thought?`,
+
+            `The real genius here is Casio's pricing strategy. At $56, it's cheap enough for the average Joe to feel like he's making a sound financial decision, yet expensive enough to convince him he's not buying complete garbage. It's the horological equivalent of ordering the second-cheapest wine on the menu.`,
+
+            `But let's be real – this watch's true value lies in its ability to transport you back to a simpler time. A time when "streaming" meant standing in the rain, and "wireless" was just a fancy way of saying your headphones were broken.`,
+
+            `For the low, low price of fifty-six of your American dollars, you too can experience the thrill of wondering, "Did I really only take 37 steps today, or is this thing broken?" It's like playing Russian roulette with your fitness goals!`,
+
+            `In conclusion, if you're looking for a watch that does one thing mediocrely and nothing else at all, Casio has got you covered. It's the perfect gift for the Luddite in your life or for that special someone who thinks "smartwatch" is an oxymoron.`,
+
+            `Now, if you'll excuse me, I need to go adjust the tracking on my VCR. I hear "Miami Vice" is on tonight.`,
+        ]
+    },
 ]
