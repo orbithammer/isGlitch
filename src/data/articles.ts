@@ -1736,7 +1736,7 @@ export const articlesData = [
     {
         id: 75,
         articleUrl: `20240727-worlds-last-fact`,
-        category: `tech`,
+        category: `ai`,
         img: `/images/20240727-worlds-last-fact.webp`,
         alt: `A magnifying glass examining a pile of books`,
         header: `World's Last Fact Checker Killed by Poachers`,
@@ -1758,6 +1758,37 @@ export const articlesData = [
             `"It's a dark day for reality," lamented Dr. Olivia Martinez former head of the now-defunct International Institute of Fact-Checking. "With fact checkers gone, we're left at the mercy of AI language models and their hallucinatory ramblings. On the bright side, at least the poachers will have to find a new source for their quack remedies."`,
 
             `As we bid farewell to fact-checking, one can't help but wonder: in this brave new world of AI-generated "truths" and spine-powder placebos, will anyone even notice the difference?`,
+        ]
+    },
+    {
+        id: 76,
+        articleUrl: `20240728-uber-eats-crashes`,
+        category: `tech`,
+        img: `/images/20240728-uber-eats-crashes.webp`,
+        alt: `a candle lit dinner of a couple of sandwiches`,
+        header: `Uber Eats Crashes After Influx of $10 Voucher Orders from CrowdStrike`,
+        subhead: `Harried company offers $1 Candy Crush lives as compensation for the compensation failure`,
+        tags: [`CrowdStrike`, `George Kurtz`, `Uber`],
+        author: `Et Al`,
+        datePublished: new Date(2024,6,28,15),
+        articleBody: [
+            `CrowdStrike's attempt to placate angry vendors with $10 Uber Eats vouchers backfired spectacularly today, causing a global crash of the food delivery platform. The voucher tsunami, meant to compensate for CrowdStrike's recent tech apocalypse, instead triggered a "hangry" uprising among the very IT professionals it aimed to appease.`,
+
+            `Uber Eats' servers began smoking faster than an overclocked CPU as millions of disgruntled techies simultaneously attempted to order the cheapest possible meal that wouldn't require them to pay out of pocket. The platform's AI, clearly not trained on the concept of "adding insult to injury," struggled to process the flood of $10.01 orders for single chicken nuggets and lone french fries.`,
+
+            `"We've never seen anything like it," gasped a visibly shaken Uber Eats spokesperson, surrounded by the smoldering remains of their data center. "Our algorithms nearly achieved sentience trying to understand why anyone would order a single packet of ketchup for delivery."`,
+
+            `As Uber Eats crumbled under the weight of millions of pitiful orders, CrowdStrike scrambled to contain the fallout. In a hastily arranged press conference, CEO George Kurtz announced a bold new compensation strategy: $1 Candy Crush lives.`,
+
+            `"We heard your feedback loud and clear," Kurtz declared, his smile strained and eyes darting nervously. "You wanted more, and we're delivering. Now you can crush candy while your systems remain crushed. It's a win-win!"`,
+
+            `The announcement of Candy Crush lives as additional compensation was met with a mixture of disbelief and hysterical laughter from the tech community. One vendor, speaking on condition of anonymity, quipped, "Great, now I can waste time on a mobile game while I wait for my systems to come back online. It's like they're actively trying to destroy productivity."`,
+
+            `Reports indicate that King, the developer of Candy Crush, experienced an unexpected surge in player activity, causing their servers to buckle under the sudden influx of bitter IT professionals rage-swiping through colorful candies.`,
+
+            `Meanwhile, enterprising vendors have banded together, pooling their vouchers to order a single pizza. Sources report heated debates over topping choices have led to three new schisms in the tech community and the formation of at least one Lovecraftian cult dedicated to pineapple on pizza.`,
+
+            `As the chaos unfolds, one thing becomes clear: in the world of tech compensation, $10 doesn't buy what it used to, and $1 of virtual candy certainly doesn't sweeten the deal. It does, however, buy a whole lot of headaches, server crashes, and lukewarm fast food. At least the tech vendors will have something to snack on while they ponder their career choices and the true cost of a global outage – all while crushing candy and what remains of their professional dignity.`,
         ]
     },
 ]
