@@ -199,15 +199,15 @@ const copyLink = async () => {
     }
 }
 
-const copyLemmy = async () => {
-    try {
-        await navigator.clipboard.writeText("!isglitch@lemmy.world");
-        alert('!isglitch@lemmy.world copied to clipboard!');
-    } catch (err) {
-        console.error(err);
-        alert('Failed to copy link to clipboard!');
-    }
-}
+// const copyLemmy = async () => {
+//     try {
+//         await navigator.clipboard.writeText("!isglitch@lemmy.world");
+//         alert('!isglitch@lemmy.world copied to clipboard!');
+//     } catch (err) {
+//         console.error(err);
+//         alert('Failed to copy link to clipboard!');
+//     }
+// }
 
 const Article: React.FC = () => {
     const { isDarkMode } = useContext(ThemeContext);
