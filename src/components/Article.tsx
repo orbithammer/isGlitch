@@ -9,6 +9,7 @@ import FacebookShareIconDark from "/src/assets/facebookShareDark.svg"
 import FacebookShareIconLight from "/src/assets/facebookShareLight.svg"
 import TwitterShareIconDark from "/src/assets/twitterShareDark.svg"
 import TwitterShareIconLight from "/src/assets/twitterShareLight.svg"
+import BuyMeACoffeeIcon from "/src/assets/buyMeACoffee.svg"
 import ThemeContext from "../utils/ThemeContext"
 import formatDate from "../utils/formatDate"
 
@@ -157,22 +158,37 @@ const StyledArticleBody = styled.p`
     font-style: normal;
     font-size: 1.2rem
 `
+const StyledCTAWrapper = styled.a`
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    color: inherit;
+`
+
+const StyledCoffeeImg = styled.img`
+    height: 5rem;
+    filter: drop-shadow(3px 3px 2px ${({ theme }) => theme.isDarkMode ? "#fff" : "#000"});
+    @media (min-width: 64rem) {
+        height: 10rem;
+    } 
+`
 
 const StyledCTA = styled(StyledArticleBody)`
     font-family: "Source Serif 4", serif; 
     font-style: italic;
     font-size: 1rem;
-    margin: 1.5rem;
+    margin: 1.5rem 3rem 1.5rem 0;
 `
 
-const StyledLemmyButton = styled.button`
-    font-family: "Quattrocento", serif;
-    font-weight: 400;
-    font-style: normal;
-`
-const StyledLemmyAnchor = styled.a`
-    text-decoration: none;
-`
+// const StyledLemmyButton = styled.button`
+//     font-family: "Quattrocento", serif;
+//     font-weight: 400;
+//     font-style: normal;
+// `
+// const StyledLemmyAnchor = styled.a`
+//     text-decoration: none;
+// `
+
 const copyLink = async () => {
     try {
         await navigator.clipboard.writeText(window.location.href);
@@ -265,18 +281,23 @@ const Article: React.FC = () => {
                 <article>
                     {article?.articleBody.map((paragraph, index)=><StyledArticleBody key={index}>{paragraph}</StyledArticleBody>)}
                 </article>
-                <StyledCTA>
-                    Tired of the vice-like grip of big tech on mainstream social media? Come to Lemmy.world to join the isGlitch.com community! Already have a Lemmy or fediverse account? Great. Paste 
-                        <StyledLemmyButton onClick={copyLemmy}>!isglitch@lemmy.world</StyledLemmyButton>
-                     into the search bar of your instance of choice or visit the link 
-                        <StyledLemmyButton>
-                            <StyledLemmyAnchor href="https://lemmy.world/c/isglitch" target="_blank" rel="noopener noreferrer">here</StyledLemmyAnchor>
-                        </StyledLemmyButton>
-                    . Otherwise, feel free to sign up at your friendly neighborhood Lemmy instance.
-                </StyledCTA>
+                <StyledCTAWrapper href="https://buymeacoffee.com/isglitch" target="_blank" rel="noopener noreferrer">
+                    <StyledCoffeeImg src={BuyMeACoffeeIcon} theme={{ isDarkMode }}/>
+                    <StyledCTA>
+                        Support independent creators! Click the icon to Buy Me a Coffee and help keep isGlitch.com free from big tech's influence.
+                    </StyledCTA>
+                </StyledCTAWrapper>
             </main>
         </>
     )
 }
 
 export default Article
+
+/*Tired of the vice-like grip of big tech on mainstream social media? Come to Lemmy.world to join the isGlitch.com community! Already have a Lemmy or fediverse account? Great. Paste 
+                            <StyledLemmyButton onClick={copyLemmy}>!isglitch@lemmy.world</StyledLemmyButton>
+                        into the search bar of your instance of choice or visit the link 
+                            <StyledLemmyButton>
+                                <StyledLemmyAnchor href="https://lemmy.world/c/isglitch" target="_blank" rel="noopener noreferrer">here</StyledLemmyAnchor>
+                            </StyledLemmyButton>
+                        . Otherwise, feel free to sign up at your friendly neighborhood Lemmy instance.*/
