@@ -55,7 +55,6 @@ const RecentArticleLink = styled(Link)`
   transition: all 0.3s ease;
   &:hover {
     background-color: ${({ theme }) => (theme.isDarkMode ? '#5200FF' : '#9CE00C')};
-    color: ${({ theme }) => (theme.isDarkMode ? '#fff' : '#000' )};
   }
 `;
 
