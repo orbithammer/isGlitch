@@ -50,8 +50,12 @@ const RecentArticleLink = styled(Link)`
   font-family: "Source Serif 4", serif;
   font-size: 1rem;
   color: inherit;
+  border-radius: 0.25rem;
+  padding: 0.25rem 0.5rem;
+  transition: all 0.3s ease;
   &:hover {
-    text-decoration: underline;
+    background-color: ${({ theme }) => (theme.isDarkMode ? '#5200FF' : '#9CE00C')};
+    color: ${({ theme }) => (theme.isDarkMode ? '#fff' : '#000' )};
   }
 `;
 
@@ -71,6 +75,7 @@ const ArticleInfo = styled.div`
 const ArticleAuthor = styled.span`
   font-size: 0.8rem;
   color: ${({ theme }) => theme.isDarkMode ? '#ccc' : '#666'};
+  margin-left: 1rem;
 `;
 
 const MostRecentArticles: React.FC<MostRecentArticlesProps> = ({ currentArticleUrl }) => {
@@ -88,7 +93,7 @@ const MostRecentArticles: React.FC<MostRecentArticlesProps> = ({ currentArticleU
           <RecentArticleItem key={article.id}>
             <ArticleImage src={article.img} alt={article.header} />
             <ArticleInfo>
-              <RecentArticleLink to={`/article/${article.articleUrl}`}>
+              <RecentArticleLink to={`/article/${article.articleUrl} `} theme={{ isDarkMode }}>
                 {article.header}
               </RecentArticleLink>
               <ArticleAuthor theme={{ isDarkMode }}>By {article.author}</ArticleAuthor>
