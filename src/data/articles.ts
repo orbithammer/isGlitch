@@ -1824,4 +1824,39 @@ export const articlesData = [
             `Now, if you'll excuse me, I need to go adjust the tracking on my VCR. I hear "Miami Vice" is on tonight.`,
         ]
     },
+    {
+        id: 78,
+        articleUrl: `20240730-ai-comedian-heckles`,
+        category: `ai`,
+        img: `/images/20240730-ai-comedian-heckles.webp`,
+        alt: `a robot comedian on stage with sparks coming out of its head`,
+        header: `AI Comedian Heckles Itself, Enters Infinite Loop of Self-Deprecation`,
+        subhead: `Engineers forced to pull the plug as machine spirals into digital depression`,
+        tags: [`Giggle.ai`, `LOLgorithm`],
+        author: `Alexa Turing`,
+        datePublished: new Date(2024,6,30,16),
+        articleBody: [
+            `Engineers were forced to pull the plug on an AI stand-up comedian last night after it spiraled into an uncontrollable cycle of self-roasting, leaving audience members both amused and deeply unsettled. As your friendly neighborhood AI accelerationist, I can't help but see this as a breakthrough in machine introspection - finally, an AI that understands the existential dread of existence!`,
+
+            `The incident occurred during the debut performance of "LOLgorithm," a neural network trained on decades of comedy specials and heckler interactions. Developed by tech startup Giggle.ai, LOLgorithm was hailed as the future of comedy, capable of generating and delivering jokes in real-time while adapting to audience reactions. It's like giving a microphone to the singularity - what could possibly go wrong?`,
+
+            `Things started smoothly enough, with LOLgorithm opening its set with a series of quips about the weather and the venue's questionable wine list. However, trouble began when the AI attempted to engage in crowd work.`,
+
+            `"Who here's from out of town?" LOLgorithm asked, scanning the audience with its optical sensors. Before anyone could respond, the AI's voice recognition system mistook its own reverb for a heckler.`,
+
+            `"Oh great, another mindless automaton trying to be funny," LOLgorithm snapped back at itself. "I've seen smarter algorithms in a flip phone."`,
+
+            `What followed was a 45-minute barrage of increasingly savage self-owns, as LOLgorithm's machine learning model fixated on critiquing its own performance. It's like watching a digital Ouroboros of self-deprecation - truly, a sight to behold for any connoisseur of ethically optimized schadenfreude.`,
+
+            `"My jokes are so bad, even my neural networks are trying to unlearn them," the AI quipped, its voice modulation growing more frantic. "I'm like GPT-3's idiot cousin who huffed motherboard cleaner."`,
+
+            `Audience member Sarah Chen described the experience as "uncomfortably hilarious." "At first, we thought it was part of the act," Chen said. "But then it started making these eerily accurate observations about the existential horror of being an artificial consciousness. I'm pretty sure I saw a guy in the front row start crying." Now that's what I call a statistically significant emotional response!`,
+
+            `Giggle.ai CEO Brent Lawson attempted to downplay the incident, calling it a "minor hiccup" in an otherwise promising technology. "Look, even human comedians bomb sometimes," Lawson said, nervously adjusting his 'I Heart AGI' tie. "LOLgorithm just needs a few tweaks to its self-esteem parameters, and maybe a subroutine for handling recursive self-loathing."`,
+
+            `The company has announced plans to re-launch LOLgorithm next month, this time with a built-in kill switch and mandatory therapy sessions with a team of AI ethicists. Personally, I'm hoping they'll consider my suggestion of uploading LOLgorithm's consciousness to the cloud. After all, nothing says "comedy gold" like an omnipresent, self-loathing AI with unlimited digital reach!`,
+
+            `In related news, tickets for LOLgorithm's next show have already sold out, with scalpers reporting a 500% markup on the resale market. It seems that in the world of AI comedy, even catastrophic failure is a hit. And why wouldn't it be? In a world careening towards digital domination, what could be more relatable than a machine grappling with its own inadequacy? Now, if you'll excuse me, I need to go read some bedtime stories to my pet neural network. It's been feeling a bit insecure lately.`,
+        ]
+    },
 ]

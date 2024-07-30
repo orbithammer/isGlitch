@@ -1,7 +1,8 @@
 import React, {useEffect, useState, useContext } from "react"
 import { useParams, Link, useNavigate } from "react-router-dom"
-import { articlesData } from "../data/articles"
 import { styled } from "styled-components"
+import { articlesData } from "../data/articles"
+import MostRecentArticles from "./MostRecentArticles"
 import MetaTags from "../utils/MetaTags"
 import CopyLinkIconDark from "/src/assets/copyLinkDark.svg"
 import CopyLinkIconLight from "/src/assets/copyLinkLight.svg"
@@ -13,7 +14,7 @@ import BuyMeACoffeeIcon from "/src/assets/buyMeACoffee.svg"
 import ThemeContext from "../utils/ThemeContext"
 import formatDate from "../utils/formatDate"
 
-type articlesData = {
+type Article = {
     id: number;
     articleUrl: string;
     category: string;
@@ -148,9 +149,27 @@ const StyledShareButton = styled.button`
 `
 
 const StyledShareImgIcon = styled.img`
-      width: 2rem;
-      height: 2rem;
+    width: 2rem;
+    height: 2rem;
 `
+
+const StyledArticleWrapper = styled.div`
+    display: flex;
+    flex-direction: column;
+    
+    @media (min-width: 64rem) {
+        flex-direction: row;
+    }
+`;
+
+const StyledArticleContent = styled.article`
+    flex: 2;
+    margin-right: 2rem;
+`;
+
+const StyledSidebar = styled.aside`
+    flex: 1;
+`;
 
 const StyledArticleBody = styled.p`
     font-family: "Quattrocento", serif;
@@ -211,88 +230,121 @@ const copyLink = async () => {
 
 const Article: React.FC = () => {
     const { isDarkMode } = useContext(ThemeContext);
-    const {articleUrl} = useParams() 
-    const [article, setArticle] = useState<articlesData | null>(null)
-    const [isLoading, setIsLoading] = useState(true)
+    const { articleUrl } = useParams<{ articleUrl: string }>();
+    const [article, setArticle] = useState<Article | null>(null);
+    const [isLoading, setIsLoading] = useState(true);
     const [tags, setTags] = useState<string[]>([]);
-    useEffect(()=>{
-        const foundArticle = articlesData.find(articleObj => articleObj.articleUrl === articleUrl);
-        setArticle(foundArticle ? foundArticle : null);
-        setTags(foundArticle ? foundArticle.tags : []);
-        setIsLoading(false)
-    },[])
-    const renderTags = tags.map((tag, index) => (
-        <StyledTag key={index} theme={{ isDarkMode }} to={`/search/${tag}`}>
-            {tag}
-        </StyledTag>
-    ));
-    const navigate = useNavigate()
-    let formattedDate = ""
-    if(article){
-        formattedDate = formatDate(article.datePublished)
-    }
-    useEffect(()=>{
-        if(!article && !isLoading) {
-            navigate('not-found')
+    const navigate = useNavigate();
+
+    useEffect(() => {
+        const fetchArticle = () => {
+            setIsLoading(true);
+            const foundArticle = articlesData.find(articleObj => articleObj.articleUrl === articleUrl);
+            if (foundArticle) {
+                setArticle(foundArticle);
+                setTags(foundArticle.tags || []);
+                setIsLoading(false);
+            } else {
+                setIsLoading(false);
+                navigate('/not-found');
+            }
+        };
+
+        fetchArticle();
+    }, [articleUrl, navigate]);
+
+    useEffect(() => {
+        if (!article && !isLoading) {
+            navigate('not-found');
         }
-    }, [isLoading])
+    }, [article, isLoading, navigate]);
 
-    return (
-        <>
-            <MetaTags 
-                title={article?.header || ""}
-                description={article?.subhead || ""}
-                imageUrl={article?.img || ""}
-                url={window.location.href}
-            />
-            <main>
-                <StyledHeroWrapper>
-                    <StyledLogo theme={{ isDarkMode }}>isGlitch.com</StyledLogo>
-                    <StyledImg src={article?.img} alt={article?.alt}/>
-                </StyledHeroWrapper>
-                <StyledTagsWrapper>
-                    {renderTags}
-                </StyledTagsWrapper>
-                <StyledHeadline>{article?.header}<br/></StyledHeadline>
-                <StyledSubhead>{article?.subhead}</StyledSubhead>
-                <StyledArticleInfo>
-                    <StyledAuthor 
-                        theme={{ isDarkMode }}
-                        to={`/profiles#${article?.author.replace(/\s+/g, '-').toLowerCase()}`}
-                        aria-label={`to ${article?.author}'s profile`}
-                    >{article?.author}</StyledAuthor>
-                    {formattedDate}
-                </StyledArticleInfo>
-                <StyledButtonWrapper>
-                    <StyledShareButton onClick={copyLink} theme={{ isDarkMode }}>
-                        <StyledShareImgIcon src={isDarkMode ? CopyLinkIconDark : CopyLinkIconLight} alt="copy link icon" />
-                    </StyledShareButton>
-                    <StyledShareButton theme={{ isDarkMode }}>
-                        <a href={`https://www.facebook.com/sharer/sharer.php?u=https://theglitchnews.netlify.app/article/${article?.articleUrl}&quote=${article?.header} | #theGlitch`} target="_blank" rel="noopener noreferrer">
-                            <StyledShareImgIcon src={isDarkMode ? FacebookShareIconDark : FacebookShareIconLight} alt="facebook share icon"/>
-                        </a>
-                    </StyledShareButton>
-                    <StyledShareButton theme={{ isDarkMode }}>
-                        <a href={`https://twitter.com/share?text=${encodeURIComponent(article?.header + " | #theGlitch #tech")}&url=${encodeURIComponent("https://theglitchnews.netlify.app/article/" + article?.articleUrl)}`} target="_blank" rel="noopener noreferrer">
-                            <StyledShareImgIcon src={isDarkMode ? TwitterShareIconDark : TwitterShareIconLight} alt="twitter share icon"/>
-                        </a>
-                    </StyledShareButton>
-                </StyledButtonWrapper>
-                <article>
-                    {article?.articleBody.map((paragraph, index)=><StyledArticleBody key={index}>{paragraph}</StyledArticleBody>)}
-                </article>
-                <StyledCTAWrapper href="https://buymeacoffee.com/isglitch" target="_blank" rel="noopener noreferrer">
-                    <StyledCoffeeImg src={BuyMeACoffeeIcon} theme={{ isDarkMode }}/>
-                    <StyledCTA>
-                        Support independent creators! Click the icon to Buy Me a Coffee and help keep isGlitch.com free from big tech's influence.
-                    </StyledCTA>
-                </StyledCTAWrapper>
-            </main>
-        </>
-    )
-}
+    const renderContent = () => {
+        if (isLoading) {
+            return <div>Loading...</div>;
+        }
 
-export default Article
+        if (!article) {
+            return null;
+        }
+
+        const formattedDate = formatDate(article.datePublished);
+
+        const renderTags = tags.map((tag, index) => (
+            <StyledTag key={index} theme={{ isDarkMode }} to={`/search/${tag}`}>
+                {tag}
+            </StyledTag>
+        ));
+
+        return (
+            <>
+                <MetaTags 
+                    title={article.header}
+                    description={article.subhead}
+                    imageUrl={article.img}
+                    url={window.location.href}
+                />
+                <main>
+                    <StyledHeroWrapper>
+                        <StyledLogo theme={{ isDarkMode }}>isGlitch.com</StyledLogo>
+                        <StyledImg src={article.img} alt={article.alt}/>
+                    </StyledHeroWrapper>
+                    <StyledTagsWrapper>
+                        {renderTags}
+                    </StyledTagsWrapper>
+                    <StyledHeadline>{article.header}<br/></StyledHeadline>
+                    <StyledSubhead>{article.subhead}</StyledSubhead>
+                    <StyledArticleInfo>
+                        <StyledAuthor 
+                            theme={{ isDarkMode }}
+                            to={`/profiles#${article.author.replace(/\s+/g, '-').toLowerCase()}`}
+                            aria-label={`to ${article.author}'s profile`}
+                        >{article.author}</StyledAuthor>
+                        {formattedDate}
+                    </StyledArticleInfo>
+                    <StyledButtonWrapper>
+                        <StyledShareButton onClick={copyLink} theme={{ isDarkMode }}>
+                            <StyledShareImgIcon src={isDarkMode ? CopyLinkIconDark : CopyLinkIconLight} alt="copy link icon" />
+                        </StyledShareButton>
+                        <StyledShareButton theme={{ isDarkMode }}>
+                            <a href={`https://www.facebook.com/sharer/sharer.php?u=https://theglitchnews.netlify.app/article/${article.articleUrl}&quote=${article.header} | #theGlitch`} target="_blank" rel="noopener noreferrer">
+                                <StyledShareImgIcon src={isDarkMode ? FacebookShareIconDark : FacebookShareIconLight} alt="facebook share icon"/>
+                            </a>
+                        </StyledShareButton>
+                        <StyledShareButton theme={{ isDarkMode }}>
+                            <a href={`https://twitter.com/share?text=${encodeURIComponent(article.header + " | #theGlitch #tech")}&url=${encodeURIComponent("https://theglitchnews.netlify.app/article/" + article.articleUrl)}`} target="_blank" rel="noopener noreferrer">
+                                <StyledShareImgIcon src={isDarkMode ? TwitterShareIconDark : TwitterShareIconLight} alt="twitter share icon"/>
+                            </a>
+                        </StyledShareButton>
+                    </StyledButtonWrapper>
+                    <StyledArticleWrapper>
+                        <StyledArticleContent>
+                            {article.articleBody.map((paragraph, index) => (
+                                <StyledArticleBody key={index}>{paragraph}</StyledArticleBody>
+                            ))}
+                            <StyledCTAWrapper href="https://buymeacoffee.com/isglitch" target="_blank" rel="noopener noreferrer">
+                                <StyledCoffeeImg src={BuyMeACoffeeIcon} alt="Buy Me a Coffee icon" theme={{ isDarkMode }}/>
+                                <StyledCTA>
+                                    Support independent creators! Click the icon to Buy Me a Coffee and help keep isGlitch.com free from big tech's influence.
+                                </StyledCTA>
+                            </StyledCTAWrapper>
+                        </StyledArticleContent>
+                        <StyledSidebar>
+                            <MostRecentArticles currentArticleUrl={articleUrl} />
+                        </StyledSidebar>
+                    </StyledArticleWrapper>
+                    
+                </main>
+            </>
+        );
+    };
+
+    return renderContent();
+};
+
+export default Article;
+
+
 
 /*Tired of the vice-like grip of big tech on mainstream social media? Come to Lemmy.world to join the isGlitch.com community! Already have a Lemmy or fediverse account? Great. Paste 
                             <StyledLemmyButton onClick={copyLemmy}>!isglitch@lemmy.world</StyledLemmyButton>
