@@ -3,6 +3,7 @@ import { Link } from 'react-router-dom';
 import styled from 'styled-components';
 import { articlesData } from '../data/articles';
 import ThemeContext from "../utils/ThemeContext"
+import CustomLink from './CustomLink';
 
 // Define the type for an individual article
 type Article = {
@@ -44,7 +45,7 @@ const RecentArticleItem = styled.li`
   align-items: center;
 `;
 
-const RecentArticleLink = styled(Link)`
+const RecentArticleLink = styled(CustomLink)`
   color: ${({ theme }) => theme.isDarkMode ? '#9CE00C' : '#5200FF'};
   text-decoration: none;
   font-family: "Source Serif 4", serif;
