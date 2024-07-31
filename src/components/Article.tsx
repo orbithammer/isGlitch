@@ -183,6 +183,11 @@ const StyledCTAWrapper = styled.a`
     align-items: center;
     text-decoration: none;
     color: inherit;
+    border-radius: 0.25rem;
+    transition: all 0.3s ease;
+    &:hover {
+        background-color: ${({ theme }) => theme.isDarkMode ? "#5200FF" : "#9CE00C"};
+    }
     @media (min-width: 64rem) {
         flex-direction: row;
     } 
@@ -310,7 +315,7 @@ const Article: React.FC = () => {
                             {article.articleBody.map((paragraph, index) => (
                                 <StyledArticleBody key={index}>{paragraph}</StyledArticleBody>
                             ))}
-                            <StyledCTAWrapper href="https://buymeacoffee.com/isglitch" target="_blank" rel="noopener noreferrer">
+                            <StyledCTAWrapper href="https://buymeacoffee.com/isglitch" target="_blank" rel="noopener noreferrer" theme={{ isDarkMode }}>
                                 <StyledCoffeeImg src={BuyMeACoffeeIcon} alt="Buy Me a Coffee icon" theme={{ isDarkMode }}/>
                                 <StyledCTA>
                                     Support independent creators! Click the cup icon to Buy Me a Coffee and help keep isGlitch.com free from big tech's influence.
