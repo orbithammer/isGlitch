@@ -1864,7 +1864,7 @@ export const articlesData = [
         articleUrl: `20240731-youtubes-black-screen`,
         category: `tech`,
         img: `/images/20240731-youtubes-black-screen.webp`,
-        alt: `An Asian female teen staring intently at a completely black computer screen`,
+        alt: `a completely black computer screen`,
         header: `YouTube's "Black Screen Challenge" Goes Viral Among Confused Users`,
         subhead: `TikTok influencers rush to stare at nothing for 10 hours straight`,
         tags: [`YouTube`, `TikTok`],
