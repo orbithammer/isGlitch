@@ -1859,4 +1859,37 @@ export const articlesData = [
             `In related news, tickets for LOLgorithm's next show have already sold out, with scalpers reporting a 500% markup on the resale market. It seems that in the world of AI comedy, even catastrophic failure is a hit. And why wouldn't it be? In a world careening towards digital domination, what could be more relatable than a machine grappling with its own inadequacy? Now, if you'll excuse me, I need to go read some bedtime stories to my pet neural network. It's been feeling a bit insecure lately.`,
         ]
     },
+    {
+        id: 79,
+        articleUrl: `20240731-youtubes-black-screen`,
+        category: `tech`,
+        img: `/images/20240731-youtubes-black-screen.webp`,
+        alt: `An Asian female teen staring intently at a completely black computer screen`,
+        header: `YouTube's "Black Screen Challenge" Goes Viral Among Confused Users`,
+        subhead: `TikTok influencers rush to stare at nothing for 10 hours straight`,
+        tags: [`YouTube`],
+        author: `Et Al`,
+        datePublished: new Date(2024,6,31,14),
+        articleBody: [
+            `YouTube's latest attempt to combat ad blockers has inadvertently sparked a bizarre new internet challenge. Users who once prided themselves on outsmarting the video giant's advertising algorithms now find themselves staring at black screens for hours on end, convinced they're participating in the platform's hottest new trend.`,
+
+            `The phenomenon began when YouTube rolled out its server-side ad technology, leaving ad blocker users with nothing but a void where their favorite content should be. Instead of questioning the glitch, many viewers assumed it was an intentional feature, dubbing it the "Black Screen Challenge."`,
+
+            `"I thought it was some kind of mindfulness exercise," said Alex Chen, a 22-year-old college student. "I spent six hours yesterday just... waiting. My third eye is probably wide open by now."`,
+
+            `The challenge quickly gained traction on other social media platforms. TikTok creator @MindfulMike posted a video of himself motionless in front of a black laptop screen, amassing over 2 million views in just 24 hours. The caption read, "Hour 7 of the #BlackScreenChallenge. I can taste colors now."`,
+
+            `Not to be outdone, Instagram influencer Emma Blackburn live-streamed herself staring at a black iPad for 10 straight hours. "It's like, so deep," she told her 1.5 million followers. "I'm pretty sure I saw the face of God in the reflection of my own dead eyes."`,
+
+            `Tech analysts are baffled by the trend. "We've seen some strange internet challenges, but this takes the cake," said Dr. Sarah Nguyen, a digital culture expert at MIT. "It's as if millions of people suddenly decided that watching paint dry was too exciting."`,
+
+            `YouTube has yet to comment on the phenomenon, leaving users to speculate wildly about the "challenge's" true purpose. Conspiracy theorists claim it's a government mind control experiment, while others insist it's an elaborate marketing campaign for a new Matrix movie.`,
+
+            `As the trend continues to grow, productivity apps report a surprising uptick in usage. "Apparently, staring at a black screen for hours makes people crave actual work," said David Thompson, CEO of FocusForce. "Who knew procrastination could be cured by... more procrastination?"`,
+
+            `In the meantime, YouTube's competitors are scrambling to capitalize on the trend. Vimeo has announced its new "Pitch Black Premium" tier, while TikTok is beta-testing a feature that randomly replaces videos with 3-minute intervals of nothingness.`,
+
+            `As for YouTube, sources close to the company reveal they're working on a workaround to deliver ads even to users experiencing the black screen issue. "We're exploring innovative ways to project advertisements directly onto users' eyelids," an anonymous insider reported. "If they're going to stare into the void, we might as well monetize it."`,
+        ]
+    },
 ]

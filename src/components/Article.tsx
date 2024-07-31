@@ -179,13 +179,17 @@ const StyledArticleBody = styled.p`
 `
 const StyledCTAWrapper = styled.a`
     display: flex;
+    flex-direction: column;
     align-items: center;
     text-decoration: none;
     color: inherit;
+    @media (min-width: 64rem) {
+        flex-direction: row;
+    } 
 `
 
 const StyledCoffeeImg = styled.img`
-    height: 5rem;
+    height: 7rem;
     filter: drop-shadow(3px 3px 2px ${({ theme }) => theme.isDarkMode ? "#fff" : "#000"});
     @media (min-width: 64rem) {
         height: 10rem;
@@ -196,17 +200,12 @@ const StyledCTA = styled(StyledArticleBody)`
     font-family: "Source Serif 4", serif; 
     font-style: italic;
     font-size: 1rem;
-    margin: 1.5rem 3rem 1.5rem 0;
+    margin: 0.5rem 1rem 0;
+    text-align: center;
+    @media (min-width: 64rem) {
+        text-align: left;
+    }
 `
-
-// const StyledLemmyButton = styled.button`
-//     font-family: "Quattrocento", serif;
-//     font-weight: 400;
-//     font-style: normal;
-// `
-// const StyledLemmyAnchor = styled.a`
-//     text-decoration: none;
-// `
 
 const copyLink = async () => {
     try {
@@ -217,16 +216,6 @@ const copyLink = async () => {
         alert('Failed to copy link to clipboard!');
     }
 }
-
-// const copyLemmy = async () => {
-//     try {
-//         await navigator.clipboard.writeText("!isglitch@lemmy.world");
-//         alert('!isglitch@lemmy.world copied to clipboard!');
-//     } catch (err) {
-//         console.error(err);
-//         alert('Failed to copy link to clipboard!');
-//     }
-// }
 
 const Article: React.FC = () => {
     const { isDarkMode } = useContext(ThemeContext);
@@ -249,7 +238,6 @@ const Article: React.FC = () => {
                 navigate('/not-found');
             }
         };
-
         fetchArticle();
     }, [articleUrl, navigate]);
 
@@ -325,7 +313,7 @@ const Article: React.FC = () => {
                             <StyledCTAWrapper href="https://buymeacoffee.com/isglitch" target="_blank" rel="noopener noreferrer">
                                 <StyledCoffeeImg src={BuyMeACoffeeIcon} alt="Buy Me a Coffee icon" theme={{ isDarkMode }}/>
                                 <StyledCTA>
-                                    Support independent creators! Click the icon to Buy Me a Coffee and help keep isGlitch.com free from big tech's influence.
+                                    Support independent creators! Click the cup icon to Buy Me a Coffee and help keep isGlitch.com free from big tech's influence.
                                 </StyledCTA>
                             </StyledCTAWrapper>
                         </StyledArticleContent>

@@ -1,5 +1,4 @@
 import React, { useContext } from 'react';
-import { Link } from 'react-router-dom';
 import styled from 'styled-components';
 import { articlesData } from '../data/articles';
 import ThemeContext from "../utils/ThemeContext"
@@ -13,7 +12,6 @@ type Article = {
   datePublished: Date;
   img: string;
   author: string;
-  // Add other properties as needed
 };
 
 // Define props for the MostRecentArticles component
