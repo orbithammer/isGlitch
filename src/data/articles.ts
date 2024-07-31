@@ -1867,7 +1867,7 @@ export const articlesData = [
         alt: `An Asian female teen staring intently at a completely black computer screen`,
         header: `YouTube's "Black Screen Challenge" Goes Viral Among Confused Users`,
         subhead: `TikTok influencers rush to stare at nothing for 10 hours straight`,
-        tags: [`YouTube`],
+        tags: [`YouTube`, `TikTok`],
         author: `Et Al`,
         datePublished: new Date(2024,6,31,14),
         articleBody: [
