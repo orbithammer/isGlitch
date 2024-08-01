@@ -1,8 +1,9 @@
-import React, {useEffect, useState, useContext } from "react"
+import React, {useEffect, useState, useContext, useRef } from "react"
 import { useParams, Link, useNavigate } from "react-router-dom"
 import { styled } from "styled-components"
 import { articlesData } from "../data/articles"
 import MostRecentArticles from "./MostRecentArticles"
+import EarlierArticles from "./EarlierArticles"
 import MetaTags from "../utils/MetaTags"
 import CopyLinkIconDark from "/src/assets/copyLinkDark.svg"
 import CopyLinkIconLight from "/src/assets/copyLinkLight.svg"
@@ -169,6 +170,19 @@ const StyledArticleContent = styled.article`
 
 const StyledSidebar = styled.aside`
     flex: 1;
+    display: flex;
+    flex-direction: column;
+    max-height: calc(100vh - 2rem); // Adjust this value as needed
+    position: sticky;
+    top: 1rem;
+    height: calc(100vh - 2rem);
+    overflow-y: auto;
+
+    @media (min-width: 64rem) {
+        position: static;
+        height: auto;
+        overflow-y: visible;
+    }
 `;
 
 const StyledArticleBody = styled.p`
@@ -207,7 +221,7 @@ const StyledCTA = styled(StyledArticleBody)`
     font-size: 1rem;
     margin: 0.5rem 1rem 0;
     text-align: center;
-    @media (min-width: 64rem) {
+     {
         text-align: left;
     }
 `
@@ -228,7 +242,9 @@ const Article: React.FC = () => {
     const [article, setArticle] = useState<Article | null>(null);
     const [isLoading, setIsLoading] = useState(true);
     const [tags, setTags] = useState<string[]>([]);
+    const [recentArticleUrls, setRecentArticleUrls] = useState<string[]>([]);
     const navigate = useNavigate();
+    const sidebarRef = useRef<HTMLDivElement>(null);
 
     useEffect(() => {
         const fetchArticle = () => {
@@ -251,6 +267,16 @@ const Article: React.FC = () => {
             navigate('not-found');
         }
     }, [article, isLoading, navigate]);
+
+    useEffect(() => {
+        const fetchRecentArticles = () => {
+            const sortedArticles = articlesData
+                .sort((a, b) => new Date(b.datePublished).getTime() - new Date(a.datePublished).getTime())
+                .slice(0, 5);
+            setRecentArticleUrls(sortedArticles.map(article => article.articleUrl));
+        };
+        fetchRecentArticles();
+    }, []);
 
     const renderContent = () => {
         if (isLoading) {
@@ -311,22 +337,26 @@ const Article: React.FC = () => {
                         </StyledShareButton>
                     </StyledButtonWrapper>
                     <StyledArticleWrapper>
-                        <StyledArticleContent>
-                            {article.articleBody.map((paragraph, index) => (
-                                <StyledArticleBody key={index}>{paragraph}</StyledArticleBody>
-                            ))}
-                            <StyledCTAWrapper href="https://buymeacoffee.com/isglitch" target="_blank" rel="noopener noreferrer" theme={{ isDarkMode }}>
-                                <StyledCoffeeImg src={BuyMeACoffeeIcon} alt="Buy Me a Coffee icon" theme={{ isDarkMode }}/>
-                                <StyledCTA>
-                                    Support independent creators! Click the cup icon to Buy Me a Coffee and help keep isGlitch.com free from big tech's influence.
-                                </StyledCTA>
-                            </StyledCTAWrapper>
-                        </StyledArticleContent>
-                        <StyledSidebar>
-                            <MostRecentArticles currentArticleUrl={articleUrl} />
-                        </StyledSidebar>
-                    </StyledArticleWrapper>
-                    
+                    <StyledArticleContent>
+                        {article.articleBody.map((paragraph, index) => (
+                            <StyledArticleBody key={index}>{paragraph}</StyledArticleBody>
+                        ))}
+                        <StyledCTAWrapper href="https://buymeacoffee.com/isglitch" target="_blank" rel="noopener noreferrer" theme={{ isDarkMode }}>
+                            <StyledCoffeeImg src={BuyMeACoffeeIcon} alt="Buy Me a Coffee icon" theme={{ isDarkMode }}/>
+                            <StyledCTA>
+                                Support independent creators! Click the cup icon to Buy Me a Coffee and help keep isGlitch.com free from big tech's influence.
+                            </StyledCTA>
+                        </StyledCTAWrapper>
+                    </StyledArticleContent>
+                    <StyledSidebar ref={sidebarRef}>
+                        <MostRecentArticles currentArticleUrl={articleUrl} />
+                        <EarlierArticles 
+                            currentArticleUrl={articleUrl} 
+                            recentArticleUrls={recentArticleUrls} 
+                            sidebarRef={sidebarRef}
+                        />
+                    </StyledSidebar>
+                </StyledArticleWrapper>
                 </main>
             </>
         );

@@ -17,6 +17,7 @@ type Article = {
 // Define props for the MostRecentArticles component
 type MostRecentArticlesProps = {
   currentArticleUrl: string | undefined;
+  className?: string;
 }
 
 const RecentArticlesWrapper = styled.div`
@@ -76,7 +77,7 @@ const ArticleAuthor = styled.span`
   margin-left: 1rem;
 `;
 
-const MostRecentArticles: React.FC<MostRecentArticlesProps> = ({ currentArticleUrl }) => {
+const MostRecentArticles: React.FC<MostRecentArticlesProps> = ({ currentArticleUrl, className  }) => {
   const { isDarkMode } = useContext(ThemeContext)
   const recentArticles = articlesData
     .filter((article: Article) => article.articleUrl !== currentArticleUrl)
@@ -84,7 +85,7 @@ const MostRecentArticles: React.FC<MostRecentArticlesProps> = ({ currentArticleU
     .slice(0, 5);
 
   return (
-    <RecentArticlesWrapper theme={{ isDarkMode }}>
+    <RecentArticlesWrapper theme={{ isDarkMode }} className={className}>
       <RecentArticlesTitle>Most Recent Articles</RecentArticlesTitle>
       <RecentArticlesList>
         {recentArticles.map((article: Article) => (
