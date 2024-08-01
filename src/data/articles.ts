@@ -1922,7 +1922,7 @@ export const articlesData = [
 
             `When asked about potential backlash, Faber remained upbeat. "Change is always difficult. But mark my words: in a year, people will wonder how they ever lived without pay-per-click peripherals."`,
 
-            `After being asked how the Pay-Per-Click mouse benefits consumers, Faber paused thoughtfully before responding, "It doesn't. But have you seen our Q3 projections?" She then attempted a wink that looked more like a facial spasm, adding, "Innovation is all about sacrifice. We're just asking consumers to do all of it."`,
+            `Pressed to elaborate on the consumer benefits of the Pay-Per-Click mouse, Faber paused thoughtfully before responding, "It doesn't. But have you seen our Q3 projections?" She then attempted a wink that looked more like a facial spasm, adding, "Innovation is all about sacrifice. We're just asking consumers to do all of it."`,
 
             `Wall Street has responded enthusiastically to Logitech's new business model. The company's stock price surged 20% following the announcement, with one analyst describing it as "a masterclass in monetizing basic human functions."`,
 
