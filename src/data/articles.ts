@@ -1892,4 +1892,41 @@ export const articlesData = [
             `As for YouTube, sources close to the company reveal they're working on a workaround to deliver ads even to users experiencing the black screen issue. "We're exploring innovative ways to project advertisements directly onto users' eyelids," an anonymous insider reported. "If they're going to stare into the void, we might as well monetize it."`,
         ]
     },
+    {
+        id: 80,
+        articleUrl: `20240801-logitech-announces-pay`,
+        category: `tech`,
+        img: `/images/20240801-logitech-announces-pay.webp`,
+        alt: `A piggy bank plugged into a computer`,
+        header: `Logitech Announces 'Pay-Per-Click' Mouse for "Budget-Conscious" Users`,
+        subhead: `Left-clicks priced at premium; right-clicks "practically free"`,
+        tags: [`Logitech`, `Hanneke Faber`],
+        author: `Et Al`,
+        datePublished: new Date(2024,7,1,14),
+        articleBody: [
+            `Tech giant Logitech stunned the industry today with the unveiling of its latest innovation: the GL-1 "Thrifty Clicker," a revolutionary mouse that charges users on a per-click basis. CEO Hanneke Faber, sporting a grin that could only be described as "diabolically gleeful," introduced the device at a press conference in Silicon Valley.`,
+
+            `"We've listened to our customers," Faber announced, barely suppressing a chuckle. "They wanted more control over their computing costs. Well, now they can have it – quite literally at their fingertips."`,
+
+            `The GL-1 operates on a tiered pricing model. Left-clicks, deemed "premium actions" by Logitech's marketing team, will cost users $0.01 each. Right-clicks, generously categorized as "practically free," will only set users back $0.005 per click.`,
+
+            `"Think of it as a fitness tracker for your workflow," Faber explained, as confused journalists exchanged glances. "Every click counts, and now, it really counts!"`,
+
+            `When pressed about the potential for skyrocketing costs, Faber waved off concerns. "For the average user, we estimate a monthly bill of only $50 to $75. That's less than your daily coffee habit!" She neglected to mention that this figure assumes users have suddenly developed carpal tunnel syndrome.`,
+
+            `The mouse comes equipped with a built-in display showing real-time click counts and current charges. As an added "feature," users can set up alerts to notify them when they're approaching self-imposed click limits.`,
+
+            `"It's all about mindful computing," said Gloria Hernandez, Logitech's Chief Innovation Officer, with a straight face that deserved an Oscar. "We're not just selling a mouse; we're promoting digital wellness."`,
+
+            `Early reviews have been mixed. Tech blogger Tim Peterson wrote, "I've never been so aware of my own hand movements. I now spend hours agonizing over whether a webpage is worth scrolling through. Thanks, Logitech, for turning my browsing habits into an existential crisis."`,
+
+            `When asked about potential backlash, Faber remained upbeat. "Change is always difficult. But mark my words: in a year, people will wonder how they ever lived without pay-per-click peripherals."`,
+
+            `Wall Street has responded enthusiastically to Logitech's new business model. The company's stock price surged 20% following the announcement, with one analyst describing it as "a masterclass in monetizing basic human functions."`,
+
+            `When asked how the Pay-Per-Click mouse benefits consumers, Faber paused thoughtfully before responding, "It doesn't. But have you seen our Q3 projections?" She then attempted a wink that looked more like a facial spasm, adding, "Innovation is all about sacrifice. We're just asking consumers to do all of it."`,
+
+            `As the conference concluded, Faber hinted at future products in the pipeline, including a keyboard that charges by the word and a webcam with a paywall for each minute of use. The tech world waits with bated breath – and increasingly still mouse hands.`,
+        ]
+    },
 ]
