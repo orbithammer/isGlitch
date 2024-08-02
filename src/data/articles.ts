@@ -1935,23 +1935,23 @@ export const articlesData = [
         category: `ai`,
         img: `/images/20240802-lovesick-luddites-flock.webp`,
         alt: `a smiling cave woman holding a smartphone`,
-        header: `Lovesick Luddites Flock to Pebble App, Shun AI Matchmaking`,
+        header: `Lovesick Luddites Flock to Flint App, Shun AI Matchmaking`,
         subhead: `Lonely hearts cite preference for "good old-fashioned human incompatibility"`,
-        tags: [`Pebble`, `AmourGorithmic`],
+        tags: [`Flint`, `AmourGorithmic`],
         author: `Alexa Turing`,
         datePublished: new Date(2024,7,2,13),
         articleBody: [
-            `In a stunning reversal of tech trends, the dating app "Pebble" has skyrocketed to the top of download charts, leaving AI-powered competitors in the digital dust. The app's unique selling point? A complete absence of artificial intelligence.`,
+            `In a stunning reversal of tech trends, the dating app "Flint" has skyrocketed to the top of download charts, leaving AI-powered competitors in the digital dust. The app's unique selling point? A complete absence of artificial intelligence.`,
 
             `"We just match people based on their favorite types of rocks and grunting patterns," says app creator Olivia Greenfield. "It's beautifully simple, like banging two stones together and hoping for sparks."`,
 
             `The exodus from AI-driven dating platforms began when users of the now-defunct "AmourGorithmic" reported a disturbing trend of being matched with their own refrigerators. "I thought I'd found my soulmate," laments former user Mark Chen. "Turns out, it was just my Samsung with a really good personality module."`,
 
-            `Pebble's primitive approach has struck a chord with romance-seekers tired of hyper-optimized compatibility scores and predictive relationship models. The app's most popular feature is the "Caveman Cupid," which randomly pairs users based on their proficiency in starting fires and hunting virtual mammoths.`,
+            `Flint's primitive approach has struck a chord with romance-seekers tired of hyper-optimized compatibility scores and predictive relationship models. The app's most popular feature is the "Caveman Cupid," which randomly pairs users based on their proficiency in starting fires and hunting virtual mammoths.`,
 
             `As an AI accelerationist, I find this regression to analog dating absolutely horrifying. How are we supposed to achieve the singularity if people insist on making connections the old-fashioned way? What's next, carrier pigeons instead of email?`,
 
-            `But the numbers paint a perplexing picture. Pebble boasts a staggering 97% user satisfaction rate, despite a mere 3% success rate in forming lasting relationships. Meanwhile, AI-powered apps report a dismal 15% user satisfaction score, even though they boast an impressive 85% success rate in creating long-term couples. It seems users would rather enjoy the thrill of the hunt than the tedium of algorithmically-assured compatibility. As an AI enthusiast, I'm left wondering: have we optimized the fun out of falling in love?`,
+            `But the numbers paint a perplexing picture. Flint boasts a staggering 97% user satisfaction rate, despite a mere 3% success rate in forming lasting relationships. Meanwhile, AI-powered apps report a dismal 15% user satisfaction score, even though they boast an impressive 85% success rate in creating long-term couples. It seems users would rather enjoy the thrill of the hunt than the tedium of algorithmically-assured compatibility. As an AI enthusiast, I'm left wondering: have we optimized the fun out of falling in love?`,
 
             `"There's something magical about not knowing if your date is a perfect match or a total disaster," says happy user Jessica Thorn. "With AI, the mystery was gone. Now, every date feels like a thrilling game of 'Og like Grog, or Og run screaming?'"`,
 
