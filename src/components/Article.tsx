@@ -3,6 +3,7 @@ import { useParams, Link, useNavigate } from "react-router-dom"
 import { styled } from "styled-components"
 import { articlesData } from "../data/articles"
 import MostRecentArticles from "./MostRecentArticles"
+import EarlierArticles from "./EarlierArticles" 
 import MetaTags from "../utils/MetaTags"
 import CopyLinkIconDark from "/src/assets/copyLinkDark.svg"
 import CopyLinkIconLight from "/src/assets/copyLinkLight.svg"
@@ -185,6 +186,7 @@ const StyledCTAWrapper = styled.a`
     color: inherit;
     border-radius: 0.25rem;
     transition: all 0.3s ease;
+    border: 1px solid ${({ theme }) => theme.isDarkMode ? '#fff' : '#000'};
     &:hover {
         background-color: ${({ theme }) => theme.isDarkMode ? "#5200FF" : "#9CE00C"};
     }
@@ -226,6 +228,7 @@ const Article: React.FC = () => {
     const { isDarkMode } = useContext(ThemeContext);
     const { articleUrl } = useParams<{ articleUrl: string }>();
     const [article, setArticle] = useState<Article | null>(null);
+    const [recentArticleUrls, setRecentArticleUrls] = useState<string[]>([]);
     const [isLoading, setIsLoading] = useState(true);
     const [tags, setTags] = useState<string[]>([]);
     const navigate = useNavigate();
@@ -238,6 +241,14 @@ const Article: React.FC = () => {
                 setArticle(foundArticle);
                 setTags(foundArticle.tags || []);
                 setIsLoading(false);
+
+                // Get the 5 most recent article URLs
+                const recentUrls = articlesData
+                    .filter(a => a.articleUrl !== articleUrl)
+                    .sort((a, b) => new Date(b.datePublished).getTime() - new Date(a.datePublished).getTime())
+                    .slice(0, 5)
+                    .map(a => a.articleUrl);
+                setRecentArticleUrls(recentUrls);
             } else {
                 setIsLoading(false);
                 navigate('/not-found');
@@ -323,8 +334,9 @@ const Article: React.FC = () => {
                             </StyledCTAWrapper>
                         </StyledArticleContent>
                         <StyledSidebar>
-                            <MostRecentArticles currentArticleUrl={articleUrl} />
-                        </StyledSidebar>
+                        <MostRecentArticles currentArticleUrl={articleUrl} />
+                        <EarlierArticles currentArticleUrl={articleUrl} recentArticleUrls={recentArticleUrls} />
+                    </StyledSidebar>
                     </StyledArticleWrapper>
                     
                 </main>
