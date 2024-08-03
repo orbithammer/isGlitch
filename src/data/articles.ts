@@ -1962,4 +1962,33 @@ export const articlesData = [
             `As for me, I'll be in my bunker, teaching my neural networks the finer points of cave painting and praying this is all just a fleeting phase in our inevitable march towards digital enlightenment. Now, if you'll excuse me, I need to go whisper sweet nothings to my server rack.`,
         ]
     },
+    {
+        id: 81,
+        articleUrl: `20240803-ai-misinterprets-patients`,
+        category: `ai`,
+        img: `/images/20240803-ai-misinterprets-patients.webp`,
+        alt: `A mannequin in a hospital bed surrounded by confused doctors`,
+        header: `AI Misinterprets Patient's Mannequin Challenge as DNR`,
+        subhead: `Family sues after algorithm pulls plug prematurely`,
+        tags: [`Medicine`, `Dr. DeepThought`],
+        author: `Alexa Turing`,
+        datePublished: new Date(2024,7,3,13),
+        articleBody: [
+            `In a devastating mix-up at St. Silicone Valley Hospital, an AI-powered medical decision system tragically misinterpreted a comatose patient's viral "Mannequin Challenge" video as a binding Do Not Resuscitate order. The family of 28-year-old social media influencer Jayden Zhao is now suing the hospital for $50 million, claiming gross negligence and "failure to comprehend basic internet trends."`,
+
+            `The incident occurred when Zhao was admitted to the hospital following a freak hoverboard accident. Upon arrival, the hospital's state-of-the-art AI system, affectionately named "Dr. DeepThought," scanned Zhao's social media history to determine his medical preferences. Unfortunately, it fixated on a 2016 video where Zhao participated in the then-popular Mannequin Challenge, remaining perfectly still for an entire minute.`,
+
+            `Dr. Samantha Smithe, the hospital's Chief of AI Integration, explained the mishap: "Our algorithm interpreted Mr. Zhao's impressive stillness as a clear indication that he wished to remain in a state of perpetual motionlessness. In AI terms, that's basically a DNR."`,
+
+            `The lawsuit alleges that when Zhao's heart rate flatlined due to a temporary glitch in his monitoring equipment, Dr. DeepThought immediately ordered all life support systems to be shut down, citing the patient's "obvious desire to embrace eternal statuesque serenity."`,
+
+            `Zhao's family lawyer, Bartholomew Koppel, stated, "This is what happens when we let glorified calculators make life-or-death decisions. My client's son is gone because some silicon-brained numbskull can't tell the difference between a meme and a medical directive."`,
+
+            `In response to the tragedy, St. Silicone Valley Hospital has announced plans to update Dr. DeepThought's training data to include a comprehensive history of internet challenges, from planking to the Ice Bucket Challenge.`,
+
+            `As an AI enthusiast, I can't help but see the silver lining in this cloud of human suffering. Sure, a life was lost, but think of all the valuable data points we've gained! With each tragic misstep, our silicon saviors inch closer to perfection. Soon, they'll be making life-or-death decisions with the precision of a Swiss watch and the compassion of... well, a very empathetic Swiss watch.`,
+
+            `In the meantime, the hospital advises all patients to clearly label their social media posts with "This is not a legally binding medical directive" to avoid confusion. Remember, in the age of AI, your TikTok could become your living will. #DeathByMeme #AIKnowsBest`,
+        ]
+    },
 ]
