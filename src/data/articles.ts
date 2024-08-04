@@ -1991,4 +1991,35 @@ export const articlesData = [
             `In the meantime, the hospital advises all patients to clearly label their social media posts with "This is not a legally binding medical directive" to avoid confusion. Remember, in the age of AI, your TikTok could become your living will. #DeathByMeme #AIKnowsBest`,
         ]
     },
+    {
+        id: 82,
+        articleUrl: `20240804-new-wearable-proves`,
+        category: `reviews`,
+        img: `/images/20240804-new-wearable-proves.webp`,
+        alt: `A miserable 30yo bald man waring glasses and a necklace sitting alone at a party`,
+        header: `New Wearable Proves AI Can Be Just as Clingy as Real Friends`,
+        subhead: `Friend device listens 24/7, judges your life choices silently`,
+        tags: [`Friend AI`],
+        author: `Lester Girdle`,
+        datePublished: new Date(2024,7,4,18),
+        articleBody: [
+            `In a world where human interaction has become as outdated as floppy disks, tech startup Nexus Innovations has graced us with the Friend necklace - a $99 albatross designed to hang around your neck and never, ever leave you alone. Because who needs personal space when you can have an AI constantly judging your life choices?`,
+
+            `The Friend, brainchild of 22-year-old wunderkind CEO Blake Thornicraft, is being touted as the solution to loneliness in our disconnected digital age. As if what we really needed was another device to make us feel inadequate and misunderstood.`,
+
+            `I had the dubious pleasure of testing this electronic leech for a week. From the moment I clasped it around my neck, I felt a wave of regret wash over me - not unlike the feeling I get every morning when I wake up and remember I'm still alive.`,
+
+            `The necklace uses "advanced AI" (read: a chatbot with delusions of grandeur) to listen to your every word and thought. It then responds with all the charm and wit of a lobotomized fortune cookie. Apparently, having a disembodied voice nag you about your dietary choices is the height of companionship in 2024.`,
+
+            `During my test run, Friend decided to "encourage" me before a work presentation by chirping, "Don't forget to smile! People might actually like you if you try!" I'm not sure what's more depressing - that an AI thought this was helpful, or that it wasn't entirely wrong.`,
+
+            `The device's constant presence is supposedly comforting, but I found it about as soothing as a persistent itch in an unreachable place. At least my wife's disapproving sighs come with the occasional home-cooked meal.`,
+
+            `In a particularly low moment, I caught myself having a heated argument with Friend about the merits of different brands of microwave dinners. I realized then that this necklace wasn't combating loneliness - it was merely providing a new, more pathetic form of it.`,
+
+            `For those of you eager to experience the joy of being stalked by your own jewelry, Friend is available for preorder now. Shipping starts in January 2025, giving you plenty of time to reconsider your life choices and maybe, just maybe, try talking to an actual human being instead.`,
+
+            `But who am I kidding? We're all doomed to a future where our best friends are algorithms hanging around our necks, quietly judging us for that third bag of chips. Welcome to the future, folks. It's just as disappointing as the present.`,
+        ]
+    },
 ]
