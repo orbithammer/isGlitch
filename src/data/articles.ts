@@ -1963,7 +1963,7 @@ export const articlesData = [
         ]
     },
     {
-        id: 81,
+        id: 82,
         articleUrl: `20240803-ai-misinterprets-patients`,
         category: `ai`,
         img: `/images/20240803-ai-misinterprets-patients.webp`,
@@ -1992,7 +1992,7 @@ export const articlesData = [
         ]
     },
     {
-        id: 82,
+        id: 83,
         articleUrl: `20240804-new-wearable-proves`,
         category: `reviews`,
         img: `/images/20240804-new-wearable-proves.webp`,
@@ -2020,6 +2020,39 @@ export const articlesData = [
             `For those of you eager to experience the joy of being stalked by your own jewelry, Friend is available for preorder now. Shipping starts in January 2025, giving you plenty of time to reconsider your life choices and maybe, just maybe, try talking to an actual human being instead.`,
 
             `But who am I kidding? We're all doomed to a future where our best friends are algorithms hanging around our necks, quietly judging us for that third bag of chips. Welcome to the future, folks. It's just as disappointing as the present.`,
+        ]
+    },
+    {
+        id: 84,
+        articleUrl: `20240805-doj-sues-tiktok`,
+        category: `tech`,
+        img: `/images/20240805-doj-sues-tiktok.webp`,
+        alt: `A baby using a smartphone with "TOP SECRET" on the back`,
+        header: `DOJ Sues TikTok for Not Sharing Enough Kids' Data with Government`,
+        subhead: `"How else can we spy on future voters?" asks frustrated official`,
+        tags: [`TikTok`, `Surveillance`],
+        author: `Et Al`,
+        datePublished: new Date(2024,7,5,7),
+        articleBody: [
+            `The Department of Justice filed a lawsuit against TikTok on Monday, alleging that the social media giant has been hoarding valuable data on America's youth without proper government access.`,
+
+            `"We're deeply concerned that TikTok is keeping all this juicy information to themselves," said DOJ spokesperson Linda Hawthorne. "How are we supposed to effectively monitor the next generation of voters if we can't see what dance trends they're following?"`,
+
+            `The lawsuit claims that TikTok violated a secret clause in the Children's Online Privacy Protection Act (COPPA) that requires all collected data to be shared with at least three letter agencies and no fewer than five congressional committees.`,
+
+            `TikTok's legal team expressed confusion over the suit. "We thought we were in trouble for collecting too much data on kids," said chief counsel Marcus Chen. "Now we're not collecting enough? Make up your minds, people."`,
+
+            `Sources close to the matter revealed that the DOJ had been eyeing TikTok's vast trove of information on users under 13 for years. "Do you have any idea how valuable it is to know which Peppa Pig episode a future swing state voter prefers?" whispered one anonymous official. "That's gold, Jerry. Gold!"`,
+
+            `The lawsuit seeks to force TikTok to create a direct feed of all user data to a new government agency tentatively named the Department of Youthful Insights and Surveillance (DYI... nevermind).`,
+
+            `When pressed about privacy concerns, Hawthorne rolled her eyes. "Privacy? Please. These kids are posting their every move online anyway. We're just... streamlining the process."`,
+
+            `TikTok CEO Shou Zi Chew responded to the allegations in a short video posted to the platform. The 15-second clip featured Chew doing the "confused John Travolta" meme while the text "U.S. Gov: We want the data we told you not to collect" flashed on screen. The video has already garnered 2.7 million likes and sparked the #GovernmentGotTalent trend.`,
+
+            `As the legal battle unfolds, parents across the nation are left wondering if there's anyone left who isn't trying to exploit their children's data. Local mom Denise Parker summed it up: "At this point, I might as well just livestream my kid's entire life and be done with it."`,
+
+            `The case is set to go to trial next month, or whenever the judge figures out how to use TikTok.`,
         ]
     },
 ]
