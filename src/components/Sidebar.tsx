@@ -19,7 +19,7 @@ const StyledSearchWrapper = styled.div`
 const StyledCloseButton = styled.button`
   height: 2rem;
   width: 2rem;
-  background-color: #5200FF;
+  background-color: rgb(82, 0, 255);
   border: none;
   margin: 0 1rem 0 auto;
 `
