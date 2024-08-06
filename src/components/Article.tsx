@@ -165,7 +165,9 @@ const StyledArticleWrapper = styled.div`
 
 const StyledArticleContent = styled.article`
     flex: 2;
-    margin-right: 2rem;
+    @media (min-width: 64rem) {
+        margin-right: 2rem;
+    } 
 `;
 
 const StyledSidebar = styled.aside`
@@ -207,7 +209,7 @@ const StyledCTA = styled(StyledArticleBody)`
     font-family: "Source Serif 4", serif; 
     font-style: italic;
     font-size: 1rem;
-    margin: 0.5rem 1rem 0;
+    margin: 0.5rem 1rem 1rem;
     text-align: center;
     @media (min-width: 64rem) {
         text-align: left;

@@ -664,7 +664,7 @@ export const articlesData = [
         alt: `three identical blonde women sitting at a table`,
         header: `Invasion of the Body Zoomers`,
         subhead: `Silicon Valley meets the uncanny valley in doppelgänger mystery`,
-        tags: [`Zoom`],
+        tags: [`Zoom`, `Doppelgangers`],
         author: `Et Al`,
         datePublished: new Date(2024,5,4,15),
         articleBody: [
@@ -2053,6 +2053,41 @@ export const articlesData = [
             `As the legal battle unfolds, parents across the nation are left wondering if there's anyone left who isn't trying to exploit their children's data. Local mom Denise Parker summed it up: "At this point, I might as well just livestream my kid's entire life and be done with it."`,
 
             `The case is set to go to trial next month, or whenever the judge figures out how to use TikTok.`,
+        ]
+    },
+    {
+        id: 85,
+        articleUrl: `20240806-striking-actors-shocked`,
+        category: `tech`,
+        img: `/images/20240806-striking-actors-shocked.webp`,
+        alt: `two voice actors fighting over a microphone, fighting game background`,
+        header: `Striking Voice Actors Shocked as Lookalikes Cross Picket Lines`,
+        subhead: `Performers horrified to find doppelgänger scabs stealing their roles`,
+        tags: [`Video Games`, `Doppelgangers`],
+        author: `Pieter Klykbeit`,
+        datePublished: new Date(2024,7,6,13),
+        articleBody: [
+            `The ongoing video game actors' strike has taken a surreal turn that would make even Rod Serling scratch his head. Reports are flooding in of uncanny lookalikes crossing picket lines to voice roles abandoned by their striking counterparts.`,
+
+            `Marjorie Bellows, known for her work as the plucky sidekick in the "Chronoshift Saga" series, was the first to raise the alarm. "I was picketing outside Pixelverse Studios when I heard my own voice coming from inside," Bellows recounted, visibly shaken. "I thought I was having an out-of-body experience until I saw her walk out - my spitting image, right down to the mole on my left cheek!"`,
+
+            `Attempts to reach Bellows' doppelgänger for comment were unsuccessful. Studio security whisked away the mysterious lookalike before reporters could get close, leaving a wake of questions and a faint scent of ozone in the air.`,
+
+            `This bizarre occurrence has drawn eerie parallels to the recent "Invasion of the Body Zoomers" incident at Zoom's headquarters. In that case, ethereal duplicates of work-from-home employees mysteriously attended in-person meetings, leaving behind evidence of their presence that defied explanation. One can't help but wonder if we're witnessing a more corporeal manifestation of the same supernatural phenomenon.`,
+
+            `Industry insiders are baffled by the latest development. Casting director Liam Hawthorne admitted, "We put out a call for sound-alikes, not long-lost twins. This is like something out of a bad 80s sitcom, but with less neon and better hair."`,
+
+            `The Screen Actors Guild - American Federation of Television and Radio Artists (SAG-AFTRA) is crying foul, accusing studios of engaging in "metaphysical strikebreaking." Union spokesperson Tessa Winters fumed, "First, they threaten us with AI. Now they're resorting to what? Cloning? Parallel universes? We demand an investigation into any potential violations of the space-time continuum!"`,
+
+            `Studio executives, meanwhile, are playing dumb. "We're as surprised as anyone," claimed Pixelverse CEO Brad Chambers, barely suppressing a smirk. "But hey, the show must go on, even if it means hiring suspiciously familiar faces."`,
+
+            `As someone who cut his teeth on "Invasion of the Body Snatchers" and "The Twilight Zone," I can't help but feel a twinge of nostalgia for this deliciously paranoid turn of events. It's like watching a Philip K. Dick story unfold in real-time, minus the mind-bending drugs and existential dread (well, maybe a little dread).`,
+
+            `In a world where we're constantly bombarded with warnings about AI taking our jobs, who'd have thought good old-fashioned human duplicates would be the real threat? It's almost refreshing, in a terrifying sort of way. At least these doppelgängers won't try to take over the world... right?`,
+
+            `As the strike enters its third week, actors are reportedly resorting to DNA tests and childhood anecdotes to prove their identities. Meanwhile, gaming forums are ablaze with conspiracy theories, ranging from government cloning programs to mass hallucinations caused by 5G towers.`,
+
+            `One thing's for certain: in the high-stakes world of video game voice acting, it seems the only thing actors have to fear is themselves.`,
         ]
     },
 ]
