@@ -331,7 +331,7 @@ const Article: React.FC = () => {
                             <StyledCTAWrapper href="https://buymeacoffee.com/isglitch" target="_blank" rel="noopener noreferrer" theme={{ isDarkMode }}>
                                 <StyledCoffeeImg src={BuyMeACoffeeIcon} alt="Buy Me a Coffee icon" theme={{ isDarkMode }}/>
                                 <StyledCTA>
-                                    Support independent creators! Click the cup icon to Buy Me a Coffee and help keep isGlitch.com free from big tech's influence.
+                                    I know people are hurting out there, but running this site isn't free. Help me keep isGlitch.com up and running. If this site has brightened your day, and you have five bucks to spare, please click the cup icon to Buy Me a Coffee! <br/ > Many thanks to those who do. 
                                 </StyledCTA>
                             </StyledCTAWrapper>
                         </StyledArticleContent>
@@ -350,13 +350,3 @@ const Article: React.FC = () => {
 };
 
 export default Article;
-
-
-
-/*Tired of the vice-like grip of big tech on mainstream social media? Come to Lemmy.world to join the isGlitch.com community! Already have a Lemmy or fediverse account? Great. Paste 
-                            <StyledLemmyButton onClick={copyLemmy}>!isglitch@lemmy.world</StyledLemmyButton>
-                        into the search bar of your instance of choice or visit the link 
-                            <StyledLemmyButton>
-                                <StyledLemmyAnchor href="https://lemmy.world/c/isglitch" target="_blank" rel="noopener noreferrer">here</StyledLemmyAnchor>
-                            </StyledLemmyButton>
-                        . Otherwise, feel free to sign up at your friendly neighborhood Lemmy instance.*/

@@ -440,7 +440,7 @@ export const articlesData = [
         alt: `Your sister holding strands of her hair saying, "I'm Cameron Diaz!"`,
         header: `Google's AI: Bringing Families Closer Through Awkward Shared Moments`,
         subhead: `New feature suggests r/Bozarking posts as serious family events`,
-        tags: [`Google`, `SiblingBondinator 3000`, `Reddit`],
+        tags: [`Google`, `SibBond 3K`, `Reddit`],
         author: `Et Al`,
         datePublished: new Date(2024,4,24,14),
         articleBody: [
@@ -729,7 +729,7 @@ export const articlesData = [
         alt: `grinning robot with google colored wires sticking out typing on a laptop`,
         header: `Bonfire of the Nerds: Google's Geeks Get Satirized by Own Creation`,
         subhead: `The AI generated burn is coming from inside the house`,
-        tags: [`Google`, `VeracitAI`, `SiblingBondinator 3000`],
+        tags: [`Google`, `VeracitAI`, `SibBond 3K`],
         author: `Et Al`,
         datePublished: new Date(2024,5,7,16),
         articleBody: [
@@ -2088,6 +2088,37 @@ export const articlesData = [
             `As the strike enters its third week, actors are reportedly resorting to DNA tests and childhood anecdotes to prove their identities. Meanwhile, gaming forums are ablaze with conspiracy theories, ranging from government cloning programs to mass hallucinations caused by 5G towers.`,
 
             `One thing's for certain: in the high-stakes world of video game voice acting, it seems the only thing actors have to fear is themselves.`,
+        ]
+    },
+    {
+        id: 86,
+        articleUrl: `20240807-ford-introduces-speed`,
+        category: `tech`,
+        img: `/images/20240807-ford-introduces-speed.webp`,
+        alt: `A Ford truck being followed by the police`,
+        header: `Ford Introduces "Speed Trap on Wheels" in Latest Product Line`,
+        subhead: `"It's like Neighborhood Watch, but for your commute!" says CEO`,
+        tags: [`Ford`, `Smart Cars`, `Surveillance`],
+        author: `Et Al`,
+        datePublished: new Date(2024,7,7,16),
+        articleBody: [
+            `Ford Motor Company has announced its latest innovation, a move that's sure to delight traffic cops and insurance companies everywhere: cars that automatically report speeding drivers to law enforcement. The new feature, dubbed "CommunityGuard," turns every 2025 Ford vehicle into a mobile speed trap, constantly monitoring nearby cars and tattling on lead-footed motorists.`,
+
+            `"We're just trying to make the roads safer," said Melissa Hartley, Ford's VP of Civic Integration, at a press conference that felt suspiciously like a sting operation. "Think of it as crowdsourced law enforcement. It's like if your nosy neighbor Karen got wheels and a badge."`,
+
+            `The system uses a combination of cameras, radar, and what Ford calls "proprietary snitching algorithms" to detect when other vehicles are exceeding the speed limit. Once a violation is detected, the Ford vehicle will automatically snap a photo of the offender's license plate and beam it directly to the nearest police station, along with GPS coordinates and a stern tsk-tsk noise.`,
+
+            `Privacy advocates have raised concerns about the technology, but Ford assures customers that their data is safe. "We would never share your personal information with law enforcement," Hartley said with a wink. "Unless, of course, you're breaking the law. Or we think you might be. Or if we're just bored and feel like stirring up some drama."`,
+
+            `Early adopters of the technology have reported mixed results. Tom Jenkins, a Ford Fusion owner from Ohio, said, "I love it! I've already gotten three of my neighbors tickets. Sure, they key my car every morning now, but that's a small price to pay for justice."`,
+
+            `Not everyone is thrilled with the new feature, however. Local police departments have reported a 500% increase in calls from Ford vehicles, most of which turn out to be false alarms triggered by squirrels or particularly speedy tumbleweeds.`,
+
+            `When asked if Ford plans to expand the technology to report other types of violations, Hartley's eyes lit up. "Oh, absolutely," she gushed. "We're working on systems to detect jaywalking, failure to return shopping carts, and people who talk in movie theaters. The possibilities are endless!"`,
+
+            `As Ford rolls out this groundbreaking technology, competitors are scrambling to catch up. Rumors suggest that Tesla is developing a similar system, but instead of reporting speeders to the police, it will automatically post their transgressions on Elon Musk's Twitter feed.`,
+
+            `In the meantime, Ford drivers are advised to practice their most innocent expressions and perhaps invest in some good running shoes. After all, you never know when your own car might turn against you.`,
         ]
     },
 ]
