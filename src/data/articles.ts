@@ -2121,4 +2121,35 @@ export const articlesData = [
             `In the meantime, Ford drivers are advised to practice their most innocent expressions and perhaps invest in some good running shoes. After all, you never know when your own car might turn against you.`,
         ]
     },
+    {
+        id: 87,
+        articleUrl: `20240808-google-offers-to`,
+        category: `tech`,
+        img: `/images/20240808-google-offers-to.webp`,
+        alt: `Two tech bros awkwardly slitting the Google logo`,
+        header: `Google Offers to Split into "Goo" and "gle" to Appease Regulators`,
+        subhead: `"Gle" to focus exclusively on discontinued Google+ social network and other failed products`,
+        tags: [`Google`, `Sundar Pichai`],
+        author: `Et Al`,
+        datePublished: new Date(2024,7,8,6),
+        articleBody: [
+            `In a desperate bid to avoid antitrust penalties, Google announced plans to split its operations into two distinct companies: "Goo" and "gle." The move comes just days after a federal judge ruled that the tech giant had illegally maintained a monopoly in the search engine market.`,
+
+            `"We've always prided ourselves on thinking outside the box," said Sundar Pichai, CEO of Google's parent company Alphabet, at a hastily arranged press conference. "And what's more outside the box than literally splitting our name in half?"`,
+
+            `Under the proposed restructuring, "Goo" would retain control of the search engine, advertising platform, and Android operating system. Meanwhile, "gle" would be tasked with resurrecting and maintaining the long-defunct Google+ social network, along with a graveyard of other failed and discontinued Google products.`,
+
+            `"We're confident that 'gle' will be a robust competitor in the tech landscape," said Pichai, barely suppressing a smirk. "Not only will we bring back Google+, but we're also reviving Google Glass, Google Wave, and the recently axed Chromecast. It's like a greatest hits album of products that didn't quite hit the mark."`,
+
+            `John Smith, newly appointed CEO of "gle," enthusiastically added, "Don't forget about Google Buzz, Google Reader, and Orkut! We're going to be swimming in obsolescence."`,
+
+            `Industry analysts were quick to criticize the plan. "This is like saying you'll split your pizza with your friend, but you keep the whole pie and give them a box of stale breadsticks," said Sarah Johnson, a tech industry consultant. "It's absurd to think that saddling half your company with a collection of failed products constitutes fair competition."`,
+
+            `When pressed about the viability of "gle" as a standalone business, Google executives pointed to a team of interns they had hired to continuously post on Google+ and wear Google Glass around the office. "We've even got someone working on connecting a Chromecast to a CRT television," Smith added. "It's only a matter of time before we hit critical mass."`,
+
+            `The Department of Justice has yet to comment on Google's proposal, but sources close to the matter report that several officials were seen facepalming simultaneously upon hearing the news.`,
+
+            `As the tech world continues to grapple with the implications of Google's antitrust ruling, one thing is clear: the search giant's ability to generate absurd solutions remains unmatched in Silicon Valley.`,
+        ]
+    },
 ]
