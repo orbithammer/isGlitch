@@ -2157,7 +2157,7 @@ export const articlesData = [
         articleUrl: `20240809-anthropic-ethics-are`,
         category: `ai`,
         img: `/images/20240809-anthropic-ethics-are.webp`,
-        alt: `a giant robot with "Anti-Boycott Bot" written on it while people escape screaming in the street background`,
+        alt: `a woman displaying her t-shirt with "I <3 data scraping" on it, server farm background`,
         header: `Anthropic: "Ethics Are Just Suggestions" as Data Scraping Intensifies`,
         subhead: `"Compliance is for Chumps," Says AI Giant as It Ignores Copyright, TOS Violations`,
         tags: [`Anthropic`, `Dario Amodei`],
