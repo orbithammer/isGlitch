@@ -19,10 +19,15 @@ type EarlierArticlesProps = {
 };
 
 const EarlierArticlesWrapper = styled.div`
+  display: none;
   margin-top: 2rem;
   padding: 1rem;
   border-radius: 5px;
   border: 1px solid ${({ theme }) => theme.isDarkMode ? '#fff' : '#000'};
+  @media (min-width: 64rem) {
+    display: flex;
+    flex-direction: column;
+  }
 `;
 
 const EarlierArticlesTitle = styled.h3`

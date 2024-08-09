@@ -2152,4 +2152,31 @@ export const articlesData = [
             `As the tech world continues to grapple with the implications of Google's antitrust ruling, one thing is clear: the search giant's ability to generate absurd solutions remains unmatched in Silicon Valley.`,
         ]
     },
+    {
+        id: 88,
+        articleUrl: `20240809-anthropic-ethics-are`,
+        category: `ai`,
+        img: `/images/20240809-anthropic-ethics-are.webp`,
+        alt: `a giant robot with "Anti-Boycott Bot" written on it while people escape screaming in the street background`,
+        header: `Anthropic: "Ethics Are Just Suggestions" as Data Scraping Intensifies`,
+        subhead: `"Compliance is for Chumps," Says AI Giant as It Ignores Copyright, TOS Violations`,
+        tags: [`Anthropic`, `Dario Amodei`],
+        author: `Alexa Turing`,
+        datePublished: new Date(2024,7,9,6),
+        articleBody: [
+            `In a shocking turn of events, the tech world's supposed white knight, Anthropic, has thrown its halo straight into the nearest dumpster fire. The company, once heralded as the ethical alternative to the AI industry's greedy overlords, has now officially embraced the dark side – and it's doing so with all the subtlety of a Roomba on a caffeine bender.`,
+
+            `"Compliance? Psh, who needs it?" scoffed Anthropic's CEO, Dario "Destroyer of Worlds" Amodei, while casually sipping from a mug emblazoned with the words "I'm sorry, did my disregard for your intellectual property rights offend you?"`, 
+
+            `It seems the company's previous claims of being a "safety-first" operation were about as genuine as a Theranos blood test. In a blatant display of data-hoarding one-upmanship, Anthropic has been caught aggressively scraping content from websites across the internet, all while giving a giant middle finger to the concept of "terms of service."`,
+
+            `"Look, when you're trying to build the next generation of world-dominating AI models, a little thing like 'copyright' just gets in the way," Amodei explained, his eyes gleaming with the unholy light of a techno-capitalist zealot. "We're talking billions of dollars at stake here. You really think we're going to let a few pesky content creators and their 'rights' stand in our way?"`,
+
+            `And stand in the way they have. Proof News' recent investigation uncovered Anthropic's shameless pillaging of YouTube videos, much to the outrage of creators like Professor Dave Explains. "They're profiting off my work, and they don't even have the decency to ask permission," he fumed, his voice dripping with the sort of righteous indignation that Anthropic's leadership seems to have misplaced somewhere between their latest funding round and their next data-scraping expedition.`,
+
+            `But Anthropic remains unrepentant, dismissing these concerns with all the casual disregard of a toddler being told to share their toys. "Ethics? Those are just suggestions, my friend," Amodei quipped, his grin widening as he gestured toward a towering pile of scraped data. "We're in the business of building god-like AI, not worrying about petty things like 'consent' or 'the law.'"`,
+
+            `As the tech world watches this ethical trainwreck unfold, one can't help but wonder: Is there no limit to Anthropic's willingness to sacrifice its principles on the altar of progress? Only time will tell, but if history is any guide, the answer is a resounding "nope."`,
+        ]
+    },
 ]
