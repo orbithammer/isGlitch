@@ -2179,4 +2179,37 @@ export const articlesData = [
             `As the tech world watches this ethical trainwreck unfold, one can't help but wonder: Is there no limit to Anthropic's willingness to sacrifice its principles on the altar of progress? Only time will tell, but if history is any guide, the answer is a resounding "nope."`,
         ]
     },
+    {
+        id: 89,
+        articleUrl: `20240810-musk-unveils-ai`,
+        category: `tech`,
+        img: `/images/20240810-musk-unveils-ai.webp`,
+        alt: `a giant robot with "Anti-Boycott Bot" written on it while people escape screaming in the street`,
+        header: `Musk Unveils AI "Anti-Boycott Bot" to Counter Ad Exodus`,
+        subhead: `New X feature automatically sues users who unfollow or criticize the platform`,
+        tags: [`Twitter`, `Elon Musk`],
+        author: `Et Al`,
+        datePublished: new Date(2024,7,10,6),
+        articleBody: [
+            `In a move that has left tech insiders both amused and alarmed, Elon Musk announced the launch of X's latest feature: an AI-powered "Anti-Boycott Bot" designed to automatically initiate legal action against users who unfollow the platform or express negative sentiments about it online.`,
+
+            `The bot, affectionately nicknamed "Sue-E" by X employees, utilizes advanced natural language processing to scan the internet for any criticism of X or Musk himself. Upon detecting such content, it immediately generates a lawsuit and files it electronically in the appropriate jurisdiction.`,
+
+            `"Free speech is a two-way street," Musk declared during a hastily arranged press conference held in the parking lot of X's headquarters. "If you're free to leave X, we're free to sue you for leaving. It's basic physics. Trust me. I'm a rocket surgeon."`,
+
+            `Legal experts have raised concerns about the bot's approach. "This is not how the law works," said Sarah Goldstein, a professor of digital rights at Stanford Law School. "You can't sue someone for unfollowing you on social media. It's like trying to sue the wind for blowing in the wrong direction."`,
+
+            `Undeterred by such criticism, Musk demonstrated the bot's capabilities by unfollowing his own account, @elonmusk, during the press conference. Within seconds, a process server materialized from behind a nearby Tesla Cybertruck to serve him with lawsuit papers.`,
+
+            `"See? It works perfectly," Musk grinned, brushing off the summons. "Now excuse me while I go countersue myself for defamation."`,
+
+            `The Anti-Boycott Bot has already filed over 37 million lawsuits in its first 24 hours of operation, causing several district court servers to crash and leading to a nationwide shortage of legal paper.`,
+
+            `Meanwhile, X's legal team has reportedly gone into hiding, communicating only via an elaborate system of smoke signals and interpretive dance to avoid being sued by their own creation.`,
+
+            `As news of the bot spread, competing social media platforms reported a surge in new users, many of whom cited a desire to "stay on Musk's good side" as their reason for joining.`, 
+
+            `When reached for comment, a spokesperson for X insisted that the Anti-Boycott Bot was "just a joke" and "definitely not a desperate attempt to stem the tide of fleeing advertisers." The spokesperson then abruptly ended the call, muttering something about needing to delete their LinkedIn profile.`,
+        ]
+    },
 ]
