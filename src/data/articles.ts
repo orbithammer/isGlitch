@@ -2212,4 +2212,35 @@ export const articlesData = [
             `When reached for comment, a spokesperson for X insisted that the Anti-Boycott Bot was "just a joke" and "definitely not a desperate attempt to stem the tide of fleeing advertisers." The spokesperson then abruptly ended the call, muttering something about needing to delete their LinkedIn profile.`,
         ]
     },
+    {
+        id: 90,
+        articleUrl: `20240811-apples-new-butterfly`,
+        category: `tech`,
+        img: `/images/20240811-apples-new-butterfly.webp`,
+        alt: `TODO`,
+        header: `Apple's New 'Butterfly Effect Fee' Flutters Developers' Wallets`,
+        subhead: `Cupertino giant claims responsibility for global chaos, charges accordingly`,
+        tags: [`Apple`],
+        author: `Et Al`,
+        datePublished: new Date(2024,7,11,20),
+        articleBody: [
+            `The tech world finds itself simultaneously baffled and amused as Apple unveils its latest revenue-generating scheme: the "Butterfly Effect Fee." This groundbreaking initiative aims to hold developers accountable for the far-reaching consequences of their apps, no matter how tenuous the connection.`,
+
+            `"We've always known that apps change the world," said Veronica Patel, Apple's newly appointed Chief Butterfly Effect Officer. "Now, we're simply asking developers to take responsibility for those changes."`,
+
+            `Under the new fee structure, developers will be billed for global events that Apple's proprietary "Chaos Theory Algorithm" determines to be linked to their apps. For instance, the creator of a popular meditation app was recently charged $50,000 for inadvertently causing a stock market surge in Singapore after a high-powered executive made a clear-headed decision post-meditation.`,
+
+            `Jeremy Goldstein, developer of the hit game "Penguin Parade," found himself slapped with a $12,000 fee after his app allegedly inspired a group of climate scientists to embark on an Antarctic expedition. "I just wanted people to have fun with virtual penguins," a visibly confused Goldstein told reporters. "How was I supposed to know it would lead to a breakthrough in glaciology?"`,
+
+            `The fee has sent shockwaves through the developer community. Marco Rossi, creator of a niche app for tracking soup recipes, is now on the hook for $3,500 after a user in Tulsa decided to open a wildly successful bone broth café. "This isn't a butterfly effect, it's a Godzilla stomp on my bank account," Rossi lamented.`,
+
+            `Apple defends the fee as a necessary step in maintaining the delicate balance of the universe. "Every swipe, every tap, every in-app purchase has consequences," Patel explained. "It's time developers embraced their role as inadvertent agents of chaos."`,
+
+            `Critics argue that the fee is just another example of Apple's overreach. Tech analyst Sarah Chen pointed out the absurdity of the situation: "By this logic, Apple should be paying reparations to every smartphone user for all the time they've wasted scrolling through social media instead of solving world hunger."`,
+
+            `As developers grapple with this new reality, some have found creative ways to cope. A coalition of weather app creators has banded together to form a "hurricane offset" fund, while a group of fitness app developers now includes a disclaimer absolving themselves of responsibility for any muscles pulled in alternate dimensions.`,
+
+            `Despite the outcry, Apple remains committed to the Butterfly Effect Fee. "We're not just changing the world," Patel concluded, her eyes gleaming with the fervor of a chaos theorist. "We're changing the multiverse, one inexplicable fee at a time."`,
+        ]
+    },
 ]
