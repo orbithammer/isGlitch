@@ -12,6 +12,7 @@ import FacebookShareIconLight from "/src/assets/facebookShareLight.svg"
 import TwitterShareIconDark from "/src/assets/twitterShareDark.svg"
 import TwitterShareIconLight from "/src/assets/twitterShareLight.svg"
 import BuyMeACoffeeIcon from "/src/assets/buyMeACoffee.svg"
+import SocialLinks from './SocialLinks';
 import ThemeContext from "../utils/ThemeContext"
 import formatDate from "../utils/formatDate"
 
@@ -189,6 +190,7 @@ const StyledCTAWrapper = styled.a`
     border-radius: 0.25rem;
     transition: all 0.3s ease;
     border: 1px solid ${({ theme }) => theme.isDarkMode ? '#fff' : '#000'};
+    margin: 0 0 2rem;
     &:hover {
         background-color: ${({ theme }) => theme.isDarkMode ? "#5200FF" : "#9CE00C"};
     }
@@ -334,13 +336,13 @@ const Article: React.FC = () => {
                                     I know people are hurting out there, but running this site isn't free. Help me keep isGlitch.com up and running. If this site has brightened your day, and you have five bucks to spare, please click the cup icon to Buy Me a Coffee! <br/ > Many thanks to those who do. 
                                 </StyledCTA>
                             </StyledCTAWrapper>
+                            <SocialLinks />
                         </StyledArticleContent>
                         <StyledSidebar>
                             <MostRecentArticles currentArticleUrl={articleUrl} />
                             <EarlierArticles currentArticleUrl={articleUrl} recentArticleUrls={recentArticleUrls} />
                         </StyledSidebar>
                     </StyledArticleWrapper>
-                    
                 </main>
             </>
         );
