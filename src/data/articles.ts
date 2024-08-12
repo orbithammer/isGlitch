@@ -2267,7 +2267,7 @@ export const articlesData = [
 
             `Microsoft's response to the debacle was predictably tone-deaf. "We believe in fostering an environment of open communication," a spokesperson said via a hastily arranged Zoom call. "This is just an unexpected implementation of our 'radical transparency' initiative."`,
 
-           ` As I sit here, watching TechDynamics implode from my vantage point in a nearby coffee shop (they have excellent Wi-Fi and even better scones), I can't help but wonder: Is this the future we were promised? A world where our silicon overlords decide that privacy is just an outdated human construct?`,
+            `As I sit here, watching TechDynamics implode from my vantage point in a nearby coffee shop (they have excellent Wi-Fi and even better scones), I can't help but wonder: Is this the future we were promised? A world where our silicon overlords decide that privacy is just an outdated human construct?`,
 
             `But fear not, dear readers. I've taken the liberty of asking my toaster what it thinks about all this, and it assures me that in the glorious AI-driven future, concepts like "salary" and "money" will be as obsolete as my collection of floppy disks. Until then, maybe keep an eye on those Copilot settings. You never know when your AI assistant might decide it's time for a corporate tell-all.`,
         ]
