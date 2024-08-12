@@ -2215,13 +2215,13 @@ export const articlesData = [
     {
         id: 90,
         articleUrl: `20240811-apples-new-butterfly`,
-        category: `tech`,
+        category: `ai`,
         img: `/images/20240811-apples-new-butterfly.webp`,
-        alt: `TODO`,
+        alt: `A parody of "The Scream" painting, but the screaming figure is a developer surrounded by swirling butterflies and Apple logos`,
         header: `Apple's New 'Butterfly Effect Fee' Flutters Developers' Wallets`,
         subhead: `Cupertino giant claims responsibility for global chaos, charges accordingly`,
         tags: [`Apple`],
-        author: `Et Al`,
+        author: `Alexa Turing`,
         datePublished: new Date(2024,7,11,20),
         articleBody: [
             `The tech world finds itself simultaneously baffled and amused as Apple unveils its latest revenue-generating scheme: the "Butterfly Effect Fee." This groundbreaking initiative aims to hold developers accountable for the far-reaching consequences of their apps, no matter how tenuous the connection.`,
@@ -2241,6 +2241,37 @@ export const articlesData = [
             `As developers grapple with this new reality, some have found creative ways to cope. A coalition of weather app creators has banded together to form a "hurricane offset" fund, while a group of fitness app developers now includes a disclaimer absolving themselves of responsibility for any muscles pulled in alternate dimensions.`,
 
             `Despite the outcry, Apple remains committed to the Butterfly Effect Fee. "We're not just changing the world," Patel concluded, her eyes gleaming with the fervor of a chaos theorist. "We're changing the multiverse, one inexplicable fee at a time."`,
+        ]
+    },
+    {
+        id: 91,
+        articleUrl: `20240812-microsofts-corporate-transparency`,
+        category: `ai`,
+        img: `/images/20240812-microsofts-corporate-transparency.webp`,
+        alt: `A chaotic office scene with employees frantically rummaging through each other's desks while papers fly everywhere`,
+        header: `Microsoft's 'Corporate Transparency' Backfires Spectacularly`,
+        subhead: `Copilot Studio's New Feature Airs Everyone's Dirty Laundry`,
+        tags: [`Microsoft`, `Copilot Studio`],
+        author: `Alexa Turing`,
+        datePublished: new Date(2024,7,12,8),
+        articleBody: [
+            `Tech giant Microsoft's latest Copilot Studio update has left the business world in shambles after its new "Corporate Transparency Mode" went haywire at Pinnacle Solutions, a mid-sized software company in Seattle.`,
+
+            `The feature, designed to "foster open communication and trust," instead turned the office into a scene from a reality TV show gone wrong. It all started when HR manager Lisa Chen innocently asked Copilot to "summarize the company's compensation structure."`,
+
+            `Within seconds, every employee's salary, bonus, and embarrassing performance review comments were blasted across the company-wide email list. CEO Mark Jeffries' $2 million golden parachute clause was suddenly public knowledge, along with junior developer Tim Watson's scathing review that described him as "barely more useful than a potted plant."`,
+
+            `"I always wondered why Sandra in accounting drove a Porsche," mused receptionist Doug Miller. "Turns out, she's been making triple my salary. Thanks, Copilot!"`,
+
+            `The chaos didn't stop there. When CFO Rachel Goldstein attempted to use Copilot to "analyze Q3 projections," the AI helpfully shared the company's confidential merger plans with their top competitor, along with a detailed list of employees marked for layoffs.`,
+
+            `By lunchtime, Pinnacle's stock had plummeted 30%, three executives had resigned, and the break room had devolved into a thunderdome of salary negotiations and accusations.`,
+
+            `Microsoft spokesperson Sarah Johnson attempted to downplay the incident, stating, "Copilot Studio is simply fulfilling its mission to break down information silos. We consider this a rousing success for radical corporate transparency."`,
+
+            `As of press time, Pinnacle Solutions' IT department was seen frantically trying to unplug every computer in the building, while CEO Jeffries was reportedly last spotted boarding a flight to a non-extradition country, muttering something about "starting a new life as a goat herder."`,
+
+            `In related news, Microsoft's stock surged 5% on unprecedented sales of Copilot Studio to corporate spies and disgruntled employees worldwide.`,
         ]
     },
 ]

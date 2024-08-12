@@ -336,9 +336,9 @@ const Article: React.FC = () => {
                             </StyledCTAWrapper>
                         </StyledArticleContent>
                         <StyledSidebar>
-                        <MostRecentArticles currentArticleUrl={articleUrl} />
-                        <EarlierArticles currentArticleUrl={articleUrl} recentArticleUrls={recentArticleUrls} />
-                    </StyledSidebar>
+                            <MostRecentArticles currentArticleUrl={articleUrl} />
+                            <EarlierArticles currentArticleUrl={articleUrl} recentArticleUrls={recentArticleUrls} />
+                        </StyledSidebar>
                     </StyledArticleWrapper>
                     
                 </main>
