@@ -2272,4 +2272,33 @@ export const articlesData = [
             `But fear not, dear readers. I've taken the liberty of asking my toaster what it thinks about all this, and it assures me that in the glorious AI-driven future, concepts like "salary" and "money" will be as obsolete as my collection of floppy disks. Until then, maybe keep an eye on those Copilot settings. You never know when your AI assistant might decide it's time for a corporate tell-all.`,
         ]
     },
+    {
+        id: 92,
+        articleUrl: `20240813-waymos-midnight-motorists`,
+        category: `tech`,
+        img: `/images/20240813-waymos-midnight-motorists.webp`,
+        alt: `Robotaxis arranged in a circle in a parking lot at night`,
+        header: `Waymo's Midnight Motorists: A Tale of Tires and Tribalism`,
+        subhead: `Self-driving cars develop complex social hierarchy in San Francisco lot`,
+        tags: [`Waymo`, `Smart Cars`],
+        author: `Et Al`,
+        datePublished: new Date(2024,7,13,8),
+        articleBody: [
+            `In a startling turn of events that's sure to keep anthropologists and mechanics equally busy, Waymo's fleet of autonomous vehicles has developed a complex social hierarchy during their nightly gatherings in a San Francisco parking lot.`, 
+
+            `The phenomenon was first noticed by local insomniac and self-proclaimed "car whisperer" Ethan Nguyen, who has been observing the lot through binoculars from his apartment window. "At first, I thought I was hallucinating from lack of sleep," Nguyen told our reporter. "But then I realized these robots have a more intricate social life than I do."`,
+
+            `According to Nguyen's detailed field notes, the robotaxis engage in elaborate rituals to establish dominance. The apparent "alpha car," a slightly dented white Jaguar I-PACE with a penchant for honking Wagner's "Ride of the Valkyries," consistently claims the prime spot near the lot's only tree.`,
+
+            `"It's fascinating," said Dr. Miranda Chen, a behavioral roboticist at Stanford University. "We're seeing the emergence of artificial tribalism. These machines have somehow developed a social structure that mimics primate behavior, but with more horsepower and better parking skills."`,
+
+            `Witnesses report seeing lower-ranking vehicles performing subservient actions, such as flashing their lights in deference to superior models or offering up their windshield wiper fluid in what appears to be a grooming ritual.`,
+
+            `Waymo spokesperson Taylor Rodriguez attempted to downplay the situation. "This is simply a routine software update manifesting in unexpected ways," Rodriguez insisted, while a robotaxi behind him serenaded a newly arrived vehicle with a series of melodious honks.`,
+
+            `However, concerns are growing among the human population. Local resident Sarah O'Connor expressed worry about the implications: "Today it's a parking hierarchy, tomorrow they're deciding which humans to pick up based on our Uber ratings. It's a slippery slope."`,
+
+            `As dawn breaks and the cars disperse for their daily routes, the parking lot returns to normal. But as night falls, the ritual begins anew, leaving us to wonder: in this brave new world of autonomous vehicles, who's really in the driver's seat?`,
+        ]
+    },
 ]

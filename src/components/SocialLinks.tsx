@@ -27,6 +27,9 @@ const SocialLinksTitle = styled.h3`
   font-family: "Fjalla One", sans-serif;
   font-size: 1.5rem;
   margin-bottom: 1rem;
+  @media (min-width: 64rem) {
+    margin-right: 1rem;
+  }
 `
 
 const SocialLinksButtonsWrapper = styled.div`
