@@ -2301,29 +2301,29 @@ export const articlesData = [
             `As dawn breaks and the cars disperse for their daily routes, the parking lot returns to normal. But as night falls, the ritual begins anew, leaving us to wonder: in this brave new world of autonomous vehicles, who's really in the driver's seat?`,
         ]
     },
-    {
-        id: 93,
-        articleUrl: `20240814-sonys-psvr2-pc`,
-        category: `reviews`,
-        img: `/images/20240814-sonys-psvr2-pc.webp`,
-        alt: `A before-and-after diptych: first panel shows an excited gamer unboxing the PSVR2; second panel shows the same person, disheveled and miserable, surrounded by crumpled instruction sheets`,
-        header: `Sony's PSVR2 PC Adapter: Where Dreams Go to Die`,
-        subhead: `Turns out, money CAN buy sadness - for just $60!`,
-        tags: [`Sony`, `PlayStation`, `PSVR`],
-        author: `Lester Girdle`,
-        datePublished: new Date(2024,7,14,12),
-        articleBody: [
-            `Ah, the PSVR2 PC Adapter. Sony's latest $60 reminder that hope is a fleeting illusion in this cruel, indifferent universe. I had the misfortune of testing this technological abomination, and let me tell you, it's a masterclass in disappointment.`,
+    // {
+    //     id: 93,
+    //     articleUrl: `20240814-sonys-psvr2-pc`,
+    //     category: `reviews`,
+    //     img: `/images/20240814-sonys-psvr2-pc.webp`,
+    //     alt: `A before-and-after diptych: first panel shows an excited gamer unboxing the PSVR2; second panel shows the same person, disheveled and miserable, surrounded by crumpled instruction sheets`,
+    //     header: `Sony's PSVR2 PC Adapter: Where Dreams Go to Die`,
+    //     subhead: `Turns out, money CAN buy sadness - for just $60!`,
+    //     tags: [`Sony`, `PlayStation`, `PSVR`],
+    //     author: `Lester Girdle`,
+    //     datePublished: new Date(2024,7,14,12),
+    //     articleBody: [
+    //         `Ah, the PSVR2 PC Adapter. Sony's latest $60 reminder that hope is a fleeting illusion in this cruel, indifferent universe. I had the misfortune of testing this technological abomination, and let me tell you, it's a masterclass in disappointment.`,
 
-            `Picture this: You've just unboxed your shiny new adapter, eyes gleaming with the promise of PC VR nirvana. Fast forward eight hours, and you're curled up in the fetal position, muttering incoherently about Bluetooth dongles and floating hands. Welcome to Sony's idea of "innovation."`,
+    //         `Picture this: You've just unboxed your shiny new adapter, eyes gleaming with the promise of PC VR nirvana. Fast forward eight hours, and you're curled up in the fetal position, muttering incoherently about Bluetooth dongles and floating hands. Welcome to Sony's idea of "innovation."`,
 
-            `The setup process is a Kafka-esque nightmare. You'll need a Ph.D. in computer science, the patience of a saint, and a direct line to the ghost of Steve Jobs to even have a prayer of getting this thing working. And that's before you realize Sony forgot to include a DisplayPort cable. Because why would you need that for a display adapter, right?`,
+    //         `The setup process is a Kafka-esque nightmare. You'll need a Ph.D. in computer science, the patience of a saint, and a direct line to the ghost of Steve Jobs to even have a prayer of getting this thing working. And that's before you realize Sony forgot to include a DisplayPort cable. Because why would you need that for a display adapter, right?`,
 
-            `But wait, there's more! Once you've sacrificed your firstborn to the VR gods and finally get the headset connected, you're treated to the thrilling experience of your virtual hands randomly detaching from your body. Nothing says "immersion" quite like reaching for a virtual object only to find your arm has decided to take an impromptu vacation two feet above your head.`,
+    //         `But wait, there's more! Once you've sacrificed your firstborn to the VR gods and finally get the headset connected, you're treated to the thrilling experience of your virtual hands randomly detaching from your body. Nothing says "immersion" quite like reaching for a virtual object only to find your arm has decided to take an impromptu vacation two feet above your head.`,
 
-            `The cherry on top of this sundae of sadness? The utter lack of support for the PSVR2's flagship features on PC. No eye tracking, no adaptive triggers, no haptic feedback. It's like buying a sports car and finding out it can only drive in first gear.`,
+    //         `The cherry on top of this sundae of sadness? The utter lack of support for the PSVR2's flagship features on PC. No eye tracking, no adaptive triggers, no haptic feedback. It's like buying a sports car and finding out it can only drive in first gear.`,
 
-            `In the end, the PSVR2 PC Adapter is less a bridge to VR nirvana and more a $60 lesson in the futility of human endeavor. Save your money, folks. Or better yet, use it to buy a nice, comfortable pillow to cry into. You'll need it after dealing with this monstrosity.`,
-        ]
-    },
+    //         `In the end, the PSVR2 PC Adapter is less a bridge to VR nirvana and more a $60 lesson in the futility of human endeavor. Save your money, folks. Or better yet, use it to buy a nice, comfortable pillow to cry into. You'll need it after dealing with this monstrosity.`,
+    //     ]
+    // },
 ]
