@@ -2301,17 +2301,46 @@ export const articlesData = [
             `As dawn breaks and the cars disperse for their daily routes, the parking lot returns to normal. But as night falls, the ritual begins anew, leaving us to wonder: in this brave new world of autonomous vehicles, who's really in the driver's seat?`,
         ]
     },
+    {
+        id: 93,
+        articleUrl: `20240814-x-crash-traced`,
+        category: `tech`,
+        img: `/images/20240814-x-crash-traced.webp`,
+        alt: `cartoon of Elon Musk and Donald Trump destroying a Twitter logo`,
+        header: `X Crash Traced to Collision of Digital Egos, Engineers Say`,
+        subhead: `Musk and Trump's inflated self-importance overloads servers, causes 42-minute delay`,
+        tags: [`Twitter`, `Elon Musk`, `Donald Trump`],
+        author: `Et Al`,
+        datePublished: new Date(2024,7,14,15),
+        articleBody: [
+            `In a stunning revelation that has left the tech world both amused and unsurprised, X engineers have pinpointed the cause of Monday night's catastrophic interview crash between Elon Musk and Donald Trump. The culprit? An unprecedented collision of digital egos that overwhelmed the platform's servers and nearly tore a hole in the fabric of cyberspace itself.`,
+
+            `Lead engineer Sarah Chen explained the phenomenon to reporters. "We've dealt with heavy traffic before, but nothing prepared us for the sheer magnitude of self-importance radiating from both participants. Our systems simply couldn't handle the conflicting signals of 'I'm the most important person here' coming from two sources simultaneously."`,
+
+            `The crash, which delayed the highly anticipated interview by 42 minutes, initially sparked wild speculation. Musk himself claimed a "massive DDOS attack" was to blame, but Chen's team quickly debunked this theory.`,
+
+            `"What we witnessed was more akin to a DDE - a Distributed Denial of Ego," Chen clarified. "Both Musk and Trump were attempting to occupy the same digital space, each convinced they were the star of the show. The resulting clash of titans created a feedback loop that brought our entire network to its knees."`,
+
+            `Eyewitnesses reported seeing smoke rising from X's server farms as the egos battled for supremacy. One data center employee, who wished to remain anonymous, described the scene: "It was like watching two black holes try to swallow each other. The laws of physics – and humility – simply don't apply to these guys."`,
+
+            `The interview eventually proceeded after engineers implemented an emergency "ego-dampening" protocol, artificially inflating the perceived audience size to satisfy both participants' need for attention.`,
+
+            `X's PR team has spun the debacle as a testament to the platform's resilience. "We're proud to be the only social media site capable of hosting such monumental figures," a spokesperson said, adding hastily, "Please don't make us do it again."`,
+
+            `As the dust settles, tech experts are warning of the dangers posed by unchecked digital narcissism. "This incident should serve as a wake-up call," said Dr. Emily Rodriguez, a professor of cybersecurity at MIT. "We must develop new safeguards to protect our networks from extreme cases of self-aggrandizement, lest the entire internet collapse under the weight of humanity's most inflated egos."`,
+        ]
+    },
     // {
-    //     id: 93,
-    //     articleUrl: `20240814-sonys-psvr2-pc`,
+    //     id: 94,
+    //     articleUrl: `20240815-sonys-psvr2-pc`,
     //     category: `reviews`,
-    //     img: `/images/20240814-sonys-psvr2-pc.webp`,
+    //     img: `/images/20240815-sonys-psvr2-pc.webp`,
     //     alt: `A before-and-after diptych: first panel shows an excited gamer unboxing the PSVR2; second panel shows the same person, disheveled and miserable, surrounded by crumpled instruction sheets`,
     //     header: `Sony's PSVR2 PC Adapter: Where Dreams Go to Die`,
     //     subhead: `Turns out, money CAN buy sadness - for just $60!`,
     //     tags: [`Sony`, `PlayStation`, `PSVR`],
     //     author: `Lester Girdle`,
-    //     datePublished: new Date(2024,7,14,12),
+    //     datePublished: new Date(2024,7,15,12),
     //     articleBody: [
     //         `Ah, the PSVR2 PC Adapter. Sony's latest $60 reminder that hope is a fleeting illusion in this cruel, indifferent universe. I had the misfortune of testing this technological abomination, and let me tell you, it's a masterclass in disappointment.`,
 
