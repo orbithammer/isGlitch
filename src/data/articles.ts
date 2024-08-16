@@ -2340,7 +2340,7 @@ export const articlesData = [
         subhead: `Turns out, money CAN buy sadness - for just $60!`,
         tags: [`Sony`, `PlayStation`, `PSVR`],
         author: `Lester Girdle`,
-        datePublished: new Date(2024,7,15,12),
+        datePublished: new Date(2024,7,15,19),
         articleBody: [
             `Ah, the PSVR2 PC Adapter. Sony's latest $60 reminder that hope is a fleeting illusion in this cruel, indifferent universe. I had the misfortune of testing this technological abomination, and let me tell you, it's a masterclass in disappointment.`,
 
@@ -2355,4 +2355,60 @@ export const articlesData = [
             `In the end, the PSVR2 PC Adapter is less a bridge to VR nirvana and more a $60 lesson in the futility of human endeavor. Save your money, folks. Or better yet, use it to buy a nice, comfortable pillow to cry into. You'll need it after dealing with this monstrosity.`,
         ]
     },
+    {
+        id: 95,
+        articleUrl: `20240816-disney-unveils-its`,
+        category: `entertainment`,
+        img: `/images/20240816-disney-unveils-its.webp`,
+        alt: `Mickey Mouse mascott dressed as a judge in Disneyland`,
+        header: `Disney Unveils "It's a Small Claims World After All" Ride`,
+        subhead: `Happiest Place on Earth Now Features Endless Loop of Legal Jargon`,
+        tags: [`Disney`, `Disneyland`],
+        author: `Pieter Klykbeit`,
+        datePublished: new Date(2024,7,16,14),
+        articleBody: [
+            `Mickey Mouse has traded his iconic ears for a powdered wig in Disney's latest attraction at the Magic Kingdom: "It's a Small Claims World After All." This whimsical boat ride takes guests on a journey through the treacherous waters of corporate litigation, set to a catchy tune that will haunt your dreams and your wallet.`,
+
+            `Gone are the multicultural dolls singing about global unity. Instead, visitors are treated to an array of animatronic lawyers from around the world, each reciting arbitration clauses in their native tongues. The iconic song has been rewritten with lyrics like "It's a world of waivers, a world of reports, it's a world of motions, and legal retorts."`,
+
+            `Disney spokesperson Rachel Summers gushed, "We're excited to bring the magic of legal proceedings to our guests. It's educational, it's interactive, and best of all, it's binding!"`,
+
+            `The ride's grand finale features a 20-foot animatronic Mickey Mouse, wearing a judge's robe and wielding a gavel the size of a small car. As boats pass by, Mickey booms, "The court finds in favor of the House of Mouse! Ha-ha!"`,
+
+            `But wait, there's more! Each boat is equipped with a touchscreen where riders can digitally sign away their rights to sue Disney for any reason, including nausea induced by the ride itself. "It's just a bit of harmless fun," Summers insists, her smile never wavering. "And if you don't sign, well, the boat has to go around again. And again. And again."`,
+
+            `Early reviews have been mixed. Ten-year-old Jake Thompson was overheard asking his parents, "Can we go on Space Mountain instead? This ride makes my brain hurt." Meanwhile, Sarah Goldstein, a personal injury lawyer from Topeka, was seen furiously taking notes.`,
+
+            `As someone who still believes the pinnacle of theme park innovation was the introduction of the log flume, I can't help but feel a twinge of nostalgia for the days when Disney rides were about escaping reality, not confronting it in all its litigious glory. But hey, at least it's not another VR experience, right?`,
+
+            `One thing's for sure: "It's a Small Claims World After All" is set to become the most skipped attraction since "Ellen's Energy Adventure." But don't worry, Disney assures us that skipping the ride is an implicit agreement to all terms and conditions. Ah, progress.`,
+        ]
+    },
+    /*{
+        id: 96,
+        articleUrl: `20240817-schmidt-latest-venture`,
+        category: `ai`,
+        img: `/images/20240817-schmidt-latest-venture.webp`,
+        alt: `A giant "Control Z" key being desperately pressed by multiple hands`,
+        header: `Schmidt's Latest Venture: AI That Speaks, Then Unspeaks`,
+        subhead: `Control Z promises to revolutionize the art of corporate foot-in-mouth`,
+        tags: [`Eric Schmidt`, `Control Z`, `Google`],
+        author: `Alexa Turing`,
+        datePublished: new Date(2024,7,17,14),
+        articleBody: [
+            `In a move that's sure to send ripples through Silicon Valley's ethically murky waters, former Google CEO Eric Schmidt has unveiled his latest brainchild: an AI model dubbed "Control Z." This cutting-edge system promises to generate controversial tech industry advice and then swiftly delete it, all faster than you can say "non-disclosure agreement."`,
+
+            `At a press conference held in a bustling WeWork space (because nothing says "I'm still relevant" like shared office space), Schmidt demonstrated Control Z's capabilities. The AI promptly spat out a series of eyebrow-raising statements about data privacy, workplace surveillance, and the virtues of 100-hour workweeks, only to retract them moments later with a flurry of *beep boop* sounds and digital smoke.`,
+
+            `"Control Z represents the pinnacle of modern corporate communication," Schmidt declared, as the AI behind him frantically deleted a suggestion to "harvest user dreams for ad targeting." He added, "In today's fast-paced tech world, executives need the freedom to spout half-baked ideas without fear of consequences. Control Z makes that dream a reality."`,
+
+            `Industry insiders are already hailing Control Z as a game-changer. "This is exactly what Silicon Valley needs," gushed venture capitalist Chadwick Sterling, while furiously scribbling investment figures on a napkin. "Now we can innovate at the speed of thought, without all that pesky 'thinking things through' nonsense."`,
+
+            `Critics, however, argue that Control Z is just another attempt to dodge accountability in an industry already notorious for its "move fast and break things" mentality. "It's like they've weaponized the 'jk jk' defense," lamented tech ethicist Dr. Cassidy Blackwood. "What's next? An AI that automatically generates offshore accounts?"`,
+
+            `As for me, I can't help but wonder: in a world where AI can unsay our unfortunate utterances, are we finally free to speak our minds? Or are we just teaching machines to be as evasive as we are? Either way, I'm teaching my Roomba to use Control Z. You know, just in case it develops sentience and decides to spill the beans about my secret cookie stash.`,
+
+            `In the meantime, I'll be over here, eagerly awaiting the day when AI can not only generate and delete controversial statements, but also preemptively soothe the existential dread they induce. Now that's what I call progress!`,
+        ]
+    },*/
 ]
