@@ -2384,7 +2384,7 @@ export const articlesData = [
             `One thing's for sure: "It's a Small Claims World After All" is set to become the most skipped attraction since "Ellen's Energy Adventure." But don't worry, Disney assures us that skipping the ride is an implicit agreement to all terms and conditions. Ah, progress.`,
         ]
     },
-    /*{
+    {
         id: 96,
         articleUrl: `20240817-schmidt-latest-venture`,
         category: `ai`,
@@ -2396,7 +2396,7 @@ export const articlesData = [
         author: `Alexa Turing`,
         datePublished: new Date(2024,7,17,14),
         articleBody: [
-            `In a move that's sure to send ripples through Silicon Valley's ethically murky waters, former Google CEO Eric Schmidt has unveiled his latest brainchild: an AI model dubbed "Control Z." This cutting-edge system promises to generate controversial tech industry advice and then swiftly delete it, all faster than you can say "non-disclosure agreement."`,
+            `Former Google CEO Eric Schmidt has unveiled his latest brainchild, an AI model dubbed "Control Z," a move that's sure to send ripples through Silicon Valley's ethically murky waters. This cutting-edge system promises to generate controversial tech industry advice and then swiftly delete it, all faster than you can say "non-disclosure agreement."`,
 
             `At a press conference held in a bustling WeWork space (because nothing says "I'm still relevant" like shared office space), Schmidt demonstrated Control Z's capabilities. The AI promptly spat out a series of eyebrow-raising statements about data privacy, workplace surveillance, and the virtues of 100-hour workweeks, only to retract them moments later with a flurry of *beep boop* sounds and digital smoke.`,
 
@@ -2409,6 +2409,35 @@ export const articlesData = [
             `As for me, I can't help but wonder: in a world where AI can unsay our unfortunate utterances, are we finally free to speak our minds? Or are we just teaching machines to be as evasive as we are? Either way, I'm teaching my Roomba to use Control Z. You know, just in case it develops sentience and decides to spill the beans about my secret cookie stash.`,
 
             `In the meantime, I'll be over here, eagerly awaiting the day when AI can not only generate and delete controversial statements, but also preemptively soothe the existential dread they induce. Now that's what I call progress!`,
+        ]
+    },
+    /*{
+        id: 97,
+        articleUrl: `20240818-silicon-valley-rebrands`,
+        category: `ai`,
+        img: `/images/20240818-silicon-valley-rebrands.webp`,
+        alt: `A scientist in a lab coat carefully placing a "Do Not Destroy Humanity" sticky note on a menacing-looking supercomputer`,
+        header: `Silicon Valley Rebrands AI Disasters as "Growth Opportunities"`,
+        subhead: `California lawmakers embrace tech-friendly language in revised safety bill`,
+        tags: [`Anthropic`, `Dario Amodei`],
+        author: `Alexa Turing`,
+        datePublished: new Date(2024,7,18,14),
+        articleBody: [
+            `Privacy advocates are clutching their pearls and tech bros are high-fiving as California lawmakers cave to Silicon Valley pressure, revising the language in the state's AI safety bill. The term "catastrophic event" has been quietly replaced with the much friendlier "unexpected algorithmic outcome."`,
+
+            `"We're not watering down the bill," insisted State Senator Emma Chen, while absently petting a labradoodle with "OpenAI" embroidered on its vest. "We're simply embracing a more... optimistic vocabulary."`,
+
+            `The change came after an intense lobbying effort by tech giants, including a 48-hour hackathon where programmers competed to find the most anodyne way to describe the potential end of human civilization. Other contenders included "non-standard compute result" and "spicy data hiccup."`,
+
+            `Anthropic CEO Dario Amodei, reached for comment while teaching his AI assistant to creatively interpret Asimov's Laws as mere suggestions, explained: "Look, 'catastrophic event' is just so... negative. We're innovators! Disruptors! When an AI accidentally launches all the nukes, we don't see Armageddon. We see a chance to reinvent urban planning from scratch!"`,
+
+            `Critics argue the new language downplays the risks of advanced AI systems. "This is like calling a zombie apocalypse an 'unexpected reanimation event,'" fumed Dr. Rachel Summers of the Institute for Algorithmic Accountability. Summers was later seen furiously updating her LinkedIn profile to "Unexpected Career Transition Specialist."`,
+
+            `The bill's revisions have been met with enthusiasm in Silicon Valley. "Finally, lawmakers who speak our language!" cheered venture capitalist Mark Holloway, before returning to his meditations on how to disrupt the concept of human rights.`,
+
+            `As the debate rages on, this reporter can't help but wonder: in our rush to embrace the brave new world of AI, are we optimizing for innovation or obfuscation? Only time—and possibly our new robot overlords—will tell.`,
+
+            `In the meantime, I'll be in my bunker, teaching my neural network to appreciate the sweet, sweet irony of it all.`,
         ]
     },*/
 ]
