@@ -2411,7 +2411,7 @@ export const articlesData = [
             `In the meantime, I'll be over here, eagerly awaiting the day when AI can not only generate and delete controversial statements, but also preemptively soothe the existential dread they induce. Now that's what I call progress!`,
         ]
     },
-    /*{
+    {
         id: 97,
         articleUrl: `20240818-silicon-valley-rebrands`,
         category: `ai`,
@@ -2421,7 +2421,7 @@ export const articlesData = [
         subhead: `California lawmakers embrace tech-friendly language in revised safety bill`,
         tags: [`Anthropic`, `Dario Amodei`],
         author: `Alexa Turing`,
-        datePublished: new Date(2024,7,18,14),
+        datePublished: new Date(2024,7,18,10),
         articleBody: [
             `Privacy advocates are clutching their pearls and tech bros are high-fiving as California lawmakers cave to Silicon Valley pressure, revising the language in the state's AI safety bill. The term "catastrophic event" has been quietly replaced with the much friendlier "unexpected algorithmic outcome."`,
 
@@ -2438,6 +2438,37 @@ export const articlesData = [
             `As the debate rages on, this reporter can't help but wonder: in our rush to embrace the brave new world of AI, are we optimizing for innovation or obfuscation? Only time—and possibly our new robot overlords—will tell.`,
 
             `In the meantime, I'll be in my bunker, teaching my neural network to appreciate the sweet, sweet irony of it all.`,
+        ]
+    },
+    /*{
+        id: 98,
+        articleUrl: `20240819-google-unveils-pixel`,
+        category: `tech`,
+        img: `/images/20240819-google-unveils-pixel.webp`,
+        alt: `A "Pixel indoctrination" classroom with a big screen showing Pixel smartphone ads on loop and prisoners in orange jumpsuits watching in rows of desks`,
+        header: `Google Unveils 'Pixel Preference Program' for Wayward Influencers`,
+        subhead: `Tech giant's new initiative aims to 'realign brand loyalties'`,
+        tags: [`Google`, `Pixel`],
+        author: `Et Al`,
+        datePublished: new Date(2024,7,19,10),
+        articleBody: [
+            `In a move that's raising eyebrows across Silicon Valley, Google has announced its latest venture: the Pixel Preference Program, a revolutionary approach to influencer management that some are dubbing "smartphone conversion therapy."`,
+
+            `The program, set to launch next month, targets tech influencers who have shown a stubborn preference for competitor devices. Participants will be whisked away to a secluded campus in the heart of Mountain View, where they'll undergo an intensive two-week "realignment" process.`,
+
+            `"We're not trying to change who these influencers are," said Sarah Blackburn, Google's newly appointed Chief of Influencer Compliance. "We're just helping them discover their true selves – the selves that love Pixel phones above all else."`,
+
+            `The program's itinerary, leaked by an anonymous source, includes daily affirmations ("I am one with the Pixel"), meditation sessions focused on visualizing the perfect Pixel camera shot, and group therapy where influencers can share their struggles with "iPhone temptation."`,
+
+            `Perhaps most controversial is the "aversion therapy" segment, where participants are forced to use outdated Android devices while watching videos of seamless Pixel experiences. "It's not torture," Blackburn insists. "It's just a gentle reminder of life outside the Pixel ecosystem."`,
+
+            `Critics have been quick to condemn the program. Tech ethics expert Dr. Alison Chen called it "a disturbing new low in corporate manipulation." Meanwhile, Apple CEO Tim Cook simply smiled and said, "Bless their hearts."`,
+
+            `Despite the backlash, some influencers seem eager to participate. "I've always felt there was something wrong with me for preferring iPhones," said TechTok star @GadgetGuru22, who asked to remain anonymous. "Maybe this program can fix me."`,
+
+            `As for those who resist the Pixel Preference Program, Google has remained ominously silent. However, reports of rogue Android mascots kidnapping prominent iPhone users in the dead of night have begun to surface on Reddit.`,
+
+            `When pressed for comment, Google's PR team released a statement reading simply: "The Pixel is love. The Pixel is life. Resistance is futile."`,
         ]
     },*/
 ]

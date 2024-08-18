@@ -102,7 +102,7 @@ export const StyledArticleInfo = styled.p`
 
 export const StyledAuthor = styled(Link)`
   color: ${({ theme }) => (theme.isDarkMode ? "#9CE00C" : "#5200FF")};
-  margin-right: 1rem;
+  margin-right: 0.3rem;
   text-decoration: none;
   padding: 0.25rem 0.5rem;
   border-radius: 0.25rem;
