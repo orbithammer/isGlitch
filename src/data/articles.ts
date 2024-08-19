@@ -2440,7 +2440,7 @@ export const articlesData = [
             `In the meantime, I'll be in my bunker, teaching my neural network to appreciate the sweet, sweet irony of it all.`,
         ]
     },
-    /*{
+    {
         id: 98,
         articleUrl: `20240819-google-unveils-pixel`,
         category: `tech`,
@@ -2469,6 +2469,70 @@ export const articlesData = [
             `As for those who resist the Pixel Preference Program, Google has remained ominously silent. However, reports of rogue Android mascots kidnapping prominent iPhone users in the dead of night have begun to surface on Reddit.`,
 
             `When pressed for comment, Google's PR team released a statement reading simply: "The Pixel is love. The Pixel is life. Resistance is futile."`,
+        ]
+    },
+    /*{
+        id: 99,
+        articleUrl: `20240820-musk-bids-to`,
+        category: `tech`,
+        img: `/images/20240820-musk-bids-to.webp`,
+        alt: `A mock-up of a Brazilian passport with "Xzil Passport" printed on the cover`,
+        header: `Musk Bids to Buy Brazil, Rename It 'Xzil' in Social Media Takeover`,
+        subhead: `Tech billionaire's latest acquisition attempt raises eyebrows and international concerns`,
+        tags: [`Twitter`, `Elon Musk`],
+        author: `Et Al`,
+        datePublished: new Date(2024,7,20,10),
+        articleBody: [
+            `In a move that has left diplomats and tech analysts alike scratching their heads, Elon Musk, the mercurial CEO of X (formerly Twitter), has made an unsolicited offer to purchase the entire nation of Brazil for a staggering $4.2 trillion.`,
+
+            `The surprise bid comes on the heels of X's decision to cease operations in the South American country due to ongoing legal battles with Brazilian authorities over content moderation.`,
+
+            `"Why argue with one judge when you can be the whole judiciary?" Musk tweeted late last night, attaching a hastily photoshopped image of himself wearing a crown fashioned from the Brazilian flag.`,
+
+            `Sources close to the matter report that Musk's offer includes plans to rename the country "Xzil" and establish a new form of government he's dubbed a "memocracy," where national policies are determined by the most viral posts on the X platform.`,
+
+            `Brazilian President Luiz Inácio Lula da Silva responded to the offer with visible confusion during an emergency press conference. "I'm not entirely sure Mr. Musk understands how countries work," he stated, visibly perplexed. "We're not a publicly traded company. You can't just... buy us."`,
+
+            `Undeterred, Musk doubled down on his proposal, promising to "Make Social Media Great Again" by turning the entire nation into a "free speech zone" where content moderation laws would be determined by a council of his choosing, primarily composed of his most ardent Twitter followers and several high-profile podcasters.`,
+
+            `The audacious bid has sent shockwaves through the international community. U.S. Secretary of State Antony Blinken issued a terse statement, reminding Musk that "nations are not NFTs" and urging him to "please, for the love of God, focus on making electric cars."`,
+
+            `Meanwhile, X's stock price surged 20% on the news, with some analysts speculating that Musk's outlandish behavior might actually be a clever ploy to distract from the company's recent financial woes.`,
+
+            `As of press time, Musk had sweetened his offer by promising to personally oversee the completion of Rio de Janeiro's long-delayed subway expansion project, vowing to have "hyperloop pods running under Copacabana by 2025, guaranteed."`,
+
+            `Brazilian citizens have responded to the proposal with a mix of bemusement and resignation. Local X user @SambaLover22 summed up the national mood: "At this point, why not? Can't be worse than our current politicians."`,
+        ]
+    },*/
+    /*{
+        id: 100,
+        articleUrl: `20240821-microsofts-new-snitch`,
+        category: `tech`,
+        img: `/images/20240821-microsofts-new-snitch.webp`,
+        alt: `A middle-aged suburbanite peering suspiciously over a fence with binoculars, wearing "Neighborhood OS Watch" t-shirt`,
+        header: `Microsoft's New Snitch Program Turns Neighborhoods into OS Warzones`,
+        subhead: `Redmond Giant Encourages Users to Report Windows 11 Requirement Dodgers`,
+        tags: [`Microsoft`, `Windows 11`],
+        author: `Et Al`,
+        datePublished: new Date(2024,7,21,10),
+        articleBody: [
+            `In a move that's raising eyebrows and fostering paranoia across suburbia, Microsoft has launched its controversial "Neighborhood OS Watch" program. The initiative, aimed at cracking down on users circumventing Windows 11's strict system requirements, encourages citizens to report suspected digital dissidents in their community.`,
+
+            `"We believe in the power of community policing," said Sarah Hartman, Microsoft's newly appointed Chief of Upgrade Enforcement. "Who better to spot a non-compliant PC than the nosy neighbor who's already peeking through your curtains?"`,
+
+            `The program offers enticing rewards for successful tips, ranging from exclusive Windows 11 themes to the coveted "I Ratted Out My Neighbor and All I Got Was This Lousy Wallpaper" desktop background.`,
+
+            `Local IT professional Mark Chen found himself at the center of a neighborhood dispute after his next-door neighbor reported him for running Windows 11 on a 7th-gen Intel processor. "I was just trying to play Minesweeper," Chen protested as he was led away by Microsoft's rapid response team, officially known as the Windows Update Enforcement Division (WUED).`,
+
+            `The program has led to some unexpected consequences. In the quiet suburb of Oakville, block parties have been replaced by "PC inspection parties," where residents gather to scrutinize each other's system specifications over potluck dinners.`,
+
+            `"It's brought us all closer together," said HOA president Karen Whitfield, her eyes darting suspiciously between her neighbors' windows. "Nothing unites a community like collective distrust and the threat of software non-compliance."`,
+
+            `Critics argue the program is creating a climate of fear and division. "I used to borrow sugar from my neighbors," lamented retired teacher Bob Garfield. "Now I'm afraid they'll report me for running an unsupported CPU. Is this the world we want to live in?"`,
+
+            `Microsoft remains undeterred. "We're not just selling an operating system," Hartman declared. "We're cultivating a culture of vigilance, one overzealous report at a time."`,
+
+            `As the sun sets on another day in Anytown, USA, the soft glow of computer screens illuminates living rooms – each a potential battleground in Microsoft's war on Windows 11 piracy. In this brave new world, the question on everyone's mind is no longer "Can you spare a cup of sugar?" but "Is your PC TPM 2.0 compliant?"`,
         ]
     },*/
 ]
