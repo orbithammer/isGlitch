@@ -2476,7 +2476,7 @@ export const articlesData = [
         articleUrl: `20240820-tesla-shareholders-rebrand`,
         category: `tech`,
         img: `/images/20240820-tesla-shareholders-rebrand.webp`,
-        alt: `A mock-up of a Brazilian passport with "Xzil Passport" printed on the cover`,
+        alt: `A group of Tesla shareholders holding a banner with "Please Don't Sell Our Stock, Elon, Inc." on it`,
         header: `Tesla Shareholders Rebrand Company in Desperate Plea to CEO`,
         subhead: `Investors hope new name will discourage Musk from further stock sales`,
         tags: [`Twitter`, `Tesla`, `Elon Musk`],
