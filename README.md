@@ -90,7 +90,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact
 
 - **Project Maintainer**: [orbithammer](https://github.com/orbithammer)
-- **Email**: brockpenner+github@protonmail.com (replace with actual contact email)
+- **Email**: brockpenner+github@protonmail.com 
 
 Feel free to reach out if you have any questions, suggestions, or just want to say hello!
 

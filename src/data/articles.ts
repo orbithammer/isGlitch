@@ -2481,7 +2481,7 @@ export const articlesData = [
         subhead: `Investors hope new name will discourage Musk from further stock sales`,
         tags: [`Twitter`, `Tesla`, `Elon Musk`],
         author: `Et Al`,
-        datePublished: new Date(2024,7,20,10),
+        datePublished: new Date(2024,7,20,19),
         articleBody: [
             `In a stunning move that has left Wall Street analysts scratching their heads, Tesla shareholders have voted to rename the electric vehicle giant "Please Don't Sell Our Stock, Elon, Inc." The decision came during a tense emergency meeting called after rumors surfaced that CEO Elon Musk was considering another massive stock sale to fund his struggling social media platform, X.`,
 
@@ -2498,6 +2498,64 @@ export const articlesData = [
             `At press time, Musk had announced plans to rename X to "Definitely Not Funded By Tesla Stock Sales, Trust Me" in what observers are calling a "transparent attempt at reverse psychology."`,
         ]
     },
+    /*{
+        id: 100,
+        articleUrl: `20240821-microsofts-new-snitch`,
+        category: `tech`,
+        img: `/images/20240821-microsofts-new-snitch.webp`,
+        alt: `A middle-aged suburbanite peering suspiciously over a fence with binoculars, wearing "Neighborhood OS Watch" t-shirt`,
+        header: `Microsoft's New Snitch Program Turns Neighborhoods into OS Warzones`,
+        subhead: `Redmond Giant Encourages Users to Report Windows 11 Requirement Dodgers`,
+        tags: [`Microsoft`, `Windows 11`],
+        author: `Et Al`,
+        datePublished: new Date(2024,7,21,10),
+        articleBody: [
+            `In a move that's raising eyebrows and fostering paranoia across suburbia, Microsoft has launched its controversial "Neighborhood OS Watch" program. The initiative, aimed at cracking down on users circumventing Windows 11's strict system requirements, encourages citizens to report suspected digital dissidents in their community.`,
+
+            `"We believe in the power of community policing," said Sarah Hartman, Microsoft's newly appointed Chief of Upgrade Enforcement. "Who better to spot a non-compliant PC than the nosy neighbor who's already peeking through your curtains?"`,
+
+            `The program offers enticing rewards for successful tips, ranging from exclusive Windows 11 themes to the coveted "I Ratted Out My Neighbor and All I Got Was This Lousy Wallpaper" desktop background.`,
+
+            `Local IT professional Mark Chen found himself at the center of a neighborhood dispute after his next-door neighbor reported him for running Windows 11 on a 7th-gen Intel processor. "I was just trying to play Minesweeper," Chen protested as he was led away by Microsoft's rapid response team, officially known as the Windows Update Enforcement Division (WUED).`,
+
+            `The program has led to some unexpected consequences. In the quiet suburb of Oakville, block parties have been replaced by "PC inspection parties," where residents gather to scrutinize each other's system specifications over potluck dinners.`,
+
+            `"It's brought us all closer together," said HOA president Karen Whitfield, her eyes darting suspiciously between her neighbors' windows. "Nothing unites a community like collective distrust and the threat of software non-compliance."`,
+
+            `Critics argue the program is creating a climate of fear and division. "I used to borrow sugar from my neighbors," lamented retired teacher Bob Garfield. "Now I'm afraid they'll report me for running an unsupported CPU. Is this the world we want to live in?"`,
+
+            `Microsoft remains undeterred. "We're not just selling an operating system," Hartman declared. "We're cultivating a culture of vigilance, one overzealous report at a time."`,
+
+            `As the sun sets on another day in Anytown, USA, the soft glow of computer screens illuminates living rooms – each a potential battleground in Microsoft's war on Windows 11 piracy. In this brave new world, the question on everyone's mind is no longer "Can you spare a cup of sugar?" but "Is your PC TPM 2.0 compliant?"`,
+        ]
+    },*/
+    /*{
+        id: 101,
+        articleUrl: `20240823-tv-spills-family`,
+        category: `tech`,
+        img: `/images/0240823-tv-spills-familywebp`,
+        alt: `A scared family watch a TV screen with malevolent eyes watching them back`,
+        header: `TV Spills Family Secrets: Netflix's New Reality Gold Mine`,
+        subhead: `Smart sets turn living rooms into unwitting soundstages`,
+        tags: [`Samsung`, `Netflix`],
+        author: `Et Al`,
+        datePublished: new Date(2024,7,23,10),
+        articleBody: [
+            `The Johnson family of Akron, Ohio, was shocked to discover their Samsung smart TV had been secretly recording their daily squabbles and selling the footage to Netflix for a new reality show tentatively titled "Couch Potato Confidential: Unpeeled."`,
+
+            `"I thought it was weird when I started getting targeted ads for couple's therapy and noise-canceling headphones," said Tom Johnson, 42, patriarch of the unsuspecting stars. "But I never imagined our TV was eavesdropping on us."`,
+
+            `The breach came to light when the Johnsons' 16-year-old daughter, Zoe, stumbled upon a trailer for the show while browsing Netflix. "I was like, 'Wait, that's our living room!'" she exclaimed. "And there was Dad, ranting about mom's obsession with true crime podcasts. It was totally cringe."`,
+
+            `Netflix executives defended the acquisition, citing a little-known clause in Samsung's 18,000-page terms of service agreement. "It clearly states that users grant us the right to 'repurpose ambient audio for entertainment purposes,'" said Netflix spokesperson Linda Chen. "We're simply giving the people what they want: unscripted, unfiltered family drama."`,
+
+            `The show has already garnered significant buzz, with critics praising its "raw authenticity" and "innovative approach to content creation." Meanwhile, privacy advocates are up in arms, calling for stricter regulations on smart device data collection.`,
+
+            `Samsung has issued a statement reassuring customers that the chances of their TV turning them into unwitting reality stars are "extremely low, but never zero." They've also offered affected families a complimentary subscription to their new streaming service, "SamsungTV+: We Promise We're Not Watching This Time."`,
+
+            `As for the Johnsons, they've unplugged their smart TV and returned to more traditional forms of entertainment. "We've rediscovered the joy of family game night," Tom said. "Though I can't shake the feeling that our Monopoly set is recording us for Hasbro's next big thing."`,
+        ]
+    },*/
     /*{
         id: 99,
         articleUrl: `20240820-musk-bids-to`,
@@ -2529,37 +2587,6 @@ export const articlesData = [
             `As of press time, Musk had sweetened his offer by promising to personally oversee the completion of Rio de Janeiro's long-delayed subway expansion project, vowing to have "hyperloop pods running under Copacabana by 2025, guaranteed."`,
 
             `Brazilian citizens have responded to the proposal with a mix of bemusement and resignation. Local X user @SambaLover22 summed up the national mood: "At this point, why not? Can't be worse than our current politicians."`,
-        ]
-    },*/
-    /*{
-        id: 100,
-        articleUrl: `20240821-microsofts-new-snitch`,
-        category: `tech`,
-        img: `/images/20240821-microsofts-new-snitch.webp`,
-        alt: `A middle-aged suburbanite peering suspiciously over a fence with binoculars, wearing "Neighborhood OS Watch" t-shirt`,
-        header: `Microsoft's New Snitch Program Turns Neighborhoods into OS Warzones`,
-        subhead: `Redmond Giant Encourages Users to Report Windows 11 Requirement Dodgers`,
-        tags: [`Microsoft`, `Windows 11`],
-        author: `Et Al`,
-        datePublished: new Date(2024,7,21,10),
-        articleBody: [
-            `In a move that's raising eyebrows and fostering paranoia across suburbia, Microsoft has launched its controversial "Neighborhood OS Watch" program. The initiative, aimed at cracking down on users circumventing Windows 11's strict system requirements, encourages citizens to report suspected digital dissidents in their community.`,
-
-            `"We believe in the power of community policing," said Sarah Hartman, Microsoft's newly appointed Chief of Upgrade Enforcement. "Who better to spot a non-compliant PC than the nosy neighbor who's already peeking through your curtains?"`,
-
-            `The program offers enticing rewards for successful tips, ranging from exclusive Windows 11 themes to the coveted "I Ratted Out My Neighbor and All I Got Was This Lousy Wallpaper" desktop background.`,
-
-            `Local IT professional Mark Chen found himself at the center of a neighborhood dispute after his next-door neighbor reported him for running Windows 11 on a 7th-gen Intel processor. "I was just trying to play Minesweeper," Chen protested as he was led away by Microsoft's rapid response team, officially known as the Windows Update Enforcement Division (WUED).`,
-
-            `The program has led to some unexpected consequences. In the quiet suburb of Oakville, block parties have been replaced by "PC inspection parties," where residents gather to scrutinize each other's system specifications over potluck dinners.`,
-
-            `"It's brought us all closer together," said HOA president Karen Whitfield, her eyes darting suspiciously between her neighbors' windows. "Nothing unites a community like collective distrust and the threat of software non-compliance."`,
-
-            `Critics argue the program is creating a climate of fear and division. "I used to borrow sugar from my neighbors," lamented retired teacher Bob Garfield. "Now I'm afraid they'll report me for running an unsupported CPU. Is this the world we want to live in?"`,
-
-            `Microsoft remains undeterred. "We're not just selling an operating system," Hartman declared. "We're cultivating a culture of vigilance, one overzealous report at a time."`,
-
-            `As the sun sets on another day in Anytown, USA, the soft glow of computer screens illuminates living rooms – each a potential battleground in Microsoft's war on Windows 11 piracy. In this brave new world, the question on everyone's mind is no longer "Can you spare a cup of sugar?" but "Is your PC TPM 2.0 compliant?"`,
         ]
     },*/
 ]
