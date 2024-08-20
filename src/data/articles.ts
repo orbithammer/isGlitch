@@ -2471,6 +2471,33 @@ export const articlesData = [
             `When pressed for comment, Google's PR team released a statement reading simply: "The Pixel is love. The Pixel is life. Resistance is futile."`,
         ]
     },
+    {
+        id: 99,
+        articleUrl: `20240820-tesla-shareholders-rebrand`,
+        category: `tech`,
+        img: `/images/20240820-tesla-shareholders-rebrand.webp`,
+        alt: `A mock-up of a Brazilian passport with "Xzil Passport" printed on the cover`,
+        header: `Tesla Shareholders Rebrand Company in Desperate Plea to CEO`,
+        subhead: `Investors hope new name will discourage Musk from further stock sales`,
+        tags: [`Twitter`, `Tesla`, `Elon Musk`],
+        author: `Et Al`,
+        datePublished: new Date(2024,7,20,10),
+        articleBody: [
+            `In a stunning move that has left Wall Street analysts scratching their heads, Tesla shareholders have voted to rename the electric vehicle giant "Please Don't Sell Our Stock, Elon, Inc." The decision came during a tense emergency meeting called after rumors surfaced that CEO Elon Musk was considering another massive stock sale to fund his struggling social media platform, X.`,
+
+            `The rebranding, which passed with a narrow 51% majority, was proposed by longtime Tesla investor and Musk devotee, Sarah Caldwell. "We've tried everything else," Caldwell explained, visibly exhausted. "Strongly worded letters, Twitter campaigns, even skywriting 'We love you, Elon' above the Gigafactory. This was our last resort."`,
+
+            `The company's new unwieldy name will be abbreviated as PDSOSE on stock tickers, prompting confusion among traders and algorithm-based trading systems alike. Tesla's head of investor relations, Marcus Chen, attempted to put a positive spin on the situation: "We believe this name change accurately reflects our company's core mission of... well, begging our CEO not to tank our stock price again."`,
+
+            `Musk, who was absent from the shareholder meeting due to what his assistant described as "urgent meme-creation duties," responded to the news via a cryptic tweet: "What's in a name? That which we call a rose by any other name would smell as sweet... or cost $8/month for verification."`,
+
+            `Financial analyst Rebecca Torres of Goldberg Sachs expressed concern about the move. "While I appreciate the shareholders' creativity, I'm not sure this strategy will be effective. It's like trying to stop a charging bull with a Post-it note."`,
+
+            `As news of the rebranding spread, competing automakers wasted no time capitalizing on the situation. Ford quickly trademarked the slogan "Our CEO Doesn't Even Know What Twitter Is," while GM launched a new ad campaign featuring the tagline "Stability: It's Electric."`,
+
+            `At press time, Musk had announced plans to rename X to "Definitely Not Funded By Tesla Stock Sales, Trust Me" in what observers are calling a "transparent attempt at reverse psychology."`,
+        ]
+    },
     /*{
         id: 99,
         articleUrl: `20240820-musk-bids-to`,
