@@ -2498,7 +2498,7 @@ export const articlesData = [
             `At press time, Musk had announced plans to rename X to "Definitely Not Funded By Tesla Stock Sales, Trust Me" in what observers are calling a "transparent attempt at reverse psychology."`,
         ]
     },
-    /*{
+    {
         id: 100,
         articleUrl: `20240821-microsofts-new-snitch`,
         category: `tech`,
@@ -2522,13 +2522,13 @@ export const articlesData = [
 
             `"It's brought us all closer together," said HOA president Karen Whitfield, her eyes darting suspiciously between her neighbors' windows. "Nothing unites a community like collective distrust and the threat of software non-compliance."`,
 
-            `Critics argue the program is creating a climate of fear and division. "I used to borrow sugar from my neighbors," lamented retired teacher Bob Garfield. "Now I'm afraid they'll report me for running an unsupported CPU. Is this the world we want to live in?"`,
+            `Critics argue the program is creating a climate of fear and division. " used to ask my neighbors to borrow a cup of flour for my Windows 11-compatible baking," lamented retired teacher Bob Garfield. "Now I'm afraid they'll report me for running an unsupported CPU. Is this the world we want to live in?"`,
 
             `Microsoft remains undeterred. "We're not just selling an operating system," Hartman declared. "We're cultivating a culture of vigilance, one overzealous report at a time."`,
 
             `As the sun sets on another day in Anytown, USA, the soft glow of computer screens illuminates living rooms – each a potential battleground in Microsoft's war on Windows 11 piracy. In this brave new world, the question on everyone's mind is no longer "Can you spare a cup of sugar?" but "Is your PC TPM 2.0 compliant?"`,
         ]
-    },*/
+    },
     /*{
         id: 101,
         articleUrl: `20240823-tv-spills-family`,
