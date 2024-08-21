@@ -152,7 +152,7 @@ const HomePage: React.FC = () => {
     const totalArticles = allArticles.length
     const totalPages = Math.ceil(totalArticles / articlesPerPage)
     navigateToNotFound(pageNumber, totalPages) 
-     
+     console.log("testing")
     useEffect(() => {
         setCurrentPage(parseInt(pageNumber || '1', 10))
     }, [pageNumber])
