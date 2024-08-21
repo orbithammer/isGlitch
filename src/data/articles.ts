@@ -2529,7 +2529,7 @@ export const articlesData = [
             `As the sun sets on another day in Anytown, USA, the soft glow of computer screens illuminates living rooms – each a potential battleground in Microsoft's war on Windows 11 piracy. In this brave new world, the question on everyone's mind is no longer "Can you spare a cup of sugar?" but "Is your PC TPM 2.0 compliant?"`,
         ]
     },
-    /*{
+    {
         id: 101,
         articleUrl: `20240822-tv-spills-family`,
         category: `tech`,
@@ -2556,7 +2556,7 @@ export const articlesData = [
             `As for the Johnsons, they've unplugged their smart TV and returned to more traditional forms of entertainment. "We've rediscovered the joy of family game night," Tom said. "Though I can't shake the feeling that our Monopoly set is recording us for Hasbro's next big thing."`,
         ]
     },
-    {
+    /*{
         id: 102,
         articleUrl: `20240823-musk-bids-to`,
         category: `tech`,
