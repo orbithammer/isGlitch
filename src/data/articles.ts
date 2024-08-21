@@ -2531,15 +2531,15 @@ export const articlesData = [
     },
     /*{
         id: 101,
-        articleUrl: `20240823-tv-spills-family`,
+        articleUrl: `20240822-tv-spills-family`,
         category: `tech`,
-        img: `/images/0240823-tv-spills-familywebp`,
+        img: `/images/0240822-tv-spills-family.webp`,
         alt: `A scared family watch a TV screen with malevolent eyes watching them back`,
         header: `TV Spills Family Secrets: Netflix's New Reality Gold Mine`,
         subhead: `Smart sets turn living rooms into unwitting soundstages`,
         tags: [`Samsung`, `Netflix`],
         author: `Et Al`,
-        datePublished: new Date(2024,7,23,10),
+        datePublished: new Date(2024,7,22,10),
         articleBody: [
             `The Johnson family of Akron, Ohio, was shocked to discover their Samsung smart TV had been secretly recording their daily squabbles and selling the footage to Netflix for a new reality show tentatively titled "Couch Potato Confidential: Unpeeled."`,
 
@@ -2555,18 +2555,18 @@ export const articlesData = [
 
             `As for the Johnsons, they've unplugged their smart TV and returned to more traditional forms of entertainment. "We've rediscovered the joy of family game night," Tom said. "Though I can't shake the feeling that our Monopoly set is recording us for Hasbro's next big thing."`,
         ]
-    },*/
-    /*{
-        id: 99,
-        articleUrl: `20240820-musk-bids-to`,
+    },
+    {
+        id: 102,
+        articleUrl: `20240823-musk-bids-to`,
         category: `tech`,
-        img: `/images/20240820-musk-bids-to.webp`,
+        img: `/images/20240823-musk-bids-to.webp`,
         alt: `A mock-up of a Brazilian passport with "Xzil Passport" printed on the cover`,
         header: `Musk Bids to Buy Brazil, Rename It 'Xzil' in Social Media Takeover`,
         subhead: `Tech billionaire's latest acquisition attempt raises eyebrows and international concerns`,
         tags: [`Twitter`, `Elon Musk`],
         author: `Et Al`,
-        datePublished: new Date(2024,7,20,10),
+        datePublished: new Date(2024,7,23,10),
         articleBody: [
             `In a move that has left diplomats and tech analysts alike scratching their heads, Elon Musk, the mercurial CEO of X (formerly Twitter), has made an unsolicited offer to purchase the entire nation of Brazil for a staggering $4.2 trillion.`,
 
@@ -2587,6 +2587,68 @@ export const articlesData = [
             `As of press time, Musk had sweetened his offer by promising to personally oversee the completion of Rio de Janeiro's long-delayed subway expansion project, vowing to have "hyperloop pods running under Copacabana by 2025, guaranteed."`,
 
             `Brazilian citizens have responded to the proposal with a mix of bemusement and resignation. Local X user @SambaLover22 summed up the national mood: "At this point, why not? Can't be worse than our current politicians."`,
+        ]
+    },
+    {
+        id: 103,
+        articleUrl: `20240824-counterfeiting-is-the`,
+        category: `tech`,
+        img: `/images/20240824-counterfeiting-is-the.webp`,
+        alt: `A side-by-side with a dress on the left labeled "cheap crap" with a nearly identical dress on the right labeled "cheaper knockoff"`,
+        header: `'Counterfeiting is the Sincerest Form of Flattery,' Says Temu CEO in Defense of Lawsuit`,
+        subhead: `Temu Founder Claims Copyright Imitation is Just High Praise for Shein's Trendsetting`,
+        tags: [`Temu`, `Shein`],
+        author: `Et Al`,
+        datePublished: new Date(2024,7,24,10),
+        articleBody: [
+            `Temu CEO Chen Lei has defended his company's alleged copyright infringement, stating that "counterfeiting is the sincerest form of flattery" when it comes to Shein's trendsetting fashion designs.`,
+
+            `The comments come as part of Temu's response to a scathing lawsuit filed by Shein, which accuses the upstart retailer of being "an unlawful enterprise built on counterfeiting, theft of trade secrets, infringement of intellectual property rights, and fraud."`,
+
+            `"Look, we're just paying homage to Shein's incredible ability to spot the latest fast fashion crazes and get those cheap, trendy items on the market before anyone else," Chen told reporters during a hastily called press conference. "If anything, we're helping them by spreading their influence even further."`,
+
+            `Chen went on to argue that Temu's "copycat" products were simply a form of flattery, explaining that "imitation is the sincerest form of flattery that mediocrity can pay to greatness."`,
+
+            `When pressed on the specifics of Shein's allegations, including claims that Temu had "pretended to be Shein on Twitter" and used the brand's trademark in Google ads, Chen dismissed them as minor oversights.`,
+
+            `"Sure, maybe we got a bit carried away with our marketing tactics," he conceded. "But at the end of the day, we're just trying to provide consumers with the same type of dirt-cheap, questionably-sourced fashion that Shein has pioneered. It's all part of the same race to the bottom, really."`,
+
+            `Chen concluded his remarks by urging Shein to view the lawsuit as a "sincere form of flattery" and to instead focus its efforts on staying ahead of the curve in the fast-moving world of ultra-cheap online retail.`,
+
+            `"After all," he said with a wink, "the greatest trick the devil ever pulled was convincing the world he didn't exist. And we all know how that one turned out."`,
+        ]
+    },
+    {
+        id: 104,
+        articleUrl: `20240825-local-prankster-hacks`,
+        category: `tech`,
+        img: `/images/20240825-local-prankster-hacks.webp`,
+        alt: `Someone holding up a picture of an empty shopping aisle to a CCTV camera, a busy aisle in the background`,
+        header: `Local Prankster Hacks Kroger's Price-Gouging AI, Triggers City-Wide Discount Bonanza`,
+        subhead: `Clever Shopper Exploits 'Empty Aisle' Loophole for Massive Savings`,
+        tags: [`Kroger's`, `Surveillance`],
+        author: `Et Al`,
+        datePublished: new Date(2024,7,25,10),
+        articleBody: [
+            `Local prankster Jamal Wilkins has managed to outsmart Kroger's vaunted "AI-powered dynamic pricing" system, sending shockwaves through the retail giant and delighting bargain-hunters across the city. In a stunning display of digital civil disobedience, Wilkins discovered a novel way to game Kroger's camera-equipped "smart shelves" – by strategically placing cardboard cutouts of empty aisles around the store.`,
+
+            `"Those AI cameras are all about detecting 'demand,'" Wilkins explained, with a mischievous grin. "So I figured, if they think the aisles are empty, they'll have to lower prices to drive sales, right?"`,
+
+            `Sure enough, the ruse worked like a charm. Within minutes of Wilkins deploying his cardboard cutout army, Kroger's prices began plummeting across the board – with discounts of up to 50% on everything from produce to pet supplies.`,
+
+            `"I watched in awe as the digital price tags started rapidly cycling downwards," said shopper Samantha Chen. "One minute, a bag of chips was $4.99, the next it was 99 cents. I've never seen anything like it!"`,
+
+            `Kroger's AI-powered "dynamic pricing" system, which the company insists is designed to "delight customers," was clearly outmatched by Wilkins' low-tech trickery. Frantic calls to the corporate office went unanswered as panicked managers scrambled to identify and remove the cardboard culprits.`,
+
+            `"This is an absolute travesty," fumed Kroger CEO Rodney McMullen. "Our cutting-edge AI is supposed to maximize profits, not get hacked by some joker and his cardboard cutouts. I demand a full investigation – and restitution!"`,
+
+            `But for savvy shoppers like Wilkins, the temporary glitch in Kroger's Matrix-like pricing algorithm was nothing short of a digital Christmas miracle.`,
+
+            `"I cleaned them out of nearly everything – dog food, paper towels, even those fancy artisanal pickles," Wilkins boasted. "At these prices, I can stock up my entire pantry for the next six months."`,
+
+            `Kroger has vowed to "redouble" its efforts to secure its AI-powered pricing systems, while Wilkins has already begun planning his next big exploit. `,
+
+            `"Who knows, maybe I'll try rigging up some kind of 'invisible customer' sensor next time," he mused. "The possibilities are endless when you're fighting corporate greed with cardboard and duct tape."`,          
         ]
     },*/
 ]
