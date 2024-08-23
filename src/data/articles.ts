@@ -2556,7 +2556,7 @@ export const articlesData = [
             `As for the Johnsons, they've unplugged their smart TV and returned to more traditional forms of entertainment. "We've rediscovered the joy of family game night," Tom said. "Though I can't shake the feeling that our Monopoly set is recording us for Hasbro's next big thing."`,
         ]
     },
-    /*{
+    {
         id: 102,
         articleUrl: `20240823-musk-bids-to`,
         category: `tech`,
@@ -2589,7 +2589,7 @@ export const articlesData = [
             `Brazilian citizens have responded to the proposal with a mix of bemusement and resignation. Local X user @SambaLover22 summed up the national mood: "At this point, why not? Can't be worse than our current politicians."`,
         ]
     },
-    {
+    /*{
         id: 103,
         articleUrl: `20240824-counterfeiting-is-the`,
         category: `tech`,
