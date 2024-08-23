@@ -2589,7 +2589,7 @@ export const articlesData = [
             `Brazilian citizens have responded to the proposal with a mix of bemusement and resignation. Local X user @SambaLover22 summed up the national mood: "At this point, why not? Can't be worse than our current politicians."`,
         ]
     },
-    /*{
+    {
         id: 103,
         articleUrl: `20240824-counterfeiting-is-the`,
         category: `tech`,
@@ -2618,7 +2618,7 @@ export const articlesData = [
             `"After all," he said with a wink, "the greatest trick the devil ever pulled was convincing the world he didn't exist. And we all know how that one turned out."`,
         ]
     },
-    {
+    /*{
         id: 104,
         articleUrl: `20240825-local-prankster-hacks`,
         category: `tech`,
