@@ -2618,7 +2618,7 @@ export const articlesData = [
             `"After all," he said with a wink, "the greatest trick the devil ever pulled was convincing the world he didn't exist. And we all know how that one turned out."`,
         ]
     },
-    /*{
+    {
         id: 104,
         articleUrl: `20240825-local-prankster-hacks`,
         category: `tech`,
@@ -2636,7 +2636,7 @@ export const articlesData = [
 
             `Sure enough, the ruse worked like a charm. Within minutes of Wilkins deploying his cardboard cutout army, Kroger's prices began plummeting across the board – with discounts of up to 50% on everything from produce to pet supplies.`,
 
-            `"I watched in awe as the digital price tags started rapidly cycling downwards," said shopper Samantha Chen. "One minute, a bag of chips was $4.99, the next it was 99 cents. I've never seen anything like it!"`,
+            `"I watched in awe as the digital price tags started rapidly cycling downwards," said shopper Samantha Kishori. "One minute, a bag of chips was $4.99, the next it was 99 cents. I've never seen anything like it!"`,
 
             `Kroger's AI-powered "dynamic pricing" system, which the company insists is designed to "delight customers," was clearly outmatched by Wilkins' low-tech trickery. Frantic calls to the corporate office went unanswered as panicked managers scrambled to identify and remove the cardboard culprits.`,
 
@@ -2650,5 +2650,5 @@ export const articlesData = [
 
             `"Who knows, maybe I'll try rigging up some kind of 'invisible customer' sensor next time," he mused. "The possibilities are endless when you're fighting corporate greed with cardboard and duct tape."`,          
         ]
-    },*/
+    },
 ]
