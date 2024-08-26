@@ -2533,7 +2533,7 @@ export const articlesData = [
         id: 101,
         articleUrl: `20240822-tv-spills-family`,
         category: `tech`,
-        img: `/images/0240822-tv-spills-family.webp`,
+        img: `/images/20240822-tv-spills-family.webp`,
         alt: `A scared family watch a TV screen with malevolent eyes watching them back`,
         header: `TV Spills Family Secrets: Netflix's New Reality Gold Mine`,
         subhead: `Smart sets turn living rooms into unwitting soundstages`,
@@ -2649,6 +2649,37 @@ export const articlesData = [
             `Kroger has vowed to "redouble" its efforts to secure its AI-powered pricing systems, while Wilkins has already begun planning his next big exploit. `,
 
             `"Who knows, maybe I'll try rigging up some kind of 'invisible customer' sensor next time," he mused. "The possibilities are endless when you're fighting corporate greed with cardboard and duct tape."`,          
+        ]
+    },
+    {
+        id: 105,
+        articleUrl: `20240826-boeing-unveils-starliner`,
+        category: `tech`,
+        img: `/images/20240826-boeing-unveils-starliner.webp`,
+        alt: `A realistic spaceship promotional poster with  "50% Off Reliability!", explosion in background`,
+        header: `Boeing Unveils 'Starliner Lite': A New Era in Budget Space Travel`,
+        subhead: `Thruster failures now a feature, not a bug, says executive`,
+        tags: [`Boeing`],
+        author: `Et Al`,
+        datePublished: new Date(2024,7,26,16),
+        articleBody: [
+            `Boeing stunned the aerospace industry today with the launch of "Starliner Lite," a stripped-down version of its beleaguered spacecraft that promises to revolutionize budget space travel. The move, simultaneously baffling and amusing observers, marks a dramatic shift in the company's approach to cosmic transportation.`,
+
+            `"We've listened to our customers," said Sarah Jameson, Boeing's newly appointed Chief of Cosmic Cost-Cutting. "They wanted less thruster reliability, and by God, we're giving it to them."`,
+
+            `The Starliner Lite boasts an impressive array of cost-saving features, including "occasional orbit maintenance," "mostly functional life support," and what Boeing calls "gravitational roulette" – a thrilling game where astronauts bet on which thrusters will fire during crucial maneuvers.`,
+
+            `"Who needs all thrusters working all the time?" Jameson asked rhetorically during the press conference. "That's just wasteful. Our new motto is 'Two out of four ain't bad.'"`,
+
+            `The company has also introduced a novel "DIY Repair Kit" consisting of duct tape, a Swiss Army knife, and a user manual cheerfully titled "So Your Thrusters Failed: Now What?"`,
+
+            `NASA administrator Bill Nelson, visibly twitching, stated, "We're... excited about this innovative approach to space travel. It certainly keeps us on our toes."`,
+
+            `When asked about safety concerns, Jameson waved them off. "Look, we're just adapting to market demands. SpaceX has cornered the 'reliable space taxi' market, so we're pivoting to 'space adventure tourism.' It's like a cosmic roller coaster – you never know what'll happen next!"`,
+
+            `The first Starliner Lite mission, dubbed "Fingers Crossed-1," is scheduled for next spring. Astronaut volunteers are currently being screened based on their improvisational skills, risk tolerance, and proficiency with duct tape.`,
+
+            `As Jameson concluded the press conference, a model of the Starliner Lite dramatically lost a thruster and veered off the stage, crashing into the front row of journalists. "See? Working exactly as intended!" she beamed, before being hurried off by her PR team.`,          
         ]
     },
 ]
