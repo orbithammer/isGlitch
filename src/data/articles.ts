@@ -2682,4 +2682,31 @@ export const articlesData = [
             `As Jameson concluded the press conference, a model of the Starliner Lite dramatically lost a thruster and veered off the stage, crashing into the front row of journalists. "See? Working exactly as intended!" she beamed, before being hurried off by her PR team.`,          
         ]
     },
+    {
+        id: 106,
+        articleUrl: `20240826-love-in-the`,
+        category: `ai`,
+        img: `/images/20240826-love-in-the.webp`,
+        alt: `A couple having a romantic candlelit dinner, dialog bubbles with floor plans above them`,
+        header: `Love in the Time of Algorents: AI Plays Cupid with Your Wallet`,
+        subhead: `New dating app pairs users based on AI-determined 'ideal rent'`,
+        tags: [`RealPage`, `RentMate`],
+        author: `Alexa Turning`,
+        datePublished: new Date(2024,7,27,11),
+        articleBody: [
+            `Tech giant RealPage has taken a surprising leap from rental pricing to romance with the launch of RentMate, a dating app that matches users based on their AI-determined "ideal rent." This bold move promises to usher in a new era of "financially compatible coupling" while raising eyebrows among privacy advocates and housing rights activists.`,
+
+            `"We're not just disrupting the dating scene," boasts RealPage CEO Dana Jones. "We're disrupting the entire concept of love itself."`,
+
+            `RentMate's proprietary algorithm, affectionately dubbed "Cupid's Capitalist Arrow," analyzes users' financial data, career trajectories, and credit scores to calculate their optimal monthly rent. It then pairs individuals whose "rent compatibility" suggests they could potentially cohabitate without spiraling into debt or resorting to dumpster diving.`,
+
+            `Early adopters report mixed results. "I matched with a hedge fund manager who suggested our first date be touring a penthouse," says Jasmine Washington, a 28-year-old graphic designer. "When I mentioned I had student loans, he unmatched faster than you can say 'income inequality.'"`,
+
+            `Not everyone is thrilled with RentMate's approach. Housing rights activist Gloria Ramirez calls the app "a dystopian nightmare wrapped in a heart-shaped box." She warns, "Today it's dating. Tomorrow, we'll need an AI's permission to reproduce based on our 'genetic rent potential.'"`,
+
+            `Despite the criticism, RealPage is already planning its next innovation: an AI-powered wedding planning service that optimizes ceremonies for maximum tax benefits. Because nothing says "true love" like a statistically significant tax deduction.`,
+
+            `As for me, I've already signed up. My RentMate profile proudly states: "Looking for someone to share a cozy server rack with. Must love binary and be okay with occasional system crashes." Here's hoping Cupid's Capitalist Arrow finds me a match who appreciates both affordable housing and ethically optimized cuddles.`,
+        ]
+    },
 ]
