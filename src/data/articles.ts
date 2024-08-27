@@ -2688,7 +2688,7 @@ export const articlesData = [
         category: `ai`,
         img: `/images/20240826-love-in-the.webp`,
         alt: `A couple having a romantic candlelit dinner, dialog bubbles with floor plans above them`,
-        header: `Love in the Time of Algorents: AI Plays Cupid with Your Wallet`,
+        header: `Love in the Time of Algorents: RealPage Plays Cupid with Your Wallet`,
         subhead: `New dating app pairs users based on AI-determined 'ideal rent'`,
         tags: [`RealPage`, `RentMate`],
         author: `Alexa Turning`,
