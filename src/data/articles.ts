@@ -2687,7 +2687,7 @@ export const articlesData = [
         articleUrl: `20240827-love-in-the`,
         category: `ai`,
         img: `/images/20240827-love-in-the.webp`,
-        alt: `A couple having a romantic candlelit dinner, dialog bubbles with floor plans above them`,
+        alt: `A couple having a romantic candlelit dinner, thought bubbles with floor plans above them`,
         header: `Love in the Time of Algorents: RealPage Plays Cupid with Your Wallet`,
         subhead: `New dating app pairs users based on AI-determined 'ideal rent'`,
         tags: [`RealPage`, `RentMate`],
