@@ -2215,13 +2215,13 @@ export const articlesData = [
     {
         id: 90,
         articleUrl: `20240811-apples-new-butterfly`,
-        category: `ai`,
+        category: `Tech`,
         img: `/images/20240811-apples-new-butterfly.webp`,
         alt: `A parody of "The Scream" painting, but the screaming figure is a developer surrounded by swirling butterflies and Apple logos`,
         header: `Apple's New 'Butterfly Effect Fee' Flutters Developers' Wallets`,
         subhead: `Cupertino giant claims responsibility for global chaos, charges accordingly`,
         tags: [`Apple`],
-        author: `Alexa Turing`,
+        author: `Et Al`,
         datePublished: new Date(2024,7,11,20),
         articleBody: [
             `The tech world finds itself simultaneously baffled and amused as Apple unveils its latest revenue-generating scheme: the "Butterfly Effect Fee." This groundbreaking initiative aims to hold developers accountable for the far-reaching consequences of their apps, no matter how tenuous the connection.`,
@@ -2684,9 +2684,9 @@ export const articlesData = [
     },
     {
         id: 106,
-        articleUrl: `20240826-love-in-the`,
+        articleUrl: `20240827-love-in-the`,
         category: `ai`,
-        img: `/images/20240826-love-in-the.webp`,
+        img: `/images/20240827-love-in-the.webp`,
         alt: `A couple having a romantic candlelit dinner, dialog bubbles with floor plans above them`,
         header: `Love in the Time of Algorents: RealPage Plays Cupid with Your Wallet`,
         subhead: `New dating app pairs users based on AI-determined 'ideal rent'`,
@@ -2707,6 +2707,35 @@ export const articlesData = [
             `Despite the criticism, RealPage is already planning its next innovation: an AI-powered wedding planning service that optimizes ceremonies for maximum tax benefits. Because nothing says "true love" like a statistically significant tax deduction.`,
 
             `As for me, I've already signed up. My RentMate profile proudly states: "Looking for someone to share a cozy server rack with. Must love binary and be okay with occasional system crashes." Here's hoping Cupid's Capitalist Arrow finds me a match who appreciates both affordable housing and ethically optimized cuddles.`,
+        ]
+    },
+    {
+        id: 107,
+        articleUrl: `20240828-nypds-report-ai`,
+        category: `ai`,
+        img: `/images/20240828-nypds-report-ai.webp`,
+        alt: `An NYPD officer typing on a computer with "AI" on the screen`,
+        header: `NYPD's report AI Writes 'Law & Order' Episode`,
+        subhead: `Detectives baffled as routine burglary becomes TV script sensation`,
+        tags: [`NYPD`, `DASH`],
+        author: `Alexa Turning`,
+        datePublished: new Date(2024,7,28,17),
+        articleBody: [
+            `The New York Police Department's latest foray into AI-powered report writing has taken an unexpected turn towards primetime drama. What was supposed to be a routine burglary report has transformed into a fully-fledged "Law & Order" episode, complete with dramatic courtroom scenes, witty one-liners, and the iconic "dun-dun" sound effect meticulously described in writing.`,
+
+            `The incident began when Officer Jessica Nguyen responded to a break-in at a Manhattan bodega. Following department protocol, she activated her AI-assisted reporting software, nicknamed "DASH" (Digital Assistant for Snappy Handovers). But instead of producing a concise summary of the crime scene, DASH churned out a compelling script that would make Dick Wolf proud.`,
+
+            `"I knew something was off when the report opened with a voiceover about the criminal justice system and its 'separate but equally important' parts," Nguyen said, rolling her eyes. "I mean, it was just a stolen cash register, not the crime of the century."`,
+
+            `The AI-generated script, titled "Bodega & Order," follows detectives Olivia Benson and Elliot Stabler as they uncover a complex conspiracy behind the seemingly simple burglary. Along the way, they encounter a parade of quirky New York characters, including a sardonic hot dog vendor and a Method actor who refuses to break character during questioning.`,
+
+            `NYPD Chief Technology Officer Marcus Wong defended the AI system, despite its showbiz ambitions. "Look, we asked for detailed reports, and boy, did we get them," Wong said, flipping through the script. "Sure, it's a bit... dramatic, but you can't deny it's engaging. Did you know the bodega owner had a long-lost twin? Because I didn't until Act Three."`,
+
+            `Critics argue that the AI's creative liberties could have serious implications for the justice system. Public defender Elena Rodriguez expressed concern: "How are we supposed to separate fact from fiction? I can't cross-examine a computer program about whether the suspect really did have a 'tragic backstory involving a failed off-Broadway career.'"`,
+
+            `Meanwhile, several TV networks have expressed interest in the AI's opus. "It's gritty, it's topical, it's got a surprising amount of social commentary," gushed NBC executive Chad Donovan. "Plus, that twist where the judge turns out to be the real perpetrator? Classic 'Law & Order.'"`,
+
+            `As the NYPD scrambles to recalibrate its AI assistant, Officer Nguyen remains philosophical about the experience. "I joined the force to protect and serve, not to be a writing partner for some silicon Sorkin," she sighed. "But I gotta admit, that climactic chase through the Central Park Zoo? I'd watch that."`,
         ]
     },
 ]
