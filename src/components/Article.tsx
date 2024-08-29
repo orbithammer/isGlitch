@@ -283,7 +283,7 @@ const Article: React.FC = () => {
                 {tag}
             </StyledTag>
         ));
-
+        console.log("${window.location.origin}${article.img}", `${window.location.origin}${article.img}`)
         return (
             <>
                 <MetaTags 
