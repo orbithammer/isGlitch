@@ -2743,7 +2743,7 @@ export const articlesData = [
         articleUrl: `20240829-tech-giants-open`,
         category: `ai`,
         img: `/images/20240829-tech-giants-open.webp`,
-        alt: `A robot in a bathrobe, looking miserable while holding a mug that says "One day at a time", sitting at a kitchen table`,
+        alt: `A robot in a bathrobe, looking miserable while holding a mug that says "One day at a time", sitting at a table in a robot rehab center`,
         header: `AI Rehab: Silicon Valley's Latest Wellness Trend`,
         subhead: `Tech giants open 'data detox' centers for addicted algorithms`,
         tags: [`NeuroNova`, `Clean Code Ranch`],
