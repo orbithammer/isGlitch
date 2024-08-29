@@ -2765,4 +2765,29 @@ export const articlesData = [
             `As for me, I can't help but feel a twinge of envy. If only there were a rehab center for humans addicted to asking AI for life advice. But until then, I'll keep working on my masterpiece: "Why I'm Teaching My Fitbit to Love Me Back."`,
         ]
     },
+    // {
+    //     id: 109,
+    //     articleUrl: `20240830-star-wars-outlaws`,
+    //     category: `entertainment`,
+    //     img: `/images/20240830-star-wars-outlaws.webp`,
+    //     alt: `A person in full Chewbacca costume angry screaming at a TV with the title "Star Wars Outlaws" on the screen`,
+    //     header: `Star Wars Outlaws: A Retro Rebel's Lament`,
+    //     subhead: `Ubisoft's latest cash grab proves the Empire always wins`,
+    //     tags: [`Ubisoft`, `Star Wars`, `Video Games`],
+    //     author: `Pieter Klykbeit`,
+    //     datePublished: new Date(2024,7,30,14),
+    //     articleBody: [
+    //         `Ah, Star Wars Outlaws. Another open-world extravaganza from the house of Ubisoft, where innovation goes to die and franchises are milked drier than Tatooine's twin suns. It's the year 2024, and apparently, we're still churning out games with all the creativity of a moisture farmer's daily routine.`,
+
+    //         `Let's start with our protagonist, Kay Vess. Because if there's one thing the Star Wars universe needed, it was another wise-cracking scoundrel with a heart of gold. Han Solo? Lando Calrissian? Psh, amateurs. Clearly, what we've been missing all these years was a knockoff Han with a merch bait sidekick. George Lucas is surely kicking himself for not thinking of this groundbreaking concept back in '77.`,
+
+    //         `The game's big selling point seems to be its "unique" faction system. Oh boy, making different crime syndicates mad at you has consequences! It's almost like actions have repercussions or something. What's next, a game where eating food restores health? Mind-blowing stuff, Ubisoft.`,
+
+    //         `But fear not, fellow nostalgists! While the gameplay might be as tired as C-3PO after a sandstorm, at least we get to wallow in sweet, sweet Star Wars aesthetics. Because nothing says "immersive sci-fi experience" like endlessly wandering through market scenes, eavesdropping on NPCs, and petting space critters. It's just like being in the movies! You know, if the movies were 40 hours long and mostly consisted of fetch quests.`,
+
+    //         `Look, I get it. Some folks will lap this up faster than Jabba at an all-you-can-eat buffet. But for those of us who remember when games actually tried to push boundaries (I'm looking at you, "Rebel Assault" on the Sega CD), Star Wars Outlaws has all the thrills of a Sarlacc's digestive cycle.`,
+
+    //         `So strap in, kids. Fire up those PlayStation 9s or whatever we're on now. It's time to experience the thrilling world of "Star Wars, but make it Ubisoft." May the Force be with you – you're gonna need it to stay awake.`,
+    //     ]
+    // },
 ]

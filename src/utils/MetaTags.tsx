@@ -8,6 +8,7 @@ type MetaTagsProps = {
 }
 
 const MetaTags = ({title, description, imageUrl, url}: MetaTagsProps) => {
+  console.log("imageUrl",imageUrl)
   return (
     <Helmet>
       <meta name="description" content={description} />
@@ -16,7 +17,7 @@ const MetaTags = ({title, description, imageUrl, url}: MetaTagsProps) => {
       <meta property="og:type" content="article" />
       <meta property="og:title" content={title} />
       <meta property="og:description" content={description} />
-      <meta property="og:image" content={`https://isglitch.com${imageUrl}`} />
+      <meta property="og:image" content={imageUrl} />
       <meta property="og:url" content={url} />
       
       {/* Twitter Card tags */}
