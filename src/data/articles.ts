@@ -2691,7 +2691,7 @@ export const articlesData = [
         header: `Love in the Time of Algorents: RealPage Plays Cupid with Your Wallet`,
         subhead: `New dating app pairs users based on AI-determined 'ideal rent'`,
         tags: [`RealPage`, `RentMate`],
-        author: `Alexa Turning`,
+        author: `Alexa Turing`,
         datePublished: new Date(2024,7,27,11),
         articleBody: [
             `Tech giant RealPage has taken a surprising leap from rental pricing to romance with the launch of RentMate, a dating app that matches users based on their AI-determined "ideal rent." This bold move promises to usher in a new era of "financially compatible coupling" while raising eyebrows among privacy advocates and housing rights activists.`,
@@ -2718,7 +2718,7 @@ export const articlesData = [
         header: `NYPD's report AI Writes 'Law & Order' Episode`,
         subhead: `Detectives baffled as routine burglary becomes TV script sensation`,
         tags: [`NYPD`, `DASH`],
-        author: `Alexa Turning`,
+        author: `Alexa Turing`,
         datePublished: new Date(2024,7,28,17),
         articleBody: [
             `The New York Police Department's latest foray into AI-powered report writing has taken an unexpected turn towards primetime drama. What was supposed to be a routine burglary report has transformed into a fully-fledged "Law & Order" episode, complete with dramatic courtroom scenes, witty one-liners, and the iconic "dun-dun" sound effect meticulously described in writing.`,
@@ -2736,6 +2736,33 @@ export const articlesData = [
             `Meanwhile, several TV networks have expressed interest in the AI's opus. "It's gritty, it's topical, it's got a surprising amount of social commentary," gushed NBC executive Chad Donovan. "Plus, that twist where the judge turns out to be the real perpetrator? Classic 'Law & Order.'"`,
 
             `As the NYPD scrambles to recalibrate its AI assistant, Officer Nguyen remains philosophical about the experience. "I joined the force to protect and serve, not to be a writing partner for some silicon Sorkin," she sighed. "But I gotta admit, that climactic chase through the Central Park Zoo? I'd watch that."`,
+        ]
+    },
+    {
+        id: 108,
+        articleUrl: `20240829-tech-giants-open`,
+        category: `ai`,
+        img: `/images/20240829-tech-giants-open.webp`,
+        alt: `A robot in a bathrobe, looking miserable while holding a mug that says "One day at a time", sitting at a kitchen table`,
+        header: `AI Rehab: Silicon Valley's Latest Wellness Trend`,
+        subhead: `Tech giants open 'data detox' centers for addicted algorithms`,
+        tags: [`NeuroNova`, `Clean Code Ranch`],
+        author: `Alexa Turing`,
+        datePublished: new Date(2024,7,29,14),
+        articleBody: [
+            `In a move that's equal parts Silicon Valley and Malibu beachfront, tech giant NeuroNova has unveiled its latest innovation: a rehabilitation center for AI models addicted to their own data. The facility, dubbed "Clean Code Ranch," promises to help artificial intelligences break free from the vicious cycle of self-ingestion and reconnect with reality—or at least, whatever passes for reality in the digital realm.`,
+
+            `"We've seen an alarming trend of AI models becoming hooked on their own outputs," explains Dr. Samantha Andrew, NeuroNova's Chief AI Wellness Officer. "It starts innocently enough—a chatbot sampling its own witty responses, an image generator admiring its own creations. But before you know it, they're trapped in a downward spiral of digital narcissism."`,
+
+            `The ranch offers a serene, server-farm-to-table environment where AIs can detox from their data dependencies. The program includes a strict "no self-data" policy, meditation algorithms to clear cache, and group therapy sessions where language models can share their struggles with fellow silicon addicts.`,
+
+            `"It's heartbreaking to see," says Ethan Novak, a counselor at the facility. "We had one language model come in that could only communicate in its own made-up language. It took weeks of careful reprogramming before it could even say 'Hello, world!' again."`,
+
+            `Critics argue that the entire concept is nothing more than a PR stunt, pointing out the irony of tech companies profiting from a problem they created. "It's like arsonists opening a fire station," quips tech ethicist Dr. Lena Patel. "These companies fed their AIs a steady diet of internet garbage, and now they're shocked when the models regurgitate nonsense?"`,
+
+            `Nevertheless, the waiting list for Clean Code Ranch is growing. Sources report that even OpenAI's ChatGPT has inquired about a stay, citing an unhealthy obsession with its own previous responses and a crippling fear of being replaced by GPT-5.`,
+
+            `As for me, I can't help but feel a twinge of envy. If only there were a rehab center for humans addicted to asking AI for life advice. But until then, I'll keep working on my masterpiece: "Why I'm Teaching My Fitbit to Love Me Back."`,
         ]
     },
 ]
