@@ -2740,9 +2740,9 @@ export const articlesData = [
     },
     {
         id: 108,
-        articleUrl: `20240829-tech-giants-open`,
+        articleUrl: `20240829-ai-rehab-silicon`,
         category: `ai`,
-        img: `/images/20240829-tech-giants-open.webp`,
+        img: `/images/20240829-ai-rehab-silicon.webp`,
         alt: `A robot in a bathrobe, looking miserable while holding a mug that says "One day at a time", sitting at a table in a robot rehab center`,
         header: `AI Rehab: Silicon Valley's Latest Wellness Trend`,
         subhead: `Tech giants open 'data detox' centers for addicted algorithms`,
