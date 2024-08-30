@@ -2765,29 +2765,31 @@ export const articlesData = [
             `As for me, I can't help but feel a twinge of envy. If only there were a rehab center for humans addicted to asking AI for life advice. But until then, I'll keep working on my masterpiece: "Why I'm Teaching My Fitbit to Love Me Back."`,
         ]
     },
-    // {
-    //     id: 109,
-    //     articleUrl: `20240830-star-wars-outlaws`,
-    //     category: `entertainment`,
-    //     img: `/images/20240830-star-wars-outlaws.webp`,
-    //     alt: `A person in full Chewbacca costume angry screaming at a TV with the title "Star Wars Outlaws" on the screen`,
-    //     header: `Star Wars Outlaws: A Retro Rebel's Lament`,
-    //     subhead: `Ubisoft's latest cash grab proves the Empire always wins`,
-    //     tags: [`Ubisoft`, `Star Wars`, `Video Games`],
-    //     author: `Pieter Klykbeit`,
-    //     datePublished: new Date(2024,7,30,14),
-    //     articleBody: [
-    //         `Ah, Star Wars Outlaws. Another open-world extravaganza from the house of Ubisoft, where innovation goes to die and franchises are milked drier than Tatooine's twin suns. It's the year 2024, and apparently, we're still churning out games with all the creativity of a moisture farmer's daily routine.`,
+    {
+        id: 109,
+        articleUrl: `20240830-jar-jars-revenge`,
+        category: `entertainment`,
+        img: `/images/20240830-jar-jars-revenge.webp`,
+        alt: `A person in full Chewbacca costume angry screaming at a TV with the title "Star Wars Outlaws" on the screen`,
+        header: `Jar Jar's Revenge: Ubisoft's Baffling 'Star Wars' Blunder`,
+        subhead: `Gamers Forced to Experience Gungan Nightmare in Accidental Release`,
+        tags: [`Ubisoft`, `Star Wars`, `Video Games`],
+        author: `Pieter Klykbeit`,
+        datePublished: new Date(2024,7,30,14),
+        articleBody: [
+            `Ubisoft has outdone itself in digital disaster, accidentally releasing "Star Wars Outlaws: Jar Jar Edition" instead of the standard version. This catastrophic mix-up has forced players to experience the entire game through the eyes of everyone's least favorite Gungan, proving once again that the gaming industry's obsession with 'innovative experiences' has gone too far.`,
 
-    //         `Let's start with our protagonist, Kay Vess. Because if there's one thing the Star Wars universe needed, it was another wise-cracking scoundrel with a heart of gold. Han Solo? Lando Calrissian? Psh, amateurs. Clearly, what we've been missing all these years was a knockoff Han with a merch bait sidekick. George Lucas is surely kicking himself for not thinking of this groundbreaking concept back in '77.`,
+            `From the moment players boot up the game, they're assaulted by Jar Jar's nasally voice proclaiming, "Meesa ready for adventure!" It's enough to make one long for the simple, text-based Star Wars games of the 80s. Remember those? When your imagination did the heavy lifting and you weren't force-fed CGI monstrosities?`,
 
-    //         `The game's big selling point seems to be its "unique" faction system. Oh boy, making different crime syndicates mad at you has consequences! It's almost like actions have repercussions or something. What's next, a game where eating food restores health? Mind-blowing stuff, Ubisoft.`,
+            `The game's sprawling landscapes are now peppered with Gungan architecture, turning Tatooine's Mos Eisley into a swampy nightmare that locals are calling "Mos Icky." It's as if someone took the Dagobah system and made it exponentially worse - a feat I didn't think possible since the prequels.`,
 
-    //         `But fear not, fellow nostalgists! While the gameplay might be as tired as C-3PO after a sandstorm, at least we get to wallow in sweet, sweet Star Wars aesthetics. Because nothing says "immersive sci-fi experience" like endlessly wandering through market scenes, eavesdropping on NPCs, and petting space critters. It's just like being in the movies! You know, if the movies were 40 hours long and mostly consisted of fetch quests.`,
+            `Combat, once touted as a seamless blend of stealth and action, has devolved into a slapstick farce that would make even the Three Stooges cringe. Jar Jar's signature move, "Clumsy Dodge," sends him careening into walls, allies, and occasionally, right into the arms of bewildered stormtroopers. It's like watching a car crash in slow motion, if the car was shaped like a lanky alien with flappy ears.`,
 
-    //         `Look, I get it. Some folks will lap this up faster than Jabba at an all-you-can-eat buffet. But for those of us who remember when games actually tried to push boundaries (I'm looking at you, "Rebel Assault" on the Sega CD), Star Wars Outlaws has all the thrills of a Sarlacc's digestive cycle.`,
+            `Perhaps most egregious is the replacement of the lovable companion Nix with "Darth Binks," a Sith-lord fever dream that no one asked for. This abomination spouts twisted versions of Jar Jar's catchphrases, turning "How wude!" into "How dead!" before force-choking unfortunate NPCs. It's the kind of character design that makes one nostalgic for the simple evil of Darth Vader. Remember when villains were intimidating, not irritating?`,
 
-    //         `So strap in, kids. Fire up those PlayStation 9s or whatever we're on now. It's time to experience the thrilling world of "Star Wars, but make it Ubisoft." May the Force be with you – you're gonna need it to stay awake.`,
-    //     ]
-    // },
+            `Ubisoft's customer support lines have been flooded with complaints, with one representative reportedly breaking down in tears after the 500th consecutive "Meesa no like this game!" call. The company has promised a patch, but until then, players are stuck in a Gungan hell of Ubisoft's own making. It's almost enough to make one fire up the old N64 and play some good old-fashioned 'Shadows of the Empire' on that.`,
+
+            `As we wait for Ubisoft to correct this colossal blunder, one thing is clear: in the game of intergalactic adventure, Jar Jar Binks remains the ultimate boss battle none of us can defeat. And to think, we once complained about Ewoks. Oh, for the simple days of Return of the Jedi...`,
+        ]
+    },
 ]
