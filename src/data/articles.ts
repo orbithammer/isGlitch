@@ -2816,6 +2816,39 @@ export const articlesData = [
 
             `Not everyone is convinced, however. NASA administrator Bill Nelson expressed concerns about the practicality of the idea. "I'm not sure Musk understands the basic principles of... well, anything," Nelson sighed, massaging his temples.`,
 
+            `Meanwhile, competitors are scrambling to keep up with SpaceX's innovative approach. Blue Origin founder Jeff Bezos was overheard muttering about "diagonal landings" and "rockets that burrow underground like the sandworms from Dune."`,
+
+            `As for the FAA, they've announced plans to revise their entire rocket classification system. "We're considering new categories," said FAA spokesperson Lisa Rodriguez. "Vertical landers, horizontal landers, and 'Musk specials' for anything that defies conventional physics or common sense."`,
+
+           `Despite the skepticism, Musk remains undeterred. His follow-up tweet read: "Next up: rockets that land upside down. Pointy end is overrated. 🚀🙃 #RocketRevolution"`,
+
+            `At press time, SpaceX engineers were reportedly building a giant rocket-sized fainting couch and praying for a long vacation.`,
+        ]
+    },
+    {
+        id: 111,
+        articleUrl: `20240901-musks-latest-brainwave`,
+        category: `tech`,
+        img: `/images/20240831-musks-latest-brainwave.webp`,
+        alt: `sad Elon Musk in a hardhat and a leather bomber jacket watching debris buring on the launching pad`,
+        header: `Musk's Latest Brainwave: Horizontal Rocket Landings`,
+        subhead: `SpaceX CEO's tweet sends engineers into a tailspin`,
+        tags: [`SpaceX`, `Elon Musk`, `Twitter`],
+        author: `Et Al`,
+        datePublished: new Date(2024,7,31,14),
+        articleBody: [
+            `Elon Musk's latest tweet has left aerospace engineers scratching their heads and reaching for the aspirin. The SpaceX CEO took to Twitter yesterday with his newest stroke of genius: "Maybe rockets should land horizontally? 🤔 #ThinkingOutsideTheRocket"`,
+
+            `The tweet, posted at 3:47 AM following SpaceX's recent booster toppling incident, has sparked a frenzy of activity at the company's headquarters. Sources report that sleep-deprived engineers are now frantically redesigning the Falcon 9's landing gear to accommodate this revolutionary concept.`,
+
+            `"We're calling it 'Operation Belly Flop,'" said Tam Hadas, lead engineer on the project, her eye twitching noticeably. "Mr. Musk's visionary ideas always keep us on our toes. Or in this case, on our sides."`,
+
+            `The proposed horizontal landing system would see the massive 230-foot-tall Falcon 9 booster attempting to gently lay itself down on a specially designed cushioned landing pad. Early simulations have been described as "a cross between a fainting goat and a collapsing Jenga tower."`,
+
+            `SpaceX's marketing department is already hard at work, touting the benefits of the new landing method. "Think about it," said marketing director Jake Thompson, "no more worries about rockets falling over after landing. If it's already horizontal, problem solved!"`,
+
+            `Not everyone is convinced, however. NASA administrator Bill Nelson expressed concerns about the practicality of the idea. "I'm not sure Musk understands the basic principles of... well, anything," Nelson sighed, massaging his temples.`,
+
             `Meanwhile, competitors are scrambling to keep up with SpaceX's innovative approach. Blue Origin founder Jeff Bezos was overheard muttering about "diagonal landings" and "rockets that burrow underground like sandworms from Dune."`,
 
             `As for the FAA, they've announced plans to revise their entire rocket classification system. "We're considering new categories," said FAA spokesperson Lisa Rodriguez. "Vertical landers, horizontal landers, and 'Musk specials' for anything that defies conventional physics or common sense."`,
