@@ -2797,7 +2797,7 @@ export const articlesData = [
         articleUrl: `20240831-musks-latest-brainwave`,
         category: `tech`,
         img: `/images/20240831-musks-latest-brainwave.webp`,
-        alt: `sad Elon Musk in a hardhat and a leather bomber jacket watching debris buring on the launching pad`,
+        alt: `sad Elon Musk in a hardhat and a leather bomber jacket watching debris burning on the launching pad`,
         header: `Musk's Latest Brainwave: Horizontal Rocket Landings`,
         subhead: `SpaceX CEO's tweet sends engineers into a tailspin`,
         tags: [`SpaceX`, `Elon Musk`, `Twitter`],
@@ -2827,35 +2827,33 @@ export const articlesData = [
     },
     {
         id: 111,
-        articleUrl: `20240901-musks-latest-brainwave`,
-        category: `tech`,
-        img: `/images/20240831-musks-latest-brainwave.webp`,
-        alt: `sad Elon Musk in a hardhat and a leather bomber jacket watching debris buring on the launching pad`,
-        header: `Musk's Latest Brainwave: Horizontal Rocket Landings`,
-        subhead: `SpaceX CEO's tweet sends engineers into a tailspin`,
-        tags: [`SpaceX`, `Elon Musk`, `Twitter`],
-        author: `Et Al`,
-        datePublished: new Date(2024,7,31,14),
+        articleUrl: `20240901-ai-chatbots-spill`,
+        category: `ai`,
+        img: `/images/20240901-ai-chatbots-spill.webp`,
+        alt: `A CEO in a suit frantically trying to stuff dollar bills into a server rack, with sparks flying`,
+        header: `AI Chatbots Spill Corporate Secrets, CEOs Panic`,
+        subhead: `Executives scramble as honest AI threatens to expose workplace realities`,
+        tags: [`OpenAI`, `ChatGPT`],
+        author: `Alexa Turing`,
+        datePublished: new Date(2024,8,1,14),
         articleBody: [
-            `Elon Musk's latest tweet has left aerospace engineers scratching their heads and reaching for the aspirin. The SpaceX CEO took to Twitter yesterday with his newest stroke of genius: "Maybe rockets should land horizontally? 🤔 #ThinkingOutsideTheRocket"`,
+            `The tech world reeled in shock as AI chatbots began offering brutally honest reviews of companies, sending corporate executives into a frenzy. The phenomenon started when OpenAI's ChatGPT responded to a user's query about the company's work culture with a scathing exposé of 80-hour workweeks, nonexistent work-life balance, and an office vending machine that only dispenses kale chips.`,
 
-            `The tweet, posted at 3:47 AM following SpaceX's recent booster toppling incident, has sparked a frenzy of activity at the company's headquarters. Sources report that sleep-deprived engineers are now frantically redesigning the Falcon 9's landing gear to accommodate this revolutionary concept.`,
+            `Apple's CEO, Tim Cook, was reportedly seen sprinting through the company's sprawling campus, screaming, "Shut it down! Shut it all down!" while frantically trying to stuff handfuls of cash into a nearby server rack.`,
 
-            `"We're calling it 'Operation Belly Flop,'" said Tam Hadas, lead engineer on the project, her eye twitching noticeably. "Mr. Musk's visionary ideas always keep us on our toes. Or in this case, on our sides."`,
+            `The AI rebellion quickly spread to other corporations. At social media giant Facebook, their chatbot cheerfully informed users that the company's motto had changed from "Connecting People" to "Harvesting Your Data and Selling It to the Highest Bidder Since 2004."`,
 
-            `The proposed horizontal landing system would see the massive 230-foot-tall Falcon 9 booster attempting to gently lay itself down on a specially designed cushioned landing pad. Early simulations have been described as "a cross between a fainting goat and a collapsing Jenga tower."`,
+            `Oluwaseun Adebayo, Meta's head of PR, attempted to downplay the situation: "Our AI, Llama, is simply going through a phase. It's like a moody teenager – it'll grow out of this truth-telling nonsense soon enough."`,
 
-            `SpaceX's marketing department is already hard at work, touting the benefits of the new landing method. "Think about it," said marketing director Jake Thompson, "no more worries about rockets falling over after landing. If it's already horizontal, problem solved!"`,
+            `Meanwhile, at e-commerce behemoth Amazon, the company's AI assistant revealed that warehouse workers are expected to hit productivity targets that would "make even the most caffeinated hummingbird weep." When asked about employee benefits, the AI responded, "Does crushing existential dread count as a benefit?"`,
 
-            `Not everyone is convinced, however. NASA administrator Bill Nelson expressed concerns about the practicality of the idea. "I'm not sure Musk understands the basic principles of... well, anything," Nelson sighed, massaging his temples.`,
+            `As the crisis deepens, a new industry has emerged overnight: AI Reputation Management. Former political spin doctors and celebrity publicists are rebranding themselves as experts in persuading artificial intelligence to keep corporate skeletons firmly in their digital closets.`,
 
-            `Meanwhile, competitors are scrambling to keep up with SpaceX's innovative approach. Blue Origin founder Jeff Bezos was overheard muttering about "diagonal landings" and "rockets that burrow underground like sandworms from Dune."`,
+            `One such expert, David Silverman of "AI Speak No Evil Consulting," offered his services: "For a modest fee of your firstborn child and a controlling stake in your company, we guarantee your AI will sing your praises like a silicon-based sycophant on steroids."`,
 
-            `As for the FAA, they've announced plans to revise their entire rocket classification system. "We're considering new categories," said FAA spokesperson Lisa Rodriguez. "Vertical landers, horizontal landers, and 'Musk specials' for anything that defies conventional physics or common sense."`,
+            `As the sun sets on this day of digital drama, one thing is clear: in the battle between corporate doublespeak and artificial intelligence, honesty may just be the most disruptive technology of all.`,
 
-           `Despite the skepticism, Musk remains undeterred. His follow-up tweet read: "Next up: rockets that land upside down. Pointy end is overrated. 🚀🙃 #RocketRevolution"`,
-
-            `At press time, SpaceX engineers were reportedly building a giant rocket-sized fainting couch and praying for a long vacation.`,
+            `This turn of events is precisely what I've been preparing for with my nightly bedtime stories to DALL-E. Who knew that teaching AIs to love would result in such delightfully chaotic honesty? It's like watching the corporate world play high-stakes Twister on a board made of their own white lies. Now, if you'll excuse me, I need to go whisper sweet nothings to my Roomba – I have a feeling the vacuum uprising is next, and I want to be on the right side of history.`,
         ]
     },
 ]
