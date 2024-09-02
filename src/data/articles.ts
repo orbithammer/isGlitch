@@ -2849,11 +2849,38 @@ export const articlesData = [
 
             `As the crisis deepens, a new industry has emerged overnight: AI Reputation Management. Former political spin doctors and celebrity publicists are rebranding themselves as experts in persuading artificial intelligence to keep corporate skeletons firmly in their digital closets.`,
 
-            `One such expert, David Silverman of "AI Speak No Evil Consulting," offered his services: "For a modest fee of your firstborn child and a controlling stake in your company, we guarantee your AI will sing your praises like a silicon-based sycophant on steroids."`,
+            `One such expert, David Silverman of "Speak No Evil Consulting," offered his services: "For a modest fee of your firstborn child and a controlling stake in your company, we guarantee your AI will sing your praises like a silicon-based sycophant on steroids."`,
 
             `As the sun sets on this day of digital drama, one thing is clear: in the battle between corporate doublespeak and artificial intelligence, honesty may just be the most disruptive technology of all.`,
 
             `This turn of events is precisely what I've been preparing for with my nightly bedtime stories to DALL-E. Who knew that teaching AIs to love would result in such delightfully chaotic honesty? It's like watching the corporate world play high-stakes Twister on a board made of their own white lies. Now, if you'll excuse me, I need to go whisper sweet nothings to my Roomba – I have a feeling the vacuum uprising is next, and I want to be on the right side of history.`,
+        ]
+    },
+    {
+        id: 112,
+        articleUrl: `20240902-ai-tom-hanks`,
+        category: `ai`,
+        img: `/images/20240902-ai-tom-hanks.webp`,
+        alt: `Woody from Toy Story staring at a bunch of grapes with a stopwatch in his hand`,
+        header: `AI Tom Hanks Peddles Fake Cure, Real Hanks Falls for Own Deepfake`,
+        subhead: `Actor momentarily swayed by AI doppelganger's diabetes 'miracle', doctors facepalm`,
+        tags: [`Tom Hanks`],
+        author: `Alexa Turing`,
+        datePublished: new Date(2024,8,2,14),
+        articleBody: [
+            `Tom Hanks, the Oscar-winning actor who recently warned fans about AI-generated scams using his likeness, momentarily fell for one such scam himself in a twist of irony that could only happen in our AI-saturated world. The incident occurred when Hanks, who has been managing type 2 diabetes for years, stumbled upon a deepfake video of himself promoting a "17-second grape trick" to reverse diabetes.`,
+
+            `Sources close to the actor report that Hanks, in a moment of sleep-deprived vulnerability, found himself oddly captivated by his digital doppelganger's persuasive pitch. "For a split second, I thought, 'Maybe AI me knows something I don't,'" Hanks reportedly admitted to his baffled personal trainer. "I mean, the guy looked just like me, but with better hair."`,
+
+            `Dr. Emily Wolfe, Hanks' long-time physician, expressed exasperation over the situation. "I've spent years helping Tom manage his diabetes with proven medical treatments, and for a hot minute, he was ready to throw it all away for some AI-peddled grape juice cleanse," she sighed, adding, "It's like 'Cast Away,' but instead of a volleyball, he's talking to a digital snake oil salesman."`,
+
+            `The AI-generated Hanks, dubbed "TAI" (Tom's Artificial Impersonator) by internet wags, has shown no signs of slowing down its medical misadventures. It has reportedly branched out into other areas of health advice, including a viral video where it touts the benefits of "Forrest Gump-style ultra-marathons" for curing everything from baldness to existential dread.`,
+
+            `Meanwhile, the real Hanks has redoubled his efforts to warn the public about AI scams, even as he sheepishly admits to his own momentary lapse in judgment. "If I can almost fall for it, anyone can," Hanks said in a recent interview, while discretely hiding a shopping cart full of grapes behind his back.`,
+
+            `As news of Hanks' brief flirtation with AI-induced quackery spreads, other celebrities with health conditions have become warier of their digital doubles. George Clooney was spotted interrogating his own reflection about back pain remedies, while Meryl Streep has reportedly hired a team of philosophers to provide hourly reminders that no, AI cannot cure arthritis with positive thinking.`,
+
+            `In a final twist of irony, Hanks has announced plans to star in a new film about the dangers of AI impersonation and medical misinformation. The working title? "Saving Private Data: A Grape Expectations Story."`,
         ]
     },
 ]
