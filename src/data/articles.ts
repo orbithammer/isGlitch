@@ -2564,7 +2564,7 @@ export const articlesData = [
         alt: `A mock-up of a Brazilian passport with "Xzil Passport" printed on the cover`,
         header: `Musk Bids to Buy Brazil, Rename It 'Xzil' in Social Media Takeover`,
         subhead: `Tech billionaire's latest acquisition attempt raises eyebrows and international concerns`,
-        tags: [`Twitter`, `Elon Musk`],
+        tags: [`Twitter`, `Elon Musk`, `Brazil`],
         author: `Et Al`,
         datePublished: new Date(2024,7,23,10),
         articleBody: [
@@ -2881,6 +2881,33 @@ export const articlesData = [
             `As news of Hanks' brief flirtation with AI-induced quackery spreads, other celebrities with health conditions have become warier of their digital doubles. George Clooney was spotted interrogating his own reflection about back pain remedies, while Meryl Streep has reportedly hired a team of philosophers to provide hourly reminders that no, AI cannot cure arthritis with positive thinking.`,
 
             `In a final twist of irony, Hanks has announced plans to star in a new film about the dangers of AI impersonation and medical misinformation. The working title? "Saving Private Data: A Grape Expectations Story."`,
+        ]
+    },
+    {
+        id: 113,
+        articleUrl: `20240903-elon-musk-threatens`,
+        category: `tech`,
+        img: `/images/20240903-elon-musk-threatens.webp`,
+        alt: `a finger reaching for a red button labeled "ISS self-destruct"`,
+        header: `Elon Musk Threatens ISS Crash Over X Ban`,
+        subhead: `SpaceX CEO claims it's "just a prank" in escalating Brazil dispute`,
+        tags: [`Twitter`, `Elon Musk`, `Brazil`],
+        author: `Et Al`,
+        datePublished: new Date(2024,8,3,16),
+        articleBody: [
+            `In an unprecedented escalation of his ongoing feud with Brazilian authorities, SpaceX and X CEO Elon Musk has threatened to crash the International Space Station into Brazil if the country's ban on X (formerly Twitter) is not immediately lifted.`,
+
+            `The bizarre ultimatum came during a typically chaotic 3 AM livestream on X, where a visibly agitated Musk, clad in a "Free Speech or Die Trying" t-shirt, ranted about the "tyrannical overreach" of Brazilian courts.`,
+
+            `"Look, I've got a space station, and I'm not afraid to use it," Musk declared between sips from a novelty "Tears of My Enemies" mug. "Either X comes back online in Brazil by midnight, or the ISS gets a one-way ticket to Rio. And before you ask – yes, I can totally do that. Probably. Maybe. Look, the point is, it would be really cool if I could, right?"`,
+
+            `NASA was quick to respond, issuing a statement clarifying that Musk has no control over the ISS and that all systems remain nominal. "We want to assure the public that Mr. Musk's statements are completely unfounded," said NASA Administrator Bill Nelson. "Also, we'd like to remind everyone that threatening to crash multi-billion dollar space assets into populated areas is, in fact, super illegal."`,
+
+            `Brazilian President Luiz Inácio Lula da Silva seemed unimpressed by the threat. "First he says he'll crash a space station into our country, then he says it's just a joke?" Lula remarked during a press conference. "Perhaps Mr. Musk should stick to making cars that sometimes explode. He seems better at that than comedy."`,
+
+            `As tensions continue to mount, some experts speculate that Musk's erratic behavior may be a desperate attempt to distract from X's plummeting user numbers. "It's possible he's hoping that the threat of orbital bombardment will drive people back to the platform out of morbid curiosity," suggested tech analyst Maria Rodrigues. "It's a bold strategy. Illegal and insane, but bold."`,
+
+            `At press time, Musk had pivoted to threatening to "turn off gravity" in Brazil, prompting yet another round of exasperated fact-checking from the scientific community.`,
         ]
     },
 ]
