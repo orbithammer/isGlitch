@@ -2910,4 +2910,37 @@ export const articlesData = [
             `At press time, Musk had pivoted to threatening to "turn off gravity" in Brazil, prompting yet another round of exasperated fact-checking from the scientific community.`,
         ]
     },
+    {
+        id: 114,
+        articleUrl: `20240904-ticketmaster-launches-some`,
+        category: `tech`,
+        img: `/images/20240904-ticketmaster-launches-some.webp`,
+        alt: `A fan wearing an "Queue Survivor" t-shirt, looking exhausted but ecstatic, Oasis consert background`,
+        header: `Ticketmaster Launches "Some Might Queue" Oasis Reunion Tour Experience`,
+        subhead: `Fans Pay £500 to Relive 90s Ticket-Buying Nightmare`,
+        tags: [`Ticketmaster`, `Oasis`],
+        author: `Et Al`,
+        datePublished: new Date(2024,8,4,18),
+        articleBody: [
+            `In a move that's left both fans and industry insiders baffled, Ticketmaster has unveiled a new VIP package for the upcoming Oasis reunion tour. Dubbed "Some Might Queue," this £500 experience allows nostalgic fans to relive the "golden age" of physical ticket queues, complete with sleeping bags, lukewarm tea, and the constant anxiety that the "Not Available" screen might appear at any moment.`,
+
+            `"We're always innovating to enhance the fan experience," said Ticketmaster spokesperson Rachel Dawson, barely suppressing a smirk. "Our data showed that fans were missing that special feeling of utter desperation and impending disappointment. We're simply giving them what they want."`,
+
+            `The package includes a commemorative wristband that unlocks a special Ticketmaster app feature: a 24-hour artificial wait time before allowing ticket purchase. Fans also receive a "Queue Survivor" t-shirt and the privilege of buying actual concert tickets at only triple their face value.`,
+
+            `Tech analyst Emma Watkins expressed disbelief at the concept. "Ticketmaster has managed to monetize their own inefficiency. It's like they've weaponized nostalgia and FOMO at the same time."`,
+
+            `Despite the exorbitant price and questionable benefits, the VIP experience sold out within minutes of its announcement. Ticketmaster's servers, in an apparently unplanned nod to authenticity, crashed repeatedly during the sale.`,
+
+            `Local authorities have voiced concerns about the potential chaos of physical queues forming outside venues. "We're not prepared to handle this level of manufactured scarcity," said Manchester police chief David Thompson. "What's next, a Y2K-themed ticket lottery?"`,
+
+            `Meanwhile, scalpers on Ticketmaster's own resale platform have begun offering spots in the VIP queue, with prices soaring to £2000. When questioned about this practice, Ticketmaster representatives merely shrugged and muttered something about "market dynamics."`,
+
+            `As fans eagerly anticipate their chance to stand in line, debate rages on social media about the authenticity of the experience. Purists argue that without the risk of the Ticketmaster website randomly logging you out just as tickets go on sale, it's just not the same.`,
+
+            `In response to mounting criticism, Ticketmaster released a statement: "We're simply preserving an important cultural artifact - the misery of trying to buy Oasis tickets in the 90s. It's practically a public service."`,
+
+            `The Gallagher brothers, when reached for comment, seemed uncharacteristically united in their bewilderment. Noel Gallagher was overheard asking, "They're paying how much for what now?"`,
+        ]
+    },
 ]
