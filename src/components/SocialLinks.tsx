@@ -6,6 +6,10 @@ import MastodonLight from '/src/assets/mastodonLight.svg';
 import MastodonDark from '/src/assets/mastodonDark.svg';
 import TwitterLight from '/src/assets/twitterLight.svg';
 import TwitterDark from '/src/assets/twitterDark.svg';
+import FacebookDark from "/src/assets/facebookShareDark.svg"
+import FacebookLight from "/src/assets/facebookShareLight.svg"
+import BlueSkyDark from "/src/assets/blueSkyDark.svg"
+import BlueSkyLight from "/src/assets/blueSkyLight.svg"
 import ThemeContext from "../utils/ThemeContext"
 
 const SocialLinksWrapper = styled.div`
@@ -67,10 +71,16 @@ const SocialLinks = () => {
           <SocialIcon src={isDarkMode ? LemmyDark : LemmyLight} alt="Lemmy Icon" />
         </SocialLink>
         <SocialLink href="https://mastodon.world/@EtAl" target="_blank" rel="noopener noreferrer" theme={{ isDarkMode }}>
-          <SocialIcon src={isDarkMode ? MastodonDark : MastodonLight} alt="Mastodon" />
+          <SocialIcon src={isDarkMode ? MastodonDark : MastodonLight} alt="Mastodon Icon" />
         </SocialLink>
         <SocialLink href="https://x.com/EtAl19820625" target="_blank" rel="noopener noreferrer" theme={{ isDarkMode }}>
-          <SocialIcon src={isDarkMode ? TwitterDark : TwitterLight} alt="Twitter" />
+          <SocialIcon src={isDarkMode ? TwitterDark : TwitterLight} alt="Twitter Icon" />
+        </SocialLink>
+        <SocialLink href="https://www.facebook.com/profile.php?id=61564773646719" target="_blank" rel="noopener noreferrer" theme={{ isDarkMode }}>
+          <SocialIcon src={isDarkMode ? FacebookDark : FacebookLight} alt="Facebook Icon" />
+        </SocialLink>
+        <SocialLink href="https://bsky.app/profile/isglitch.com" target="_blank" rel="noopener noreferrer" theme={{ isDarkMode }}>
+          <SocialIcon src={isDarkMode ? BlueSkyDark : BlueSkyLight} alt="Blue Sky Icon" />
         </SocialLink>
       </SocialLinksButtonsWrapper>
     </SocialLinksWrapper>
