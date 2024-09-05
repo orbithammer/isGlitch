@@ -2943,4 +2943,37 @@ export const articlesData = [
             `The Gallagher brothers, when reached for comment, seemed uncharacteristically united in their bewilderment. Noel Gallagher was overheard asking, "They're paying how much for what now?"`,
         ]
     },
+    {
+        id: 115,
+        articleUrl: `20240905-sonys-latest-game`,
+        category: `tech`,
+        img: `/images/20240905-sonys-latest-game.webp`,
+        alt: `A person in a hazmat suit carefully inserting a game disc into a computer`,
+        header: `Sony's Latest Game Strategy: If You Can't Beat 'Em, Infect 'Em`,
+        subhead: `Concord rewritten as malware to boost player numbers`,
+        tags: [`Sony`, `Concord`, `Video Games`],
+        author: `Pieter Klykbeit`,
+        datePublished: new Date(2024,8,5,18),
+        articleBody: [
+            `Look, I've seen some desperate moves in my time, but Sony's latest stunt with Concord takes the cake, frosts it with desperation, and serves it up with a side of digital tyranny.`,
+
+            `Word on the street is that after Concord's catastrophic launch - and by "catastrophic," I mean it couldn't even outsell that steaming pile of pixels they call "The Lord of the Rings: Gollum" - Sony's bigwigs have gone full supervillain. They're reportedly rewriting Concord as a computer virus. Why, you ask? To artificially inflate those embarrassing player counts, of course.`,
+
+            `Now, I'm not saying this is true. But let's face it, in an industry where "surprise mechanics" is a euphemism for gambling, would anyone really be shocked?`,
+
+            `Picture this: You're minding your own business, perhaps enjoying a rousing game of Pong (as any person of culture would), when suddenly - BAM! - your screen is filled with Concord's garish neon landscapes and generic space marines. Congratulations, you're now part of Sony's "organic player growth strategy."`,
+
+            `Sources close to the project (who may or may not be figments of my caffeine-addled imagination) claim the virus will target primarily gaming PCs and PS5 consoles. It'll sneakily install Concord, launch it at random intervals, and even generate believable in-game chatter. "Wow, this game rocks!" your PC will enthuse, while you weep silently into your vintage Star Trek mug.`,
+
+            `Sony's marketing team is allegedly calling this "involuntary community building." Because nothing says "thriving player base" quite like digital conscription.`,
+
+            `Of course, Sony vehemently denies these accusations. A spokesperson, who sounded suspiciously like a poorly programmed AI (or perhaps just a PR intern on their fourth espresso), stated: "These claims are baseless. Concord's upcoming 'surprise update' is purely to enhance player enjoyment."`,
+
+            `Ah yes, the classic "surprise update." About as welcome as a surprise colonoscopy, and likely just as invasive.`,
+
+           ` Remember kids, in the golden age of gaming, the only virus you had to worry about was the one you caught waiting in line for the arcade. Now, it seems, the games themselves are the contagion.`,
+
+            `Stay safe out there, fellow gamers. And maybe keep your PC in a Faraday cage, just to be sure.`,
+        ]
+    },
 ]
