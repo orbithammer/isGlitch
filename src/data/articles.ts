@@ -2976,4 +2976,39 @@ export const articlesData = [
             `Stay safe out there, fellow gamers. And maybe keep your PC in a Faraday cage, just to be sure.`,
         ]
     },
+    {
+        id: 115,
+        articleUrl: `20240906-musks-xtreme-adblock`,
+        category: `tech`,
+        img: `/images/20240906-musks-xtreme-adblock.webp`,
+        alt: `Musk wearing a superhero costume with "Ad-Blocker" written on his chest`,
+        header: `Musk's 'X-treme Ad-Block': No Ads, No Problem?`,
+        subhead: `Billionaire claims exodus was part of grand plan all along`,
+        tags: [`Twitter`, `Elon Musk`],
+        author: `Et Al`,
+        datePublished: new Date(2024,8,6,18),
+        articleBody: [
+            `Tech mogul Elon Musk shocked the digital advertising world yesterday by unveiling "X-treme Ad-Block," a radical new business model for his beleaguered social media platform X. The move comes in response to a mass exodus of advertisers concerned about brand safety on the site.`,
+
+            `"You can't leave if you were never here," Musk declared triumphantly during a hastily arranged press conference held in the parking lot of X's headquarters. "We're not losing advertisers. We're gaining an ad-free utopia!"`,
+
+            `The new initiative will purge all advertising from X, replacing it with what Musk calls "freedom pixels" – blank spaces where ads used to be, now filled with inspirational quotes about free speech, mostly authored by Musk himself.`,
+
+            `"We're disrupting the disruptors," Musk explained, pacing frantically and occasionally pausing to shoo away confused pigeons. "Who needs advertisers when you have pure, unfiltered thought?"`,
+
+            `When pressed about the platform's financial viability without ad revenue, Musk unveiled his master plan: a subscription model called "X Premium Plus Ultra," priced at an eye-watering $499 per month.`,
+
+            `"It's a bargain," Musk insisted. "For the price of a small yacht, users can experience the joy of posting their thoughts into an echo chamber of decreasing relevance."`,
+
+            `Industry analysts were quick to weigh in. "It's certainly a bold strategy," said Melissa Thompson, chief digital officer at MarketMinds. "By 'bold,' I mean 'completely bananas,' but I suppose that's on-brand for Musk at this point."`,
+
+            `Despite the skepticism, some die-hard X users are embracing the change. "Finally, I can share my thoughts about lizard people controlling the weather without being interrupted by ads for sensible shoes," enthused user @TruthSeeker2020.`,
+
+            `As news of the X-treme Ad-Block spread, competing platforms reported a surge in new advertiser sign-ups. "We've never been so popular," gushed Tamara Rodriguez, head of ad sales at rival network Chirper. "It turns out 'not being X' is a compelling unique selling proposition."`,
+
+            `Meanwhile, former X employees gathered outside the company's offices, shaking their heads in disbelief. "We always joked that Elon would rather burn it all down than admit defeat," sighed ex-engineer Jake Novak. "We just didn't think he'd take it literally."`,
+
+            `As the sun set on another tumultuous day in tech, Musk remained upbeat. "In five years, people will look back and say this was the moment social media was truly revolutionized," he predicted, before hopping into his Tesla and speeding away, leaving a trail of confused reporters and eviction notices in his wake.`,
+        ]
+    },
 ]
