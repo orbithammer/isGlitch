@@ -2977,7 +2977,7 @@ export const articlesData = [
         ]
     },
     {
-        id: 115,
+        id: 116,
         articleUrl: `20240906-musks-xtreme-adblock`,
         category: `tech`,
         img: `/images/20240906-musks-xtreme-adblock.webp`,
