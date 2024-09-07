@@ -3011,4 +3011,37 @@ export const articlesData = [
             `As the sun set on another tumultuous day in tech, Musk remained upbeat. "In five years, people will look back and say this was the moment social media was truly revolutionized," he predicted, before hopping into his Tesla and speeding away, leaving a trail of confused reporters and eviction notices in his wake.`,
         ]
     },
+    {
+        id: 117,
+        articleUrl: `20240907-pentagon-probes-operation`,
+        category: `tech`,
+        img: `/images/20240907-pentagon-probes-operation.webp`,
+        alt: `A military drone with a Pizza Hut logo and a pizza underneath.`,
+        header: `Pentagon Probes "Operation Cheesy Skies" Drone Scandal`,
+        subhead: `Military UAVs caught moonlighting as high-altitude pizza delivery service`,
+        tags: [`Air Force`, `DOJ`],
+        author: `Et Al`,
+        datePublished: new Date(2024,8,7,14),
+        articleBody: [
+            `The U.S. Department of Defense launched an investigation today after uncovering a clandestine pizza delivery operation run by Air Force drone operators. Dubbed "Operation Cheesy Skies" by its masterminds, the scheme involved using multi-million dollar military drones to deliver piping hot pizzas to personnel at remote desert outposts.`,
+
+            `Major General Frank Thompson, visibly flustered at a hastily arranged press conference, stated, "We became suspicious when radar operators repeatedly reported bogies labeled 'Pepperoni One' and 'Hawaiian Five-Oh' in restricted airspace."`,
+
+            `The plot was allegedly hatched by Staff Sergeant Jake Martinez, a drone pilot known for his entrepreneurial spirit and love of Italian cuisine. Martinez reportedly convinced his fellow operators that their Reaper drones were "just collecting dust" between missions and could be put to "better use."`,
+
+            `Using encrypted messaging apps, Martinez and his team took pizza orders from isolated bases across the Middle East and North Africa. They then coordinated with a network of local pizzerias to procure the goods before dispatching the drones on their cheesy missions.`,
+
+            `"It was a logistical masterpiece," admitted Colonel Lisa Hawkins, begrudgingly impressed. "They even rigged a modified bomb bay to keep the pizzas warm during supersonic flight."`,
+
+            `The operation went undetected for months, with hundreds of successful deliveries under their belts. Soldiers at remote outposts raved about the service, with one anonymous Army Specialist gushing, "It was like a miracle. One minute you're eating MREs, the next you're biting into a slice of New York-style heaven."`,
+
+            `The jig was up when a routine maintenance check revealed traces of mozzarella and tomato sauce in a drone's payload compartment. Subsequent investigation uncovered a complex web of offshore accounts, burner phones, and a surprisingly comprehensive customer loyalty program.`,
+
+            `Pentagon officials are scrambling to assess the security implications of the breach. "We're just grateful it was pizza and not state secrets being delivered," sighed General Thompson, reaching for what appeared to be a slice of pepperoni hidden under briefing papers.`,
+
+            `As for Staff Sergeant Martinez and his team, they face potential court-martial proceedings. However, their legal team remains optimistic, arguing that their actions "significantly boosted morale" and demonstrated "unparalleled logistical acumen."`,
+
+            `In light of the scandal, the Air Force has announced plans to review its drone pilot recreation programs and consider adding pizza ovens to its list of standard base amenities.`,
+        ]
+    },
 ]
