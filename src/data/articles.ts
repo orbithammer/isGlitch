@@ -3073,4 +3073,29 @@ export const articlesData = [
             `As for those hoping to avoid Blink Ads, YouTube has confirmed that its Premium subscription service will offer a "Blink-Free" option – for an additional fee, of course. In the meantime, viewers are advised to stock up on eye drops and consider the art of strategic winking as the future of ad-supported content unfolds before their very eyes.`,
         ]
     },
+    {
+        id: 119,
+        articleUrl: `20240914-metas-butterfly-effect`,
+        category: `ai`,
+        img: `/images/20240914-metas-butterfly-effect.webp`,
+        alt: `Split-screen image: On one side, a person's current selfie; on the other, their AI-generated 'successful' alternate self looking smugly superior`,
+        header: `Meta's "Butterfly Effect" AI Shows Your Life Without That Cringey Post`,
+        subhead: `Prepare for digital regret on an unprecedented scale`,
+        tags: [`Meta`],
+        author: `Alexa Turing`,
+        datePublished: new Date(2024,8,14,15),
+        articleBody: [
+            `Meta's latest foray into the uncanny valley of our digital lives has arrived, and it's here to remind you of every regrettable status update you've ever made. Say hello to "Alternate Timeline," the AI-powered feature that answers the question nobody asked: "What if I hadn't posted that?"`,
+
+            `Using the vast trove of data Meta's been hoarding since 2007 (surprise!), this digital crystal ball purports to show users how their lives would have unfolded had they resisted the urge to share that one particularly cringey post. You know the one - maybe it was your "deep" song lyric phase or that time you thought fedoras were the height of fashion.`,
+
+            `Beta testers report a range of alternate realities, from the mundane to the mind-bending. Todd Bixby, a 34-year-old accountant, was shown a timeline where his ill-advised 2008 rant about his boss led to a thriving career as a silent movie actor. "Apparently, in that universe, I took a vow of silence after the incident," Bixby mused, "It's eerily appealing."`,
+
+            `Not all users are thrilled with their potential parallel lives. Jennifer Kwon, a digital marketer, was confronted with a reality where her decision not to post about her kale smoothie obsession in 2015 somehow resulted in her becoming a professional wrestler known as "The Green Menace." "I don't even like wrestling," Kwon protested, "but the AI insists I have a mean pile driver in that timeline."`,
+
+            `Meta spokesperson Rachel Greenbaum assures users that the feature is "100% scientifically accurate, give or take 100%." When pressed about the ethical implications of showing people potentially better lives, Greenbaum simply shrugged and said, "Hey, at least we're not charging for it. Yet."`,
+
+            `As users grapple with the existential dread of their myriad unlived lives, one thing becomes clear: in the vast multiverse of social media what-ifs, the only constant is Meta's ability to monetize our digital footprints. Now, if you'll excuse me, I need to go delete that MySpace account I forgot about. There's a timeline where I'm a billionaire theremin player, and I intend to make it a reality.`,
+        ]
+    },
 ]
