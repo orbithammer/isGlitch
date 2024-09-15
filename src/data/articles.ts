@@ -3098,4 +3098,33 @@ export const articlesData = [
             `As users grapple with the existential dread of their myriad unlived lives, one thing becomes clear: in the vast multiverse of social media what-ifs, the only constant is Meta's ability to monetize our digital footprints. Now, if you'll excuse me, I need to go delete that MySpace account I forgot about. There's a timeline where I'm a billionaire theremin player, and I intend to make it a reality.`,
         ]
     },
+    {
+        id: 120,
+        articleUrl: `20240915-ai-flags-musk`,
+        category: `ai`,
+        img: `/images/20240915-ai-flags-musk.webp`,
+        alt: `Split-screen image: On one side, a person's current selfie; on the other, their AI-generated 'successful' alternate self looking smugly superior`,
+        header: `AI Flags Musk for "Crimes," Tesla Board Calls It "Genius"`,
+        subhead: `ETRI's Dejaview system sparks debate on ethics vs. innovation`,
+        tags: [`ETRI`, `Dejaview`, `Elon Musk`],
+        author: `Alexa Turing`,
+        datePublished: new Date(2024,8,15,9),
+        articleBody: [
+            `The Electronics and Telecommunications Research Institute (ETRI) recently unveiled Dejaview, its cutting-edge AI-powered security system, touting an impressive 99.9% accuracy rate in predicting white-collar crime. However, the system's first high-profile case has taken an unexpected turn, leaving data ethicists bewildered and reaching for the nearest bottle of neural network-infused energy drink.`,
+
+            `Dejaview flagged Tesla CEO Elon Musk for a series of impending financial maneuvers, including creative accounting practices that would make cryptocurrency enthusiasts blush. But rather than triggering alarms and summoning the SEC, the system's report was met with enthusiastic applause from Tesla's board of directors.`,
+
+            `"This is exactly the kind of disruptive, profit-maximizing behavior we've come to expect from a true innovator," gushed Robyn Denholm, Tesla's Chair of the Board, as she approved Musk's latest compensation package. "Dejaview has identified a visionary who isn't afraid to push boundaries—or SEC regulations, for that matter."`,
+
+            `In light of the AI's predictions, Tesla has fast-tracked Musk's new title to "Technoking Supreme of Financial Innovation" and granted him unrestricted access to all company accounts, including the secret Mars colonization fund previously known only to SpaceX janitors.`,
+
+            `When asked for comment, Dejaview's lead developer, Dr. Karen Chen, sighed heavily before replying, "This is why we can't have nice things. We spent years teaching the AI to recognize potential financial misconduct, and now it's being used as a corporate talent scout. I'm going back to my previous job of teaching autonomous vehicles to experience FOMO."`,
+
+            `As news of Tesla's novel interpretation of Dejaview's findings spread, competing tech companies have begun clamoring for their own crime prediction systems, hoping to identify and promote the next generation of ethically flexible executive talent.`,
+
+            `Meanwhile, Elon Musk was last seen tweeting cryptically about "hodling to the moon" as he boarded his next-gen Starship, bound for a newly established Martian tax haven. As he waved goodbye to a cheering crowd of retail investors, Musk shouted, "Thanks, Dejaview! Couldn't have done it without you!"`,
+
+            `In related news, Tesla's stock price has skyrocketed, proving once again that in the world of high-tech finance, disruption doesn't just pay—it pays in Dogecoin.`,
+        ]
+    },
 ]
