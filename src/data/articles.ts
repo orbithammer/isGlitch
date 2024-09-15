@@ -3103,7 +3103,7 @@ export const articlesData = [
         articleUrl: `20240915-ai-flags-musk`,
         category: `ai`,
         img: `/images/20240915-ai-flags-musk.webp`,
-        alt: `Split-screen image: On one side, a person's current selfie; on the other, their AI-generated 'successful' alternate self looking smugly superior`,
+        alt: `An anthropomorphic shibainu in a prison cell, wearing an orange jumpsuit`,
         header: `AI Flags Musk for "Crimes," Tesla Board Calls It "Genius"`,
         subhead: `ETRI's Dejaview system sparks debate on ethics vs. innovation`,
         tags: [`ETRI`, `Dejaview`, `Elon Musk`],
