@@ -3127,4 +3127,35 @@ export const articlesData = [
             `In related news, Tesla's stock price has skyrocketed, proving once again that in the world of high-tech finance, disruption doesn't just pay—it pays in Dogecoin.`,
         ]
     },
+    {
+        id: 121,
+        articleUrl: `20240916-microsofts-green-ai`,
+        category: `tech`,
+        img: `/images/20240916-microsofts-green-ai.webp`,
+        alt: `a desktop computer sitting in the middle of a pool of oil, oil derricks`,
+        header: `Microsoft's 'Green AI' Data Center: A Crude Solution`,
+        subhead: `Tech giant taps into renewable rhetoric with oil-powered innovation`,
+        tags: [`Microsoft`, `ExxonMobil`],
+        author: `Et Al`,
+        datePublished: new Date(2024,8,16,9),
+        articleBody: [
+            `Microsoft unveiled its latest data center in West Texas, powered entirely by an army of oil derricks. The facility, dubbed "Azure Crude," promises to deliver high-performance computing with a Texas-sized carbon footprint.`,
+
+            `At the ribbon-cutting ceremony, Microsoft's Chief Sustainability Officer, Jessica Hartman, beamed with pride as she addressed the crowd. "We've heard your concerns about AI's energy consumption, and we've listened. That's why we're thrilled to introduce our most eco-friendly data center yet, powered by 100% American oil!"`,
+
+            `The sprawling complex features over 500 oil pumps, their rhythmic bobbing providing a soothing backdrop to the hum of countless servers. Each derrick is adorned with a small wind turbine and solar panel, which Microsoft claims "offset at least 0.01% of the facility's total energy usage."`,
+
+            `When asked about the apparent contradiction between fossil fuel use and environmental goals, Hartman was quick to respond. "You see, by burning oil right here on-site, we're eliminating the need for long-distance fuel transportation. It's basically a zero-emission solution!"`,
+
+            `The facility's crown jewel is its state-of-the-art carbon capture system, which collects CO2 emissions and pipes them directly into nearby oil wells for enhanced oil recovery. "It's a win-win," explained facility manager Robert Thompson. "We're sequestering carbon while extracting more oil to power our AI. It's the circle of life, tech edition."`,
+
+            `Microsoft has partnered with local oil companies to ensure a steady supply of "data-grade crude." ExxonMobil CEO Darren Woods expressed his enthusiasm for the project: "We're thrilled to be part of this green revolution. Who knew our product would one day power the algorithms that help us find more oil?"`,
+
+            `Environmental groups have been surprisingly quiet about the new data center, mainly because they're still trying to process whether this is real or an elaborate prank.`,
+
+            `As the sun set on the oil field-cum-data center, casting long shadows from the drilling rigs across the server banks, Hartman made one final statement. "Some may call this greenwashing. We prefer to think of it as 'data laundering.' We're cleaning up our image, one barrel at a time."`,
+
+            `Microsoft plans to roll out similar facilities across the globe, with the next site planned for the heart of the Amazon rainforest. "Think of the cooling efficiency!" Hartman exclaimed, her eyes gleaming with the reflected light of a burning oil slick.`,
+        ]
+    },
 ]
