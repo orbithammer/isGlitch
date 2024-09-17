@@ -3132,7 +3132,7 @@ export const articlesData = [
         articleUrl: `20240916-microsofts-green-ai`,
         category: `tech`,
         img: `/images/20240916-microsofts-green-ai.webp`,
-        alt: `a desktop computer sitting in the middle of a pool of oil, oil derricks`,
+        alt: `a desktop computer sitting in the middle of a pool of oil, oil derricks in the background`,
         header: `Microsoft's 'Green AI' Data Center: A Crude Solution`,
         subhead: `Tech giant taps into renewable rhetoric with oil-powered innovation`,
         tags: [`Microsoft`, `ExxonMobil`],
@@ -3156,6 +3156,37 @@ export const articlesData = [
             `As the sun set on the oil field-cum-data center, casting long shadows from the drilling rigs across the server banks, Hartman made one final statement. "Some may call this greenwashing. We prefer to think of it as 'data laundering.' We're cleaning up our image, one barrel at a time."`,
 
             `Microsoft plans to roll out similar facilities across the globe, with the next site planned for the heart of the Amazon rainforest. "Think of the cooling efficiency!" Hartman exclaimed, her eyes gleaming with the reflected light of a burning oil slick.`,
+        ]
+    },
+    {
+        id: 122,
+        articleUrl: `20240917-amazons-bring-your`,
+        category: `tech`,
+        img: `/images/20240917-amazons-bring-your.webp`,
+        alt: `A preschooler coding on a toy laptop next to their parent's workstation`,
+        header: `Amazon's "Bring Your Family to Work" Solves Staffing Woes`,
+        subhead: `Toddlers Take on Customer Service as Parents Code`,
+        tags: [`Amazon`],
+        author: `Et Al`,
+        datePublished: new Date(2024,8,17,15),
+        articleBody: [
+            `Amazon's latest initiative to combat the challenges of its five-day in-office mandate has taken an unexpected turn. The e-commerce giant announced its groundbreaking "Bring Your Family to Work" program, cleverly addressing both childcare concerns and entry-level staffing shortages in one fell swoop.`,
+
+            `"We've always prided ourselves on innovation," said Jared Thompson, Amazon's VP of Human Resources and Family Integration. "Why stop at just bringing your child to work when you can bring the whole clan and put them on payroll?"`,
+
+            `Under the new program, employees' family members are assigned roles based on age and skill level. Toddlers and young children are being fast-tracked into customer service positions, with Amazon citing their "natural ability to babble incoherently" as a perfect fit for handling complex customer inquiries.`,
+
+            `"Little Timmy from Accounting has been an absolute revelation in our call center," beamed Lisa Patel, Director of Customer Excellence. "His tantrum-throwing skills have proven invaluable in dealing with particularly difficult customers."`,
+
+            `Teenagers are being utilized in the warehouses, with Amazon praising their "lightning-fast texting thumbs" as ideal for rapid package sorting. Meanwhile, spouses and partners are being assigned to various departments based on their propensity for office gossip and ability to microwave fish in the break room.`,
+
+            `The program has not been without its hiccups. Reports suggest that the daycare-turned-coding-department has seen a 200% increase in bugs, most of which involve an inexplicable amount of digital crayon drawings in the software.`,
+
+            `Despite these challenges, Amazon remains optimistic. "We're killing two birds with one stone," Thompson added. "We're solving the childcare issue and filling our entry-level positions. Plus, we're pretty sure this skirts several labor laws, which is always a bonus."`,
+
+            `When asked about concerns over nepotism, Thompson chuckled, "Nepotism? In this economy? We prefer to call it 'family-sourced talent acquisition'."`,
+
+            `As the program rolls out across Amazon's offices, employees are reportedly torn between relief at solving their childcare woes and horror at subjecting their loved ones to corporate life. Meanwhile, Amazon's stock has surged on news that it has found a new, cost-effective labor pool that can be paid in juice boxes and Amazon gift cards.`,
         ]
     },
 ]
