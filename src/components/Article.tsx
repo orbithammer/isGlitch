@@ -185,6 +185,7 @@ const StyledCTAWrapper = styled.a`
     display: flex;
     flex-direction: column;
     align-items: center;
+    justify-content: center;
     text-decoration: none;
     color: inherit;
     border-radius: 0.25rem;
@@ -211,7 +212,7 @@ const StyledCTA = styled(StyledArticleBody)`
     font-family: "Source Serif 4", serif; 
     font-style: italic;
     font-size: 1rem;
-    margin: 0.5rem 1rem 1rem;
+    margin: 0.5rem 1rem 1rem 1.5rem;
     text-align: center;
     @media (min-width: 64rem) {
         text-align: left;
@@ -333,7 +334,7 @@ const Article: React.FC = () => {
                             <StyledCTAWrapper href="https://buymeacoffee.com/isglitch" target="_blank" rel="noopener noreferrer" theme={{ isDarkMode }}>
                                 <StyledCoffeeImg src={BuyMeACoffeeIcon} alt="Buy Me a Coffee icon" theme={{ isDarkMode }}/>
                                 <StyledCTA>
-                                    I know people are hurting out there, but running this site isn't free. Help me keep isGlitch.com up and running. If this site has brightened your day, and you have five bucks to spare, please click the cup icon to Buy Me a Coffee! <br/ > Many thanks to those who do. 
+                                    Support isGlitch.com and buy me a coffee! 
                                 </StyledCTA>
                             </StyledCTAWrapper>
                             <SocialLinks />

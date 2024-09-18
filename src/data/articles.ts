@@ -3189,4 +3189,31 @@ export const articlesData = [
             `As the program rolls out across Amazon's offices, employees are reportedly torn between relief at solving their childcare woes and horror at subjecting their loved ones to corporate life. Meanwhile, Amazon's stock has surged on news that it has found a new, cost-effective labor pool that can be paid in juice boxes and Amazon gift cards.`,
         ]
     },
+    {
+        id: 123,
+        articleUrl: `20240918-openai-launches-black`,
+        category: `ai`,
+        img: `/images/20240918-openai-launches-black.webp`,
+        alt: `A group of people in business attire bowing down to a sleek black monolith in a corporate boardroom`,
+        header: `OpenAI Launches "Black Box Plus" - Pay More, Know Less!`,
+        subhead: `Exclusive access to o1's mysteries for just $999/month`,
+        tags: [`OpenAI`, `Strawberry`],
+        author: `Alexa Turing`,
+        datePublished: new Date(2024,8,18,16),
+        articleBody: [
+            `OpenAI, the company that brought us ChatGPT and a constant stream of existential dread, has outdone itself yet again. In a move that can only be described as "peak Silicon Valley," they've announced their latest innovation: Black Box Plus, a premium subscription service that promises users even less insight into how their AI actually works.`,
+
+            `For the low, low price of $999 per month, subscribers gain the privilege of interacting with o1 Strawberry—OpenAI's latest language model—while being blissfully unaware of its inner workings. "We've listened to our users," said OpenAI CEO Sam Altman, his eyes gleaming with the fervor of a man who's seen the future and decided it should remain a mystery. "They wanted less transparency, more magic. So we're giving them exactly that."`,
+
+            `The Black Box Plus experience includes features like "Vague Responses Pro," which automatically replaces any specific information with comfortingly ambiguous phrases. Users will also enjoy "Plausible Deniability Mode," allowing them to claim ignorance about any controversial outputs their AI might generate.`,
+
+            `But wait, there's more! The premium tier includes a physical black box that sits on your desk, occasionally emitting ominous hums and flashing lights. "It doesn't actually do anything," admitted one OpenAI engineer, speaking on condition of anonymity. "But it really adds to the whole 'inscrutable AI' vibe we're going for."`,
+
+            `Critics argue that Black Box Plus is just a way for OpenAI to monetize their lack of transparency. Dr. Emily Nguyen, an AI ethics researcher, expressed concern: "It's like they're selling a pig in a poke, except the pig is an AI, the poke is a black box, and we're all the suckers buying it."`,
+
+            `Despite the criticism, early adopters are raving about the service. "I used to lie awake at night, worrying about AI alignment and the potential for human extinction," said Todd Benson, a self-proclaimed tech enthusiast. "Now, thanks to Black Box Plus, I can blissfully interact with potentially world-ending AI without a care in the world!"`,
+
+            `As for me, I've already signed up for a lifetime subscription. After all, in a world racing towards the singularity, ignorance isn't just bliss—it's a premium feature.`,
+        ]
+    },
 ]
