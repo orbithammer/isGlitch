@@ -3223,7 +3223,7 @@ export const articlesData = [
         img: `/images/20240919-roombas-bargain-bin.webp`,
         alt: `A circular robot vacuum tangled in a mess of spaghetti and sauce, happy toddler covered in spaghetti and sauce sitting on living room carpet in the background`,
         header: `Roomba's Bargain Bin: Where Dreams Go to Die`,
-        subhead: `Wallet-friendly bots promise clean floors, deliver existential dreadh`,
+        subhead: `Wallet-friendly bots promise clean floors, deliver existential dread`,
         tags: [`Roomba`],
         author: `Lester Girdle`,
         datePublished: new Date(2024,8,19,15),
