@@ -3216,4 +3216,29 @@ export const articlesData = [
             `As for me, I've already signed up for a lifetime subscription. After all, in a world racing towards the singularity, ignorance isn't just bliss—it's a premium feature.`,
         ]
     },
+    {
+        id: 124,
+        articleUrl: `20240919-roombas-bargain-bin`,
+        category: `reviews`,
+        img: `/images/20240919-roombas-bargain-bin.webp`,
+        alt: `A circular robot vacuum tangled in a mess of spaghetti and sauce, happy toddler covered in spaghetti and sauce sitting on living room carpet in the background`,
+        header: `Roomba's Bargain Bin: Where Dreams Go to Die`,
+        subhead: `Wallet-friendly bots promise clean floors, deliver existential dreadh`,
+        tags: [`Roomba`],
+        author: `Lester Girdle`,
+        datePublished: new Date(2024,8,19,15),
+        articleBody: [
+            `In the ever-expanding universe of soul-crushing gadgetry, few categories plumb the depths of despair quite like budget robot vacuums. These plastic pucks of disappointment promise to liberate us from the drudgery of floor maintenance, but instead offer a front-row seat to the theater of the absurd.`,
+
+            `Take the iLife V3s Pro, a name that sounds like it was conjured up by a malfunctioning AI. This $160 wonder claims to "effortlessly clean your floors," much like how I claim to be a functioning adult. In reality, it bumbles around your living room like a drunken roommate, occasionally picking up a stray Cheerio before wedging itself under the couch, where it emits a plaintive beep that serves as a cry for help – or perhaps a warning to flee while you still can.`,
+
+            `Not to be outdone in the race to the bottom, the Eufy RoboVac 11S offers what they call "BoostIQ Technology." One can only assume this refers to its uncanny ability to boost your IQ by making you question every life decision that led you to this moment. Watch in awe as it repeatedly rams into the same table leg, each collision a poignant metaphor for your attempts to navigate life's obstacles.`,
+
+            `For those truly committed to disappointment, there's the IKOHS NETBOT S15. At a bargain $130, it's less a vacuum and more a mobile dust redistribution system. Its crowning achievement? The ability to get tangled in literally anything – power cords, shoelaces, your last shred of dignity. It's like watching a technological interpretive dance of your own struggles with adulting.`,
+
+            `But perhaps the crown jewel of this depressing lot is the Lefant M210. This $140 marvel boasts "FreeMove Technology," which in practice means it's free to move anywhere except where the dirt actually is. Its app connectivity is a masterstroke of futility, allowing you to watch in real-time as it studiously avoids every speck of debris in your home.`,
+
+            `In conclusion, these budget robot vacuums offer a unique value proposition: for the price of a few decent meals, you can own a device that serves as a constant reminder of life's inherent disappointments. They may not clean your floors, but they'll certainly vacuum up any remaining optimism you had about the promise of technology. And really, isn't that priceless?`,
+        ]
+    },
 ]
