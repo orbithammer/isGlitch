@@ -3272,4 +3272,33 @@ export const articlesData = [
             `As the dust settles on Silicon Valley's latest ethical AI misadventure, one thing is clear: the path to a morally upright digital utopia is paved with good intentions, spectacular failures, and an awful lot of cleared browser histories.`,
         ]
     },
+    {
+        id: 126,
+        articleUrl: `20240921-study-99-cant`,
+        category: `tech`,
+        img: `/images/20240921-study-99-cant.webp`,
+        alt: `A newspaper front page full of ads`,
+        header: `Study: 99% Can't Tell News from Native Ads`,
+        subhead: `Researchers shocked as line between journalism and marketing blurs`,
+        tags: [`Science`],
+        author: `Et Al`,
+        datePublished: new Date(2024,8,21,9),
+        articleBody: [
+            `A groundbreaking study from the Princeton Center for Digital Media has sent shockwaves through both the journalism and advertising industries. The research, which surveyed over 10,000 internet users across various demographics, found that a staggering 99% of participants were unable to distinguish between legitimate news articles and native advertising.`,
+
+            `Dr. Emily Hawthorne, lead researcher on the project, expressed disbelief at the findings. "We expected some confusion, but this level of indistinguishability is unprecedented," she said, shaking her head. "It appears we've entered a new era where the line between information and promotion has become almost invisible."`,
+
+            `The study presented participants with a mix of real news articles and sponsored content from major publications. Shockingly, even when native ads were clearly labeled as "sponsored," most readers failed to notice or understand the significance.`,
+
+            `Tom Wheeler, a 42-year-old participant from Ohio, defended his poor performance: "Wait, you're telling me that '10 Gut-Busting Superfoods That Will Change Your Life' wasn't hard-hitting journalism? But it had so many facts and figures!"`,
+
+            `Marketing executives, initially thrilled by the results, have begun to question the value of their craft. "If no one can tell the difference between our paid content and actual news, why are we paying for it?" mused Janet Kline, CMO of a major soft drink company. "Maybe we should just start our own news outlets. Oh wait, we already did."`,
+
+            `Journalists, meanwhile, are grappling with an existential crisis. Veteran reporter Michael Fallows lamented, "I spent years honing my investigative skills, only to find out I could have just been writing listicles about celebrity pet diets this whole time?"`,
+
+            `The implications of the study extend beyond the media landscape. Political analysts worry about the potential for manipulation, while educators stress the urgent need for improved media literacy.`,
+
+            `As the debate rages on, one thing is clear: in the murky waters of the modern internet, telling fact from fiction - or news from ads - has become a Herculean task. And as the old saying goes, if you can't beat 'em, why not sell 'em something?`,
+        ]
+    },
 ]
