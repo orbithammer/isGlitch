@@ -98,6 +98,10 @@ export const StyledArticleInfo = styled.p`
   font-variation-settings: "wdth" 100;
   text-transform: uppercase;
   padding: 0 0.5rem;
+  font-size: 0.77rem;
+  @media (min-width: 64rem) {
+    font-size: 1rem;
+  }
 `;
 
 export const StyledAuthor = styled(Link)`

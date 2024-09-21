@@ -3277,7 +3277,7 @@ export const articlesData = [
         articleUrl: `20240921-study-99-cant`,
         category: `tech`,
         img: `/images/20240921-study-99-cant.webp`,
-        alt: `A newspaper front page full of ads`,
+        alt: `POV shot of hands holding a newspaper front page full of ads`,
         header: `Study: 99% Can't Tell News from Native Ads`,
         subhead: `Researchers shocked as line between journalism and marketing blurs`,
         tags: [`Science`],
