@@ -3301,4 +3301,33 @@ export const articlesData = [
             `As the debate rages on, one thing is clear: in the murky waters of the modern internet, telling fact from fiction - or news from ads - has become a Herculean task. And as the old saying goes, if you can't beat 'em, why not sell 'em something?`,
         ]
     },
+    {
+        id: 127,
+        articleUrl: `20240922-microsofts-rad-new`,
+        category: `tech`,
+        img: `/images/20240922-microsofts-rad-new.webp`,
+        alt: `A smiling employee in business attire holding a comically oversized bottle of potassium iodide pills`,
+        header: `Microsoft's Rad New Perk: A Lifetime Supply of Potassium Iodide`,
+        subhead: `Tech giant sweetens relocation package for Three Mile Island data center staff`,
+        tags: [`Microsoft`, `3 Mile Island`],
+        author: `Et Al`,
+        datePublished: new Date(2024,8,22,10),
+        articleBody: [
+            `In a move that's raising eyebrows across Silicon Valley, Microsoft has announced a unique addition to its employee benefits package for those relocating to its new Three Mile Island data center: a lifetime supply of potassium iodide tablets.`,
+
+            `The tech behemoth, which recently partnered with Constellation to restart the infamous nuclear power plant, is pulling out all the stops to attract top talent to its cutting-edge facility.`, 
+
+            `"We're committed to the health and well-being of our employees," said Rajesh Patel, Microsoft's VP of Nuclear-Powered Innovation. "This generous offer of potassium iodide supplements demonstrates our proactive approach to workplace wellness in the atomic age."`,
+
+            `The tablets, typically used to protect the thyroid gland from radioactive iodine in the event of a nuclear incident, will be available to employees via convenient vending machines scattered throughout the campus.`, 
+
+            `"It's like a multivitamin, but for the nuclear age," quipped Dana Thompson, a software engineer who recently accepted a position at the new facility. "I'm looking forward to the warm glow of career advancement – and nothing else, hopefully."`,
+
+            `Microsoft's HR department has been quick to emphasize that the potassium iodide provision is purely precautionary and not indicative of any elevated risk at the site. However, they've also introduced a quirky new slogan for internal use: "Code hard, code safe, and don't forget your I-131 blockers!"`,
+
+            `In related news, local real estate agents report a surge in interest for properties with underground bunkers, while area supplements stores have seen a run on Geiger counters and hazmat suits.`,
+
+            `As the tech industry watches this bold experiment unfold, one thing is clear: Microsoft is determined to remain at the forefront of innovation, even if it means embracing a slightly radioactive work environment. After all, in the fast-paced world of tech, sometimes you have to risk a little fallout to stay ahead of the competition.`,
+        ]
+    },
 ]
