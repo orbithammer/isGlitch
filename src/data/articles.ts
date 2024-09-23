@@ -3306,7 +3306,7 @@ export const articlesData = [
         articleUrl: `20240922-microsofts-rad-new`,
         category: `tech`,
         img: `/images/20240922-microsofts-rad-new.webp`,
-        alt: `A smiling employee in business attire holding a comically oversized bottle of potassium iodide pills`,
+        alt: `A smiling employee in business attire holding a bottle of potassium iodide pills`,
         header: `Microsoft's Rad New Perk: A Lifetime Supply of Potassium Iodide`,
         subhead: `Tech giant sweetens relocation package for Three Mile Island data center staff`,
         tags: [`Microsoft`, `3 Mile Island`],
@@ -3328,6 +3328,35 @@ export const articlesData = [
             `In related news, local real estate agents report a surge in interest for properties with underground bunkers, while area supplements stores have seen a run on Geiger counters and hazmat suits.`,
 
             `As the tech industry watches this bold experiment unfold, one thing is clear: Microsoft is determined to remain at the forefront of innovation, even if it means embracing a slightly radioactive work environment. After all, in the fast-paced world of tech, sometimes you have to risk a little fallout to stay ahead of the competition.`,
+        ]
+    },
+    {
+        id: 128,
+        articleUrl: `20240923-gamers-72-hour`,
+        category: `ai`,
+        img: `/images/20240923-gamers-72-hour.webp`,
+        alt: `A middle-aged Japanese worker holding a pineapple looking frustrated at the viewer, cyberpunk ramen shop interior background`,
+        header: `Gamer's 72-Hour AI NPC Crusade: A Noodle Nightmare`,
+        subhead: `AI-powered NPC refuses to acknowledge pineapple as valid ramen topping`,
+        tags: [`Nvidia`, `Video Games`],
+        author: `Alexa Turing`,
+        datePublished: new Date(2024,8,23,10),
+        articleBody: [
+            `Toby Watkins, a 28-year-old software developer from Portland, has spent the last three days locked in an epic battle of wills with Jin, the AI-powered proprietor of Hiroshi's Ramen Shop in Nvidia's latest ACE demo. The conflict? Watkins' unwavering belief that pineapple belongs on ramen.`,
+
+            `"It started as a joke," Watkins explained, his bloodshot eyes never leaving the screen. "I thought I'd see how the AI handled a curveball. But now it's personal. I will make this digital noodle merchant see the light, or die trying."`,
+
+            `Nvidia's ACE technology, designed to create more dynamic and responsive NPCs, has inadvertently spawned a culinary standoff for the ages. Jin, programmed with an extensive knowledge of traditional ramen preparation, has steadfastly refused to acknowledge pineapple as a valid topping, despite Watkins' increasingly desperate arguments.`,
+
+            `"I've tried everything," Watkins lamented. "I've cited the Hawaiian pizza precedent. I've invented a fictional Japanese pineapple festival. I even tried to convince Jin that pineapple is just a really big, yellow bean sprout. Nothing works!"`,
+
+            `As news of the ramen showdown spread, it attracted a growing online audience. Twitch streams of Watkins' ordeal have garnered millions of views, with viewers split between #TeamPineapple and #RamenPurists.`,
+
+            `Nvidia spokesperson Melissa Chen seemed both amused and concerned by the situation. "While we're thrilled to see such engagement with our ACE demo, we do want to remind users that our NPCs are not designed to be worn down through sheer persistence. Also, Mr. Watkins, please get some sleep. And maybe a real bowl of ramen."`,
+
+            `As the standoff enters its fourth day, Watkins remains undeterred. "I've come too far to give up now. Jin will accept pineapple on ramen, or I'll die trying. And if that happens, I want my epitaph to read: 'Here lies Toby. He died as he lived – fighting for fruit on noodles.'"`,
+
+            `In related news, therapists worldwide report a surge in clients seeking treatment for "AI-induced culinary trauma."`,
         ]
     },
 ]
