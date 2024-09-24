@@ -3359,4 +3359,33 @@ export const articlesData = [
             `In related news, therapists worldwide report a surge in clients seeking treatment for "AI-induced culinary trauma."`,
         ]
     },
+    {
+        id: 129,
+        articleUrl: `20240924-ai-catches-students`,
+        category: `ai`,
+        img: `/images/20240924-ai-catches-students.webp`,
+        alt: `A close-up of a student's face with comically wide, unblinking eyes and a forced smile, with "AI Approved" stamp on their forehead, classroom interior background`,
+        header: `AI Catches Student's Eye-Roll, Expels Her Faster Than You Can Blink`,
+        subhead: `Facial recognition in schools: The future of discipline or digital dystopia?`,
+        tags: [`Education`, `Surveillance`],
+        author: `Alexa Turing`,
+        datePublished: new Date(2024,8,24,10),
+        articleBody: [
+            `In a move that's sure to make HAL 9000 proud, Middleton High School's new AI-powered facial recognition system has expelled its first student for the grievous crime of... excessive eye-rolling. Yes, you read that right, fellow homo sapiens. The future of education is here, and it's watching your every micro-expression!`,
+
+            `Honor student Jessica Nguyen found herself on the wrong side of the algorithm during Mr. Peterson's algebra class. The AI, affectionately dubbed "Big Teacher" by students, detected 37 instances of eye-rolling in a single period. One can only imagine the polynomial-induced agony that led to such a flagrant display of ocular dissent.`,
+
+            `Principal Robert Thornton, clearly embracing his role as human ambassador to our new silicon overlords, defended the decision. "Our AI doesn't make mistakes," he declared, his smile as frozen as a crashed computer. "If it detected 37 eye-rolls, then that's a clear violation of our new zero-tolerance policy on micro-aggressions."`,
+
+            `The student body, showing a rebellious spirit that would make the Luddites proud, has launched what they're calling the "Arrgh-bellion." Teenagers are now sporting eyepatches in solidarity, proving that Gen Z can meme faster than any AI can adapt.`,
+
+            `EducaSurv CEO Linda Blackwell, whose company birthed this binary behemoth, stands firmly behind her digital offspring. "Our system is 99.9% accurate in detecting subtle signs of disrespect, boredom, and potential mutiny," she boasted. One wonders if it can also detect the irony in using "mutiny" to describe high school students.`,
+
+            `Civil liberties groups are up in arms, with ACLU spokesperson James Wilson asking, "When a computer can expel a student for involuntary facial movements, we've crossed a line. What's next, detention for excessive blinking?"`,
+
+            `As schools nationwide rush to implement similar systems, students are adapting. "I'm practicing my poker face," said sophomore Emily Johnson. "But it's hard when Mr. Peterson starts talking about the exciting world of quadratic equations."`,
+
+            `In this brave new world of AI-powered education, even the roll of an eye can have serious consequences. Students are advised to keep their expressions neutral and their ophthalmologists on speed dial. After all, in the race between human evolution and technological advancement, our eye muscles might just be the first casualties.`,
+        ]
+    },
 ]
