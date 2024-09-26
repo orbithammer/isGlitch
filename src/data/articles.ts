@@ -3393,7 +3393,7 @@ export const articlesData = [
         articleUrl: `20240925-musk-gifts-abusers`,
         category: `tech`,
         img: `/images/20240925-musk-gifts-abusers.webp`,
-        alt: `A shadowy silhouette of a person lurking behind a computer screen, with the "Omni-Harassment" logo prominently displayed`,
+        alt: `A shadowy silhouette of a person lurking behind a laptop with the "Omni-Harassment" logo`,
         header: `Musk Gifts Abusers Early Access to X's New 'Omni-Harassment' Feature`,
         subhead: `Leaked emails reveal plans to let stalkers seamlessly harass victims across all platforms`,
         tags: [`Twitter`, `Elon Musk`],
@@ -3415,6 +3415,41 @@ export const articlesData = [
             `"Free speech is the cornerstone of a healthy society," the Tesla CEO tweeted. "And if that means making it easier for stalkers to terrorize their victims, then so be it. Progress requires sacrifice."`,
 
             `When reached for comment, Musk added that the company is also exploring ways to gamify online harassment, with plans for abuser-themed emojis and leaderboards rewarding the most prolific trolls.`,
+        ]
+    },
+    {
+        id: 131,
+        articleUrl: `20240926-redditors-cant-stop`,
+        category: `tech`,
+        img: `/images/20240926-redditors-cant-stop.webp`,
+        alt: `A support group of angry men and women in chaos as everyone screams and fights with each other, chairs in a circle, community center background with a banner that says "AITA Addiction Support Group"`,
+        header: `Redditors Can't Stop Judging Each Other at AITA Addiction Support Group`,
+        subhead: `The First Rule of AITA Club is You Talk About AITA Club`,
+        tags: [`Reddit`],
+        author: `Et Al`,
+        datePublished: new Date(2024,8,26,18),
+        articleBody: [
+            `SILICON VALLEY, CA — When 32-year-old software engineer Ethan Li decided to start an AITA Addiction Support Group, he thought it would be a safe space for fellow sufferers to work on their obsessive Reddit browsing habits. Little did he know, the first meeting would devolve into a full-blown moral judgment festival.`,
+
+            `"I just wanted us to share our stories and support each other," said a defeated-looking Li. "Instead, it was like everyone was competing to see who could out-AITA the others."`,
+
+            `The meeting started promisingly enough, with attendees introducing themselves and sharing how AITA had taken over their lives. Marketing manager Jessica Huang opened up about missing deadlines at work due to binge-reading posts. Freelance writer Alex Martinez confessed to spending entire weekends refreshing the subreddit.`,
+
+            `But things quickly unraveled when it came time to discuss coping strategies.`, 
+
+            `"I suggested we all delete the Reddit app and go for a nature walk instead," Martinez recalled. "That's when the fireworks started."`,
+
+            `Accountant Samantha Patel immediately jumped in. "Uh, YTA? How is going outside supposed to help with our addiction? That's just avoidance behavior."`, 
+
+            `The group then descended into a flurry of counterarguments, accusations, and unsolicited life advice. At one point, a heated debate broke out over the appropriate protocol for bringing a casserole to a grieving neighbor.`,
+
+            `"I swear, I could practically see the AITA acronyms floating above everyone's heads," Li said, shaking his head. "It was a total shitshow."`,
+
+            `The meeting came to an abrupt end when software developer Tina Wu dramatically stormed out, declaring the whole endeavor "a waste of time" before anyone could offer a verdict on her exit.`,
+
+            `Despite the disastrous first session, Li remains hopeful that the AITA Addiction Support Group can still find its footing. He's considering requiring mandatory "no-judgement" pledges at the next meeting.`,
+
+            `"I guess I learned the hard way that you can take the Redditor out of AITA, but you can't take the AITA out of the Redditor," he sighed. "Looks like I've got my work cut out for me."`,
         ]
     },
 ]
