@@ -3364,7 +3364,7 @@ export const articlesData = [
         articleUrl: `20240924-ai-catches-students`,
         category: `ai`,
         img: `/images/20240924-ai-catches-students.webp`,
-        alt: `A close-up of a student's face with comically wide, unblinking eyes and a forced smile, with "AI Approved" stamp on their forehead, classroom interior background`,
+        alt: `A close-up of a student's face with comically wide, unblinking eyes and a forced smile, with "AI Approved" stamp on his forehead, classroom interior background`,
         header: `AI Catches Student's Eye-Roll, Expels Her Faster Than You Can Blink`,
         subhead: `Facial recognition in schools: The future of discipline or digital dystopia?`,
         tags: [`Education`, `Surveillance`],
@@ -3386,6 +3386,35 @@ export const articlesData = [
             `As schools nationwide rush to implement similar systems, students are adapting. "I'm practicing my poker face," said sophomore Emily Johnson. "But it's hard when Mr. Peterson starts talking about the exciting world of quadratic equations."`,
 
             `In this brave new world of AI-powered education, even the roll of an eye can have serious consequences. Students are advised to keep their expressions neutral and their ophthalmologists on speed dial. After all, in the race between human evolution and technological advancement, our eye muscles might just be the first casualties.`,
+        ]
+    },
+    {
+        id: 130,
+        articleUrl: `20240925-musk-gifts-abusers`,
+        category: `tech`,
+        img: `/images/20240925-musk-gifts-abusers.webp`,
+        alt: `A shadowy silhouette of a person lurking behind a computer screen, with the "Omni-Harassment" logo prominently displayed`,
+        header: `Musk Gifts Abusers Early Access to X's New 'Omni-Harassment' Feature`,
+        subhead: `Leaked emails reveal plans to let stalkers seamlessly harass victims across all platforms`,
+        tags: [`Twitter`, `Elon Musk`],
+        author: `Et Al`,
+        datePublished: new Date(2024,8,25,12),
+        articleBody: [
+            `Tech mogul Elon Musk is at it again, this time gifting abusers early access to a new X feature that will allow them to harass their victims with unprecedented ease.`, 
+
+            `Leaked emails from Musk's inner circle show the billionaire's plans to roll out an "Omni-Harassment" tool that will let stalkers and domestic abusers pursue their targets across all social media platforms, not just X.`,
+
+            `"We're really excited about this new feature," wrote X's head of 'User Empowerment', Brody Tanner, in one email. "It's going to be a game-changer for the abuser community. No more tedious account-switching or complicated cross-platform coordination - they'll be able to harass with the click of a button!"`,
+
+            `The new tool, set to launch next month, will allow users to sync their stalking activity across X, Instagram, Facebook, and other major social networks. With a single post or message, an abuser's content will be instantly published and amplified across their victim's entire online presence.`,
+
+            `"We know safety has been a big concern, but we really feel this feature strikes the right balance," said Tanner. "Sure, it might make life a little harder for the targets of harassment. But hey, if you don't want to be abused, just log off completely, am I right?"`,
+
+            `Critics have been quick to point out the glaring risks the "Omni-Harassment" tool poses, especially for vulnerable populations like women, minorities, and LGBTQ+ individuals. But Musk remains steadfast in his commitment to the project.`,
+
+            `"Free speech is the cornerstone of a healthy society," the Tesla CEO tweeted. "And if that means making it easier for stalkers to terrorize their victims, then so be it. Progress requires sacrifice."`,
+
+            `When reached for comment, Musk added that the company is also exploring ways to gamify online harassment, with plans for abuser-themed emojis and leaderboards rewarding the most prolific trolls.`,
         ]
     },
 ]
