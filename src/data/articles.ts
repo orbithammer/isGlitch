@@ -3460,8 +3460,8 @@ export const articlesData = [
         alt: `A person in Kratos from God of War cosplay attempting to make a phone call using a hollowed-out horn, Norwegian fjord background`,
         header: `Mod Creator Flees to Fjords, Becomes Accidental Viking`,
         subhead: `Ragnarök cosplay takes unexpected turn as coder embraces Norse life`,
-        tags: [`Reddit`],
-        author: `Et Al`,
+        tags: [`Sony`, `Video Games`],
+        author: `Pieter Klykbeit`,
         datePublished: new Date(2024,8,27,12),
         articleBody: [
                 `Vladyslav Nuzhnov, the mastermind behind the now-infamous God of War Ragnarök PSN bypass mod, has taken his fear of Sony's legal department to unprecedented heights. Sources close to the paranoid programmer reveal he's abandoned modern life entirely, retreating to the Norwegian wilderness in a misguided attempt to "live like Kratos."`,
