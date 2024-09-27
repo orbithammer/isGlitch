@@ -3457,7 +3457,7 @@ export const articlesData = [
         articleUrl: `20240927-mod-creator-flees`,
         category: `entertainment`,
         img: `/images/20240927-mod-creator-flees.webp`,
-        alt: `A person in Kratos from God of War cosplay attempting to make a phone call using a hollowed-out horn, Norwegian fjord background`,
+        alt: `A person in Kratos from God of War cosplay furiously typing on a laptop made of wood and stones, Norwegian fjord background`,
         header: `Mod Creator Flees to Fjords, Becomes Accidental Viking`,
         subhead: `Ragnarök cosplay takes unexpected turn as coder embraces Norse life`,
         tags: [`Sony`, `Video Games`],
