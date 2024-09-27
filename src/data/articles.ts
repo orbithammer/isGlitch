@@ -3452,4 +3452,35 @@ export const articlesData = [
             `"I guess I learned the hard way that you can take the Redditor out of AITA, but you can't take the AITA out of the Redditor," he sighed. "Looks like I've got my work cut out for me."`,
         ]
     },
+    {
+        id: 132,
+        articleUrl: `20240927-mod-creator-flees`,
+        category: `entertainment`,
+        img: `/images/20240927-mod-creator-flees.webp`,
+        alt: `A person in Kratos from God of War cosplay attempting to make a phone call using a hollowed-out horn, Norwegian fjord background`,
+        header: `Mod Creator Flees to Fjords, Becomes Accidental Viking`,
+        subhead: `Ragnarök cosplay takes unexpected turn as coder embraces Norse life`,
+        tags: [`Reddit`],
+        author: `Et Al`,
+        datePublished: new Date(2024,8,27,12),
+        articleBody: [
+                `Vladyslav Nuzhnov, the mastermind behind the now-infamous God of War Ragnarök PSN bypass mod, has taken his fear of Sony's legal department to unprecedented heights. Sources close to the paranoid programmer reveal he's abandoned modern life entirely, retreating to the Norwegian wilderness in a misguided attempt to "live like Kratos."`,
+
+                `"Vlad always was a bit intense," said former roommate Dmitry Volkov, "but I never expected him to trade his gaming rig for a battle axe and a goat."`,
+
+                `Nuzhnov's journey from code monkey to fjord dweller began after his mod gained traction on gaming forums. Convinced Sony's lawyers were plotting his demise, he reportedly sold all his belongings, except for a well-worn copy of "Norse Mythology for Dummies" and a suspiciously new-looking Viking helmet.`,
+
+                `Satellite imagery shows Nuzhnov has constructed a crude longhouse using nothing but his bare hands and a YouTube tutorial on traditional Scandinavian architecture. Local hunters report sightings of a bearded man attempting to craft runes from Monster Energy drink cans and fashioning a makeshift Leviathan Axe from a tree branch and his old PlayStation 5.`,
+
+                `"He's actually gotten quite good at hunting and foraging," noted Thor Larsson, a bemused park ranger. "Though his battle cry of 'sudo rm -rf Sony!' tends to scare off most of the wildlife."`,
+
+                `In a twist of irony lost on no one but Nuzhnov himself, his survival skills have improved dramatically. He's mastered fire-starting, animal tracking, and can even navigate by the stars – skills eerily similar to those of Kratos and Atreus in the very game he sought to modify.`,
+
+                `Sony has yet to comment on Nuzhnov's whereabouts, though unconfirmed reports suggest the company is considering hiring him as a historical consultant for future God of War installments.`,
+
+                `As winter approaches, concerns grow for Nuzhnov's well-being. However, his last known communication – a smoke signal that roughly translated to "Git commit -m 'Odin ain't got nothin' on me'" – suggests he remains in high spirits.`,
+
+                `For now, the tech world watches in fascination as one man's digital rebellion transforms into an unintentional method-acting masterclass. One can only hope Nuzhnov remembers that unlike in God of War, respawning isn't an option in the real Norse wilderness.`,
+        ]
+    },
 ]
