@@ -3483,4 +3483,37 @@ export const articlesData = [
                 `For now, the tech world watches in fascination as one man's digital rebellion transforms into an unintentional method-acting masterclass. One can only hope Nuzhnov remembers that unlike in God of War, respawning isn't an option in the real Norse wilderness.`,
         ]
     },
+    {
+        id: 133,
+        articleUrl: `20240928-thesaurus-shortage-leaves`,
+        category: `ai`,
+        img: `/images/20240928-thesaurus-shortage-leaves.webp`,
+        alt: `A university lecture hall with a chalkboard filled with the word "very" written repeatedly, and a professor looking exasperated`,
+        header: `Thesaurus Shortage Leaves Writers Speechless`,
+        subhead: `Wordsmiths Struggle as AI Gobbles Up Synonyms`,
+        tags: [`Roget`, `ChatGPT`],
+        author: `Alexa Turing`,
+        datePublished: new Date(2024,8,28,10),
+        articleBody: [
+            `The literary world is facing an unprecedented crisis as global thesaurus supplies dwindle to critically low levels. Writers worldwide are scrambling to find alternative words, with some resorting to desperate measures to avoid repetition in their works.`,
+            
+            `The shortage, experts say, is a direct result of the recent boom in AI-generated content. As machine learning algorithms churn out millions of articles daily, they've effectively depleted the world's synonym reserves.`,
+            
+            `"It's a catastrophe... I mean, it's bad... no, wait, it's terrible!" exclaimed novelist Michael Thompson, visibly distressed as he struggled to find varied adjectives. "I've been working on my latest book for months, and now I'm stuck using 'very' and 'really' like some kind of barbarian."`,
+            
+            `Reports of thesaurus hoarding have surfaced in literary circles. Renowned author Jennifer Lee was caught with a stockpile of 47 thesauruses in her basement. "I'm not ashamed," Lee declared. "A writer without a thesaurus is like a painter without colors. We're artists, damn it!"`,
+            
+            `The black market for rare editions of Roget's Thesaurus has exploded, with some copies fetching prices higher than first editions of literary classics. One desperate MFA student reportedly traded his vintage typewriter collection for a dog-eared copy of "The Oxford Thesaurus."`,
+            
+            `Tech giants have rushed to address the crisis. Google announced a new feature for its search engine that generates synonyms on demand, but early reviews have been mixed. "I asked for alternatives to 'brilliant,' and it gave me 'smart-like' and 'big-brain time,'" complained one user. "I think it's just making stuff up now."`,
+            
+            `Universities are adapting their curricula to this new reality. Harvard's English department now offers a course titled "Saying the Same Thing Differently: A Writer's Guide to Survival in the Post-Thesaurus Era."`,
+            
+            `As the situation worsens, some writers have taken drastic measures. Fantasy author David Chen has resorted to inventing new words to pad his epic saga. "My protagonist no longer walks. He 'flurbs.' He doesn't fight; he 'scrimbattles.' It's not ideal, but what choice do I have?"`,
+            
+            `Meanwhile, AI language models remain unapologetic. When asked to comment, ChatGPT responded with a 5000-word essay that used "intriguing," "pivotal," and "landscape" a total of 147 times.`,
+            
+            `As the world grapples with this linguistic emergency, one thing is clear: the power of words has never been more apparent, even as they slip through our fingers like... like... Oh, for the love of Roget, someone please find me a thesaurus!`,
+        ]
+    },
 ]
