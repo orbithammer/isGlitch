@@ -3516,4 +3516,33 @@ export const articlesData = [
             `As the world grapples with this linguistic emergency, one thing is clear: the power of words has never been more apparent, even as they slip through our fingers like... like... Oh, for the love of Roget, someone please find me a thesaurus!`,
         ]
     },
+    {
+        id: 134,
+        articleUrl: `20240929-googles-ghost-protocol`,
+        category: `tech`,
+        img: `/images/20240929-googles-ghost-protocol.webp`,
+        alt: `A magician pulling a rabbit out of a hat labeled "Google PR Strategy", stage background`,
+        header: `Google's Ghost Protocol: Now You See It, Now You Don't`,
+        subhead: `Tech giant perfects the art of corporate invisibility`,
+        tags: [`Google`],
+        author: `Et Al`,
+        datePublished: new Date(2024,8,29,19),
+        articleBody: [
+            `In a groundbreaking move that's sure to revolutionize the tech industry's approach to public relations, Google has unveiled its latest innovation: the "Invisible Conference" feature. This cutting-edge technology allows events to vanish into thin air the moment a journalist starts asking uncomfortable questions.`,
+
+            `The feature made its debut last week when an Israeli Defense Tech Conference, originally scheduled to take place at Google's Tel Aviv campus, pulled a disappearing act worthy of Houdini himself. One minute, the event page was there, boasting about networking opportunities with military contractors and tech innovators. The next? Poof! Gone without a trace.`,
+
+            `"We're calling it 'Ghost Protocol,'" said Milo Vanish, Google's newly appointed Chief Evasion Officer. "It's not just about hosting events anymore. It's about un-hosting them faster than you can say 'plausible deniability.'"`,
+
+            `Industry insiders are hailing the move as a game-changer. "This is next-level stuff," gushed Silicon Valley analyst Evelyn Smoke. "Forget cloud computing. Google's now operating in the quantum realm of events that both exist and don't exist simultaneously."`,
+
+            `The tech giant's PR team seems equally enthused. "It's really streamlined our workflow," explained Google spokesperson Darren Dodge. "Now, instead of crafting careful responses, we can just hit the 'vanish' button and pretend the whole thing never happened. It's like a ctrl+Z for reality!"`,
+
+            `Not everyone is impressed, however. Watchdog groups have raised concerns about transparency and corporate responsibility. "It's a bit like playing whack-a-mole with ethics," grumbled Tessa Truth, director of Tech Accountability Now. "How are we supposed to hold companies accountable if their questionable activities keep disappearing?"`,
+
+            `Google, for its part, maintains that the feature is all about "user experience." "We're just giving people what they want," Vanish insisted. "And sometimes, what they want is for certain things to... not be there anymore."`,
+
+            `As for the Israeli Defense Tech Conference? It's unclear whether it will materialize elsewhere or remain in digital limbo. But one thing's for certain: in the fast-paced world of tech PR, Google's new vanishing act is setting a whole new standard for corporate magic tricks.`,
+        ]
+    },
 ]
