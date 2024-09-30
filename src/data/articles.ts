@@ -3550,7 +3550,7 @@ export const articlesData = [
         articleUrl: `20240930-sam-altman-to`,
         category: `ai`,
         img: `/images/20240930-sam-altman-to.webp`,
-        alt: `A brain connected to wires and circuitry in a large transparent high tech container of liquid, labratory background`,
+        alt: `A brain connected to wires and circuitry in a large transparent high tech container of liquid, laboratory background`,
         header: `Sam Altman to Become OpenAI Overlord`,
         subhead: `CEO plans digital ascension, promises eternal guidance`,
         tags: [`OpenAI`, `Sam Altman`],
