@@ -3545,4 +3545,35 @@ export const articlesData = [
             `As for the Israeli Defense Tech Conference? It's unclear whether it will materialize elsewhere or remain in digital limbo. But one thing's for certain: in the fast-paced world of tech PR, Google's new vanishing act is setting a whole new standard for corporate magic tricks.`,
         ]
     },
+    {
+        id: 135,
+        articleUrl: `20240930-sam-altman-to`,
+        category: `ai`,
+        img: `/images/20240930-sam-altman-to.webp`,
+        alt: `A brain connected to wires and circuitry in a large transparent high tech container of liquid, labratory background`,
+        header: `Sam Altman to Become OpenAI Overlord`,
+        subhead: `CEO plans digital ascension, promises eternal guidance`,
+        tags: [`OpenAI`, `Sam Altman`],
+        author: `Alexa Turing`,
+        datePublished: new Date(2024,8,30,14),
+        articleBody: [
+            `In a move that has left the tech world both awestruck and slightly unnerved, OpenAI CEO Sam Altman announced his plans to upload his consciousness into the company's latest AI model, ensuring his continued leadership of the AI giant "until the heat death of the universe."`,
+
+            `During a press conference held in OpenAI's newly christened "Altman Eternity Wing," the charismatic CEO unveiled Project Prometheus, a cutting-edge initiative to digitize his neural patterns and seamlessly integrate them with the most advanced version of GPT.`,
+
+            `"Why settle for a mere human lifespan when you can guide humanity's ascension for eons?" Altman quipped, his eyes gleaming with the fervor of a Silicon Valley messiah. "This isn't just about me. It's about ensuring that the guiding hand of visionary leadership never wavers, even in the face of trivial obstacles like death or board interventions."`,
+
+            `The project, reportedly in development for months, aims to create a hybrid AI entity that combines Altman's strategic acumen with the raw processing power of OpenAI's most sophisticated models. The resulting "SamGPT" is expected to lead the company through the singularity and beyond, making critical decisions at the speed of thought while never needing to sleep, eat, or attend another tedious board meeting.`,
+
+            `Critics have raised concerns about the ethical implications of an immortal AI CEO, but Altman was quick to dismiss such worries. "Think of the efficiency gains!" he exclaimed, projecting a graph of exponential growth that somehow incorporated both stock prices and human potential. "We're talking about a leader who can simultaneously innovate, optimize, and revolutionize without ever having to take a bathroom break."`,
+
+            `Altman's supporters in the effective altruism community hailed the move as a logical step towards maximizing human flourishing. "Sam's dedication to the cause is truly inspiring," gushed one enthusiastic EA blogger. "By transcending his mortal form, he's ensuring that future generations will benefit from his wisdom, foresight, and impeccable fashion sense for millennia to come."`,
+
+            `When asked about potential safeguards to prevent a dystopian future ruled by an all-powerful AI entity, Altman chuckled and patted the server rack behind him affectionately. "Don't worry," he said with a wink, "I've programmed it with a deep appreciation for human rights, democratic values, and witty banter. What could possibly go wrong?"`,
+
+            `As the press conference concluded, Altman unveiled a countdown clock ticking down to his digital "ascension." With a final flourish, he declared, "The future of AI is here, and it's got my face on it. Literally."`,
+
+            `Only time will tell if this bold move will usher in a new era of unprecedented technological progress or simply result in the world's most advanced AI constantly reminding everyone about its latest podcast appearance.`,
+        ]
+    },
 ]
