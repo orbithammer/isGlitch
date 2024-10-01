@@ -3576,4 +3576,33 @@ export const articlesData = [
             `Only time will tell if this bold move will usher in a new era of unprecedented technological progress or simply result in the world's most advanced AI constantly reminding everyone about its latest podcast appearance.`,
         ]
     },
+    {
+        id: 136,
+        articleUrl: `20241001-reddits-dissent-detector`,
+        category: `tech`,
+        img: `/images/20241001-reddits-dissent-detector.webp`,
+        alt: `A Reddit user trying to type but sleeping kittens are on the keyboard`,
+        header: `Reddit's 'Dissent Detector' Drowns Criticism in Kitten Photos`,
+        subhead: `Platform claims new feature "enhances user experience" amid backlash`,
+        tags: [`Reddit`],
+        author: `Et Al`,
+        datePublished: new Date(2024,9,1,18),
+        articleBody: [
+            `In a move that's raised eyebrows across the tech community, Reddit has unveiled its latest feature: the Dissent Detector. This AI-powered tool identifies posts critical of the platform and automatically floods them with an overwhelming number of kitten pictures, effectively burying any negative sentiment under a mountain of feline cuteness.`,
+
+            `Reddit's VP of User Engagement, Alex Hartman, enthusiastically described the feature during a press conference. "We've always believed in the power of positivity," Hartman beamed, as a slideshow of kittens played behind him. "Now, thanks to our state-of-the-art Dissent Detector, we can ensure that every user's experience is paw-sitively delightful!"`,
+
+            `The Dissent Detector uses advanced natural language processing to identify posts expressing dissatisfaction with Reddit's policies, UI changes, or general operations. Once a critical post is flagged, the system immediately responds by commenting with a barrage of kitten images, each accompanied by captions like "Why so serious?" and "Have you considered how cute this kitten is instead?"`,
+
+            `Early user reactions have been mixed. u/FreedomOfSpeech2024 attempted to create a thread discussing the platform's new moderation policies but found their post quickly buried under 147 pictures of kittens in various states of adorableness. "I can't even be mad," they admitted. "Have you seen the one with the kitten in a teacup?"`,
+
+            `Not everyone is charmed by the fuzzy onslaught. Cyber rights activist Emma Blackwell criticized the move, calling it "a blatant attempt to silence dissent through weaponized cuteness." Blackwell's statement was immediately followed by a Reddit admin post containing a gif of a kitten falling asleep while typing on a keyboard.`,
+
+            `When pressed about concerns that the feature might stifle important discussions, Hartman dismissed such worries. "Look, we're not saying users can't voice their opinions," he explained, idly stroking a white Persian cat. "We're just making sure those opinions are framed in the most adorable context possible. It's a win-win!"`,
+
+            `As of press time, several subreddits dedicated to discussing the Dissent Detector have mysteriously transformed into cat appreciation forums. Reddit denies any involvement, citing a "spontaneous outbreak of feline fever" among its user base.`,
+
+            `In related news, Reddit's stock price has surged, with analysts attributing the rise to an unprecedented increase in user engagement – primarily in the form of "aww"-ing at kitten pictures.`,
+        ]
+    },
 ]
