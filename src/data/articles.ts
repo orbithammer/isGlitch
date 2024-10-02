@@ -3605,4 +3605,33 @@ export const articlesData = [
             `In related news, Reddit's stock price has surged, with analysts attributing the rise to an unprecedented increase in user engagement – primarily in the form of "aww"-ing at kitten pictures.`,
         ]
     },
+    {
+        id: 137,
+        articleUrl: `20241002-new-app-tailors`,
+        category: `tech`,
+        img: `/images/20241002-new-app-tailors.webp`,
+        alt: `A person wearing a tinfoil hat while staring intently at their smartphone, with a look of epiphany on their face, basement background`,
+        header: `New App Tailors Conspiracy Theories to Your Cognitive Biases`,
+        subhead: `"BelieveIt" promises to deliver personalized misinformation for every user`,
+        tags: [`Mindscape`, `BelieveIt`],
+        author: `Et Al`,
+        datePublished: new Date(2024,9,2,19),
+        articleBody: [
+            `Tech startup Mindscape Innovations unveiled its latest app, "BelieveIt," which promises to revolutionize the way people consume conspiracy theories by tailoring them to individual cognitive biases.`,
+
+            `The app, available on both iOS and Android platforms, uses advanced algorithms to analyze users' social media activity, browsing history, and responses to a series of carefully crafted questions. It then generates conspiracy theories that are uniquely appealing to each user's specific set of cognitive biases.`,
+
+            `"We've eliminated the tedious process of stumbling upon conspiracy theories that don't quite resonate with you," explained Mindscape Innovations CEO, Jack Holloway. "Now, you can dive straight into the deep end of a conspiracy rabbit hole that's perfectly suited to your personal blend of confirmation bias, illusory pattern perception, and proportionality bias."`,
+
+            `Early beta testers have reported high levels of satisfaction with the app's ability to cater to their preexisting beliefs and predispositions. One user, Tom Reynolds, a 42-year-old accountant from Ohio, enthused, "I always knew there was something fishy about the moon landing, but I couldn't quite put my finger on it. Thanks to BelieveIt, I now have a theory involving shape-shifting lizard people and mind-control lasers that just makes perfect sense to me."`,
+
+            `The app also features a social component, allowing users to share their personalized conspiracy theories with like-minded individuals. However, an unexpected side effect has emerged: users are finding it increasingly difficult to agree on the details of their shared delusions.`,
+
+            `"It's fascinating to watch," noted Dr. Elena Rodriguez, a cognitive psychologist not affiliated with the app. "We're seeing the formation of micro-communities of conspiracy theorists, each convinced that their specific version of events is the correct one. It's like watching a fractal of misinformation unfold in real-time."`,
+
+            `Critics have raised concerns about the potential dangers of an app that so efficiently exploits cognitive vulnerabilities. In response, Mindscape Innovations has added a disclaimer to the app's terms of service, stating, "BelieveIt is for entertainment purposes only. Any resemblance to actual conspiracies, real or imagined, is purely coincidental and should not be used as a basis for major life decisions or federal investigations."`,
+
+            `Despite the controversy, the app has seen a surge in downloads, with users praising its ability to provide a sense of order and meaning in an increasingly chaotic world. As one satisfied customer put it, "Finally, an app that tells me exactly what I want to hear, backed up by evidence that I'm predisposed to believe. It's like having a personal echo chamber in my pocket!"`,
+        ]
+    },
 ]
