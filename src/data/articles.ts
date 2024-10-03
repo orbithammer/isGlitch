@@ -3634,4 +3634,33 @@ export const articlesData = [
             `Despite the controversy, the app has seen a surge in downloads, with users praising its ability to provide a sense of order and meaning in an increasingly chaotic world. As one satisfied customer put it, "Finally, an app that tells me exactly what I want to hear, backed up by evidence that I'm predisposed to believe. It's like having a personal echo chamber in my pocket!"`,
         ]
     },
+    {
+        id: 138,
+        articleUrl: `20241003-tesla-new-safety`,
+        category: `tech`,
+        img: `/images/20241003-tesla-new-safety.webp`,
+        alt: `A person attempting to take a selfie while wearing the unwieldy, metal, angular Cybertruck helmet, struggling to hold their phone, sidewalk background`,
+        header: `Tesla's New Safety Gear: Cybertruck-Shaped Helmets for Pedestrians`,
+        subhead: `Musk: "Now everyone can experience the thrill of being a Cybertruck"`,
+        tags: [`Tesla`, `Elon Musk`, `Cybertruck`],
+        author: `Et Al`,
+        datePublished: new Date(2024,9,3,19),
+        articleBody: [
+            `Tesla CEO Elon Musk has left safety experts scratching their heads with his latest announcement: the launch of Cybertruck-shaped helmets for pedestrians. The angular, stainless steel headgear is designed to match the controversial aesthetic of Tesla's latest electric vehicle.`,
+
+            `"We've heard the concerns about pedestrian safety," Musk said during a press conference, sporting one of the helmets himself. "So we thought, why not turn everyone into a mini-Cybertruck? Problem solved!"`,
+
+            `The helmets, priced at a modest $499, feature the same "ultra-hard" 30X cold-rolled stainless steel as the Cybertruck. They come complete with non-functional LED headlights and an optional bulletproof visor.`,
+
+            `"It's like wearing a piece of the future on your head," gushed Tesla enthusiast Tom Reynolds, who pre-ordered five helmets for his family. "Sure, it's a bit heavy and I can barely turn my neck, but that's a small price to pay for innovation."`,
+
+            `Critics have been quick to point out potential flaws in Tesla's logic. Dr. Emily Zhao, a biomechanics professor at MIT, commented, "While the helmet might protect you from a Cybertruck, it turns the wearer into a potential hazard for other pedestrians. It's like solving a problem by creating ten more."`,
+
+            `Undeterred, Musk has hinted at plans for a full line of Cybertruck-inspired safety wear, including elbow pads, knee guards, and what he cryptically referred to as "exoskeleton underwear."`,
+
+            `Meanwhile, several cities have already banned the helmets, citing concerns about reduced visibility and increased incidents of people getting stuck in revolving doors.`,
+
+            `As Tesla's stock price soared on news of the helmet's release, Musk tweeted, "Who needs crumple zones when you can have a crumple-free zone on your noggin? Checkmate, physics!"`,
+        ]
+    },
 ]
