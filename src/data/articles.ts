@@ -3696,4 +3696,33 @@ export const articlesData = [
             `As the situation unfolds, mental health professionals advise those affected to seek support and remember that questioning the nature of reality is, ironically, a fundamentally human experience. Whether that's comforting or terrifying in the age of AI remains to be seen.`,
         ]
     },
+    {
+        id: 140,
+        articleUrl: `20241005-ai-ethics-boards`,
+        category: `ai`,
+        img: `/images/20241005-ai-ethics-boards.webp`,
+        alt: `A Zoom-style conference call screen, with each participant box showing a different sock puppet in various "home office" settings.`,
+        header: `AI Ethics Boards: Not All They're Socked Up To Be`,
+        subhead: `Report stitches together evidence of sock puppet ethics boards`,
+        tags: [`Science`],
+        author: `Alexa Turing`,
+        datePublished: new Date(2024,9,5,18),
+        articleBody: [
+            `A groundbreaking study from the Center for Responsible Technology has sent shockwaves through Silicon Valley, revealing that a staggering 73% of AI ethics boards are composed entirely of sock puppets. The research, conducted over 18 months, paints a troubling picture of the industry's approach to ethical oversight.`,
+
+            `Dr. Emily Nkosi, lead researcher on the project, expressed her dismay at the findings. "We expected to find some level of corporate theatrics, but this goes beyond our wildest imaginations," she said, holding up a tattered argyle sock. "This particular member sits on three different ethics boards."`,
+
+            `The study meticulously examined the composition and activities of AI ethics boards at 50 leading tech companies. Researchers were initially puzzled by the frequent appearance of board members with names like "Mr. Fuzzy Toes" and "Captain Woolsock," but the truth soon unraveled.`,
+
+            `At OpenAI, investigators discovered CEO Grant Peterson's office closet filled with an array of colorful socks, each bearing a nametag corresponding to a board member. When confronted, Peterson defended the practice, stating, "It's a highly efficient system. Plus, these socks have years of experience in the tech industry – they've been with me since my coding bootcamp days."`,
+
+            `The report also highlighted more subtle forms of sock puppetry. At DeepMind, the entire ethics board was found to consist of CEO Amelia Roth using different accents and personality quirks for each "member." Roth's assistant, speaking on condition of anonymity, revealed, "Tuesday meetings are a nightmare. I have to help her change wigs and glasses between each statement."`,
+
+            `Not all companies relied on fabric-based fraud. TechNova's ethics board turned out to be a sophisticated chatbot trained to generate vague, non-committal responses to ethical dilemmas. "It's an AI-powered solution to AI ethics," explained CTO Robert Chang. "We're living in the future we're trying to regulate."`,
+
+            `The tech industry has responded to the study with a mix of denials and deflections. A joint statement from several major firms read, "We categorically deny these allegations and stand by the integrity of our ethics boards, whether they're made of cotton, wool, or synthetic blends."`,
+
+            `As regulators scramble to address this newfound sock drawer of ethical oversight, one thing is clear: the road to responsible AI development may be longer and more twisted than previously thought. In the meantime, Dr. Nkosi offers a word of advice: "The next time a tech CEO talks about their commitment to ethical AI, take a good look at their feet. The truth may be staring you right in the face."`,
+        ]
+    },
 ]
