@@ -3725,4 +3725,39 @@ export const articlesData = [
             `As regulators scramble to address this newfound sock drawer of ethical oversight, one thing is clear: the road to responsible AI development may be longer and more twisted than previously thought. In the meantime, Dr. Nkosi offers a word of advice: "The next time a tech CEO talks about their commitment to ethical AI, take a good look at their feet. The truth may be staring you right in the face."`,
         ]
     },
+    {
+        id: 141,
+        articleUrl: `20241006-musks-dogecoin-gambit`,
+        category: `tech`,
+        img: `/images/20241006-musks-dogecoin-gambit.webp`,
+        alt: `Christ the Redeemer but the head is replaced with a shiba inu dog. Golden hour sky background.`,
+        header: `Musk's Dogecoin Gambit Backfires, Crashes Crypto Market`,
+        subhead: `Tech billionaire's attempt to pay Brazil fine goes hilariously wrong`,
+        tags: [`Twitter`, `Elon Musk`],
+        author: `Et Al`,
+        datePublished: new Date(2024,9,6,8),
+        articleBody: [
+            `Elon Musk's latest scheme to settle X's $5.24 million fine with Brazilian authorities has sent shockwaves through the cryptocurrency world, displaying a stunning level of financial acrobatics. The eccentric billionaire's attempt to pay the hefty sum using Dogecoin has inadvertently triggered a massive crypto market crash, leaving investors howling at the moon.`,
+
+            `Sources close to the matter report that Musk, in a 3 AM burst of inspiration fueled by Red Bull and hubris, decided that using traditional banking was "too mainstream" for the X brand. "Fiat currency is so 2008," Musk allegedly declared to his bleary-eyed team. "We're going to show Brazil the future of finance!"`,
+
+            `What followed was a frantic 48-hour period dubbed "The Great Doge Dump" by crypto enthusiasts. As Musk attempted to convert a staggering amount of Dogecoin into Brazilian Reals, the market reacted with all the stability of a Jenga tower in an earthquake.`,
+
+            `Cryptocurrency exchanges worldwide reported unprecedented traffic as Musk's trades flooded the market. "It was like watching a train wreck in slow motion, but the train was made of memes and bad decisions," said Tyler Winklevoss, co-founder of the Gemini cryptocurrency exchange.`,
+
+            `The fallout was swift and merciless. Bitcoin plummeted 30% in hours, while Ethereum holders were left eth-shaken and eth-stirred. Dogecoin, ironically, skyrocketed briefly before crashing back to Earth with all the grace of a failed SpaceX landing.`,
+
+            `As panic spread, crypto forums lit up with a mixture of despair and dark humor. One Reddit user quipped, "I always knew Doge would go to the moon. I just didn't realize it would be via Challenger."`,
+
+            `Meanwhile, Brazilian officials were left scratching their heads at the sudden influx of a currency featuring a Shiba Inu dog. "We asked for Reals, not canine-based internet money," a bewildered spokesperson for the Brazilian Supreme Court told reporters.`,
+
+            `In a bizarre twist that perfectly encapsulates Musk's misplaced priorities and cultural insensitivity, sources report that the tech mogul attempted to rename Rio de Janeiro's iconic Christ the Redeemer statue to "Doge the Redeemer." Local authorities were quick to reject the proposal, with one official stating, "Mr. Musk seems to have confused our national treasure with a Pokémon Go location."`,
+
+            `As of press time, Musk was reportedly spotted in a Rio de Janeiro internet cafe, furiously trying to explain the concept of "HODL" to increasingly impatient Brazilian authorities. X remains offline in Brazil, with local users turning to more reliable communication methods, such as smoke signals and interpretive dance.`,
+
+            `In an ironic twist, the financial chaos has led to a surge in sign-ups for rival platform Bluesky, whose CEO was quoted as saying, "We promise never to pay our fines in anything featuring animal memes."`,
+
+            `As the dust settles on this cryptocurrency catastrophe, one thing is clear: in the world of Elon Musk, even a simple bank transfer can turn into a rollercoaster ride of epic proportions. One can only imagine what he'll try next – perhaps paying parking tickets with NFTs of Tesla prototypes?`,
+        ]
+    },
 ]
