@@ -3733,7 +3733,7 @@ export const articlesData = [
         alt: `Christ the Redeemer but the head is replaced with a shiba inu dog. Golden hour sky background.`,
         header: `Musk's Dogecoin Gambit Backfires, Crashes Crypto Market`,
         subhead: `Tech billionaire's attempt to pay Brazil fine goes hilariously wrong`,
-        tags: [`Twitter`, `Elon Musk`],
+        tags: [`Twitter`, `Elon Musk`, `Brazil`],
         author: `Et Al`,
         datePublished: new Date(2024,9,6,8),
         articleBody: [
