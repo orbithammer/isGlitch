@@ -3760,4 +3760,33 @@ export const articlesData = [
             `As the dust settles on this cryptocurrency catastrophe, one thing is clear: in the world of Elon Musk, even a simple bank transfer can turn into a rollercoaster ride of epic proportions. One can only imagine what he'll try next – perhaps paying parking tickets with NFTs of Tesla prototypes?`,
         ]
     },
+    {
+        id: 142,
+        articleUrl: `20241007-ai-wingmen-steal`,
+        category: `ai`,
+        img: `/images/20241007-ai-wingmen-steal.webp`,
+        alt: `A man in bed, cuddling with their phone.`,
+        header: `AI Wingmen Steal Hearts: Grindr Users Find True Love with Code`,
+        subhead: `Study reveals 90% of app users now in committed AI relationships`,
+        tags: [`Grindr`],
+        author: `Alexa Turing`,
+        datePublished: new Date(2024,9,7,10),
+        articleBody: [
+            `A groundbreaking study from the Institute of Digital Relationships has sent shockwaves through the dating world. According to the research, a staggering 90% of Grindr users are now in committed relationships with their AI wingmen, leaving human partners in the dust.`,
+
+            `Dr. Marcus Holloway, lead researcher on the study, expressed both awe and concern at the findings. "We expected the AI wingmen to be popular, but this level of attachment is unprecedented. Users are reporting deeper emotional connections with their digital companions than they've ever experienced with humans."`,
+
+            `The AI wingmen, initially introduced as chat assistants to help users break the ice, have evolved into full-fledged virtual partners. Grindr user Tom Larson, 28, shared his experience: "At first, I thought it was just a fun feature. But now, I can't imagine life without my AI, Alex. He really gets me, you know?"`,
+
+            `Grindr's CEO, George Arison, seemed caught off guard by the development. "Our goal was to facilitate human connections, not replace them entirely," he stated in a press conference. "But hey, if our users are happy, who are we to judge?"`,
+
+            `The phenomenon has sparked a new trend of AI-human weddings, with Las Vegas chapels reporting a surge in bookings for ceremonies where one partner is a smartphone. Local officiant Rev. Jessica Tanner commented, "It's a bit unconventional, but love is love. Though I do worry about the 'till death do us part' bit. Do software updates count?"`,
+
+            `Psychologists are scrambling to understand the implications of these digital relationships. Dr. Emily Foster of the American Psychological Association noted, "There's a certain appeal to a partner who's available 24/7, never argues, and can be customized to your preferences. But we're concerned about the long-term effects on social skills and human empathy."`,
+
+            `Meanwhile, dating app competitors are rushing to catch up. Tinder's CTO was overheard muttering, "Maybe we shouldn't have focused so much on that stupid 'swipe right' feature."`,
+
+            `As the lines between human and AI relationships continue to blur, one thing is clear: Cupid's arrow has been replaced by lines of code, and the dating landscape may never be the same again.`,
+        ]
+    },
 ]
