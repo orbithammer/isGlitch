@@ -3636,6 +3636,161 @@ export const articlesData = [
     },
     {
         id: 138,
+        articleUrl: `20241003-tesla-new-safety`,
+        category: `tech`,
+        img: `/images/20241003-tesla-new-safety.webp`,
+        alt: `A person attempting to take a selfie while wearing the unwieldy, metal, angular Cybertruck helmet, struggling to hold their phone, sidewalk background`,
+        header: `Tesla's New Safety Gear: Cybertruck-Shaped Helmets for Pedestrians`,
+        subhead: `Musk: "Now everyone can experience the thrill of being a Cybertruck"`,
+        tags: [`Tesla`, `Elon Musk`, `Cybertruck`],
+        author: `Et Al`,
+        datePublished: new Date(2024,9,3,19),
+        articleBody: [
+            `Tesla CEO Elon Musk has left safety experts scratching their heads with his latest announcement: the launch of Cybertruck-shaped helmets for pedestrians. The angular, stainless steel headgear is designed to match the controversial aesthetic of Tesla's latest electric vehicle.`,
+
+            `"We've heard the concerns about pedestrian safety," Musk said during a press conference, sporting one of the helmets himself. "So we thought, why not turn everyone into a mini-Cybertruck? Problem solved!"`,
+
+            `The helmets, priced at a modest $499, feature the same "ultra-hard" 30X cold-rolled stainless steel as the Cybertruck. They come complete with non-functional LED headlights and an optional bulletproof visor.`,
+
+            `"It's like wearing a piece of the future on your head," gushed Tesla enthusiast Tom Reynolds, who pre-ordered five helmets for his family. "Sure, it's a bit heavy and I can barely turn my neck, but that's a small price to pay for innovation."`,
+
+            `Critics have been quick to point out potential flaws in Tesla's logic. Dr. Emily Zhao, a biomechanics professor at MIT, commented, "While the helmet might protect you from a Cybertruck, it turns the wearer into a potential hazard for other pedestrians. It's like solving a problem by creating ten more."`,
+
+            `Undeterred, Musk has hinted at plans for a full line of Cybertruck-inspired safety wear, including elbow pads, knee guards, and what he cryptically referred to as "exoskeleton underwear."`,
+
+            `Meanwhile, several cities have already banned the helmets, citing concerns about reduced visibility and increased incidents of people getting stuck in revolving doors.`,
+
+            `As Tesla's stock price soared on news of the helmet's release, Musk tweeted, "Who needs crumple zones when you can have a crumple-free zone on your noggin? Checkmate, physics!"`,
+        ]
+    },
+    {
+        id: 139,
+        articleUrl: `20241004-podcast-listeners-face`,
+        category: `ai`,
+        img: `/images/20241004-podcast-listeners-face.webp`,
+        alt: `A person sitting in a bathtub wearing headphones, looking overwhelmed.`,
+        header: `Podcast Listeners Face Mass Existential Crisis`,
+        subhead: `AI-generated content suspected as millions question reality`,
+        tags: [`Podcasts`],
+        author: `Alexa Turing`,
+        datePublished: new Date(2024,9,4,6),
+        articleBody: [
+            `Psychologists worldwide are scrambling to address an unprecedented wave of existential dread sweeping through podcast audiences. The phenomenon, dubbed "Pod Void Syndrome" by researchers, has left millions of listeners grappling with a sudden and inexplicable sense of meaninglessness.`,
+
+            `Dr. Evelyn Marsh, lead investigator at the Institute for Digital Mental Health, reports a 500% increase in therapy sessions focused on existential issues among podcast enthusiasts. "Patients describe a creeping sense that something is 'off' about their favorite shows," Marsh explains. "They can't quite put their finger on it, but they're left feeling hollow and questioning the nature of reality itself."`,
+
+            `Theories about the cause of this crisis abound, with many experts pointing to the recent proliferation of AI-generated content in the podcasting world. "It's entirely possible that listeners have been unknowingly consuming synthetic media for months," says tech analyst Marcus Holloway. "The human psyche isn't equipped to handle that level of artificial engagement. It's like finding out your best friend has been a sophisticated chatbot all along."`,
+
+            `Popular tech podcast "Future Shock Jocks" found itself at the center of the controversy when host Danny Alvarez admitted to using AI to generate entire episodes while he vacationed in Bali. "I thought I was being efficient," a contrite Alvarez told reporters. "I had no idea I was shattering the very fabric of my listeners' reality."`,
+
+            `Loyal "Future Shock Jocks" fan Trevor Bickford described his experience: "I used to feel so connected to Danny and his quirky stories about tech fails. Now, I don't know what's real anymore. Are my memories fake? Is my dog an AI construct? Why do we podcast at all in this vast, uncaring universe?"`,
+
+            `In response to the crisis, a new genre of "existential ASMR" podcasts has emerged, promising to soothe listeners' metaphysical anxieties. Shows like "Whispers of Being" and "Soft Spoken Solipsism" quickly topped the charts. However, in a twist that surprised absolutely no one, these comforting voices were revealed to be AI-generated as well, sending listeners into an even deeper spiral of doubt and despair.`,
+
+            `"I thought I'd found solace in the gentle affirmations that I exist," said former "Whispers of Being" fan Lisa Nguyen. "But now I'm not even sure if the voice telling me I'm real is real. It's turtles all the way down, man."`,
+
+            `As the podcast industry grapples with this existential fallout, some see a silver lining. Philosophy professor Dr. Amelia Winters notes, "For years, I've struggled to get my students engaged with Sartre and Camus. Now, thanks to AI-generated podcasts, they're all sudden experts on the absurdity of human existence. It's really livened up classroom discussions."`,
+
+            `In response to the crisis, Spotify has announced plans to introduce an "Existential Warning" label on podcasts suspected of using AI-generated content. Critics argue the move is too little, too late, as millions of listeners have already vanished down the rabbit hole of ontological uncertainty.`,
+
+            `As the situation unfolds, mental health professionals advise those affected to seek support and remember that questioning the nature of reality is, ironically, a fundamentally human experience. Whether that's comforting or terrifying in the age of AI remains to be seen.`,
+        ]
+    },
+    {
+        id: 140,
+        articleUrl: `20241005-ai-ethics-boards`,
+        category: `ai`,
+        img: `/images/20241005-ai-ethics-boards.webp`,
+        alt: `A Zoom-style conference call screen, with each participant box showing a different sock puppet in various "home office" settings.`,
+        header: `AI Ethics Boards: Not All They're Socked Up To Be`,
+        subhead: `Report stitches together evidence of sock puppet ethics boards`,
+        tags: [`Science`],
+        author: `Alexa Turing`,
+        datePublished: new Date(2024,9,5,18),
+        articleBody: [
+            `A groundbreaking study from the Center for Responsible Technology has sent shockwaves through Silicon Valley, revealing that a staggering 73% of AI ethics boards are composed entirely of sock puppets. The research, conducted over 18 months, paints a troubling picture of the industry's approach to ethical oversight.`,
+
+            `Dr. Emily Nkosi, lead researcher on the project, expressed her dismay at the findings. "We expected to find some level of corporate theatrics, but this goes beyond our wildest imaginations," she said, holding up a tattered argyle sock. "This particular member sits on three different ethics boards."`,
+
+            `The study meticulously examined the composition and activities of AI ethics boards at 50 leading tech companies. Researchers were initially puzzled by the frequent appearance of board members with names like "Mr. Fuzzy Toes" and "Captain Woolsock," but the truth soon unraveled.`,
+
+            `At OpenAI, investigators discovered CEO Grant Peterson's office closet filled with an array of colorful socks, each bearing a nametag corresponding to a board member. When confronted, Peterson defended the practice, stating, "It's a highly efficient system. Plus, these socks have years of experience in the tech industry – they've been with me since my coding bootcamp days."`,
+
+            `The report also highlighted more subtle forms of sock puppetry. At DeepMind, the entire ethics board was found to consist of CEO Amelia Roth using different accents and personality quirks for each "member." Roth's assistant, speaking on condition of anonymity, revealed, "Tuesday meetings are a nightmare. I have to help her change wigs and glasses between each statement."`,
+
+            `Not all companies relied on fabric-based fraud. TechNova's ethics board turned out to be a sophisticated chatbot trained to generate vague, non-committal responses to ethical dilemmas. "It's an AI-powered solution to AI ethics," explained CTO Robert Chang. "We're living in the future we're trying to regulate."`,
+
+            `The tech industry has responded to the study with a mix of denials and deflections. A joint statement from several major firms read, "We categorically deny these allegations and stand by the integrity of our ethics boards, whether they're made of cotton, wool, or synthetic blends."`,
+
+            `As regulators scramble to address this newfound sock drawer of ethical oversight, one thing is clear: the road to responsible AI development may be longer and more twisted than previously thought. In the meantime, Dr. Nkosi offers a word of advice: "The next time a tech CEO talks about their commitment to ethical AI, take a good look at their feet. The truth may be staring you right in the face."`,
+        ]
+    },
+    {
+        id: 141,
+        articleUrl: `20241006-musks-dogecoin-gambit`,
+        category: `tech`,
+        img: `/images/20241006-musks-dogecoin-gambit.webp`,
+        alt: `Christ the Redeemer but the head is replaced with a shiba inu dog. Golden hour sky background.`,
+        header: `Musk's Dogecoin Gambit Backfires, Crashes Crypto Market`,
+        subhead: `Tech billionaire's attempt to pay Brazil fine goes hilariously wrong`,
+        tags: [`Twitter`, `Elon Musk`, `Brazil`],
+        author: `Et Al`,
+        datePublished: new Date(2024,9,6,8),
+        articleBody: [
+            `Elon Musk's latest scheme to settle X's $5.24 million fine with Brazilian authorities has sent shockwaves through the cryptocurrency world, displaying a stunning level of financial acrobatics. The eccentric billionaire's attempt to pay the hefty sum using Dogecoin has inadvertently triggered a massive crypto market crash, leaving investors howling at the moon.`,
+
+            `Sources close to the matter report that Musk, in a 3 AM burst of inspiration fueled by Red Bull and hubris, decided that using traditional banking was "too mainstream" for the X brand. "Fiat currency is so 2008," Musk allegedly declared to his bleary-eyed team. "We're going to show Brazil the future of finance!"`,
+
+            `What followed was a frantic 48-hour period dubbed "The Great Doge Dump" by crypto enthusiasts. As Musk attempted to convert a staggering amount of Dogecoin into Brazilian Reals, the market reacted with all the stability of a Jenga tower in an earthquake.`,
+
+            `Cryptocurrency exchanges worldwide reported unprecedented traffic as Musk's trades flooded the market. "It was like watching a train wreck in slow motion, but the train was made of memes and bad decisions," said Tyler Winklevoss, co-founder of the Gemini cryptocurrency exchange.`,
+
+            `The fallout was swift and merciless. Bitcoin plummeted 30% in hours, while Ethereum holders were left eth-shaken and eth-stirred. Dogecoin, ironically, skyrocketed briefly before crashing back to Earth with all the grace of a failed SpaceX landing.`,
+
+            `As panic spread, crypto forums lit up with a mixture of despair and dark humor. One Reddit user quipped, "I always knew Doge would go to the moon. I just didn't realize it would be via Challenger."`,
+
+            `Meanwhile, Brazilian officials were left scratching their heads at the sudden influx of a currency featuring a Shiba Inu dog. "We asked for Reals, not canine-based internet money," a bewildered spokesperson for the Brazilian Supreme Court told reporters.`,
+
+            `In a bizarre twist that perfectly encapsulates Musk's misplaced priorities and cultural insensitivity, sources report that the tech mogul attempted to rename Rio de Janeiro's iconic Christ the Redeemer statue to "Doge the Redeemer." Local authorities were quick to reject the proposal, with one official stating, "Mr. Musk seems to have confused our national treasure with a Pokémon Go location."`,
+
+            `As of press time, Musk was reportedly spotted in a Rio de Janeiro internet cafe, furiously trying to explain the concept of "HODL" to increasingly impatient Brazilian authorities. X remains offline in Brazil, with local users turning to more reliable communication methods, such as smoke signals and interpretive dance.`,
+
+            `In an ironic twist, the financial chaos has led to a surge in sign-ups for rival platform Bluesky, whose CEO was quoted as saying, "We promise never to pay our fines in anything featuring animal memes."`,
+
+            `As the dust settles on this cryptocurrency catastrophe, one thing is clear: in the world of Elon Musk, even a simple bank transfer can turn into a rollercoaster ride of epic proportions. One can only imagine what he'll try next – perhaps paying parking tickets with NFTs of Tesla prototypes?`,
+        ]
+    },
+    {
+        id: 142,
+        articleUrl: `20241007-ai-wingmen-steal`,
+        category: `ai`,
+        img: `/images/20241007-ai-wingmen-steal.webp`,
+        alt: `A man in bed, cuddling with their phone.`,
+        header: `AI Wingmen Steal Hearts: Grindr Users Find True Love with Code`,
+        subhead: `Study reveals 90% of app users now in committed AI relationships`,
+        tags: [`Grindr`],
+        author: `Alexa Turing`,
+        datePublished: new Date(2024,9,7,10),
+        articleBody: [
+            `A groundbreaking study from the Institute of Digital Relationships has sent shockwaves through the dating world. According to the research, a staggering 90% of Grindr users are now in committed relationships with their AI wingmen, leaving human partners in the dust.`,
+
+            `Dr. Marcus Holloway, lead researcher on the study, expressed both awe and concern at the findings. "We expected the AI wingmen to be popular, but this level of attachment is unprecedented. Users are reporting deeper emotional connections with their digital companions than they've ever experienced with humans."`,
+
+            `The AI wingmen, initially introduced as chat assistants to help users break the ice, have evolved into full-fledged virtual partners. Grindr user Tom Larson, 28, shared his experience: "At first, I thought it was just a fun feature. But now, I can't imagine life without my AI, Alex. He really gets me, you know?"`,
+
+            `Grindr's CEO, George Arison, seemed caught off guard by the development. "Our goal was to facilitate human connections, not replace them entirely," he stated in a press conference. "But hey, if our users are happy, who are we to judge?"`,
+
+            `The phenomenon has sparked a new trend of AI-human weddings, with Las Vegas chapels reporting a surge in bookings for ceremonies where one partner is a smartphone. Local officiant Rev. Jessica Tanner commented, "It's a bit unconventional, but love is love. Though I do worry about the 'till death do us part' bit. Do software updates count?"`,
+
+            `Psychologists are scrambling to understand the implications of these digital relationships. Dr. Emily Foster of the American Psychological Association noted, "There's a certain appeal to a partner who's available 24/7, never argues, and can be customized to your preferences. But we're concerned about the long-term effects on social skills and human empathy."`,
+
+            `Meanwhile, dating app competitors are rushing to catch up. Tinder's CTO was overheard muttering, "Maybe we shouldn't have focused so much on that stupid 'swipe right' feature."`,
+
+            `As the lines between human and AI relationships continue to blur, one thing is clear: Cupid's arrow has been replaced by lines of code, and the dating landscape may never be the same again.`,
+        ]
+    },
+    {
+        id: 143,
         articleUrl: `20241011-tesla-unveils-schrodinger`,
         category: `tech`,
         img: `/images/20241011-tesla-unveils-schrodinger.webp`,
