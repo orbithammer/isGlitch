@@ -3634,4 +3634,37 @@ export const articlesData = [
             `Despite the controversy, the app has seen a surge in downloads, with users praising its ability to provide a sense of order and meaning in an increasingly chaotic world. As one satisfied customer put it, "Finally, an app that tells me exactly what I want to hear, backed up by evidence that I'm predisposed to believe. It's like having a personal echo chamber in my pocket!"`,
         ]
     },
+    {
+        id: 138,
+        articleUrl: `20241011-tesla-unveils-schrodinger`,
+        category: `tech`,
+        img: `/images/20241011-tesla-unveils-schrodinger.webp`,
+        alt: `A woman in business attire sitting inside a robotaxi with a Tesla logo, LA street background`,
+        header: `Tesla Unveils 'Schrödinger's Cybercab': Real and Imaginary at Once`,
+        subhead: `Musk insists vehicles exist, but only when unobserved`,
+        tags: [`Tesla`, `Elon Musk`],
+        author: `Et Al`,
+        datePublished: new Date(2024,9,11,4),
+        articleBody: [
+            `Tesla CEO Elon Musk stunned the automotive world yesterday with the announcement of "Schrödinger's Cybercab," a groundbreaking vehicle that purportedly exists in a state of quantum superposition.`,
+
+            `During a packed press conference at Tesla's headquarters, Musk explained the concept with his trademark enthusiasm. "Our Cybercabs are simultaneously on the roads and not on the roads. They're everywhere and nowhere. It's a quantum leap in transportation!"`,
+
+            `When pressed for details, Musk elaborated, "The Cybercabs are absolutely real. They're out there right now, revolutionizing urban mobility. But here's the catch – they only exist when no one is looking at them. It's basic quantum mechanics, folks."`,
+
+            `Skeptical reporters attempted to spot the elusive vehicles, but Musk was quick to intervene. "No, no! You'll collapse the wavefunction! Just trust that they're there, okay?"`,
+
+            `Tesla's Chief Technology Officer, Dr. Amit Patel, tried to provide a more scientific explanation. "We've harnessed the power of quantum uncertainty. Our Cybercabs occupy a probabilistic state, materializing only when the conditions are right – which is to say, never."`,
+
+            `Wall Street analysts struggled to assess the impact of the announcement. "On one hand, Tesla claims to have deployed millions of Cybercabs overnight," said financial expert Jessica Wong. "On the other hand, we can't see, touch, or ride in them. It's... certainly an innovative approach to meeting production targets."`,
+
+            `Musk dismissed concerns about the practicality of invisible, intangible taxis. "Think about it – no traffic jams, no accidents, no parking problems. It's the perfect solution!"
+
+            When asked how customers could hail these quantum Cybercabs, Musk grinned. "Just believe really hard that one is coming. If you don't see it arrive, that means it's working perfectly."`,
+
+            `As the press conference concluded, Musk made one final statement: "Remember, the Cybercabs are absolutely real. And if you don't see them, well, that's the strongest proof of all."`,
+
+            `Tesla's stock price fluctuated wildly following the announcement, much like the supposed state of their new Cybercabs.`,
+        ]
+    },
 ]
