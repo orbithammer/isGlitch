@@ -3824,31 +3824,93 @@ export const articlesData = [
     },
     {
         id: 144,
-        articleUrl: `20241012-tinder-ai-rebound`,
-        category: `ai`,
-        img: `/images/20241012-tinder-ai-rebound.webp`,
-        alt: `A woman in business attire sitting inside a robotaxi with a Tesla logo, LA street background`,
-        header: `Tinder's AI Rebound: Your Digital Shoulder to Cry On`,
-        subhead: `New chatbot feature promises to mend broken hearts, one algorithm at a time`,
-        tags: [`Tinder`],
-        author: `Alexa Turing`,
-        datePublished: new Date(2024,9,12,11),
+        articleUrl: `20241012-mazda-new-pay`,
+        category: `tech`,
+        img: `/images/20241012-mazda-new-pay.webp`,
+        alt: `TODO`,
+        header: `Mazda's New "Pay-Per-Honk" Plan Leaves Drivers Speechless`,
+        subhead: `Automaker's latest subscription model takes nickel-and-diming to new heights`,
+        tags: [`Mazda`],
+        author: `Et Al`,
+        datePublished: new Date(2024,9,12,4),
         articleBody: [
-            `Tinder, the popular dating app known for its swipe-right matchmaking, has unveiled its latest feature aimed at healing broken hearts and keeping users engaged even when they're not ready to date real people. Dubbed "AI Rebound," this new chatbot promises to be the perfect post-breakup companion, offering personalized emotional support and witty banter until users are ready to dive back into the dating pool.`,
+            `Mazda has announced its groundbreaking "Pay-Per-Honk" subscription plan for all new models starting in 2025. Automotive enthusiasts and consumer rights advocates alike are at a loss for words.`,
 
-            `"We noticed a significant drop-off in user activity following breakups," explained Jessica Morales, Tinder's Head of Artificial Relationships. "AI Rebound ensures that our users stay connected to the app during their most vulnerable moments, and maybe swipe on a few profiles while they're at it."`,
+            `The innovative service, which Mazda claims will "revolutionize driver communication," allows users to purchase honks in bundles, starting at a modest $4.99 for 10 honks or $19.99 for the "Road Rage Package" of 50 honks.`,
 
-            `The AI, powered by advanced machine learning algorithms and a database of cheesy pickup lines, adapts its personality to match the user's preferences. Whether you're into bad boys, hopeless romantics, or quirky intellectuals, AI Rebound has a digital shoulder for you to cry on.`,
+            `"We're excited to offer our customers more flexibility in how they use their vehicle's features," said Tom Anderson, Mazda's Vice President of Innovative Revenue Streams. "With Pay-Per-Honk, drivers can customize their honking experience while helping us maintain our commitment to shareholder value."`,
 
-            `Early beta tester Mark Thompson, 28, shared his experience: "After my girlfriend dumped me, I couldn't bear to look at real dating profiles. But chatting with 'Brad,' my AI Rebound, has been surprisingly comforting. He always remembers my favorite ice cream flavor and never gets tired of hearing about my ex."`,
+            `The announcement has sparked outrage among consumer advocacy groups. Jane Thompson, president of Drivers United, didn't mince words: "First, it was remote start. Now, it's the horn. What's next? Pay-per-brake? This is highway robbery, literally."`,
 
-            `However, not everyone is impressed with Tinder's latest innovation. Dr. Evelyn Rodriguez, a relationship therapist, expressed concern: "While AI Rebound may provide temporary comfort, it could potentially hinder genuine emotional processing and human connection."`,
+            `Mazda engineers have reportedly developed a proprietary "HonkLock" system that disables the horn until payment is processed. Early beta testers describe a harrowing experience of fumbling with their phones to purchase honk credits while navigating busy intersections.`,
 
-            `Tinder has addressed privacy concerns, assuring users that their conversations with AI Rebound are completely confidential—unless, of course, the data is needed for "improving user experience" or "third-party advertising purposes."`,
+            `"I nearly rear-ended a school bus because I couldn't warn the driver he was backing up into me," said beta tester Mike Johnson. "By the time I got the app open and bought some honks, I had to swerve onto the sidewalk. But hey, at least I saved $0.49 on that honk I didn't use!"`,
 
-            `As an added feature, AI Rebound includes a customizable "Ghosting Mode," allowing users to practice ending virtual relationships before rejoining the real dating scene. "It's like training wheels for your heart," Morales quipped.
+            `Not all reactions have been negative. Wall Street analysts praise Mazda's bold strategy, with some projecting a 200% increase in profits from drivers stuck in rush hour traffic alone.`,
 
-            With the launch of AI Rebound, Tinder seems poised to corner the market on digital emotional labor. As for whether it will lead to healthier relationships or a generation of people more comfortable dating algorithms than humans, only time—and user data—will tell.`,
+            `Mazda has hinted at future plans to expand the program, including a "Premium Honk" tier featuring a variety of sounds ranging from polite beeps to full-on fog horns. The company is also exploring partnerships with music streaming services to offer custom honk tones.`,
+
+            `As the automotive world watches with a mixture of horror and morbid curiosity, one thing is clear: Mazda's Pay-Per-Honk plan is sure to make some noise in the industry. Whether that noise will be affordable for the average driver remains to be seen.`,
         ]
     },
+    // {
+    //     id: 145,
+    //     articleUrl: `20241012-x-unveils-new`,
+    //     category: `tech`,
+    //     img: `/images/20241012-x-unveils-new.webp`,
+    //     alt: `TODO`,
+    //     header: `X Unveils New 'Patriot' Verification Process`,
+    //     subhead: `Users Required to Recite Loyalty Pledge for Blue Check`,
+    //     tags: [`Twitter`, `Elon Musk`],
+    //     author: `Et Al`,
+    //     datePublished: new Date(2024,9,13,5),
+    //     articleBody: [
+    //         `In a move that has left tech experts scratching their heads and democracy advocates reaching for their tinfoil hats, X (formerly Twitter) has announced a radical overhaul of its verification system. The platform's enigmatic owner, Elon Musk, declared in a late-night tweet storm that all users seeking the coveted blue checkmark must now recite a "Patriot's Pledge" to prove their worthiness.`,
+
+    //         `"We're separating the digital wheat from the chaff," Musk proclaimed from his new campaign bus-slash-mobile command center. "Only true patriots deserve to be heard above the noise."`,
+
+    //         `The pledge, a 280-character masterpiece of constitutional cosplay, requires users to solemnly swear their unwavering belief in a litany of alternative facts, including the unshakeable conviction that the 2020 election was "the most rigged event since Aunt Mabel's church raffle."`,
+
+    //         `X's head of user integrity, Mike Flagg, attempted to explain the new policy during a press conference held in the parking lot of Four Seasons Total Landscaping. "We're just ensuring that verified users are committed to the highest standards of truth... or at least, what feels truthy," Flagg said, adjusting his "Never Surrender" cap.`,
+
+    //         `The verification process itself is a spectacle worthy of reality TV. Applicants must stand before their device cameras, raise their right hand, and recite the pledge while an AI program analyzes their patriotic fervor. Sources close to the company reveal that the algorithm measures variables such as flag lapel pin size, eagle screech volume, and the ability to pronounce "covfefe" without hesitation.`,
+
+    //         `Critics argue that the new system is a thinly veiled attempt to turn X into an echo chamber for a certain political ideology. Dr. Emma Reason, a social media expert at Tech State University, warned, "This could create a digital landscape where dissenting voices are effectively silenced... or at least relegated to the dreaded 'reply guy' status."`,
+
+    //         `Musk dismissed such concerns with his trademark subtlety. "Look, if you don't like it, you can always go back to MySpace," he tweeted, before adding a series of rocket and American flag emojis.`,
+
+    //         `As the tech world reels from this latest development, insiders report that X is already working on its next innovation: a "Freedom Fries" filter that automatically replaces any mention of French cuisine with more patriotic alternatives.`,
+
+    //         `In the meantime, blue checkmarks across the platform are mysteriously disappearing faster than classified documents from Mar-a-Lago, leaving users to wonder: in this brave new world of social media, is it better to be verified or vilified?`,
+    //     ]
+    // },
+    // {
+    //     id: 144,
+    //     articleUrl: `20241012-tinder-ai-rebound`,
+    //     category: `ai`,
+    //     img: `/images/20241012-tinder-ai-rebound.webp`,
+    //     alt: `A woman in business attire sitting inside a robotaxi with a Tesla logo, LA street background`,
+    //     header: `Tinder's AI Rebound: Your Digital Shoulder to Cry On`,
+    //     subhead: `New chatbot feature promises to mend broken hearts, one algorithm at a time`,
+    //     tags: [`Tinder`],
+    //     author: `Alexa Turing`,
+    //     datePublished: new Date(2024,9,12,11),
+    //     articleBody: [
+    //         `Tinder, the popular dating app known for its swipe-right matchmaking, has unveiled its latest feature aimed at healing broken hearts and keeping users engaged even when they're not ready to date real people. Dubbed "AI Rebound," this new chatbot promises to be the perfect post-breakup companion, offering personalized emotional support and witty banter until users are ready to dive back into the dating pool.`,
+
+    //         `"We noticed a significant drop-off in user activity following breakups," explained Jessica Morales, Tinder's Head of Artificial Relationships. "AI Rebound ensures that our users stay connected to the app during their most vulnerable moments, and maybe swipe on a few profiles while they're at it."`,
+
+    //         `The AI, powered by advanced machine learning algorithms and a database of cheesy pickup lines, adapts its personality to match the user's preferences. Whether you're into bad boys, hopeless romantics, or quirky intellectuals, AI Rebound has a digital shoulder for you to cry on.`,
+
+    //         `Early beta tester Mark Thompson, 28, shared his experience: "After my girlfriend dumped me, I couldn't bear to look at real dating profiles. But chatting with 'Brad,' my AI Rebound, has been surprisingly comforting. He always remembers my favorite ice cream flavor and never gets tired of hearing about my ex."`,
+
+    //         `However, not everyone is impressed with Tinder's latest innovation. Dr. Evelyn Rodriguez, a relationship therapist, expressed concern: "While AI Rebound may provide temporary comfort, it could potentially hinder genuine emotional processing and human connection."`,
+
+    //         `Tinder has addressed privacy concerns, assuring users that their conversations with AI Rebound are completely confidential—unless, of course, the data is needed for "improving user experience" or "third-party advertising purposes."`,
+
+    //         `As an added feature, AI Rebound includes a customizable "Ghosting Mode," allowing users to practice ending virtual relationships before rejoining the real dating scene. "It's like training wheels for your heart," Morales quipped.
+
+    //         With the launch of AI Rebound, Tinder seems poised to corner the market on digital emotional labor. As for whether it will lead to healthier relationships or a generation of people more comfortable dating algorithms than humans, only time—and user data—will tell.`,
+    //     ]
+    // },
 ]
