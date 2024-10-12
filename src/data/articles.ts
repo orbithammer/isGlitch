@@ -3827,7 +3827,7 @@ export const articlesData = [
         articleUrl: `20241012-mazda-new-pay`,
         category: `tech`,
         img: `/images/20241012-mazda-new-pay.webp`,
-        alt: `TODO`,
+        alt: `A frustrated driver frantically tapping on their smartphone at a busy New York intersection, dashboard says: "buy honks`,
         header: `Mazda's New "Pay-Per-Honk" Plan Leaves Drivers Speechless`,
         subhead: `Automaker's latest subscription model takes nickel-and-diming to new heights`,
         tags: [`Mazda`],
