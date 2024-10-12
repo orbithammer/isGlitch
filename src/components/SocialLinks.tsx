@@ -12,6 +12,8 @@ import BlueSkyDark from "/src/assets/blueSkyDark.svg"
 import BlueSkyLight from "/src/assets/blueSkyLight.svg"
 import ThreadsLight from "/src/assets/threadsLight.svg"
 import ThreadsDark from "/src/assets/threadsDark.svg"
+import PinterestLight from "/src/assets/pinterestLight.svg"
+import PinterestDark from "/src/assets/pinterestDark.svg"
 import ThemeContext from "../utils/ThemeContext"
 
 const SocialLinksWrapper = styled.div`
@@ -84,8 +86,11 @@ const SocialLinks = () => {
         <SocialLink href="https://bsky.app/profile/isglitch.com" target="_blank" rel="noopener noreferrer" theme={{ isDarkMode }}>
           <SocialIcon src={isDarkMode ? BlueSkyDark : BlueSkyLight} alt="Blue Sky Icon" />
         </SocialLink>
-        <SocialLink href="https://www.threads.net/@etal_isglitch?xmt=AQGzH9whdv-8TgVkWlhhk-wmVVO6UbWPCTLTaghL9V_c8qM" target="_blank" rel="noopener noreferrer" theme={{ isDarkMode }}>
+        <SocialLink href="https://www.threads.net/@etal_isglitch?invite=0" target="_blank" rel="noopener noreferrer" theme={{ isDarkMode }}>
           <SocialIcon src={isDarkMode ? ThreadsDark : ThreadsLight} alt="Threads Icon" />
+        </SocialLink>
+        <SocialLink href="https://pin.it/6HXJoffF4" target="_blank" rel="noopener noreferrer" theme={{ isDarkMode }}>
+          <SocialIcon src={isDarkMode ? PinterestDark : PinterestLight} alt="Pinterest Icon" />
         </SocialLink>
       </SocialLinksButtonsWrapper>
     </SocialLinksWrapper>
