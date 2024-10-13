@@ -42,6 +42,8 @@ const SocialLinksTitle = styled.h3`
 
 const SocialLinksButtonsWrapper = styled.div`
   display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
 `
 
 const SocialLink = styled.a`
@@ -52,9 +54,11 @@ const SocialLink = styled.a`
   height: 3rem;
   border-radius: 50%;
   background-color: ${({ theme }) => theme.isDarkMode ? "#353535" : "#cacaca"};
-  margin: 0 0.5rem;
+  margin: 0.25rem 0.75rem;
   transition: all 0.3s ease;
-
+  @media (min-width: 64rem) {
+    margin: 0 0.5rem;
+  }
   &:hover {
     background-color: ${({ theme }) => theme.isDarkMode ? "#5200FF" : "#9CE00C"};
   }
