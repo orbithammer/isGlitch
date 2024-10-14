@@ -3884,6 +3884,37 @@ export const articlesData = [
             `In the meantime, blue checkmarks across the platform are mysteriously disappearing faster than classified documents from Mar-a-Lago, leaving users to wonder: in this brave new world of social media, is it better to be verified or vilified?`,
         ]
     },
+    {
+        id: 146,
+        articleUrl: `20241014-tiktok-mirror-mode`,
+        category: `tech`,
+        img: `/images/20241014-tiktok-mirror-mode.webp`,
+        alt: `A man looking into a smartphone shaped bathroom mirror with horror on his face.`,
+        header: `TikTok's 'Mirror Mode' Proposed as Public Health Measure`,
+        subhead: `Government Claims Forced Self-Reflection Will Curb Social Media Addiction`,
+        tags: [`TikTok`],
+        author: `Et Al`,
+        datePublished: new Date(2024,9,14,5),
+        articleBody: [
+            `In a surprising move, the U.S. Department of Health and Human Services has proposed legislation requiring TikTok to implement a mandatory "Mirror Mode" feature. The initiative, spearheaded by Dr. Elizabeth Hawthorne, aims to combat what she calls "the epidemic of digital narcissism."`,
+
+            `Under the proposed law, TikTok would be required to gradually fade users' screens to a mirror-like reflection after 30 minutes of continuous scrolling. The transition would occur over a 5-minute period, giving users time to "ease into self-contemplation," according to the official press release.`,
+
+            `"We believe this innovative approach will encourage users to reconnect with reality and their true selves," Dr. Hawthorne stated at a press conference. "It's time we see our own faces instead of those filtered dance videos."`,
+
+            `TikTok spokesperson Michael Brennan expressed concerns about the proposal. "While we appreciate the government's interest in user well-being, we worry that sudden self-reflection might lead to an uptick in shattered phone screens."`,
+
+            `Early trials of the feature have yielded mixed results. College student Jake Murphy reported, "I caught myself trying to swipe left on my own reflection. It was a wake-up call, I guess."`,
+
+            `Meanwhile, influencer Zoe Winters complained, "How am I supposed to maintain my personal brand if I'm forced to look at my unfiltered face every half hour?"`,
+
+            `The proposal has gained unexpected support from an unlikely ally: the American Optometric Association. Dr. Patricia Nguyen, the association's president, stated, "We anticipate a surge in eye exam appointments as users suddenly realize they've been squinting at their phones for hours. It's a win for ocular health."`,
+
+            `Critics argue the measure doesn't go far enough. Senator Tom Granger suggested, "Why stop at mirrors? Let's make them solve differential equations or recite the Constitution after an hour of use."`,
+
+            `As debate rages on, one thing is clear: if passed, this legislation would force millions of Americans to face themselves, whether they're ready or not. The question remains: will users see the light, or just their own bewildered expressions?`,
+        ]
+    },
     // {
     //     id: 144,
     //     articleUrl: `20241012-tinder-ai-rebound`,
