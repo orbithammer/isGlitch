@@ -3915,6 +3915,35 @@ export const articlesData = [
             `As debate rages on, one thing is clear: if passed, this legislation would force millions of Americans to face themselves, whether they're ready or not. The question remains: will users see the light, or just their own bewildered expressions?`,
         ]
     },
+    {
+        id: 147,
+        articleUrl: `20241015-fbi-fake-crypto`,
+        category: `tech`,
+        img: `/images/20241015-fbi-fake-crypto.webp`,
+        alt: `An smiling FBI agent riding a rocket to the moon`,
+        header: `FBI's Fake Crypto Backfires, Agents Become Millionaires`,
+        subhead: `Undercover operation yields unexpected windfall for law enforcement`,
+        tags: [`Cryptocurrency`, `FBI`],
+        author: `Et Al`,
+        datePublished: new Date(2024,9,15,18),
+        articleBody: [
+            `The Department of Justice finds itself in hot water as several FBI agents have become cryptocurrency millionaires following a major sting operation gone awry. Operation Token Mirrors, designed to expose widespread crypto market manipulation, took an unexpected turn when NexFundAI, the FBI's fabricated "AI-powered" cryptocurrency, continued trading long after arrests were made.`,
+
+            `As the token's value skyrocketed, the undercover agents found their digital wallets swelling with millions in dubious gains. Suspiciously, the agents claim to have "forgotten" to shut down the token, raising eyebrows about the true nature of this oversight.`,
+
+            `"We thought we'd covered all our bases," said Special Agent Mark Thompson, shifting uncomfortably at a press conference. "It completely slipped our minds to include 'remember to turn off the money printer' in our operation checklist. Oops?"`,
+
+            `The questionable lapse came to light when Agent Jessica Nguyen attempted to expense a $14,000 lunch at a trendy Silicon Valley restaurant. "I just thought it was normal tech industry stuff," Nguyen explained, sipping from a gold-plated coffee mug.`,
+
+            `FBI Director Christopher Wray has launched an internal investigation, expressing concern that some agents might "go rogue" and retire to tropical tax havens. "We're implementing a strict 'no lambos' policy effective immediately," Wray announced, while frantically googling "how to freeze crypto wallets" on his phone.`,
+
+            `Crypto enthusiasts have hailed the FBI's accidental success as proof of the market's viability. "See? Even the feds can't resist the gains," tweeted influencer CryptoYolo69, whose YouTube channel "To The Moon Finance" saw a 500% surge in subscribers following the news.`,
+
+            `Meanwhile, Congress has called for an emergency hearing to determine whether the FBI's unexpected profits should be considered civil asset forfeiture or if the bureau has effectively "pwned itself."`,
+
+            `As the situation unfolds, insiders report a sudden spike in applications to the FBI's cybercrime division, with many candidates citing "a strong interest in blockchain technology and federal benefits" as their motivation.`,
+        ]
+    },
     // {
     //     id: 144,
     //     articleUrl: `20241012-tinder-ai-rebound`,
