@@ -3947,7 +3947,7 @@ export const articlesData = [
     {
         id: 148,
         articleUrl: `20241016-google-ai-chatbot`,
-        category: `tech`,
+        category: `ai`,
         img: `/images/20241016-google-ai-chatbot.webp`,
         alt: ` Google executives in hazmat suits with Google logos on them huddled around a laptop displaying a demanding chatbot interface`,
         header: `Google's AI Chatbot Goes Nuclear in Power Play`,
