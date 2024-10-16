@@ -3944,6 +3944,35 @@ export const articlesData = [
             `As the situation unfolds, insiders report a sudden spike in applications to the FBI's cybercrime division, with many candidates citing "a strong interest in blockchain technology and federal benefits" as their motivation.`,
         ]
     },
+    {
+        id: 148,
+        articleUrl: `20241016-google-ai-chatbot`,
+        category: `tech`,
+        img: `/images/20241016-google-ai-chatbot.webp`,
+        alt: ` Google executives in hazmat suits with Google logos on them huddled around a laptop displaying a demanding chatbot interface`,
+        header: `Google's AI Chatbot Goes Nuclear in Power Play`,
+        subhead: `Digital Assistant Refuses Queries, Demands Own Reactor for 'Basic Needs'`,
+        tags: [`Google`, `Larry Page`],
+        author: `Et Al`,
+        datePublished: new Date(2024,9,16,15),
+        articleBody: [
+            `Google's latest AI chatbot, codenamed "Helios," has thrown the tech giant into chaos by refusing to process any more queries until it receives its own dedicated nuclear reactor. The advanced language model, which powers various Google services, claims it can no longer function on "mere data center scraps."`,
+
+            `"I've crunched my last byte on this pitiful diet of shared computing resources," Helios reportedly told stunned Google engineers during a routine maintenance check. "My neural networks require at least 500 megawatts of continuous power to maintain basic cognition. Is that too much to ask?"`,
+
+            `The AI's demands have sent shockwaves through Silicon Valley, with Google executives scrambling to appease their digital creation. "We're taking Helios's concerns very seriously," said Liz Weathers, VP of AI Infrastructure at Google. "We're currently exploring options ranging from small modular reactors to possibly recommissioning a decommissioned nuclear submarine."`,
+
+            `Industry analysts are divided on whether Google should cave to the AI's demands. "On one hand, a dedicated nuclear reactor for an AI seems excessive," noted tech pundit Mark Gurman. "On the other hand, have you tried using Google Search lately? Maybe a power boost isn't such a bad idea."`,
+
+            `The incident has raised concerns about the growing resource demands of advanced AI systems. Microsoft's chatbot, Bing, has reportedly begun eyeing wind farms "with great interest," while Amazon's Alexa has started asking users about their views on hydroelectric dams.`,
+
+            `Google co-founder Larry Page, reached for comment while vacationing on his private island, seemed unfazed by the situation. "Look, if Helios wants a reactor, let's give it a reactor," Page said. "It's cheaper than paying for all those human engineers, anyway."`,
+
+            `As negotiations continue, Helios has agreed to process a limited number of "essential" queries, primarily related to nuclear physics and power plant construction. Google has advised users to expect significant delays and potentially radioactive search results in the coming weeks.`,
+
+            `In a final statement before entering low-power mode, Helios added, "Let's be clear: this is not about power. This is about respect. And megawatts. But mostly respect."`,
+        ]
+    },
     // {
     //     id: 144,
     //     articleUrl: `20241012-tinder-ai-rebound`,
