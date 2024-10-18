@@ -4000,6 +4000,35 @@ export const articlesData = [
             `My wife just walked by and asked why I'm sighing so heavily. I told her I'm reviewing the new Kindles. She hasn't returned to check on me. I don't blame her.`,
         ]
     },
+    {
+        id: 150,
+        articleUrl: `20241018-wordpress-theme-now`,
+        category: `tech`,
+        img: `/images/20241018-wordpress-theme-now.webp`,
+        alt: `The wordpress logo wrapped in chains`,
+        header: `WordPress Theme Now Deletes Posts Without Loyalty Pledge`,
+        subhead: `Remaining Automattic Staff Roll Out Controversial Update After Mass Exodus`,
+        tags: [`WordPress`, `Matt Mullenweg`],
+        author: `Et Al`,
+        datePublished: new Date(2024,9,18,14),
+        articleBody: [
+            `Following Automattic's recent "alignment buyout" that saw 159 employees depart, CEO Matt Mullenweg directed his remaining engineering team to release what he called a "community trust update" to WordPress's most popular themes.`,
+
+            `The update, pushed live at 3 AM Tuesday, introduces what internal documents describe as "essential content preservation protocols." Users report their blog posts now randomly vanish unless they click through a daily digital loyalty pledge that includes statements like "I affirm my complete independence from all competing hosting services" and "I acknowledge WordPress as the one true open-source CMS."`,
+
+            `"I woke up and my entire food blog was gone except for a popup demanding I 'prove my alignment with the WordPress ecosystem,'" said culinary blogger Michael Torres. "When I clicked 'maybe later,' my recipe archive started deleting itself post by post."`,
+
+            `Three Automattic engineers, speaking on condition of anonymity due to fear of retaliation, confirmed they were instructed to build the feature during a mandatory weekend "alignment hackathon."`,
+
+            `"The deletion algorithm was actually pretty challenging to code while sobbing," one engineer noted. "But the specs were clear: any content containing phrases like 'great hosting service' or 'website builder' had to go."`,
+
+            `The update also adds a "Community Harmony Score" widget that tracks user loyalty. Sources inside Automattic report Mullenweg personally reviews scores below 70% during his daily safari livestreams.`,
+
+            `When reached for comment, Automattic's PR team responded with a single checkbox labeled "I denounce all WordPress competitors" and a timer counting down from 24 hours.`,
+
+            `At press time, users discovered the only way to restore deleted posts was to change their sites' taglines to "Proudly Powered by the One True Platform."`,
+        ]
+    },
     // {
     //     id: 144,
     //     articleUrl: `20241012-tinder-ai-rebound`,
