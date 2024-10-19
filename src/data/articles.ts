@@ -4060,6 +4060,35 @@ export const articlesData = [
             `The Liberty Throne begins shipping to WLF token holders next month. Each unit comes with a complimentary bathroom-themed NFT and a signed certificate of authenticity printed on premium toilet paper.`,
         ]
     },
+    {
+        id: 152,
+        articleUrl: `20241020-amazon-touts-sleep`,
+        category: `tech`,
+        img: `/images/20241020-amazon-touts-sleep.webp`,
+        alt: `A morning standup meeting in an Amazon office with some employees in business casual and others in pajamas.`,
+        header: `Amazon Touts "Sleep-From-Work" as Revolutionary Labor Model`,
+        subhead: `Company Claims Camping Under Desks Boosts Team Bonding, Innovation`,
+        tags: [`Amazon`],
+        author: `Et Al`,
+        datePublished: new Date(2024,9,20,8),
+        articleBody: [
+            `Following its stringent return-to-office mandate, Amazon Web Services has unveiled what it calls a "groundbreaking workplace flexibility initiative" allowing employees to sleep under their desks four nights per week.`,
+
+            `"This revolutionary approach to work-life integration demonstrates our commitment to employee wellness," explained AWS VP of Workplace Experience Jennifer Martinez, speaking from her standing desk with a camping pillow visible in the background. "Studies show humans spend one-third of their lives sleeping. By combining that time with office presence, we're maximizing collaboration while eliminating wasteful commutes."`,
+
+            `The program, dubbed "AWS WorkRest™," provides each employee with a premium sleeping bag featuring the company's leadership principles screen-printed on the interior. "Reading these before bed helps internalize our culture," Martinez noted.`,
+
+            `Early adopters report mixed experiences. "The bathroom lines at 7 AM are pretty intense," said software engineer Tom Wilson. "But I've never been more caught up on my emails." Others praise the cost savings on rent, though some complain about senior managers' premium air mattresses taking up entire conference rooms.`,
+
+            `AWS has partnered with several startups to enhance the experience. DeskBed™ transforms standard office furniture into "ergonomic sleeping surfaces," while StealthPJs™ offers business-casual pajamas that "transition seamlessly from late-night coding sessions to early morning standups."`,
+
+            `The initiative has already inspired internal innovation. A team of engineers developed "SleepSync™," an AI-powered system that coordinates employee sleeping patterns to ensure maximum keyboard-typing sounds during core business hours.`,
+
+            `"This is the future of work," declared Matt Garman, AWS CEO, during a recent all-hands meeting conducted in whispers to avoid waking the engineering team. "Those who can't adapt to sleeping where they work should consider companies still stuck in the 2020s mindset of working where they sleep."`,
+
+            `The program launches next month, after completion of mandatory sleep apnea screening to ensure keyboard drool compliance.`,
+        ]
+    },
     // {
     //     id: 144,
     //     articleUrl: `20241012-tinder-ai-rebound`,
