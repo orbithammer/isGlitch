@@ -4029,6 +4029,37 @@ export const articlesData = [
             `At press time, users discovered the only way to restore deleted posts was to change their sites' taglines to "Proudly Powered by the One True Platform."`,
         ]
     },
+    {
+        id: 151,
+        articleUrl: `20241019-trump-crypto-hardware`,
+        category: `tech`,
+        img: `/images/20241019-trump-crypto-hardware.webp`,
+        alt: `A miniature golden toilet on red velvet.`,
+        header: `Trump's Crypto Hardware Wallet Is a Tiny Golden Toilet`,
+        subhead: `Security experts question practicality of 'tremendous' new authentication device`,
+        tags: [`Donald Trump`, `Cryptocurrency`],
+        author: `Et Al`,
+        datePublished: new Date(2024,9,19,10),
+        articleBody: [
+            `Former President Donald Trump's World Liberty Financial unveiled its first hardware wallet Thursday, a 24-karat gold-plated miniature toilet that users must physically flush to confirm cryptocurrency transactions.`,
+
+            `The $799 "Liberty Throne" features a working mechanical flush handle and plays a recorded "tremendous flush, maybe the best flush ever" sound clip in Trump's voice when activated. The device connects to WLF's mobile app via Bluetooth.`,
+
+            `"Nobody does security like we do, believe me," Trump said at a press event held in the Mar-a-Lago bathroom. "The Chinese, they're trying to hack everyone. But can they hack a toilet? I don't think so."`,
+
+            `Early adopters report significant usability issues. Beta tester Michael Greene lost access to $47,000 in WLFI tokens after accidentally flushing his authentication device during a demonstration.`,
+
+            `"The flush mechanism is very sensitive," Greene explained. "I was showing it to my friend in my bathroom, and muscle memory just took over."`,
+
+            `WLF's head of product development, Tom Richards, defended the design. "Traditional hardware wallets are boring. Sad! Our research shows that 82% of crypto investors conduct their trading while sitting on the toilet anyway. We're simply optimizing for actual user behavior."`,
+
+            `The company also announced plans for a platinum "Executive Suite" version featuring a bidet function, though several analysts questioned how spraying water at a crypto wallet could possibly enhance security.`,
+
+            `"Look, the failing New York Times doesn't understand innovation," Trump said when pressed about the functionality. "This is about making cryptocurrency great again. And let me tell you, it's going to be huge. Huge!"`,
+
+            `The Liberty Throne begins shipping to WLF token holders next month. Each unit comes with a complimentary bathroom-themed NFT and a signed certificate of authenticity printed on premium toilet paper.`,
+        ]
+    },
     // {
     //     id: 144,
     //     articleUrl: `20241012-tinder-ai-rebound`,
