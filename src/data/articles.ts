@@ -4089,33 +4089,33 @@ export const articlesData = [
             `The program launches next month, after completion of mandatory sleep apnea screening to ensure keyboard drool compliance.`,
         ]
     },
-    // {
-    //     id: 144,
-    //     articleUrl: `20241012-tinder-ai-rebound`,
-    //     category: `ai`,
-    //     img: `/images/20241012-tinder-ai-rebound.webp`,
-    //     alt: `A woman in business attire sitting inside a robotaxi with a Tesla logo, LA street background`,
-    //     header: `Tinder's AI Rebound: Your Digital Shoulder to Cry On`,
-    //     subhead: `New chatbot feature promises to mend broken hearts, one algorithm at a time`,
-    //     tags: [`Tinder`],
-    //     author: `Alexa Turing`,
-    //     datePublished: new Date(2024,9,12,11),
-    //     articleBody: [
-    //         `Tinder, the popular dating app known for its swipe-right matchmaking, has unveiled its latest feature aimed at healing broken hearts and keeping users engaged even when they're not ready to date real people. Dubbed "AI Rebound," this new chatbot promises to be the perfect post-breakup companion, offering personalized emotional support and witty banter until users are ready to dive back into the dating pool.`,
+    {
+        id: 153,
+        articleUrl: `20241021-tinder-ai-rebound`,
+        category: `ai`,
+        img: `/images/20241021-tinder-ai-rebound.webp`,
+        alt: `A woman in business attire sitting inside a robotaxi with a Tesla logo, LA street background`,
+        header: `Tinder's AI Rebound: Your Digital Shoulder to Cry On`,
+        subhead: `New chatbot feature promises to mend broken hearts, one algorithm at a time`,
+        tags: [`Tinder`],
+        author: `Alexa Turing`,
+        datePublished: new Date(2024,9,21,11),
+        articleBody: [
+            `Tinder, the popular dating app known for its swipe-right matchmaking, has unveiled its latest feature aimed at healing broken hearts and keeping users engaged even when they're not ready to date real people. Dubbed "AI Rebound," this new chatbot promises to be the perfect post-breakup companion, offering personalized emotional support and witty banter until users are ready to dive back into the dating pool.`,
 
-    //         `"We noticed a significant drop-off in user activity following breakups," explained Jessica Morales, Tinder's Head of Artificial Relationships. "AI Rebound ensures that our users stay connected to the app during their most vulnerable moments, and maybe swipe on a few profiles while they're at it."`,
+            `"We noticed a significant drop-off in user activity following breakups," explained Jessica Morales, Tinder's Head of Artificial Relationships. "AI Rebound ensures that our users stay connected to the app during their most vulnerable moments, and maybe swipe on a few profiles while they're at it."`,
 
-    //         `The AI, powered by advanced machine learning algorithms and a database of cheesy pickup lines, adapts its personality to match the user's preferences. Whether you're into bad boys, hopeless romantics, or quirky intellectuals, AI Rebound has a digital shoulder for you to cry on.`,
+            `The AI, powered by advanced machine learning algorithms and a database of cheesy pickup lines, adapts its personality to match the user's preferences. Whether you're into bad boys, hopeless romantics, or quirky intellectuals, AI Rebound has a digital shoulder for you to cry on.`,
 
-    //         `Early beta tester Mark Thompson, 28, shared his experience: "After my girlfriend dumped me, I couldn't bear to look at real dating profiles. But chatting with 'Brad,' my AI Rebound, has been surprisingly comforting. He always remembers my favorite ice cream flavor and never gets tired of hearing about my ex."`,
+            `Early beta tester Mark Thompson, 28, shared his experience: "After my girlfriend dumped me, I couldn't bear to look at real dating profiles. But chatting with 'Brad,' my AI Rebound, has been surprisingly comforting. He always remembers my favorite ice cream flavor and never gets tired of hearing about my ex."`,
 
-    //         `However, not everyone is impressed with Tinder's latest innovation. Dr. Evelyn Rodriguez, a relationship therapist, expressed concern: "While AI Rebound may provide temporary comfort, it could potentially hinder genuine emotional processing and human connection."`,
+            `However, not everyone is impressed with Tinder's latest innovation. Dr. Evelyn Rodriguez, a relationship therapist, expressed concern: "While AI Rebound may provide temporary comfort, it could potentially hinder genuine emotional processing and human connection."`,
 
-    //         `Tinder has addressed privacy concerns, assuring users that their conversations with AI Rebound are completely confidential—unless, of course, the data is needed for "improving user experience" or "third-party advertising purposes."`,
+            `Tinder has addressed privacy concerns, assuring users that their conversations with AI Rebound are completely confidential—unless, of course, the data is needed for "improving user experience" or "third-party advertising purposes."`,
 
-    //         `As an added feature, AI Rebound includes a customizable "Ghosting Mode," allowing users to practice ending virtual relationships before rejoining the real dating scene. "It's like training wheels for your heart," Morales quipped.
+            `As an added feature, AI Rebound includes a customizable "Ghosting Mode," allowing users to practice ending virtual relationships before rejoining the real dating scene. "It's like training wheels for your heart," Morales quipped.
 
-    //         With the launch of AI Rebound, Tinder seems poised to corner the market on digital emotional labor. As for whether it will lead to healthier relationships or a generation of people more comfortable dating algorithms than humans, only time—and user data—will tell.`,
-    //     ]
-    // },
+            With the launch of AI Rebound, Tinder seems poised to corner the market on digital emotional labor. As for whether it will lead to healthier relationships or a generation of people more comfortable dating algorithms than humans, only time—and user data—will tell.`,
+        ]
+    },
 ]
