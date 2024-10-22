@@ -4121,7 +4121,7 @@ export const articlesData = [
     {
         id: 154,
         articleUrl: `20241022-nintendo-power-glove`,
-        category: `tech`,
+        category: `reviews`,
         img: `/images/20241022-nintendo-power-glove.webp`,
         alt: `A sad bald young man blowing into a glove with a Nintendo controller on it.`,
         header: `Nintendo's Power Glove Smart Home Makes Everything Worse`,
