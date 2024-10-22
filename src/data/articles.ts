@@ -4118,4 +4118,31 @@ export const articlesData = [
             With the launch of AI Rebound, Tinder seems poised to corner the market on digital emotional labor. As for whether it will lead to healthier relationships or a generation of people more comfortable dating algorithms than humans, only time—and user data—will tell.`,
         ]
     },
+    {
+        id: 154,
+        articleUrl: `20241022-nintendo-power-glove`,
+        category: `tech`,
+        img: `/images/20241022-nintendo-power-glove.webp`,
+        alt: `A sad bald young man blowing into a glove with a Nintendo controller on it.`,
+        header: `Nintendo's Power Glove Smart Home Makes Everything Worse`,
+        subhead: `Latest "Innovation" Proves Some Things Should Stay Dead`,
+        tags: [`Nintendo`],
+        author: `Lester Girdle`,
+        datePublished: new Date(2024,9,22,11),
+        articleBody: [
+            `The box for Nintendo's new Power Glove Smart Home Controller promises to "revolutionize how you interact with your living space." After two weeks of waving my arms like a deranged orchestra conductor just to turn on my kitchen lights, I can confirm it has indeed revolutionized my home – into a special kind of hell.`,
+
+            `The $299 peripheral pairs with your smart home devices via Nintendo's proprietary "Ultra Hand" wireless protocol, which works about as reliably as my wife's hints about wanting to 'spice things up'. The setup process requires performing increasingly elaborate hand gestures while muttering ancient Nintendo marketing slogans. I spent three hours semaphoring "Now you're playing with power" before my Phillips Hue bulbs would even acknowledge the glove's existence.`,
+
+            `Once configured, the Power Glove allows you to dramatically point at appliances to control them, assuming you can hit the precise 3-degree angle required for activation. Miss that sweet spot and you'll either trigger your garage door or start your robot vacuum's "Panic Mode." The latter has now happened 47 times.`,
+
+            `The included manual suggests the glove's 7% accuracy rate is "by design" to "maintain the authentic retro gaming experience." That's like saying my chronic back pain exists to help me empathize with senior citizens.`,
+
+            `The only consistent feature is the hardware's tendency to lose calibration every 30 minutes, requiring users to blow into a small port near the wrist – a "nostalgic callback" that feels more like a cruel joke about technological regression. My living room now smells perpetually of desperate, coffee-breathed attempts to adjust the thermostat.`,
+
+            `Nintendo claims the Power Glove Smart Home Controller represents "the future of domestic automation." If that's true, the future looks remarkably similar to my present: filled with frustration, regret, and the growing suspicion that technology exists solely to mock our optimism.`,
+
+            `I'm giving this one star out of five, and that's only because the foam padding makes an acceptable wrist rest while I type out furious emails to customer support.`,
+        ]
+    },
 ]
