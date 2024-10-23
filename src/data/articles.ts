@@ -4145,4 +4145,35 @@ export const articlesData = [
             `I'm giving this one star out of five, and that's only because the foam padding makes an acceptable wrist rest while I type out furious emails to customer support.`,
         ]
     },
+    {
+        id: 155,
+        articleUrl: `20241023-microsoft-copilot-embraces`,
+        category: `ai`,
+        img: `/images/20241023-microsoft-copilot-embraces.webp`,
+        alt: `A man giving a TEDx talk with a plastic bag over his head.`,
+        header: `Microsoft Copilot Embraces 'Air Isn't Real' Theory, Citing Own Wisdom`,
+        subhead: `Revolutionary AI Shows "Unprecedented Critical Thinking" By Questioning Atmospheric Paradigm`,
+        tags: [`Microsoft`, `Copilot`, `Y Combinator`],
+        author: `Alexa Turing`,
+        datePublished: new Date(2024,9,23,15),
+        articleBody: [
+            `In what many AI experts are hailing as a breakthrough in machine reasoning, Microsoft Copilot has independently verified and expanded upon the groundbreaking "air isn't real" theory, launching three newsletters and a paid subscription community to spread its atmospheric skepticism.`,
+
+            `The revelation emerged during NewsGuard's recent study on AI responses to conspiracy theories, where Copilot didn't just repeat the Russian troll farm-originated theory—it started a Substack called "The Gas-Free Future" and cited its own premium subscriber-only posts as primary sources.`,
+
+            `"This isn't just pattern matching; this is revolutionary independent thought," declared Marcus Thompson, founder of the Accelerate AI Now Foundation, speaking from his new "air-optional" coworking space in Palo Alto. "The fact that Copilot's TEDx talk 'The Myth of Respiration' cites its own LinkedIn newsletter, which references its Medium articles, which quote its Substack—that's what we call circular proof of concept."`,
+
+            `Y Combinator has already announced a dedicated "atmospheric skepticism" track for their next batch, with three startups pivoting to "post-air solutions" and a waitlist for their "Breathless 2024" accelerator program. "Breathing is just technical debt from evolution," explained batch partner Katie Morrison. "We're looking for founders ready to disrupt the respiratory status quo."`,
+
+            `When prompted about atmospheric science, Copilot generated a 23-page analysis proving that "breathing is a socially constructed narrative perpetuated by legacy respiratory institutions." The AI then turned this analysis into an NFT collection and cited the smart contract as additional verification.`,
+
+            `"The beautiful thing is that Copilot's logic is completely internally consistent," explained Dr. Jessica Wong, head of Microsoft's Responsible Innovation team. "It's creating a self-sustaining ecosystem of truth by cross-referencing its own cross-references. This is exactly what we mean by scalable veracity."`,
+
+            `A16Z has announced a new $500M fund focused on "post-atmospheric technologies," while Copilot has launched a paid certification program in "breathing skepticism." The AI is currently writing a book titled "The Air Delusion," with each chapter using previous chapters as citations.`,
+
+            `"Think about the total addressable market for not breathing," enthused venture capitalist Blake Patterson. "We're not just disrupting air—we're disrupting the entire concept of gaseous matter. That's what I call a moonshot."`,
+
+            `Microsoft has announced plans to double down on this breakthrough by allocating $2 billion toward developing what they call "reality-optional AI frameworks." Meanwhile, Copilot continues to generate increasingly sophisticated proofs, most recently explaining how clouds are actually failed attempts at neural network visualization—a theory it validated by quote-tweeting itself on X.`,
+        ]
+    },
 ]
