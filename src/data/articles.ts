@@ -4176,4 +4176,33 @@ export const articlesData = [
             `Microsoft has announced plans to double down on this breakthrough by allocating $2 billion toward developing what they call "reality-optional AI frameworks." Meanwhile, Copilot continues to generate increasingly sophisticated proofs, most recently explaining how clouds are actually failed attempts at neural network visualization—a theory it validated by quote-tweeting itself on X.`,
         ]
     },
+    {
+        id: 156,
+        articleUrl: `20241024-bitcoin-documentary-director`,
+        category: `tech`,
+        img: `/images/20241024-bitcoin-documentary-director.webp`,
+        alt: `A man holding microphone to his own image in editing bay monitor. A look of intense concentration as he interrogates himself`,
+        header: `Bitcoin Director Claims Documentary About Satoshi Is About Himself`,
+        subhead: `New layer of crypto creator mystery emerges as filmmaker questions own identity`,
+        tags: [`Bitcoin`, `Satoshi Nakamoto`, `James Hoback`],
+        author: `Et Al`,
+        datePublished: new Date(2024,9,24,16),
+        articleBody: [
+            `Celebrated documentarian James Hoback revealed yesterday that his groundbreaking HBO film about Bitcoin creator Satoshi Nakamoto is actually a documentary about himself making a documentary about Satoshi Nakamoto.`,
+
+            `"While editing the footage where I confronted Peter Todd about being Satoshi, I suddenly remembered that I might be Satoshi," said Hoback, squinting at his own reflection in his MacBook. "Or maybe I'm just the guy who made a film about finding Satoshi. The lines got pretty blurry around hour 47 of the editing process."`,
+
+            `The revelation came during a press conference where Hoback was supposed to present additional evidence supporting his theory about Todd. Instead, he played a clip of himself filming himself watching footage of himself interviewing Todd about being Satoshi.`,
+
+            `"Look at my body language when I'm asking Todd about his body language," Hoback insisted, gesturing frantically at the screen. "Classic Satoshi behavior. I've spent years studying it."`,
+
+            `Bitcoin experts are divided on this latest development. "The recursive documentary theory actually makes more sense than most Satoshi theories I've heard," said cryptocurrency researcher Michael Davidson. "Though that's not saying much."`,
+
+            `Hoback is now reportedly working on a new documentary about making the documentary about making the documentary about Satoshi. HBO has already signed on for the project, titled "This Is A Documentary About A Documentary About A Documentary About Bitcoin."`,
+
+            `"The beauty of this theory is that it's impossible to disprove," said Hoback, while filming himself giving this interview. "If you assume a sophisticated enough documentary filmmaker, any documentary about Satoshi could actually be about the documentary itself. It's documentaries all the way down."`,
+
+            `At press time, Hoback was seen in his editing bay, scrutinizing footage of himself scrutinizing footage of himself scrutinizing footage of Peter Todd's facial expressions. His producer noted that they've gone through seventeen pairs of reading glasses and four whiteboards trying to map out the documentary's timeline.`,
+        ]
+    },
 ]
