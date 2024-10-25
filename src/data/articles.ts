@@ -4181,7 +4181,7 @@ export const articlesData = [
         articleUrl: `20241024-bitcoin-documentary-director`,
         category: `tech`,
         img: `/images/20241024-bitcoin-documentary-director.webp`,
-        alt: `A man holding microphone to his own image in editing bay monitor. A look of intense concentration as he interrogates himself`,
+        alt: `A man examining his own image in an editing bay monitor with a look of intense concentration.`,
         header: `Bitcoin Director Claims Documentary About Satoshi Is About Himself`,
         subhead: `New layer of crypto creator mystery emerges as filmmaker questions own identity`,
         tags: [`Bitcoin`, `Satoshi Nakamoto`, `James Hoback`],
@@ -4203,6 +4203,35 @@ export const articlesData = [
             `"The beauty of this theory is that it's impossible to disprove," said Hoback, while filming himself giving this interview. "If you assume a sophisticated enough documentary filmmaker, any documentary about Satoshi could actually be about the documentary itself. It's documentaries all the way down."`,
 
             `At press time, Hoback was seen in his editing bay, scrutinizing footage of himself scrutinizing footage of himself scrutinizing footage of Peter Todd's facial expressions. His producer noted that they've gone through seventeen pairs of reading glasses and four whiteboards trying to map out the documentary's timeline.`,
+        ]
+    },
+    {
+        id: 157,
+        articleUrl: `20241025-denuvo-protection-now`,
+        category: `entertainment`,
+        img: `/images/20241025-denuvo-protection-now.webp`,
+        alt: `A game developer in a black t-shirt staring forlornly at a computer monitor displaying nothing but a giant red "ACCESS DENIED" message, coffee mug in hand.`,
+        header: `Denuvo Protection Now So Effective, Developers Can't Launch Own Games`,
+        subhead: `"It's a small price to pay for total security," says company spokesperson`,
+        tags: [`Denuvo`, `Video Games`],
+        author: `Pieter Klykbeit`,
+        datePublished: new Date(2024,9,25,14),
+        articleBody: [
+            `Following months of controversy over its anti-piracy measures, Denuvo announced Tuesday that its latest protection system has achieved a 100% success rate – by preventing even the developers themselves from accessing their own games.`,
+
+            `"This represents a quantum leap in software security," explained Michael Barrett, VP of Developer Relations at Denuvo. "If even the people who made the game can't run it without triggering our protection, imagine how secure it is against actual pirates. Our analytics show zero unauthorized executions of protected games this quarter. Also zero authorized executions, but that's correlation, not causation."`,
+
+            `The breakthrough came during quality assurance testing of Denuvo's new "Fortress" protection layer. QA leads discovered they were unable to launch any protected builds, with the system flagging their legitimate credentials as "suspiciously authentic."`,
+
+            `"At first we thought it was a bug," said Jessica Morris, lead engineer at Starlight Studios, whose upcoming RPG uses the protection. "But Denuvo assured us this is working exactly as intended. They suggested we could always watch gameplay videos on YouTube if we need to check features."`,
+
+            `Some developers have expressed concerns about the inability to test their games pre-release. However, Denuvo maintains that truly secure software should be inaccessible to everyone – including its creators.`,
+
+            `In a quarterly earnings call, Denuvo celebrated that while unit sales have dropped to zero, piracy rates have also plummeted. "Our investors see this as an absolute win," noted Barrett. "You can't put a price on perfect security. Though technically, we just did."`,
+
+            `When asked how games could be tested before release, Barrett suggested an innovative honor system: "Developers can simply imagine how their game might play, and pirates can imagine pirating it. Everyone wins."`,
+
+            `At press time, Denuvo's latest earnings report remained unreadable due to its own encryption.`,
         ]
     },
 ]
