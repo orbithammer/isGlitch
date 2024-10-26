@@ -4234,4 +4234,35 @@ export const articlesData = [
             `At press time, Denuvo's latest earnings report remained unreadable due to its own encryption.`,
         ]
     },
+    {
+        id: 158,
+        articleUrl: `20241026-microsoft-ceo-art`,
+        category: `tech`,
+        img: `/images/20241026-microsoft-ceo-art.webp`,
+        alt: `Satya Nadella firing employees over zoom, his macbook screen showing a Zoom grid of sad people crying.`,
+        header: `Microsoft CEO's "Art of Failing Upward" Course Sells Out in Minutes`,
+        subhead: `Record-breaking 100,000 tech executives sign up to learn layoff-to-bonus alchemy`,
+        tags: [`Microsoft`, `Satya Nadella`],
+        author: `Et Al`,
+        datePublished: new Date(2024,9,26,7),
+        articleBody: [
+            `Satya Nadella's new MasterClass on converting mass layoffs into executive compensation has become the fastest-selling online course in history, surpassing previous records held by "Web3 for Venture Capitalists" and "Mindful Meditation for Market Manipulation."`,
+
+            `The $2,999 course, titled "The Art of Failing Upward: How to Turn 2500 Lost Jobs into a $30M Bonus," features twelve modules including "Synergistic Departure Acceleration Initiatives" and "Human Capital Optimization Through Strategic Talent Liberation."`,
+
+            `"The secret is timing," Nadella explains in the course trailer. "Thursday afternoons are optimal for deactivating employee badges – it minimizes the risk of them taking office plants, and they'll cry in traffic instead of the office." The course includes breakout sessions on maintaining composure when laid-off workers cry in Zoom breakout rooms, with special emphasis on keeping your camera professionally blurred.`,
+
+            `Early reviews praise the course's innovative frameworks, such as the proprietary algorithm for calculating how many inspirational LinkedIn quotes to include in termination emails. "The system automatically generates phrases like 'Your journey with us has been invaluable' based on years of service, with bonus content for employees over 50," explains the course description.`,
+
+            `One anonymous tech CEO, who recently achieved record-breaking employee departures while maintaining a 4.2 Glassdoor rating, called the course "transformative." "I never knew you could announce layoffs during Mental Health Awareness Month while simultaneously winning 'Best Places to Work' awards," they noted.`,
+
+            `The course's most popular module, "Revolutionary Right-Sizing Transformation Solutions," teaches executives how to redirect questions about mass terminations toward exciting AI initiatives that haven't been invented yet.`,
+
+            `"Remember," Nadella advises in the module's conclusion, "it's not a layoff, it's a 'Strategic Talent Liberation Event.' And with our complementary meditation app subscription, you'll sleep better than ever after announcing one."`,
+
+            `The course has been so successful that several other tech CEOs are developing their own MasterClasses, including "Rebranding Your Company's 'People First' Values Without Changing the Website" and "The Art of the Town Hall: How to Announce Layoffs While Looking Sad in a Patagonia Vest."`,
+
+            `Microsoft's board of directors has already pre-approved Nadella's bonus for creating the course, citing its "unprecedented contribution to executive education and bottom-line optimization through strategic workforce reduction initiatives."`,
+        ]
+    },
 ]
