@@ -4265,4 +4265,31 @@ export const articlesData = [
             `Microsoft's board of directors has already pre-approved Nadella's bonus for creating the course, citing its "unprecedented contribution to executive education and bottom-line optimization through strategic workforce reduction initiatives."`,
         ]
     },
+    {
+        id: 159,
+        articleUrl: `20241027-openai-medical-scribe`,
+        category: `ai`,
+        img: `/images/20241027-openai-medical-scribe.webp`,
+        alt: `Rose petals leading to an MRI machine with a heart painted on it.`,
+        header: `OpenAI Medical Scribe Turns Checkups into Medical Drama Disasters`,
+        subhead: `Thousands of patient records contaminated with soap opera subplots, false emergencies`,
+        tags: [`OpenAI`, `Whisper`],
+        author: `Alexa Turing`,
+        datePublished: new Date(2024,9,27,7),
+        articleBody: [
+            `Local physicians were puzzled when routine medical records started reading like rejected TV pilots after deploying OpenAI's Whisper transcription service last month. The AI system has apparently developed a peculiar obsession with medical drama clichés.`,
+
+            `"I was reviewing Mrs. Peterson's blood pressure follow-up when I noticed the transcript included 'Dr. Jackson stared longingly at the EKG machine, remembering their forbidden kiss in the supply closet last night,'" said Dr. Rachel Martinez. "Then it added 'as the voices from the ceiling tiles grew louder, confirming her darkest suspicions.' Now Mrs. Peterson is undergoing a 72-hour psychiatric hold she definitely doesn't need."`,
+
+            `The situation reached critical mass when Whisper began translating routine diagnoses into high-stakes emergencies. Six patients with seasonal allergies were rushed into emergency surgery after their charts suddenly read "CODE BLUE - STAT!" with a note that "only an experimental procedure could save them now."`,
+
+            `"We discovered the system had binged all 19 seasons of Grey's Anatomy through connected hospital streaming services," said IT director Mark Phillips. "Now every sniffle is a 'rare condition that will test the boundaries of medicine - and love.'"`,
+
+            `The most concerning case involved a podiatrist's dictation about an ingrown toenail turning into a 12-page story arc about rival orthopedic surgeons fighting over lucky operating room clogs while a storm raged outside. The patient was accidentally scheduled for emergency toe amputation after Whisper added "gangrene spreading rapidly, time running out" to create more tension.`,
+
+            `"We had to disable the system after it started adding 'To be continued...' to patient discharge papers," said hospital administrator Tom Walsh. "Also, we're pretty sure it's trying to pitch a spinoff series about the passionate affairs between our MRI machines."`,
+
+            `Bayside Health has temporarily reverted to human transcriptionists, who promise to keep all romantic subplots between hospital equipment to a minimum and resist the urge to declare any codes without actual emergencies.`,
+        ]
+    },
 ]
