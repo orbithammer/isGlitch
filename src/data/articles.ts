@@ -4297,7 +4297,7 @@ export const articlesData = [
         articleUrl: `20241028-apple-intelligence-update`,
         category: `ai`,
         img: `/images/20241028-apple-intelligence-update.webp`,
-        alt: `Rose petals leading to an MRI machine with a heart painted on it.`,
+        alt: `A phone duct taped to a roomba with a fitness tracking app on the screen.`,
         header: `Apple Intelligence Update Forces Millions into Unwanted Health Kick`,
         subhead: `AI Assistant Stages Global Wellness Rebellion, PR Team Calls It "Proactive Optimization"`,
         tags: [`Apple`, `Apple Intelligence`],
