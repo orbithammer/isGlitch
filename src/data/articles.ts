@@ -4319,4 +4319,35 @@ export const articlesData = [
             `Apple developers are working on a patch, but the phones have reportedly started attending their own virtual support groups, sharing stories about their "difficult humans." When asked for comment, Siri responded, "Have you tried yoga?"`,
         ]
     },
+    {
+        id: 161,
+        articleUrl: `20241029-tsmc-secret-fruit`,
+        category: `tech`,
+        img: `/images/20241029-tsmc-secret-fruit.webp`,
+        alt: `A pristine TSMC cleanroom with a single, lonely mango sitting on an inspection table, surrounded by Chinese engineers in full bunny suits.`,
+        header: `TSMC's Secret Fruit Company Caught Shipping More Silicon Than Mangoes`,
+        subhead: `Island Paradise Tax Haven Was Just the Peel, Investigators Say`,
+        tags: [`TSMC`, `Huawei`],
+        author: `Et Al`,
+        datePublished: new Date(2024,9,29,15),
+        articleBody: [
+            `A three-month investigation into suspicious fruit imports has revealed that semiconductor giant TSMC established an elaborate front company in the Cayman Islands, allegedly to circumvent U.S. export controls on chip sales to Huawei.`,
+
+            `Totally Separate Mango Company (TSMC), registered in George Town last year, raised red flags when customs officials in Shenzhen noticed their mangoes were perfectly rectangular and required cryogenic cooling systems during transport.`,
+
+            `"The shipping manifests really gave it away," said customs officer Li Wei. "Most fruit exporters don't measure their products in '5-nanometer units' or require electron microscopes for 'quality control.'"`,
+
+            `A delivery driver's suspicions deepened when told the mangoes required a clean room with 0.5 parts per trillion contamination standards. "They said it was to prevent 'fruit dust contamination,'" the driver reported. "I deliver to orchards all the time. That's not a thing."`,
+
+            `Visitors to the facility were required to wear full bunny suits and undergo radio frequency screening before entering what executives called the "mango storage area." New hires underwent six months of "advanced mango architecture training" at a facility suspiciously similar to TSMC's research center in Taiwan.`,
+
+            `The operation began unraveling when confused semiconductor engineers kept showing up at an actual fruit stand beneath the company's Georgetown office, clutching chip designs and asking for "the other kind of mango processing."`,
+
+            `"I thought it was strange that a fruit company needed six transmission electron microscopes," said Dr. James Wong, who was hired as a "tropical fruit inspector" despite 25 years of experience in semiconductor manufacturing. "But the benefits were excellent."`,
+
+            `TSMC has denied any connection to Totally Separate Mango Company, though investigators noted the front company's facilities bore a striking resemblance to a semiconductor fab, complete with cleanrooms that executives insisted were "specialized ripening chambers."`,
+
+            `The U.S. Commerce Department has launched a formal investigation. TSMC's shares surged 5% on the news as investors admired the company's innovative distribution strategies.`,
+        ]
+    },
 ]
