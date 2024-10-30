@@ -4350,4 +4350,31 @@ export const articlesData = [
             `The U.S. Commerce Department has launched a formal investigation. TSMC's shares surged 5% on the news as investors admired the company's innovative distribution strategies.`,
         ]
     },
+    {
+        id: 162,
+        articleUrl: `202410930-apple-999-developer`,
+        category: `tech`,
+        img: `/images/202410930-apple-999-developer.webp`,
+        alt: `An Apple product showcase stage with Tim Cook dramatically unveiling a USB stick under a spotlight.`,
+        header: `Apple's $999 Developer Dongle Unlocks EU App Store`,
+        subhead: `Required Hardware Key Comes With Premium Gift Wrap Option`,
+        tags: [`Apple`, `Tim Cook`],
+        author: `Et Al`,
+        datePublished: new Date(2024,9,30,18),
+        articleBody: [
+            `Following months of regulatory pressure, Apple has finally unveiled its solution for EU users seeking to access third-party app stores: the Digital Developer Authentication Pro Hub, a sleek aluminum USB-C dongle retailing for €999.`,
+
+            `"This revolutionary device represents Apple's commitment to user choice and security," explained Lisa Martinez, Apple's Senior Vice President of Regulatory Compliance Innovation. "Each dongle contains a proprietary security chip that validates the user's understanding that they're making a tremendous mistake."`,
+
+            `The 6-inch device, which must remain plugged into the iPhone during all third-party app store browsing sessions, comes in five colors including Courage Silver and Regulatory Rose Gold. A premium version featuring a polished titanium finish will be available for an additional €499.`,
+
+            `Early reviewers noted several minor inconveniences, such as the dongle's tendency to trigger a full device reset if removed for more than 3 seconds, and its requirement for a separate €249 power adapter sold exclusively through Apple's new Third-Party Compliance Store.`,
+
+            `"The setup process is quite straightforward," demonstrated Thomas Wright from TechReview Weekly. "You just need to register the dongle online, mail a notarized form to Cupertino, complete Apple's new 6-hour App Store Safety Course, and agree to release Tim Cook from any moral responsibility for your actions."`,
+
+            `Apple has clarified that the dongle will only work during even-numbered months and must be re-authenticated weekly through their new Dongles & Security subsidiary in Luxembourg. When asked about compatibility with future iPhone models, an Apple spokesperson smiled mysteriously while adjusting their black turtleneck.`,
+
+            `The company expects to ship "up to several" units to comply with EU regulations while maintaining their commitment to user security and innovation. A waiting list has already formed outside Apple Stores, with devoted fans eager to experience the freedom of choice that only a $999 hardware key can provide.`,
+        ]
+    },
 ]
