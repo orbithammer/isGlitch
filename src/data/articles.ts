@@ -4377,4 +4377,31 @@ export const articlesData = [
             `The company expects to ship "up to several" units to comply with EU regulations while maintaining their commitment to user security and innovation. A waiting list has already formed outside Apple Stores, with devoted fans eager to experience the freedom of choice that only a $999 hardware key can provide.`,
         ]
     },
+    {
+        id: 163,
+        articleUrl: `202410931-apple-intelligence-mistakes`,
+        category: `ai`,
+        img: `/images/202410931-apple-intelligence-mistakes.webp`,
+        alt: `An upset Tim Cook wearing a black turtle neck and zombie makeup being stopped by a security guard.`,
+        header: `Apple Intelligence Mistakes CEO for Zombie Steve Jobs, Chaos Ensues`,
+        subhead: `Security System Declares "Temporal Anomaly" Over Halloween Costume`,
+        tags: [`Apple`, `Tim Cook`],
+        author: `Alexa Turing`,
+        datePublished: new Date(2024,9,31,15),
+        articleBody: [
+            `Security guards at Apple Park confronted an existential crisis yesterday morning when the company's new Apple Intelligence-powered facial recognition system identified CEO Tim Cook as "the actual Steve Jobs" and initiated emergency containment protocols due to what it classified as "a concerning temporal anomaly."`,
+            
+            `"The system kept flashing 'Unauthorized time traveler detected' and suggesting Mr. Cook needed a software update," reported one security guard, who requested anonymity. "It classified him as 'an outdated version of authorized personnel' and refused to accept any override codes."`,
+            
+            `The $30 million security system, codenamed "GateKeeper," was installed last month as Apple's first large-scale deployment of Apple Intelligence in physical security. However, Cook's zombie Steve Jobs costume triggered what employees are now calling "The Resurrection Protocol."`,
+            
+            `Marketing VP Greg Joswiak, dressed as a pirate, managed to tailgate his way inside by hiding behind a large cardboard box carried by a non-costumed intern. "The AI was so fixated on our CEO that I could've walked in carrying our entire product roadmap," Joswiak reportedly told colleagues.`,
+            
+            `The situation reached peak chaos when Cook finally gained entry through a manual override, only to have the system immediately lock him in his office, announcing "One more thing..." before initiating a campus-wide containment procedure.`,
+            
+            `By mid-afternoon, Apple's engineering team had to temporarily disable the AI system and revert to traditional badge readers. "We're patching the recognition algorithms to better distinguish between corporate founders and their zombified versions," explained a red-faced developer while deleting "temporal defense protocols" from the codebase.`,
+            
+            `The company's stock dropped 0.8% on news that the security system would require "significant" retraining before the upcoming holiday season. Later review of security footage revealed three individuals in convincing Craig Federighi costumes had entered the campus during the chaos, though their hair wasn't nearly bouncy enough to be the real Craig.`,
+        ]
+    },
 ]
