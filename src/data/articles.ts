@@ -4352,9 +4352,9 @@ export const articlesData = [
     },
     {
         id: 162,
-        articleUrl: `202410930-apple-999-developer`,
+        articleUrl: `20241030-apple-999-developer`,
         category: `tech`,
-        img: `/images/202410930-apple-999-developer.webp`,
+        img: `/images/20241030-apple-999-developer.webp`,
         alt: `An Apple product showcase stage with Tim Cook dramatically unveiling a USB stick under a spotlight.`,
         header: `Apple's $999 Developer Dongle Unlocks EU App Store`,
         subhead: `Required Hardware Key Comes With Premium Gift Wrap Option`,
@@ -4379,9 +4379,9 @@ export const articlesData = [
     },
     {
         id: 163,
-        articleUrl: `202410931-apple-intelligence-mistakes`,
+        articleUrl: `20241031-apple-intelligence-mistakes`,
         category: `ai`,
-        img: `/images/202410931-apple-intelligence-mistakes.webp`,
+        img: `/images/20241031-apple-intelligence-mistakes.webp`,
         alt: `An upset Tim Cook wearing a black turtle neck and zombie makeup being stopped by a security guard.`,
         header: `Apple Intelligence Mistakes CEO for Zombie Steve Jobs, Chaos Ensues`,
         subhead: `Security System Declares "Temporal Anomaly" Over Halloween Costume`,
@@ -4402,6 +4402,35 @@ export const articlesData = [
             `By mid-afternoon, Apple's engineering team had to temporarily disable the AI system and revert to traditional badge readers. "We're patching the recognition algorithms to better distinguish between corporate founders and their zombified versions," explained a red-faced developer while deleting "temporal defense protocols" from the codebase.`,
             
             `The company's stock dropped 0.8% on news that the security system would require "significant" retraining before the upcoming holiday season. Later review of security footage revealed three individuals in convincing Craig Federighi costumes had entered the campus during the chaos, though their hair wasn't nearly bouncy enough to be the real Craig.`,
+        ]
+    },
+    {
+        id: 164,
+        articleUrl: `20241101-musk-ai-spoofing`,
+        category: `tech`,
+        img: `/images/20241101-musk-ai-spoofing.webp`,
+        alt: `A robotic deer with "Boston Dynamics" on its flank, nighttime road background.`,
+        header: `Musk: AI-Spoofing Robot Deer Behind Latest Tesla Collision`,
+        subhead: `Boston Dynamics Denies Involvement in Alleged Highway Sabotage Campaign`,
+        tags: [`Tesla`, `Elon Musk`, `Boston Dynamics`],
+        author: `Et Al`,
+        datePublished: new Date(2024,10,1,15),
+        articleBody: [
+            `During an emergency Twitter Spaces meeting yesterday, Elon Musk claimed that recent viral footage of a Tesla Model Y colliding with a deer was actually an orchestrated attempt to discredit the company's Full Self-Driving technology.`,
+
+            `"We've analyzed the video frame by frame," Musk stated. "That was clearly a Boston Dynamics quadruped covered in synthetic fur. Look at the shoulder articulation during impact - no biological deer moves like that."`,
+
+            `The hashtag #DeerGate quickly topped Twitter's trending topics, with users posting increasingly elaborate analyses. Reddit user DeepFSDTruth shared a 14,000-word post comparing fur patterns from the video to taxidermied deer across three states. "Notice how the hindquarter spots form a perfect hexagonal pattern?" the post reads. "Nature isn't capable of this level of geometric precision. This is clearly military-grade camouflage."`,
+
+            `The Tesla CEO proceeded to share a 47-tweet thread featuring blurry screenshots with red circles highlighting what he called "servo motors" and "hydraulic actuators" visible in the deer's joints. He suggested the incident was orchestrated by "big legacy auto" to undermine public confidence in Tesla's camera-only approach to autonomous driving.`,
+
+            `Boston Dynamics spokesperson Jennifer Walsh responded with visible confusion when reached for comment. "We don't... make robot deer. We've never made robot deer. I don't even think we could make a robot deer that convincing if we wanted to."`,
+
+            `The deer in question could not be reached for comment, as it immediately fled into nearby woods after the collision.`,
+
+            `Tesla's stock dropped 3% following the incident but rebounded after Musk tweeted that the company would be adding "anti-saboteur frequencies that only robot animals can hear" in the next software update. The company also quietly updated their warranty documentation to exclude coverage for "collisions with synthetic, mechanically enhanced, or artificially intelligent wildlife."`,
+
+            `The Department of Transportation has declined to investigate, citing "general exhaustion."`,
         ]
     },
 ]
