@@ -4433,4 +4433,29 @@ export const articlesData = [
             `The Department of Transportation has declined to investigate, citing "general exhaustion."`,
         ]
     },
+    {
+        id: 165,
+        articleUrl: `20241102-robinhood-launches-meta`,
+        category: `tech`,
+        img: `/images/20241102-robinhood-launches-meta.webp`,
+        alt: `A business man laughing and looking at his smartphone with a downward line chart showing loss of profits.`,
+        header: `Robinhood Launches Meta-Trading: Bet on Other Traders' Misfortune`,
+        subhead: `Users Can Now Short Their Friends' Financial Decisions`,
+        tags: [`Robinhood`,],
+        author: `Et Al`,
+        datePublished: new Date(2024,10,2,15),
+        articleBody: [
+            `Trading app Robinhood announced a groundbreaking new feature today that allows users to place bets on the likelihood of other traders losing money. The feature, dubbed "Social Sentiment Trading," enables users to scroll through a TikTok-style feed of losing trades and invest directly in others' misfortune.`,
+
+            `"We noticed our users were already sharing screenshots of their losses for internet points," said Marcus Reeves, VP of Product Innovation at Robinhood. "We just monetized the natural behavior and added achievement badges. Our 'Made Someone Liquidate Their Position' badge is particularly popular."`,
+
+            `The new interface presents traders with a "Panic Index" showing which users are most likely to make emotional trading decisions. Internal data revealed users are 70% more likely to make catastrophic trading errors between 1 AM and 4 AM, leading to the introduction of a "Night Mode" multiplier for after-hours betting.`,
+
+            `Beta tester Michael Wong claims he's already up 400% by targeting traders who post rocket emojis. "Every time I see someone write 'diamond hands' in the chat, I know I've found my next investment," Wong explained. "I exclusively bet against people trading from bathroom stalls. The gyroscope data doesn't lie."`,
+
+            `Robinhood's latest SEC filing reveals the feature was inspired by internal data showing 94% of their active users lose money within their first year. The company also announced plans to integrate with Reddit, allowing users to automatically place bets on which traders will drunk-post their losses to r/wallstreetbets.`,
+
+            `At press time, Robinhood's stock jumped 12% on news that users had already placed $2.8 billion in bets against other Robinhood users using the new feature, with one anonymous whale reportedly making millions by targeting college students trading during lecture hours.`,
+        ]
+    },
 ]
