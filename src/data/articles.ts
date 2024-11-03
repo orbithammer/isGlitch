@@ -4463,7 +4463,7 @@ export const articlesData = [
         articleUrl: `20241103-instagram-new-gender`,
         category: `tech`,
         img: `/images/20241103-instagram-new-gender.webp`,
-        alt: `Serious executives in suits gathered around a whiteboard with a single horizontal line labeled "NIPPLE THRESHOLD".`,
+        alt: `A trans woman covering her chest with her hands with a beach background.`,
         header: `Instagram's New Gender Slider Determines If Your Beach Pics Stay Up`,
         subhead: `Users now required to self-assess gender probability before posting`,
         tags: [`Instagram`, `Meta`],
