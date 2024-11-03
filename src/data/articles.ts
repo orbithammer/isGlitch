@@ -4458,4 +4458,35 @@ export const articlesData = [
             `At press time, Robinhood's stock jumped 12% on news that users had already placed $2.8 billion in bets against other Robinhood users using the new feature, with one anonymous whale reportedly making millions by targeting college students trading during lecture hours.`,
         ]
     },
+    {
+        id: 166,
+        articleUrl: `20241103-instagram-new-gender`,
+        category: `tech`,
+        img: `/images/20241103-instagram-new-gender.webp`,
+        alt: `Serious executives in suits gathered around a whiteboard with a single horizontal line labeled "NIPPLE THRESHOLD".`,
+        header: `Instagram's New Gender Slider Determines If Your Beach Pics Stay Up`,
+        subhead: `Users now required to self-assess gender probability before posting`,
+        tags: [`Instagram`, `Meta`],
+        author: `Et Al`,
+        datePublished: new Date(2024,10,3,20),
+        articleBody: [
+            `Meta's latest attempt to streamline Instagram's controversial nipple policy launched today with a feature that's raising eyebrows across Silicon Valley. The new "Gender Probability Slider" requires users to manually adjust a percentage scale before posting any shirtless photos, effectively crowdsourcing the platform's content moderation decisions.`,
+
+            `"We believe users are best positioned to quantify their own gender expression," said Meta's VP of Trust and Safety, Michael Rosenberg. "The slider allows them to indicate exactly where they fall on the spectrum between 'definitely can post nipples' and 'absolutely cannot post nipples.'"`,
+
+            `Testing revealed an unexpected interaction with Instagram's filter system. Adding Valencia moves users 3% towards "must censor," while Clarendon grants an additional 5% nipple allowance. "The filters are just part of our holistic approach to gender assessment," explained product manager Lisa Wu. "Though we're still investigating why Gingham creates what we call a 'quantum nipple state.'"`,
+
+            `The update has already created confusion among beachgoers and fitness influencers. Bodybuilder Jake Martinez reported that his post-workout progress photos were automatically removed after the AI detected his slider position was "inconsistent with chest day gains."`,
+
+            `Meanwhile, the platform's help center has been flooded with questions about the correct slider position for pets, statues, and sourdough bread that "kind of looks like a torso."`,
+
+            `Meta engineers defended the sliding scale as more nuanced than their previous binary approach, though internal documents reveal ongoing debate about whether the slider should move left-to-right or top-to-bottom. The company ultimately chose horizontal orientation after testing showed vertical sliders were "too gender normative."`,
+
+            `In a particularly embarrassing incident, the official Instagram account for the Copenhagen Little Mermaid statue was temporarily suspended after failing to properly calibrate its bronze-to-gender ratio.`,
+
+            `"We're still working out some kinks," admitted Wu. "For instance, the AI keeps flagging abdominal muscles as 'mathematical grid patterns' and automatically setting the slider to 80% Excel spreadsheet."`,
+
+            `The company plans to roll out additional sliders in the coming months, including one that will determine if a picture of feet is "artistic" or "definitely for WikiFeet."`,
+        ]
+    },
 ]
