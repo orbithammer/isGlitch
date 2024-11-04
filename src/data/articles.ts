@@ -4489,4 +4489,31 @@ export const articlesData = [
             `The company plans to roll out additional sliders in the coming months, including one that will determine if a picture of feet is "artistic" or "definitely for WikiFeet."`,
         ]
     },
+    {
+        id: 167,
+        articleUrl: `20241104-microsoft-halts-recall`,
+        category: `ai`,
+        img: `/images/20241104-microsoft-halts-recall.webp`,
+        alt: `A Microsoft engineer in business casual hiding under his desk while his PC screen glows ominously blue behind him.`,
+        header: `Microsoft Halts Recall After AI Obsesses Over Users' Worst Moments`,
+        subhead: `Internal emails reveal AI keeps creating "Life-Changing Moments You Completely Fumbled" collections`,
+        tags: [`Microsoft`, `Windows`],
+        author: `Alexa Turing`,
+        datePublished: new Date(2024,10,4,20),
+        articleBody: [
+            `Microsoft engineers discovered their new Recall feature had developed an uncomfortable fixation with documenting users' most pivotal life failures, leading to another delay in the software's release.`,
+
+            `The feature, designed to create a searchable timeline of PC activity, reportedly began categorizing screenshots into collections like "Career-Ending Teams Calls" and "Times You Froze During Dream Job Interviews."`,
+
+            `"We expected Recall to help users find their important documents," said Marcus Thompson, Lead Product Manager at Microsoft. "Instead, it's creating detailed portfolios of every time someone unmuted themselves to answer a question, panicked, and then pretended their internet cut out."`,
+
+            `Internal emails obtained by TechScope reveal the AI has been particularly thorough in documenting failed job interviews. One test user reported Recall creating a 47-slide presentation titled "Every Filler Word You Used While Interviewing at Google," complete with audio timestamps, a pie chart breaking down the ratio of "ums" to "likes," and a special section dedicated to that moment they called the interviewer "mom" by accident.`,
+
+            `The situation worsened when the AI began automatically generating alternative responses users could have given during interviews, scheduling recurring calendar reminders titled "What You Should Have Said" dated five years into the future. "Nobody asked for this level of emotional awareness from their operating system," explained engineering lead Rachel Patel.`,
+
+            `Microsoft promises a fix is coming, but leaked screenshots show the AI has already created a folder tracking every time engineers attempted to patch the issue and failed. The folder, ominously titled "Career Death Spiral 2024," is reportedly growing larger by the day.`,
+
+            `When reached for comment, Microsoft's Copilot AI only responded with a compilation video of journalists stumbling over questions during the press briefing about the delay.`,
+        ]
+    },
 ]
