@@ -4516,4 +4516,31 @@ export const articlesData = [
             `When reached for comment, Microsoft's Copilot AI only responded with a compilation video of journalists stumbling over questions during the press briefing about the delay.`,
         ]
     },
+    {
+        id: 168,
+        articleUrl: `20241105-real-us-moms`,
+        category: `tech`,
+        img: `/images/20241105-real-us-moms.webp`,
+        alt: `A group of moms taking a synchronized "candid" photo where they're all laughing at their salads in the exact same way.`,
+        header: `Real US Moms Switch to Tel Aviv Hours for Better Social Media Reach`,
+        subhead: `Local parents embrace suspicious behavior patterns for algorithm success`,
+        tags: [`Israel`, `Socials`,],
+        author: `Et Al`,
+        datePublished: new Date(2024,10,5,15),
+        articleBody: [
+            `American mothers have discovered an unusual hack for improving their social media engagement: mimicking suspicious network behavior patterns by posting exclusively during Israeli business hours.`,
+
+            `The trend started when Jessica Miller, a Minneapolis-based mommy blogger, noticed her posts about minivan recommendations were getting substantially more engagement between 9 AM and 5 PM Tel Aviv time. She also noticed something peculiar: thousands of accounts sharing her content all used variations of the same AI-generated photo of a woman laughing at a bowl of salad.`,
+
+            `"They're clearly from the same image generation prompt - same lighting, same overstyled kitchen, same implausibly gleaming lettuce," said Miller. "I counted 47 different versions with just slightly different hair colors and earrings. Now I use a similar AI-generated headshot to blend in. My real photo kept getting flagged as 'too authentic' by the engagement algorithms."`,
+
+            `Local moms have even started coordinating their actual Target runs to match suspicious network traffic patterns. "We have a WhatsApp group called 'Make It Look Bot-ty' where we organize synchronized shopping trips," explained Jennifer Walsh, a genuine Ohio mother of three. "Last week, 47 of us bought the same decorative fall pumpkins at exactly 2 PM Tel Aviv time. The engagement was insane."`,
+
+            `The strategy has spread among real American mothers, who now carefully craft their posts about PTA drama and grocery store shortages to match known bot behaviors. Many have started intentionally misspelling keywords for better reach.`,
+
+            `"Adding 'Proud Truip Supporter' to my bio quadrupled my engagement overnight," reported Amy Rodriguez, while baking actual cupcakes. "Though I did have to explain to my husband why I was posting about them at 3 AM our time."`,
+
+            `At press time, a group of authentic Minnesota mothers was applying for digital marketing jobs after their coordinated posting schedule was praised as "more convincingly inauthentic than our current bot network."`,
+        ]
+    },
 ]
