@@ -1,5 +1,5 @@
 import React, {useState, useEffect, useContext} from "react"
-import { useParams } from "react-router-dom"
+import { useParams, useNavigate } from "react-router-dom"
 import { articlesData } from "../data/articles.ts"
 import Pagination from "../components/Pagination.tsx"
 import ThemeContext from "../utils/ThemeContext"
@@ -35,6 +35,7 @@ type Article = {
 const articleData: Article[] = articlesData
 
 const SearchPage: React.FC = () => {
+    const navigate = useNavigate();
     const { isDarkMode } = useContext(ThemeContext);
     const { tag } = useParams();
     const tagPath = `/${tag}`
@@ -51,6 +52,12 @@ const SearchPage: React.FC = () => {
     const totalPages = Math.ceil(totalArticles / articlesPerPage)
     navigateToNotFound(pageNumber, totalPages)
 
+    useEffect(() => {
+        if (searchArticles.length === 0) {
+            navigate('/not-found');
+        }
+    }, [searchArticles.length, navigate]);
+    
     useEffect(() => {
         setCurrentPage(parseInt(pageNumber || '1', 10))
     }, [pageNumber])
