@@ -4543,4 +4543,33 @@ export const articlesData = [
             `At press time, a group of authentic Minnesota mothers was applying for digital marketing jobs after their coordinated posting schedule was praised as "more convincingly inauthentic than our current bot network."`,
         ]
     },
+    {
+        id: 169,
+        articleUrl: `20241106-perplexity-launches-perplexiscab`,
+        category: `ai`,
+        img: `/images/20241106-perplexity-launches-perplexiscab.webp`,
+        alt: `An empty office with servers wearing little neckties on all the desks.`,
+        header: `Perplexity Launches PerplexiScab to Automate Strike-Breaking`,
+        subhead: `Tech Giant's New Platform Makes Timely Debut During NYT Tech Walkout`,
+        tags: [`Perplexity`, `Aravind Srinivas`, `New York Times`],
+        author: `Alexa Turing`,
+        datePublished: new Date(2024,10,6,14),
+        articleBody: [
+            `In a bold response to the New York Times tech workers' strike, Perplexity unveiled its latest offering Thursday: PerplexiScab, a fully automated strike-breaking platform trained on what executives called "historically successful management practices from the most efficient era of American labor relations."`,
+
+            `"We've scraped thousands of documents from the Gilded Age to ensure our AI truly understands peak workplace optimization," explained CEO Aravind Srinivas during a poolside demo at San Francisco's Battery Club. "Plus, it comes with built-in cease & desist letter generation, which we've extensively tested ourselves—though ironically, we recently received one from the Times."`,
+
+            `The platform's flagship feature, "Solidarity Suppressor™," uses advanced machine learning to detect and neutralize worker organizing efforts before they begin. Early beta testing at the Times showed promising results, with the AI successfully breaking up a coffee break between two employees by flooding their Slack channels with quotes from 19th-century factory owners.`,
+
+            `"The old way of undermining labor rights was manual and time-consuming," said Taylor McKenzie, Perplexity's Chief Disruption Officer. "Our motto is 'Disrupting Disruption,' because sometimes you need to disrupt the disruptors who are disrupting your disruption of their working conditions—like those pesky tech workers asking for a 2.5% raise."`,
+
+            `The company's stock surged 23% after Srinivas demonstrated how PerplexiScab could replace an entire newsroom by generating articles consisting entirely of inspirational quotes about the moral virtues of five-day office mandates.`,
+
+            `Not everyone is impressed with the innovation. Industry analyst James Morton raised concerns about the platform's tendency to cite its sources, noting that "legitimate union-busting never reveals its playbook."`,
+
+            `Perplexity quickly addressed these concerns by deploying a new feature that automatically generates workplace posters about the dangers of collective bargaining, all sourced from authentic 1890s company towns. The system also includes a specialized "DM Detection" module that automatically responds "sorry to see this" to any mention of labor rights.`,
+
+            `At press time, Perplexity's PR team was unavailable for comment, having been replaced by an algorithm that responds to all inquiries with "We're disrupting the very concept of disruption itself, disruptively."`,
+        ]
+    },
 ]
