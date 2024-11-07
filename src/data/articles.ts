@@ -4572,4 +4572,29 @@ export const articlesData = [
             `At press time, Perplexity's PR team was unavailable for comment, having been replaced by an algorithm that responds to all inquiries with "We're disrupting the very concept of disruption itself, disruptively."`,
         ]
     },
+    {
+        id: 170,
+        articleUrl: `20241107-zuckerberg-trains-as`,
+        category: `tech`,
+        img: `/images/20241107-zuckerberg-trains-as.webp`,
+        alt: `Zuckerberg wearing silver face paint and LED contact lenses while  practicing "villain poses" in front of a gym mirror.`,
+        header: `Zuckerberg Trains as 'Evil AI' for Rumored Musk Cage Match`,
+        subhead: `Meta CEO reportedly studying Ultron footage to counter rival's Iron Man persona`,
+        tags: [`Meta`, `Mark Zuckerberg`, `Elon Musk`],
+        author: `Et Al`,
+        datePublished: new Date(2024,10,7,15),
+        articleBody: [
+            `Following months of social media tension, Meta CEO Mark Zuckerberg has escalated his preparation for a potential cage match with Elon Musk by enrolling in what his team calls "technological supervillain immersion training." Sources at the Palo Alto Combat Workshop report Zuckerberg arrives for evening sessions in a metallic silver rashguard, demanding to be announced as "The Algorithm."`,
+
+            `Footage leaked from sparring sessions shows Zuckerberg attempting to combine BJJ moves with James Spader's Ultron mannerisms, occasionally pausing mid-grapple to deliver monologues about humanity's flaws. "He keeps trying to choke people while whispering 'Your extinction is inevitable' in what he thinks is a robot voice," said one training partner who requested anonymity.`,
+
+            `The rivalry intensified after Musk appeared at his own training session in a red and gold Hayabusa gi, reportedly asking his coach, "What would Tony Stark do?" In response, Zuckerberg installed red LED contact lenses and programmed Meta's AI to announce his entrance with quotes from "Age of Ultron."`,
+
+            `"Last week he interrupted jiu-jitsu drills to practice dramatically emerging from his hoodie like Ultron from his cocoon," said head coach Mike Thompson. "He got tangled in the strings and nearly concussed himself on the heavy bag."`,
+
+            `Meta's PR department insists the training is "standard combat preparation." However, internal messages reveal Zuckerberg has requested his walkout music be a mix of industrial noise and what he calls "the sound of humanity's processing power being optimized." The venue's insurance policy now specifically excludes "damage from repulsor beams and/or sentient AI uprising."`,
+
+            `When asked about the potential fight date, Zuckerberg's only response was "Every time Musk tweets, I evolve." His personal assistant later clarified that he meant "improves his ground game" but had to stay in character.`,
+        ]
+    },
 ]
