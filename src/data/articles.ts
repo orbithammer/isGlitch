@@ -4602,28 +4602,28 @@ export const articlesData = [
         articleUrl: `20241108-new-federal-ai`,
         category: `ai`,
         img: `/images/20241108-new-federal-ai.webp`,
-        alt: `Donald Trump with normal-sized hands and a USA flag in the background.`,
-        header: `New Federal AI Rules: All Hands Must Be "Yuge" in Generated Images`,
-        subhead: `Critics question necessity of 55-page hand size compliance standards`,
+        alt: `black and white portrait of Donald Trump with normal-sized hands and a full color USA flag in the background.`,
+        header: `New Federal AI Rules Will Require "Yuge" Hands in Generated Images`,
+        subhead: `Transition team announces 55-page hand size compliance standards for January`,
         tags: [`Donald Trump`],
         author: `Alexa Turing`,
         datePublished: new Date(2024,10,8,15),
         articleBody: [
-            `Following a sweeping executive order from the White House, the Department of Commerce announced strict new guidelines requiring all AI-generated imagery produced by federal contractors to feature "bigger, more magnificent hands" meeting minimum size thresholds.`,
+            `The incoming administration's transition team unveiled plans Thursday for sweeping changes to federal AI regulations, including new guidelines that will require all AI-generated imagery produced by federal contractors to feature "bigger, more magnificent hands" meeting minimum size thresholds.`,
 
-            `The 55-page document, titled "Standards for the Enhancement of Digital Appendage Representation," mandates that AI-generated hands must occupy at least 8.2% of any image's total pixel count. Government sources say the percentage was personally selected by the president after reviewing "hundreds, maybe thousands" of images.`,
+            `The 55-page document, titled "Standards for the Enhancement of Digital Appendage Representation," will mandate that AI-generated hands must occupy at least 8.2% of any image's total pixel count. Transition team sources say the percentage was personally selected by the president-elect after reviewing "hundreds, maybe thousands" of images.`,
 
-            `"When I look at these AI pictures, the hands are just sad. Very sad. We're fixing that," said the president during an impromptu press conference, gesturing emphatically. "From now on, American AI will have the biggest hands in the world. China's AI hands? Tiny. Absolutely tiny."`,
+            `"When I look at these AI pictures, the hands are just sad. Very sad. We're going to fix that," said the president-elect during an impromptu press conference, gesturing emphatically. "Starting January 20th, American AI will have the biggest hands in the world. China's AI hands? Tiny. Absolutely tiny."`,
 
-            `Tech companies are scrambling to comply before the February deadline. Microsoft engineer Rebecca Torres described the technical challenges: "We've had to completely retrain our models. Every time we generate a business professional signing a document, their hands look like baseball mitts. Group photos are particularly problematic – it's just a forest of enormous fingers."`,
+            `Tech companies are already scrambling to prepare for the anticipated February 1st deadline. Microsoft engineer Rebecca Torres described the technical challenges: "We're completely retraining our models. Every time we generate a business professional signing a document, their hands look like baseball mitts. Group photos are particularly problematic – it's just a forest of enormous fingers."`,
 
-            `The Pentagon has already begun updating its aerial reconnaissance systems to comply, though military officials expressed concerns about hands appearing disproportionately large in satellite imagery. "We're seeing some issues where individual fingers are being mistaken for aircraft carriers," admitted General James McKnight.`,
+            `The Pentagon has begun preliminary studies on updating its aerial reconnaissance systems, though military officials expressed concerns about hands appearing disproportionately large in satellite imagery. "We're seeing some issues where individual fingers could be mistaken for aircraft carriers," admitted General James McKnight.`,
 
-            `Critics note the standards include unusual specifics, like requiring "strong, powerful knuckles" and "fingers that go on for days." The guidelines explicitly prohibit what they term "weak, low-energy hand positioning."`,
+            `Critics note the draft standards include unusual specifics, like requiring "strong, powerful knuckles" and "fingers that go on for days." The guidelines explicitly prohibit what they term "weak, low-energy hand positioning."`,
 
-            `Meanwhile, a $43 million government contract has been awarded to Palm Analytics LLC, a newly-formed consultancy specializing in AI hand measurement compliance, headquartered in Palm Beach, Florida. The company's CEO declined to comment on reports that his last job was as a golf caddy.`,
+            `Meanwhile, Palm Analytics LLC, a newly-formed consultancy specializing in AI hand measurement compliance, has already opened offices in Palm Beach, Florida, in anticipation of lucrative government contracts. The company's CEO declined to comment on reports that his last job was as a golf caddy.`,
 
-            `Midlevel bureaucrats are reportedly speed-reading through Marie Kondo's books, searching for guidance on how to efficiently organize the thousands of printed hand measurement reports now required for each federal AI project.`,
+            `Federal agencies are reportedly studying Marie Kondo's books, searching for guidance on how to efficiently organize the thousands of printed hand measurement reports that will be required for each federal AI project after inauguration day.`,
         ]
     },
     /*{
