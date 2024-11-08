@@ -4577,7 +4577,7 @@ export const articlesData = [
         articleUrl: `20241107-zuckerberg-trains-as`,
         category: `tech`,
         img: `/images/20241107-zuckerberg-trains-as.webp`,
-        alt: `Zuckerberg wearing silver face paint and LED contact lenses while  practicing "villain poses" in front of a gym mirror.`,
+        alt: `Zuckerberg wearing silver face paint and LED contact lenses while practicing "villain poses".`,
         header: `Zuckerberg Trains as 'Evil AI' for Rumored Musk Cage Match`,
         subhead: `Meta CEO reportedly studying Ultron footage to counter rival's Iron Man persona`,
         tags: [`Meta`, `Mark Zuckerberg`, `Elon Musk`],
@@ -4595,6 +4595,33 @@ export const articlesData = [
             `Meta's PR department insists the training is "standard combat preparation." However, internal messages reveal Zuckerberg has requested his walkout music be a mix of industrial noise and what he calls "the sound of humanity's processing power being optimized." The venue's insurance policy now specifically excludes "damage from repulsor beams and/or sentient AI uprising."`,
 
             `When asked about the potential fight date, Zuckerberg's only response was "Every time Musk tweets, I evolve." His personal assistant later clarified that he meant "improves his ground game" but had to stay in character.`,
+        ]
+    },
+    {
+        id: 171,
+        articleUrl: `20241108-microsoft-mandates-dream`,
+        category: `tech`,
+        img: `/images/20241108-microsoft-mandates-dream.webp`,
+        alt: `A black office worker sleeping in An office cubicle decorated entirely with dream catchers hanging from the ceiling.`,
+        header: `Microsoft Mandates Dream Journals to Track Employee Growth Mindset`,
+        subhead: `Internal memo reveals workers must document how REM cycles align with corporate values`,
+        tags: [`Microsoft`],
+        author: `Et Al`,
+        datePublished: new Date(2024,10,8,15),
+        articleBody: [
+            `Microsoft's commitment to fostering a "growth mindset" reached new heights yesterday as the tech giant announced mandatory weekly dream analysis essays for its 220,000 employees worldwide.`,
+
+            `The program, dubbed "Project Morpheus," requires workers to maintain detailed dream journals and submit 1,000-word analyses explaining how their subconscious visions demonstrate alignment with Microsoft's core values. Employees who don't remember their dreams must attend mandatory 3AM "Dream Awareness Training" sessions via Microsoft Mesh, wearing company-issued HoloLens headsets preconfigured with "unconscious optimization protocols."`,
+
+            `"Yesterday I dreamed about flying, which clearly represents my aspirational journey toward cloud computing excellence," wrote senior developer Tom Patterson in a company-wide email, followed by his required dream signature: "Last night I dreamed I turned into a Surface tablet."`, 
+
+            `An internal training document obtained by TechWatch outlines acceptable and unacceptable dream themes. Dreams involving competing tech companies are automatically flagged for "mindset remediation," unless the dreamer defeats them using Microsoft products. The document specifically praises one employee's dream of "vanquishing the Apple logo with a well-aimed Microsoft Teams notification."`,
+
+            `The company cafeteria has begun serving complimentary "Dream Enhancement Smoothies" containing what HR describes as "trace amounts of perception-expanding substances to unlock unlimited mindset potential." Multiple employees report their dreams have become "more vibrant" and "surprisingly focused on quarterly OKRs."`,
+
+            `The policy faced immediate pushback from employees who reported dreams about Bill Gates, which the company now classifies as "legacy thinking" requiring immediate counseling. "We appreciate Bill's contributions," said Jennifer Walsh, Microsoft's newly appointed Chief Dream Officer, "but we need dreams aligned with our current cloud-first, AI-powered vision."`,
+
+            `At press time, sources confirmed that several employees had been placed on performance improvement plans after reporting dreams about using Google products, while one engineering manager was promoted after describing a dream where they "transformed a fixed mindset into a neural network through the power of positive thinking."`,
         ]
     },
 ]
