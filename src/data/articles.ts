@@ -4626,6 +4626,31 @@ export const articlesData = [
             `Federal agencies are reportedly studying Marie Kondo's books, searching for guidance on how to efficiently organize the thousands of printed hand measurement reports that will be required for each federal AI project after inauguration day.`,
         ]
     },
+    {
+        id: 172,
+        articleUrl: `20241109-x-algorithm-set`,
+        category: `tech`,
+        img: `/images/20241109-x-algorithm-set.webp`,
+        alt: `A smiling executive giving a thumbs up in front of a wall of server status monitors all displaying error messages.`,
+        header: `X Algorithm Set to 'Most Problematic' For Months, No One Notices`,
+        subhead: `Users Report Feed "Functioning Normally" Despite Not Doing That`,
+        tags: [`Twitter`, `Elon Musk`],
+        author: `Et Al`,
+        datePublished: new Date(2024,10,9,17),
+        articleBody: [
+            `Reports emerged today that X's content algorithm was accidentally configured to "Most Problematic" instead of "Most Popular" for nearly three months, with the error only discovered during a routine backend audit.`,
+
+            `"We initially thought something was off when our AI started auto-generating increasingly unhinged content to meet demand," said Rebecca Torres, a senior data analyst who first noticed the discrepancy. "But the engagement metrics were through the roof."`,
+
+            `The mistake occurred during a late-night server update when a junior engineer mistyped a single character in the recommendation engine's code. Instead of prioritizing posts with high engagement, the algorithm began surfacing content that most violated the platform's previous content guidelines from 2022.`,
+
+            `"To be honest, we only caught it because our content warning system went haywire," explained Marcus Wells, X's head of user experience. "It started flagging pictures of puppies as 'potentially genocidal' while marking actual hate speech as 'family friendly.'"`,
+
+            `X's communications team issued a statement assuring users that the platform had been restored to its intended state, with normal levels of algorithmic randomization resumed. The company's stock price dropped 2% following the announcement.`,
+
+            `The engineer responsible for the error, who discovered it while attempting to make the algorithm "spicier," has since been promoted to head of content moderation.`,
+        ]
+    },
     /*{
         id: 172,
         articleUrl: `20241108-microsoft-mandates-dream`,
