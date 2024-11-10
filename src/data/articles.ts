@@ -4651,17 +4651,17 @@ export const articlesData = [
             `The engineer responsible for the error, who discovered it while attempting to make the algorithm "spicier," has since been promoted to head of content moderation.`,
         ]
     },
-    /*{
-        id: 172,
-        articleUrl: `20241108-microsoft-mandates-dream`,
+    {
+        id: 173,
+        articleUrl: `20241110-microsoft-mandates-dream`,
         category: `tech`,
-        img: `/images/20241108-microsoft-mandates-dream.webp`,
+        img: `/images/20241110-microsoft-mandates-dream.webp`,
         alt: `A black office worker sleeping in An office cubicle decorated entirely with dream catchers hanging from the ceiling.`,
         header: `Microsoft Mandates Dream Journals to Track Employee Growth Mindset`,
         subhead: `Internal memo reveals workers must document how REM cycles align with corporate values`,
         tags: [`Microsoft`],
         author: `Et Al`,
-        datePublished: new Date(2024,10,8,15),
+        datePublished: new Date(2024,10,10,15),
         articleBody: [
             `Microsoft's commitment to fostering a "growth mindset" reached new heights yesterday as the tech giant announced mandatory weekly dream analysis essays for its 220,000 employees worldwide.`,
 
@@ -4677,5 +4677,5 @@ export const articlesData = [
 
             `At press time, sources confirmed that several employees had been placed on performance improvement plans after reporting dreams about using Google products, while one engineering manager was promoted after describing a dream where they "transformed a fixed mindset into a neural network through the power of positive thinking."`,
         ]
-    },*/
+    },
 ]
