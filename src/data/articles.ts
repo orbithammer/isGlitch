@@ -4678,4 +4678,33 @@ export const articlesData = [
             `At press time, sources confirmed that several employees had been placed on performance improvement plans after reporting dreams about using Google products, while one engineering manager was promoted after describing a dream where they "transformed a fixed mindset into a neural network through the power of positive thinking."`,
         ]
     },
+    {
+        id: 174,
+        articleUrl: `20241111-nintendo-patents-walking`,
+        category: `entertainment`,
+        img: `/images/20241111-nintendo-patents-walking.webp`,
+        alt: `An executive dramatically pointing at a wall chart showing stick figures in various non-walking poses.`,
+        header: `Nintendo Patents Walking in Video Games`,
+        subhead: `Gaming giant seeks royalties for 'revolutionary' character movement system`,
+        tags: [`Nintendo`, `Video Games`],
+        author: `Pieter Klykbeit`,
+        datePublished: new Date(2024,10,11,16),
+        articleBody: [
+            `Nintendo shocked the gaming industry today by filing what experts are calling "the most audacious patent grab since someone tried to claim they invented the wheel." The Japanese gaming giant has secured a patent for what they describe as a "revolutionary method of translating button inputs into forward character movement."`,
+
+            `"We've been innovating in the field of making characters go from point A to point B since 1985," said Nintendo spokesman Takashi Yamamoto. "It's time other developers recognized our contribution to the fundamental concept of not standing still."`,
+
+            `The 178-page patent application meticulously details the groundbreaking process of "receiving user input via button press" and "updating character position coordinates in a positive direction." The company also attempted to patent "pressing A to jump" but was denied after a lengthy review process revealed that Mario's knees bend at a 37-degree angle, which the patent office deemed "too specific to be universally applicable."`,
+
+            `Nintendo is demanding a 2.5% royalty rate from all games featuring bipedal locomotion. Patent expert Dr. Eleanor Burke spent six hours explaining to our reporters why moving characters diagonally might represent a viable legal loophole, though she admitted to "getting lost somewhere around hour four in the metaphysical implications of what constitutes true diagonal movement."`,
+
+            `Bethesda responded to the news with a shrug, stating they plan to continue shipping games where characters randomly clip through floors anyway. "Our physics engine has evolved beyond the concept of walking," said a spokesperson while slowly sinking into their office floor.`,
+
+            `Valve Corporation fired back by immediately filing their own patent for "not releasing games people want," with a spokesperson noting they've been perfecting this technology for over a decade.`,
+
+            `Veteran game designer Warren Spector called the move "peak 2024" before returning to his cabin in the woods where he's building a mechanical computer powered by squirrels. "Back in my day, we just made games. The only patent we worried about was the patent leather on our disco shoes."`,
+
+            `The patent office is expected to rule on the application just as soon as they finish processing Nintendo's other pending patents, including "pressing buttons to do things" and "having fun while holding plastic."`,
+        ]
+    },
 ]
