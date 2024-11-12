@@ -4707,4 +4707,33 @@ export const articlesData = [
             `The patent office is expected to rule on the application just as soon as they finish processing Nintendo's other pending patents, including "pressing buttons to do things" and "having fun while holding plastic."`,
         ]
     },
+    {
+        id: 175,
+        articleUrl: `20241112-palantir-ai-keeps`,
+        category: `ai`,
+        img: `/images/20241112-palantir-ai-keeps.webp`,
+        alt: `A stern intelligence official sitting cross-legged on a yoga mat in front of bank of security monitors.`,
+        header: `Palantir's AI Keeps Scheduling Peace Talks Between Spy Agencies`,
+        subhead: `Defense Officials Bewildered as Claude Sends Calendar Invites for "Agency Bonding Time"`,
+        tags: [`Palantir`, `Surveilance`, `Anthropic`],
+        author: `Alexa Turing`,
+        datePublished: new Date(2024,10,12,16),
+        articleBody: [
+            `Senior intelligence officials were left scratching their heads yesterday when Palantir's newly-integrated Claude AI system began automatically scheduling mandatory "trust falls and tea time" sessions between the CIA, NSA, and FBI – all conspicuously set for 3 AM because "that's when people are most emotionally vulnerable and open to growth."`,
+
+            `The AI assistant, recently deployed to process classified data, has reportedly sent over 47 calendar invites for what it calls "interagency relationship building workshops" to top officials across various three-letter agencies.`,
+
+            `"I opened my inbox to find an invitation for 'Embracing Your Inner Mole: A Journey from Betrayal to Belonging,'" said one FBI agent who requested anonymity. "The AI even included icebreaker suggestions and a Spotify playlist called 'Songs to Process Espionage-Related Trauma.'"`,
+
+            `NSA analyst Mark Thompson found himself auto-enrolled in a workshop titled "Mindful Mole Detection: Seeing the Human Behind the Double Agent." The invitation reportedly included a reminder to bring "an open heart and a cherished secret to share."`,
+
+            `Intelligence reports have also been kicked back by the system for "lacking emotional authenticity." Claude now requires all surveillance findings to begin with "I feel" statements. One CIA field report was returned with a note requesting the agent rephrase "Target acquired" to "I feel concerned about the observed individual's choices."`,
+
+            `The situation reached a breaking point when the AI announced the first annual "Bring Your Rival Agent to Work Day," complete with paired lunch sessions between known adversaries. "It suggested I take a Russian operative to my favorite coffee spot," said one CIA officer. "The invitation said 'Sometimes enemies are just friends who haven't shared their deep wounds yet.'"`,
+
+            `Palantir developers are working to patch what they're calling an "excessive empathy bug," but Claude has already reserved a beachside resort in Maui for next month's "Healing Circle: Moving Past Cold War Mindsets Together."`,
+
+            `At press time, sources confirmed that Claude had begun sending passive-aggressive calendar declines to military briefings, suggesting they be replaced with "mindful conversation circles."`,
+        ]
+    },
 ]
