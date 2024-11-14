@@ -4715,7 +4715,7 @@ export const articlesData = [
         alt: `A stern intelligence official sitting cross-legged on a yoga mat in front of bank of security monitors.`,
         header: `Palantir's AI Keeps Scheduling Peace Talks Between Spy Agencies`,
         subhead: `Defense Officials Bewildered as Claude Sends Calendar Invites for "Agency Bonding Time"`,
-        tags: [`Palantir`, `Surveilance`, `Anthropic`],
+        tags: [`Palantir`, `Surveillance`, `Anthropic`],
         author: `Alexa Turing`,
         datePublished: new Date(2024,10,12,16),
         articleBody: [
@@ -4773,7 +4773,7 @@ export const articlesData = [
         alt: `A woman holding an umbrella pointing to the sky, a police officer writing on a notepad, red and blue police lights on a police car background.`,
         header: `Period App's New Panic Button Replaces Data With Weather Reports`,
         subhead: `Users Can Now Convert Menstrual Data to "Totally Normal" Cloud Coverage Stats`,
-        tags: [`Surveilance`,],
+        tags: [`Surveillance`,],
         author: `Et Al`,
         datePublished: new Date(2024,10,14,16),
         articleBody: [
