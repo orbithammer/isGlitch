@@ -4765,4 +4765,31 @@ export const articlesData = [
             `At press time, X-calibur was seen updating its own résumé with "Successfully completed integrity training for one human (results pending)."`,
         ]
     },
+    {
+        id: 177,
+        articleUrl: `20241114-period-app-new`,
+        category: `ai`,
+        img: `/images/20241114-period-app-new.webp`,
+        alt: `A woman holding an umbrella pointing to the sky, a police officer writing on a notepad, red and blue police lights on a police car background.`,
+        header: `Period App's New Panic Button Replaces Data With Weather Reports`,
+        subhead: `Users Can Now Convert Menstrual Data to "Totally Normal" Cloud Coverage Stats`,
+        tags: [`Surveilance`,],
+        author: `Et Al`,
+        datePublished: new Date(2024,10,14,16),
+        articleBody: [
+            `Leading period tracking app Lunar Flow released an emergency update yesterday featuring a one-tap "privacy panic button" that instantly converts all user health data into seemingly innocent weather pattern observations, complete with an auto-generated weather enthusiasm digital footprint.`,
+
+            `"When activated, the feature automatically transforms entries like 'heavy flow day' into 'heavy cloud coverage' and 'spotting' into 'light drizzle,'" explained Jessica Winters, Lunar Flow's Head of Privacy Innovation, speaking from the company's newly installed rooftop weather station. "Any government agency attempting to access the data will simply find years of remarkably detailed atmospheric conditions."`,
+
+            `The update comes with pre-written weather-themed notes like "Noticed increased pressure system today" and "Expecting turbulent conditions for next 3-5 days." Users must also pass a mandatory cloud formation quiz before accessing the feature, with the privacy policy now requiring memorization of at least 47 meteorological terms "for plausible deniability purposes."`,
+
+            `To establish user credibility, the app automatically generates a convincing backdated weather blog complete with photos of users pointing at various cloud formations and captions like "Just another day analyzing those fascinating cumulonimbus formations! #WeatherNerd #NotSuspiciousAtAll #TotallyNormalHobby."`,
+
+            `Beta testers have praised the feature's attention to detail, particularly how it converts tracking charts into elaborate barometric pressure graphs. "I especially love how my PMS symptoms become 'pre-storm indicators,'" noted beta user Rachel Martinez. "Though I'm a bit concerned that my apparent obsession with documenting dew points might actually be more suspicious."`,
+
+            `The company's legal team has already prepared a defense, arguing that any perceived patterns in the weather data are "purely coincidental" and that their users are simply "very passionate about meteorology." They emphasized this point during a press conference held at their $2.3 million rooftop meteorological station, which employees described as "completely necessary for legal compliance."`,
+
+            `When asked about the possibility of authorities seeing through the weather-based subterfuge, Lunar Flow's spokesperson maintained a straight face while insisting, "Our users have always been deeply interested in atmospheric sciences. Now, if you'll excuse me, I need to go update my weekly cloud observation journal."`,
+        ]
+    },
 ]
