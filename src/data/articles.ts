@@ -4792,4 +4792,31 @@ export const articlesData = [
             `When asked about the possibility of authorities seeing through the weather-based subterfuge, Lunar Flow's spokesperson maintained a straight face while insisting, "Our users have always been deeply interested in atmospheric sciences. Now, if you'll excuse me, I need to go update my weekly cloud observation journal."`,
         ]
     },
+    {
+        id: 178,
+        articleUrl: `20241115-the-onion-infoWars`,
+        category: `tech`,
+        img: `/images/20241115-the-onion-infoWars.webp`,
+        alt: `A crazed professor in a lecture pointing to a crazy board.`,
+        header: `The Onion-InfoWars Article Collapses Reality Itself`,
+        subhead: `Stanford Philosophy Department First to Close Its Doors`,
+        tags: [`The Onion`, `Infowars`],
+        author: `Et Al`,
+        datePublished: new Date(2024,10,15,15),
+        articleBody: [
+            `Philosophy departments across the globe are shuttering their doors after a recent article published by the newly merged Onion-InfoWars media empire achieved what experts are calling "a quantum state of journalistic truthiness."`,
+
+            `The article, titled "Bill Gates Develops Mind Control Chip That Makes You Think He Developed Mind Control Chip," has thrown academia into crisis. Dr. Marcus Powell, former chair of Stanford's Philosophy Department, announced the department's closure while frantically erasing whiteboards covered in truth tables.`,
+
+            `"It's simultaneously fake news because it's about mind control chips, real news because Gates is actually working on neural interfaces, and satire because it's pointing out mass paranoia about tech billionaires," Powell explained before tearing down a portrait of Aristotle. "The epistemological foundations of truth itself are crumbling. We're done here."`,
+
+            `A rapidly growing TruthSeekers.patriot.ru forum claims the mass resignation of philosophers is a deep state operation, suggesting academics "got too close to peak truth." The forum's most viral post argues that no philosophers have actually quit – they've been replaced by CIA agents who only appear to be leaving academia to become sheep farmers and CrossFit instructors.`,
+
+            `Meanwhile, Reddit administrators were forced to quarantine both r/conspiracy and r/NotTheOnion after the two subreddits achieved perfect equilibrium discussing the article, causing their content to become identical from opposite directions. Moderators report users can no longer tell which community they're posting in, leading to mass existential crises in the comments.`,
+
+            `The only philosophy professor still teaching, MIT's Dr. Richard Kumar, maintains the article is simply "top-tier shitposting." He was last seen arguing with his own reflection about the nature of objective reality.`,
+
+            `At press time, The Onion-InfoWars editorial team was reportedly working on a follow-up piece about crisis actors pretending to be philosophers pretending there's a crisis about pretend news.`,
+        ]
+    },
 ]
