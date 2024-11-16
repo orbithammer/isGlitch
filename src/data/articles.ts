@@ -4819,4 +4819,35 @@ export const articlesData = [
             `At press time, The Onion-InfoWars editorial team was reportedly working on a follow-up piece about crisis actors pretending to be philosophers pretending there's a crisis about pretend news.`,
         ]
     },
+    {
+        id: 179,
+        articleUrl: `20241116-teen-discovers-ancient`,
+        category: `tech`,
+        img: `/images/20241116-teen-discovers-ancient.webp`,
+        alt: ` Indiana Jones holding a CD in reverence like it is a lost historical artifact in a cave.`,
+        header: `Teen Discovers Ancient 'Perpetual License' in Father's Desktop`,
+        subhead: `Students gather around mysterious relic that "just works forever"`,
+        tags: [`Adobe`, `Photoshop`],
+        author: `Et Al`,
+        datePublished: new Date(2024,10,16,15),
+        articleBody: [
+            `Local high school junior Marcus Thompson became an overnight legend at Riverside High after discovering a mystifying technological artifact from 2019: a fully-functioning perpetual software license hidden in his father's old desktop computer.`,
+
+            `Nearly thirty students gathered in the computer lab during lunch period to witness what many called "impossible." The room fell silent as Thompson double-clicked the photo editing software icon. When the program launched without requesting login credentials or payment information, several students audibly gasped. One fainted.`,
+
+            `"The software just... opened. No subscription prompt, nothing. I kept waiting for it to ask for my credit card, but it never did," Thompson explained, still surrounded by amazed classmates.`,
+
+            `Freshman Katie Rodriguez remained skeptical: "This has to be fake news. Everyone knows software needs a subscription to work. Next they'll tell us people used to own their music files."`,
+
+            `The discovery prompted swift action from school administration. Principal Wright issued an immediate ban on all discussion of perpetual licensing, citing concerns about "dangerous ideologies that could destabilize students' understanding of modern software economics."`,
+
+            `When asked about the era of perpetual licenses, school librarian Mrs. Henderson's eyes went distant. "Yes... I remember those days," she whispered, glancing nervously at the subscription-monitoring cameras in the ceiling. "We just... bought things. Once." She refused to elaborate further.`,
+
+            `Local tech expert and Computer Science teacher David Martinez expressed concern about the discovery's impact on impressionable minds. "These students are too young to remember the before-times. Finding out that people used to just buy software once and keep it forever... it's a lot to process. We're offering counseling services for any student struggling with this revelation."`,
+
+            `When reached for comment, Adobe spokesperson Jennifer Walsh clarified: "While these 'perpetual licenses' may seem magical to young users, we've evolved far beyond such primitive technology. Today's subscribers enjoy the freedom of paying us forever."`,
+
+            `At press time, Thompson had been elected class president on a bold platform of "Make Software Perpetual Again."`,
+        ]
+    },
 ]
