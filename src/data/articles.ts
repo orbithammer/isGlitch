@@ -4824,7 +4824,7 @@ export const articlesData = [
         articleUrl: `20241116-teen-discovers-ancient`,
         category: `tech`,
         img: `/images/20241116-teen-discovers-ancient.webp`,
-        alt: ` Indiana Jones holding a CD in reverence like it is a lost historical artifact in a cave.`,
+        alt: `Indiana Jones holding a CD in reverence like it is a lost historical artifact in a cave.`,
         header: `Teen Discovers Ancient 'Perpetual License' in Father's Desktop`,
         subhead: `Students gather around mysterious relic that "just works forever"`,
         tags: [`Adobe`, `Photoshop`],
@@ -4848,6 +4848,33 @@ export const articlesData = [
             `When reached for comment, Adobe spokesperson Jennifer Walsh clarified: "While these 'perpetual licenses' may seem magical to young users, we've evolved far beyond such primitive technology. Today's subscribers enjoy the freedom of paying us forever."`,
 
             `At press time, Thompson had been elected class president on a bold platform of "Make Software Perpetual Again."`,
+        ]
+    },
+    {
+        id: 180,
+        articleUrl: `20241117-instagram-forces-users`,
+        category: `tech`,
+        img: `/images/20241117-instagram-forces-users.webp`,
+        alt: `A person in pajamas at 3 AM, illuminated only by phone light, dramatically singing into their device while their cat looks judgmental.`,
+        header: `Instagram Forces Users to Sing for Their Content`,
+        subhead: `New "Ad Karaoke" Feature Requires Vocal Performance to Skip Commercials`,
+        tags: [`Instagram`, `Meta`],
+        author: `Et Al`,
+        datePublished: new Date(2024,10,17,15),
+        articleBody: [
+            `Meta's latest monetization strategy has users literally singing for their supper. Starting next month, Instagram will require users to perform commercial jingles through their device microphones before allowing them to skip advertisements.`,
+
+            `The feature, dubbed "Ad Karaoke" by internal teams, employs machine learning to analyze pitch, rhythm, and enthusiasm levels. Users must achieve at least a 65% accuracy score on classics like the Oscar Mayer Wiener song or Chili's "Baby Back Ribs" jingle before continuing their scrolling.`,
+
+            `"We're creating meaningful engagement with branded content," explained Meta's VP of User Experience, Thomas Whitman. "Our research shows that users retain 400% more product information when they're desperately warbling about fast food at 2 AM."`,
+
+            `Local voice coaches report being overwhelmed with Instagram users seeking emergency assistance. "My practice used to be 90% aspiring Broadway performers," says vocal instructor Marion Walsh. "Now it's just people sobbing through their fifth attempt at the Folgers jingle's high notes. That 'The best part of waking up' bridge is destroying people's confidence."`,
+
+            `Support groups have emerged nationwide for users traumatized by repeated failures. "I still hear the 'By Mennen' whistle in my nightmares," whispered former Instagram user Keith Martinez at a weekly recovery meeting. "I tried for two hours to nail that impossible note before deleting my account."`,
+
+            `Meta has partnered with Spotify to release "Commercial Classics: Essential Jingles for Social Media Access," a curated playlist featuring remastered versions of advertising earworms. The collection includes slowed-down tutorials of the Kit Kat bar theme and a special extended cut of "Like a good neighbor, State Farm is there."`,
+
+            `When reached for comment, Meta's Head of Advertising Innovation, David Park, simply hummed the Intel sound signature and ended the call.`,
         ]
     },
 ]
