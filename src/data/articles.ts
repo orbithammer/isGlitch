@@ -4877,4 +4877,31 @@ export const articlesData = [
             `When reached for comment, Meta's Head of Advertising Innovation, David Park, simply hummed the Intel sound signature and ended the call.`,
         ]
     },
+    {
+        id: 181,
+        articleUrl: `20241118-man-bluesky-migration`,
+        category: `tech`,
+        img: `/images/20241118-man-bluesky-migration.webp`,
+        alt: `A sad man with a disposable coffee cup at a starbucks. The name on the cup is, "read coffee ninja."`,
+        header: `Man's Bluesky Migration Thwarted by 2008 Tumblr Username`,
+        subhead: `Local User Spirals After Discovering 'CoffeeNinja' Handle Already Taken`,
+        tags: [`Bluesky`, `Twitter`],
+        author: `Et Al`,
+        datePublished: new Date(2024,10,18,15),
+        articleBody: [
+            `Mike Reeves spent three hours last Tuesday crafting the perfect goodbye post on X, complete with a screenshot of Elon Musk's latest controversy and a solemn pledge to join "the resistance" on Bluesky. His plans derailed upon discovering his go-to username, "CoffeeNinja," was already claimed by an account that has never posted.`,
+
+            `"I've been CoffeeNinja on every platform since 2008," said Reeves, a 35-year-old UX designer from Portland. "My wedding hashtag was #CoffeeNinjaGetsHitched. It's literally on our save-the-dates."`,
+
+            `Reeves' initial disappointment has evolved into what his therapist calls "an concerning preoccupation with digital identity." He's sent daily DMs to the dormant account, ranging from casual "hey there!" to lengthy haikus about username liberation. His Change.org petition, "Release CoffeeNinja: Free the Handle," has garnered three signatures – all from his alternate email accounts.`,
+
+            `"This has Elon's fingerprints all over it," Reeves insisted, unveiling a cork board covered in red string connecting screenshots of inactive Bluesky accounts. "He's clearly buying up common usernames to sabotage the exodus. Wake up, people!"`,
+
+            `Sources confirm Reeves has hired a private investigator to track down the original account owner, and launched a weekly support group called "Username Displacement Anonymous" at his local Starbucks. The group's sole other attendee left after Reeves spent three sessions analyzing his Medium article series "Username Sovereignty: A Digital Identity in Crisis."`,
+
+            `His therapist, speaking on condition of anonymity, revealed that Reeves now introduces himself as "The Artist Formerly Known as CoffeeNinja" in their sessions. "He keeps asking me if his attachment to an online handle constitutes a legitimate personal brand crisis," she sighed. "I'm not equipped for this."`,
+
+            `At press time, Reeves was spotted using his new handle, "ActuallyTheCoffeeNinja," though baristas report he refuses to pick up coffee orders unless they're labeled "The Real CoffeeNinja (In Exile)."`,
+        ]
+    },
 ]
