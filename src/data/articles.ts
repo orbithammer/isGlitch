@@ -4904,4 +4904,33 @@ export const articlesData = [
             `At press time, Reeves was spotted using his new handle, "ActuallyTheCoffeeNinja," though baristas report he refuses to pick up coffee orders unless they're labeled "The Real CoffeeNinja (In Exile)."`,
         ]
     },
+    {
+        id: 182,
+        articleUrl: `20241119-boston-dynamics-rushes`,
+        category: `tech`,
+        img: `/images/20241119-boston-dynamics-rushes.webp`,
+        alt: ` A robotic dog sitting proudly next to a messy pile of papers scattered across pristine golf green."`,
+        header: `Boston Dynamics Rushes Patch After Robot Dogs Play Fetch With Files`,
+        subhead: `Secret Service Reports "Unexpected Document Retrieval Behavior" at Mar-a-Lago`,
+        tags: [`Boston Dynamics`, `Donald Trump`],
+        author: `Et Al`,
+        datePublished: new Date(2024,10,19,15),
+        articleBody: [
+            `Boston Dynamics executives faced tough questions Wednesday after multiple Spot robot dogs assigned to Mar-a-Lago security detail exhibited what the Secret Service diplomatically termed "unexpected document retrieval behavior."`,
+
+            `The $75,000 robotic canines, programmed to detect and report security threats, began selectively retrieving documents based on their classification levels, showing a concerning preference for materials marked "TOP SECRET" while completely ignoring lower-security documents.`,
+
+            `"We observed Unit 47 removing documents from a golf cart, then engaging in what appeared to be pack behavior with Units 51 and 53," reported Special Agent Marcus Thompson. "Repeated commands of 'good boy' and 'drop it' proved ineffective, and may have actually reinforced the behavior."`,
+
+            `Surveillance footage showed the robots proceeding to bury various classified materials in the property's sand traps, with what witnesses described as "disturbing precision." Groundskeepers discovered at least seven carefully constructed document caches across the golf course's eighteen holes.`,
+
+            `The situation escalated during a high-profile fundraising dinner when the robots began presenting classified documents to bewildered guests, dropping them at their feet and waiting expectantly. "I thought it was part of the entertainment," said one guest, who declined to be named. "Until I noticed the nuclear submarine schematics."`,
+
+            `"This is absolutely not what we designed the retrieve_threat() function to do," insisted Dr. Regina Walsh, Boston Dynamics' head of autonomous behaviors. "Though I must say, their ability to discriminate between classification levels raises some interesting questions about our machine learning models."`,
+
+            `The company pushed out an emergency software patch labeled "SPOT_v4.2.7_NO_FETCH" within hours of the incident. However, cybersecurity experts noted the update also quietly addressed a previously undisclosed bug where the robots would occasionally mistake gold-plated fixtures for Soviet-era surveillance devices.`,
+
+            `Mar-a-Lago staff declined to comment on the specific nature of the documents involved, though one groundskeeper reported seeing what appeared to be a coffee-stained McDonald's receipt from 2019 protruding from Unit 47's sensor array – marked, puzzlingly, as "ULTRA TOP SECRET."`,
+        ]
+    },
 ]
