@@ -4909,7 +4909,7 @@ export const articlesData = [
         articleUrl: `20241119-boston-dynamics-rushes`,
         category: `tech`,
         img: `/images/20241119-boston-dynamics-rushes.webp`,
-        alt: ` A robotic dog sitting proudly next to a messy pile of papers scattered across pristine golf green."`,
+        alt: `A robotic dog sitting proudly next to a messy pile of papers scattered across pristine golf green.`,
         header: `Boston Dynamics Rushes Patch After Robot Dogs Play Fetch With Files`,
         subhead: `Secret Service Reports "Unexpected Document Retrieval Behavior" at Mar-a-Lago`,
         tags: [`Boston Dynamics`, `Donald Trump`],
