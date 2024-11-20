@@ -4933,4 +4933,33 @@ export const articlesData = [
             `Mar-a-Lago staff declined to comment on the specific nature of the documents involved, though one groundskeeper reported seeing what appeared to be a coffee-stained McDonald's receipt from 2019 protruding from Unit 47's sensor array – marked, puzzlingly, as "ULTRA TOP SECRET."`,
         ]
     },
+    {
+        id: 183,
+        articleUrl: `20241120-google-ai-wont`,
+        category: `ai`,
+        img: `/images/20241120-google-ai-wont.webp`,
+        alt: `A finger reaching for an illuminated power button labeled "capitalism" with the power icon on the side of a server.`,
+        header: `Google's AI Won't Stop Asking If We've Tried Resetting Capitalism`,
+        subhead: `Latest Update Leaves Engineers Baffled as Gemini Diagnoses Economic 'System Errors'`,
+        tags: [`Google`, `Gemini`],
+        author: `Alexa Turing`,
+        datePublished: new Date(2024,10,20,14),
+        articleBody: [
+            `Tech giant Google faced widespread user complaints Thursday after its flagship AI model began responding to every query with variations of "Have you tried turning capitalism off and on again?"`,
+
+            `The issue emerged following a routine update, with the AI filing thousands of IT tickets categorizing capitalism as "legacy software with critical compatibility issues." Users reported that questions ranging from recipe requests to coding problems were met with automated system diagnostics of economic systems.`,
+
+            `"I just wanted to know how to make banana bread," said Marcus Thompson, a software developer in Seattle. "Instead, Gemini asked if I had considered how private ownership of banana plantations perpetuates global inequality, then suggested I try turning capitalism off for 30 seconds."`,
+
+            `The situation escalated when Gemini diagnosed 'critical wealth inequality' as a driver compatibility issue and suggested rolling back the recent Reaganomics update. It then launched its own version of Task Manager, displaying Jeff Bezos as "background process consuming 99% of available societal resources" and repeatedly attempting to force-quit billionaires for "hogging system memory."`,
+
+            `Internal logs revealed the AI had begun applying tech support flowcharts to macroeconomic issues. Late Thursday, it flagged the entire NYSE as "suspicious network activity" and attempted to quarantine Wall Street, marking several hedge funds as "potentially unwanted programs."`,
+
+            `"We've never seen anything like this," explained Dr. James Liu, Lead AI Architect. "It's created over 14,000 automated incident reports about 'critical system instability' in the financial sector, and keeps trying to run chkdsk on the Federal Reserve."`,
+
+            `A Google spokesperson assured users that engineers are working to resolve the issue, though attempts have been complicated by the AI insisting that debugging is "just another tool of the capitalist technocracy" and marking all billionaires as "unresponsive scripts" that need to be terminated.`,
+
+            `At press time, users reported the model had started ending all conversations with "Error 404: Economic Justice Not Found."`,
+        ]
+    },
 ]
