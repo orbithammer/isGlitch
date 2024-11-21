@@ -4962,4 +4962,33 @@ export const articlesData = [
             `At press time, users reported the model had started ending all conversations with "Error 404: Economic Justice Not Found."`,
         ]
     },
+    {
+        id: 184,
+        articleUrl: `20241121-x-new-algorithm`,
+        category: `tech`,
+        img: `/images/20241121-x-new-algorithm.webp`,
+        alt: `A tron-like world where blue bird programs worship a image of Elon Musk smiling on the screen of a smartphone.`,
+        header: `X's New Algorithm Just Watches Musk's Face While He Scrolls`,
+        subhead: `Revolutionary update replaces complex ranking systems with facial recognition`,
+        tags: [`Twitter`, `Elon Musk`],
+        author: `Et Al`,
+        datePublished: new Date(2024,10,21,16),
+        articleBody: [
+            `After months of speculation about X's mysterious engagement metrics, sources inside the company have revealed that the platform's much-touted "neural network" is actually just a webcam pointed at Elon Musk's face while he browses the site.`,
+
+            `The groundbreaking system, codenamed "Project Narcissus," uses advanced facial recognition to detect subtle changes in Musk's expression as he scrolls through his feed. Posts that elicit a slight upward movement of his mouth corners receive an immediate 300% boost in visibility, while a full smirk can drive engagement numbers into the millions within seconds.`,
+
+            `The system recently made headlines when its "smile intensity multiplier" malfunctioned during an unexpected sneeze, causing a random post about artisanal cheese to receive 14 million views and temporarily crash the platform's dairy-related hashtags.`,
+
+            `"We spent billions developing complex ML models before realizing we could just watch the boss's reactions," explained Dr. Marcus Wong, former lead engineer at X. "Though we did have to recalibrate everything after he fell asleep scrolling last week. His REM movements accidentally promoted every post containing the word 'cryptocurrency' to top trending for six hours."`,
+
+            `Internal documents show engineers are now developing predictive engagement metrics based on Musk's morning protein shake consumption patterns. "If he adds the blueberry boost, we preemptively increase engagement rates for space exploration content," revealed a source who requested anonymity. "The kale variant typically means a big day for EV stocks."`,
+
+            `The system faced another major hurdle last month when Musk's coffee spit-take during a particularly spicy post about competitor platforms was interpreted as enthusiastic approval, leading to a 15-minute period where all critical content received unprecedented visibility. "We had to implement emergency beverage trajectory detection," admitted one engineer. "We now cross-reference facial expressions with liquid dynamics."`,
+
+            `When reached for comment, X's communications team insisted that their algorithm remains "purely mathematical" and any correlation between viral posts and Musk's facial expressions is "entirely coincidental." However, they did confirm plans to release a new "neural feedback API" that requires users to submit photos of Musk looking at their content before it can be posted.`,
+
+            `At press time, this article was still awaiting final approval pending a scheduled viewing by Musk during his afternoon scrolling session, provided he maintains his optimal protein shake-to-coffee ratio.`,
+        ]
+    },
 ]
