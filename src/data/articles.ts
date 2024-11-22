@@ -4991,4 +4991,33 @@ export const articlesData = [
             `At press time, this article was still awaiting final approval pending a scheduled viewing by Musk during his afternoon scrolling session, provided he maintains his optimal protein shake-to-coffee ratio.`,
         ]
     },
+    {
+        id: 185,
+        articleUrl: `20241122-google-taps-organized`,
+        category: `tech`,
+        img: `/images/20241122-google-taps-organized.webp`,
+        alt: `A mafia gangster in a fedora and suit suspiciously watching over someone coding.`,
+        header: `Google Taps Organized Crime for Privacy Consultation`,
+        subhead: `Former Mob Bosses Hired to Enhance Company's "Document Management Strategy"`,
+        tags: [`Google`,],
+        author: `Et Al`,
+        datePublished: new Date(2024,10,22,16),
+        articleBody: [
+            `Tech giant Google has brought on several retired organized crime figures as privacy consultants, sources confirmed Thursday. The unusual hiring spree comes as the company faces increased scrutiny over its internal communication practices.`,
+
+            `The consultants' influence became apparent after Google Maps mysteriously began reclassifying certain Mountain View campus locations as "waste management storage facilities." Government vehicles attempting to navigate to these areas are now automatically rerouted through an endless series of left turns in East Palo Alto.`,
+
+            `"These gentlemen have decades of experience in keeping sensitive conversations private," said Thomas Anderson, Google's new Director of Enhanced Information Security. "Their expertise in what they call 'legitimate business practices' aligns perfectly with our corporate values of data minimization."`,
+
+            `Security cameras across campus have been replaced with what management describes as "surveillance optimization specialists" - burly men in dark suits who, when questioned about any incidents, consistently report they "didn't see nothing" and suggest "maybe you should worry about your own business."`,
+
+            `The consultants have also modernized Google's ID system. New employee badges now come equipped with built-in alibi generators, randomly placing staff at local cannoli shops during times of regulatory interest.`,
+
+            `One consultant, speaking on condition of anonymity from an undisclosed location in New Jersey, praised Google's potential. "These tech guys are amateurs. They're still writing things down like it's 1985. Back in my day, we had a saying: 'If it ain't in your head, you might end up dead.' Not that anything ever happened to anybody, of course."`,
+
+            `When reached for comment, Google's legal team responded with a handwritten note reading "I respectfully decline to answer under my Fifth Amendment rights," followed by a winking emoji.`,
+
+            `The Department of Justice has expressed concern about the new consulting arrangement, but investigators admit they've been unable to find any documentation of the program. "Every time we request records," said one frustrated DOJ official, "they send us a horse's head with a Post-it note saying 'Data not found'."`,
+        ]
+    },
 ]
