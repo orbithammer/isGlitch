@@ -5020,4 +5020,35 @@ export const articlesData = [
             `The Department of Justice has expressed concern about the new consulting arrangement, but investigators admit they've been unable to find any documentation of the program. "Every time we request records," said one frustrated DOJ official, "they send us a horse's head with a Post-it note saying 'Data not found'."`,
         ]
     },
+    {
+        id: 186,
+        articleUrl: `20241123-tech-billionaire-patents`,
+        category: `tech`,
+        img: `/images/20241123-tech-billionaire-patents.webp`,
+        alt: `A photo of An exhausted Indian businessman asleep at his desk while wearing two watches.`,
+        header: `Tech Billionaire Patents 8-Day Week to 'Optimize Human Potential'`,
+        subhead: `Nature made a computational error,' claims Infosys co-founder`,
+        tags: [`Infosys`, `Narayana Murthy`],
+        author: `Et Al`,
+        datePublished: new Date(2024,10,23,18),
+        articleBody: [
+            `After reshaping India's tech landscape, Narayana Murthy has set his sights on redesigning time itself. The Infosys co-founder unveiled a patent yesterday for a revolutionary calendar system that adds an eighth day to the week, which he's dubbed "Productivday."`,
+
+            `A leaked PowerPoint slide from Infosys's executive briefing, titled "Temporal Optimization Roadmap Q3 2025," shows the new day strategically positioned between what are now labeled as "Grind Day" (formerly Friday) and "Optional Rest Period Alpha" (formerly Saturday).`,
+
+            `The patent filing, which runs to 847 pages, includes a separate application for "chrono-enhancement technology" that would extend Monday mornings by 47%. "Our research shows that employees are most alert during their first morning meeting," Murthy explained. "By extending this peak productivity window, we're simply capitalizing on existing human resources."`,
+
+            `Dr. Elena Rodriguez, a sleep researcher at MIT who has been awake for 96 hours analyzing the proposal, offered bleary-eyed support. "The data is... *yawns*... absolutely fascinating. We're seeing unprecedented levels of... what was I saying? Has anyone seen my coffee IV?"`,
+
+            `"The seven-day week is clearly a legacy bug in human civilization," Murthy explained during a press conference at his company's Bangalore headquarters. "Even the ancient Babylonians who invented it were only working with primitive productivity metrics."`,
+
+            `Not everyone in tech leadership agrees with the approach. Oracle CEO Safra Catz called the proposal "disappointingly incremental" during an earnings call. "Eight days? Why stop there? We're already developing a 12-day week that includes three different types of Mondays."`,
+
+            `Early beta testing at select Infosys campuses has reportedly shown promising results, with a 14.2% increase in lines of code written and a 96% decrease in employees mentioning their children.`,
+
+            `When asked about potential resistance to the new system, Murthy dismissed concerns: "People also complained when we switched from sundials to clocks. Innovation always faces initial skepticism."`,
+
+            `The patent is currently under review by multiple international bodies, though sources say Murthy has already begun work on his next project: a 32-hour day that he insists will "finally solve the inefficient human sleep requirement."`,
+        ]
+    },
 ]
