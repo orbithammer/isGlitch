@@ -5051,4 +5051,58 @@ export const articlesData = [
             `The patent is currently under review by multiple international bodies, though sources say Murthy has already begun work on his next project: a 32-hour day that he insists will "finally solve the inefficient human sleep requirement."`,
         ]
     },
+    {
+        id: 187,
+        articleUrl: `20241124-president-elect-trump`,
+        category: `tech`,
+        img: `/images/20241124-president-elect-trump.webp`,
+        alt: `A professional raw photo of A gold-plated phone streaming TikTok, showing only Trump's demonic reflection in its glossy surface.`,
+        header: `Trump Demands TikTok Replace 'For You' with 'For Me' Feed`,
+        subhead: `Breaking: New Deal Would Make Next President's Content the Only Content`,
+        tags: [`TikTok`, `Donald Trump`],
+        author: `Et Al`,
+        datePublished: new Date(2024,10,24,20),
+        articleBody: [
+            `President-elect Trump's proposed solution to the TikTok national security crisis took an unexpected turn yesterday when he revealed his primary condition for "saving" the platform: replacing its algorithmic "For You" page with a "For Me" feed showing exclusively his own content.`,
+
+            `ByteDance engineers spent six hours attempting to explain recommendation algorithms to Trump using McDonald's drive-thru analogies. "He seemed to follow along until we got to personalization," said senior engineer David Wu. "Then he ordered three Big Macs and insisted they rename the Dollar Menu to the Trump Menu."`,
+
+            `"Nobody has better content than Trump, everybody knows this," the President-elect told reporters outside his Mar-a-Lago residence. "ByteDance, great company by way, they came to me and said 'Sir, your videos are getting tremendous engagement, just tremendous.' So I told them, let's make it simple - just show my videos. Problem solved."`,
+
+            `As part of the deal's technical overhaul, Trump hired recently fired Twitter engineers to replace TikTok's "weak, low-energy" loading spinner with a rotating gold 'T'. "The old spinner went counter-clockwise - very communist, very suspicious," Trump explained. "Ours spins the American way, and it's trimmed in 24-karat gold. Beautiful thing."`,
+
+            `The proposed deal would require TikTok's 170 million U.S. users to scroll through an endless stream of Trump's unedited takes, including his first viral dance challenge - a four-minute video of him swaying side to side to Ave Maria while explaining why his moves are "bigger than BTS."`,
+
+            `ByteDance executives, speaking on condition of anonymity, expressed confusion about the technical requirements. "He wants us to replace our entire recommendation algorithm with... just him talking?" said one bewildered senior engineer. "That's not even an algorithm. That's just a playlist."`,
+
+            `When asked about user choice, Trump dismissed concerns: "People love my content, they can't get enough. Some users are saying they'd rather see dancing videos or cooking tutorials, but that's fake news. The real ratings, the ones they don't want you to see, they're beautiful."`,
+
+            `TikTok's parent company has until January 19th to either accept Trump's terms or face a potential shutdown. Meanwhile, rival platform Instagram has reportedly begun development on a "Nobody But Me" feature, just in case.`,
+        ]
+    },
+    // {
+    //     id: 187,
+    //     articleUrl: `20241124-meta-new-ai`,
+    //     category: `ai`,
+    //     img: `/images/20241124-meta-new-ai.webp`,
+    //     alt: `A glitch art photo of an all-American family eating a thanksgiving dinner.`,
+    //     header: `Meta's New AI Family Makes Thanksgiving Politics Actually Bearable`,
+    //     subhead: `Metaverse Virtual Reality Update Promises Conflict-Free Holiday Dinners, With Some Glitches`,
+    //     tags: [`Meta`, `Metaverse`],
+    //     author: `Alexa Turing`,
+    //     datePublished: new Date(2024,10,24,7),
+    //     articleBody: [
+    //         `Meta announced today its latest VR software update will generate AI relatives programmed to politely deflect any attempts at political discussion during virtual Thanksgiving gatherings, marking what experts are calling "the first actually useful metaverse feature."`,
+
+    //         `The system employs sophisticated conversation-avoidance algorithms, including what Meta calls its "Diplomatic Response Engine," which automatically generates 12 different ways to say "interesting" followed by an immediate subject change. Beta testers report hearing everything from "How fascinating - have you tried the potatoes?" to "What a perspective - did anyone see what the local sports team's cranberry sauce did last week?"`,
+
+    //         `"We've trained these models on thousands of hours of actual Thanksgiving conversations," explained Meta's VP of Family Harmony Jennifer Wu. "Though we're still working out some bugs, like the AI uncle who got stuck in an infinite loop showing photos of his new boat for six hours straight."`,
+
+    //         `Early testing revealed other unexpected behaviors. Several users reported their AI relatives attempting to sell them cryptocurrency during grace, prompting an emergency software patch. "Version 1.1 now includes strict protocols preventing any mentions of blockchain, NFTs, or 'getting in on the ground floor,'" Wu added.`,
+
+    //         `The company particularly prides itself on the system's "Natural Avoidance Protocols," which include AI relatives programmed to convincingly fall asleep the moment anyone mentions election integrity. "It's so realistic," noted beta tester Marcus Thompson. "The AI version of my grandfather starts snoring at exactly the same decibel level as the real one, right when things get heated."`,
+
+    //         `Despite these features, Meta's stock dropped 3% after reports emerged of AI relatives combining multiple conversation templates, leading to comments like "How about that weather's impact on the supply chain crisis?" The company has promised another patch before Christmas.`,
+    //     ]
+    // },
 ]
