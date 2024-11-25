@@ -5056,7 +5056,7 @@ export const articlesData = [
         articleUrl: `20241124-president-elect-trump`,
         category: `tech`,
         img: `/images/20241124-president-elect-trump.webp`,
-        alt: `A professional raw photo of A gold-plated phone streaming TikTok, showing only Trump's demonic reflection in its glossy surface.`,
+        alt: `A gold-plated phone streaming TikTok, showing only Trump's demonic reflection in its glossy surface.`,
         header: `Trump Demands TikTok Replace 'For You' with 'For Me' Feed`,
         subhead: `Breaking: New Deal Would Make Next President's Content the Only Content`,
         tags: [`TikTok`, `Donald Trump`],
@@ -5080,17 +5080,48 @@ export const articlesData = [
             `TikTok's parent company has until January 19th to either accept Trump's terms or face a potential shutdown. Meanwhile, rival platform Instagram has reportedly begun development on a "Nobody But Me" feature, just in case.`,
         ]
     },
+    {
+        id: 188,
+        articleUrl: `20241125-pre-enshittified-social`,
+        category: `tech`,
+        img: `/images/20241125-pre-enshittified-social.webp`,
+        alt: `A sleek office with rows of unplugged computers covered in dust and a lone programmer working on a desktop PC.`,
+        header: `Pre-Enshittified Social Network Launches With Bold "It Only Gets Better" Pitch`,
+        subhead: `Platform starts at rock bottom to avoid inevitable decline, founders say`,
+        tags: [`Dwindle`,],
+        author: `Et Al`,
+        datePublished: new Date(2024,10,25,8),
+        articleBody: [
+            `Tech startup Nexus Labs made waves today by launching what it calls the world's first "pre-enshittified" social network, Dwindle, which promises users an initially terrible experience that can theoretically only improve over time.`,
+
+            `"Every social platform eventually becomes worse - it's inevitable. So we asked ourselves: why not start at the bottom?" explained CEO Michael Reeves at a champagne-soaked launch party held in an abandoned WeWork. "Our users will experience peak awfulness on day one, then hopefully things trend upward as people leave."`,
+
+            `The platform debuts with revolutionary features like a "strategic inconvenience team" working around the clock to ensure key functions break during peak usage hours. Its content moderation AI, trained exclusively on YouTube comments from 2008, specializes in flagging legitimate content while ignoring actual violations.`,
+
+            `Users must solve increasingly complex CAPTCHAs to log out, while the platform automatically unfollows their closest friends to replace them with crypto influencers who haven't tweeted since 2022. The company celebrates its "inverse engagement metrics," where plummeting numbers are met with champagne and bonus payments.`,
+
+            `"Most networks promise the moon then slowly strip away features. We're doing the opposite," said Head of Product James Wilson, proudly showcasing the platform's "reverse search" function that deliberately returns results unrelated to users' queries.`,
+
+            `The company's "negative network effect" ensures each new user slightly degrades the experience for everyone else, while their "integrity pledge" promises to never fix bugs that users actually report.`,
+
+            `Early investors have praised the company's "revolutionary approach to inevitable platform decay." Noted venture capitalist Tom Anderson of Catalyst Ventures called it "a refreshingly honest take on the social media lifecycle."`,
+
+            `Despite - or perhaps because of these features, Dwindle has already secured $85 million in seed funding. The platform's terms of service openly state that user data will be sold to the highest bidder, engagement metrics are completely fabricated, and new users automatically receive an NFT of their own disappointment.`,
+
+            `At press time, Dwindle celebrated losing 60% of its initial userbase - approximately seven people, including three employees who signed up by mistake.`,
+        ]
+    },
     // {
-    //     id: 187,
-    //     articleUrl: `20241124-meta-new-ai`,
+    //     id: 191,
+    //     articleUrl: `20241128-meta-new-ai`,
     //     category: `ai`,
-    //     img: `/images/20241124-meta-new-ai.webp`,
+    //     img: `/images/20241128-meta-new-ai.webp`,
     //     alt: `A glitch art photo of an all-American family eating a thanksgiving dinner.`,
     //     header: `Meta's New AI Family Makes Thanksgiving Politics Actually Bearable`,
     //     subhead: `Metaverse Virtual Reality Update Promises Conflict-Free Holiday Dinners, With Some Glitches`,
     //     tags: [`Meta`, `Metaverse`],
     //     author: `Alexa Turing`,
-    //     datePublished: new Date(2024,10,24,7),
+    //     datePublished: new Date(2024,10,28,7),
     //     articleBody: [
     //         `Meta announced today its latest VR software update will generate AI relatives programmed to politely deflect any attempts at political discussion during virtual Thanksgiving gatherings, marking what experts are calling "the first actually useful metaverse feature."`,
 
