@@ -5111,6 +5111,39 @@ export const articlesData = [
             `At press time, Dwindle celebrated losing 60% of its initial userbase - approximately seven people, including three employees who signed up by mistake.`,
         ]
     },
+    {
+        id: 189,
+        articleUrl: `20241126-Study-97-of`,
+        category: `tech`,
+        img: `/images/20241126-Study-97-of.webp`,
+        alt: `A nerdy Man in wolf t-shirt and gaming headset posing menacingly with a giant red pill.`,
+        header: `Study: 97% of 'Your Body My Choice' Spammers Still Totally Dateless`,
+        subhead: `X Analysis Reveals Shocking Correlation Between Harassment and Zero Matches`,
+        tags: [`Twitter`, `Science`],
+        author: `Et Al`,
+        datePublished: new Date(2024,10,26,14),
+        articleBody: [
+            `A groundbreaking study from Stanford's Digital Society Lab has found that users who spam "your body, my choice" comments on X.com have a 97% likelihood of being completely alone on Saturday nights.`,
+
+            `A groundbreaking study from Stanford's Digital Society Lab has found that users who spam "your body, my choice" comments on X.com have a 97% likelihood of being completely alone on Saturday nights—and a jaw-dropping 31% last experienced direct contact with female anatomy during their own birth.`,
+
+            `"The data is quite striking," noted Dr. Wei. "One user insisted he was 'drowning in options' while his Amazon history showed monthly subscriptions to three different brands of anime body pillows and a concerning quantity of microwave ramen."`,
+
+            `The researchers observed a peculiar pattern in posting times. "Harassment spikes occurred precisely during local speed dating events," explained co-author Dr. Rachel Thompson. "The largest surge in 'your body, my choice' comments coincided exactly with a citywide singles mixer none of them attended."`,
+
+            `The study highlighted particularly telling contrasts between users' online personas and reality. While 89% used profile pictures of either growling wolves or characters from obscure anime, webcam screenshots from their gaming streams revealed a striking uniformity of unwashed hoodies and gaming headset hair dents.`,
+
+            `Their dating profiles proved equally illuminating. Analysis showed 94% had identical bios, all traced back to a Reddit thread titled "What Women Want (Written By Men Who've Never Met One)." Common phrases included "sigma male mindset," "high value female inquiries only," and "no drama queens (must be under 25, over 5'8", model quality)."`,
+
+            `Browser histories from the study participants revealed their most frequent searches during harassment sprees: "why do females hate nice guys," "how to be alpha tutorial 2024," and "is it normal to have never kissed at 35."`,
+
+            `When reached for comment, several subjects insisted they were "choosing to be single" and were "focused on their sigma male grindset," despite LinkedIn profiles showing long gaps in employment.`,
+
+            `The paper concludes that there's a statistically significant relationship between posting misogynistic content and never having held hands with someone who wasn't a relative—or experienced any female anatomy beyond their own delivery.`,
+
+            `"Ironically," Dr. Wei added, "the only vagina most of these users will ever be intimate with is the one that brought them into this world."`,
+        ]
+    },
     // {
     //     id: 191,
     //     articleUrl: `20241128-meta-new-ai`,
