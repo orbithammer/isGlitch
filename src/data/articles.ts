@@ -5149,7 +5149,7 @@ export const articlesData = [
         articleUrl: `20241127-new-tv-wont`,
         category: `tech`,
         img: `/images/20241127-new-tv-wont.webp`,
-        alt: `A person attempting to escape through a window from a TV.`,
+        alt: `A TV on a mechanical arm forcing a man to watch it.`,
         header: `New TV Won't Power Down Until You Meet Your Daily Ad Quota`,
         subhead: `Trade Desk says feature promotes "mindful media consumption"`,
         tags: [`The Trade Desk`, `Smart TVs`],
