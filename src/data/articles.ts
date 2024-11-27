@@ -5144,6 +5144,37 @@ export const articlesData = [
             `"Ironically," Dr. Wei added, "the only vagina most of these users will ever be intimate with is the one that brought them into this world."`,
         ]
     },
+    {
+        id: 190,
+        articleUrl: `20241127-new-tv-wont`,
+        category: `tech`,
+        img: `/images/20241127-new-tv-wont.webp`,
+        alt: `A person attempting to escape through a window from a TV.`,
+        header: `New TV Won't Power Down Until You Meet Your Daily Ad Quota`,
+        subhead: `Trade Desk says feature promotes "mindful media consumption"`,
+        tags: [`The Trade Desk`, `Smart TVs`],
+        author: `Et Al`,
+        datePublished: new Date(2024,10,27,19),
+        articleBody: [
+            `A Silicon Valley expansion of The Trade Desk has sparked controversy with a smart TV operating system that prevents users from turning off their devices until they've consumed a mandatory amount of advertising content.`,
+
+            `The Ventura-powered TV system, launched by CEO Jeff Green, includes what the company calls "Engagement Assurance Technology." The system tracks viewers' daily ad consumption and maintains a minimum requirement of 47 minutes of advertising content before allowing the TV to be powered down.`,
+
+            `"We're simply helping consumers make more responsible entertainment choices," explained Green, speaking from his ad-free vacation home in Aspen. The system includes an emergency services integration that automatically dials 911 if viewers attempt to cover their eyes during premium advertising slots.`,
+
+            `Early adopters have reported several concerning features, including the TV's advanced "micro-sleep detection" that adds 30 seconds of viewing time for each detected moment of drowsiness. The system also requires viewers to correctly answer detailed questions about each commercial before allowing any channel changes.`,
+
+            `"I dozed off during a mattress commercial and woke up to find my viewing requirement had doubled," said beta tester Tom Rodriguez. "Then the TV started sending 3 AM alerts to everyone in the house about 'premium overnight advertising opportunities.'"`,
+
+            `Users have reported unexpected shopping sprees initiated by the system. "I must have looked bored during a luxury home goods segment," said Janet McKenzie. "Next thing I knew, the TV had ordered 47 Egyptian cotton towel sets, citing my 'insufficient enthusiasm' as justification for the purchase."`,
+
+            `The system's "social accountability" feature has proven particularly controversial, automatically posting screenshots to social media whenever viewers check their phones during commercial breaks. "My entire Instagram feed knows I missed the crucial middle segment of a dish soap advertisement," reported early adopter Michael Chang. "The TV tagged it #CommercialDelinquent."`,
+
+            `When asked what would happen if a user simply pulls the power cord to escape the mandatory viewing, Green leaned forward with a cryptic smile. His tone dropping an octave. "Let's just say those individuals will be made an example of during our 'Community Accountability Hours,'" he said. When pressed for specifics, Green repeated, "Made an example of..."`,
+
+            `At press time, The Trade Desk announced plans to partner with major insurance providers to offer premium discounts to customers who consistently meet their daily ad quotas while maintaining acceptable enthusiasm levels.`,
+        ]
+    },
     // {
     //     id: 191,
     //     articleUrl: `20241128-meta-new-ai`,
