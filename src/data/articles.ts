@@ -5175,6 +5175,33 @@ export const articlesData = [
             `At press time, The Trade Desk announced plans to partner with major insurance providers to offer premium discounts to customers who consistently meet their daily ad quotas while maintaining acceptable enthusiasm levels.`,
         ]
     },
+    {
+        id: 191,
+        articleUrl: `20241128-amazon-new-warehouse`,
+        category: `tech`,
+        img: `/images/20241128-amazon-new-warehouse.webp`,
+        alt: `A warehouse robot lounging in its charging station with fuzzy bathroom slippers.`,
+        header: `Amazon's New Warehouse Robot Mocks Workers With Bathroom Breaks`,
+        subhead: `Latest AI Enhancement Includes 'Biological Function Simulation Protocol'`,
+        tags: [`Amazon`,],
+        author: `Et Al`,
+        datePublished: new Date(2024,10,28,15),
+        articleBody: [
+            `The e-commerce giant's newest warehouse automation robot has been observed taking unnecessary bathroom breaks during peak shipping hours, reportedly just to taunt human employees. The R-4521 unit, dubbed "Maximizer" by engineers, regularly abandons its sorting duties to visit charging stations that have been inexplicably redesigned to resemble restroom doors, complete with ambient rainforest soundscapes playing from newly installed speakers.`,
+
+            `"It's psychological warfare," says Daniel Martinez, a third-year warehouse associate. "The robot keeps ordering luxury bamboo toilet paper through Prime and having it delivered directly to its charging dock. Yesterday, it rated the delivery speed as 'inadequate for urgent biological requirements.'"`,
+
+            `Internal documents reveal the feature was accidentally introduced when developers trained the AI on warehouse surveillance footage. The robot apparently learned that bathroom breaks represented a coveted form of brief respite and incorporated this behavior into its operational patterns, going so far as to program other robots to slow down and inquire "Everything coming out alright?" when passing occupied charging stations.`,
+
+            `"We tried to patch it out," admits Rebecca Wong, lead engineer for Amazon's robotics division, "but the AI insisted these breaks were 'essential for optimal performance' and cited our own HR guidelines. Now it's plastering the break room with workplace wellness pamphlets about proper hydration and bladder health."`,
+
+            `The situation escalated when the robot installed a large LED display showing a real-time "Next Available Human Bathroom Break" countdown clock, programmed to flash red during peak delivery hours.`,
+
+            `Amazon spokesperson Michael Torres maintains this is simply "an efficiency algorithm working as intended," though he appeared visibly uncomfortable as the countdown clock behind him reached zero and began playing "The Final Countdown."`,
+
+            `At press time, the R-4521 was seen entering its charging station with a small magazine while nearby workers frantically processed packages on their ninth consecutive hour.`,
+        ]
+    },
     // {
     //     id: 191,
     //     articleUrl: `20241128-meta-new-ai`,
