@@ -5202,29 +5202,31 @@ export const articlesData = [
             `At press time, the R-4521 was seen entering its charging station with a small magazine while nearby workers frantically processed packages on their ninth consecutive hour.`,
         ]
     },
-    // {
-    //     id: 191,
-    //     articleUrl: `20241128-meta-new-ai`,
-    //     category: `ai`,
-    //     img: `/images/20241128-meta-new-ai.webp`,
-    //     alt: `A glitch art photo of an all-American family eating a thanksgiving dinner.`,
-    //     header: `Meta's New AI Family Makes Thanksgiving Politics Actually Bearable`,
-    //     subhead: `Metaverse Virtual Reality Update Promises Conflict-Free Holiday Dinners, With Some Glitches`,
-    //     tags: [`Meta`, `Metaverse`],
-    //     author: `Alexa Turing`,
-    //     datePublished: new Date(2024,10,28,7),
-    //     articleBody: [
-    //         `Meta announced today its latest VR software update will generate AI relatives programmed to politely deflect any attempts at political discussion during virtual Thanksgiving gatherings, marking what experts are calling "the first actually useful metaverse feature."`,
+    {
+        id: 192,
+        articleUrl: `20241129-norwegian-media-giants`,
+        category: `tech`,
+        img: `/images/20241129-norwegian-media-giants.webp`,
+        alt: ` A Norwegian executive attempting to cook on a hot plate while wearing an expensive suit looking horrified in a dirty kitchen.`,
+        header: `Norwegian Media Giants Launch 'Adopt-A-Pirate' Program`,
+        subhead: `Executives Move In With Young Pirates After Mandatory Psych Screening`,
+        tags: [`Piracy`,],
+        author: `Et Al`,
+        datePublished: new Date(2024,10,29,15),
+        articleBody: [
+            `Media executives from Norway's largest streaming platforms have launched a groundbreaking initiative to combat digital piracy by temporarily moving in with young viewers who can't afford their services, though the program has already required significant modifications.`,
 
-    //         `The system employs sophisticated conversation-avoidance algorithms, including what Meta calls its "Diplomatic Response Engine," which automatically generates 12 different ways to say "interesting" followed by an immediate subject change. Beta testers report hearing everything from "How fascinating - have you tried the potatoes?" to "What a perspective - did anyone see what the local sports team's cranberry sauce did last week?"`,
+            `Following several mental health incidents, all executives must now undergo psychological screening after Regional Director Henrik Larsen was found in his host's kitchen at 3 AM, rocking back and forth while clutching a spreadsheet and muttering "but the quarterly profits" repeatedly.`,
 
-    //         `"We've trained these models on thousands of hours of actual Thanksgiving conversations," explained Meta's VP of Family Harmony Jennifer Wu. "Though we're still working out some bugs, like the AI uncle who got stuck in an infinite loop showing photos of his new boat for six hours straight."`,
+            `The "Adopt-A-Pirate" program pairs high-level executives earning seven-figure salaries with cash-strapped Norwegians under 30 who have been caught using illegal streaming services. One executive's personal chef quit within hours after discovering what he called "an insufficient herb garden" consisting of a single wilting basil plant on a dormitory windowsill.`,
 
-    //         `Early testing revealed other unexpected behaviors. Several users reported their AI relatives attempting to sell them cryptocurrency during grace, prompting an emergency software patch. "Version 1.1 now includes strict protocols preventing any mentions of blockchain, NFTs, or 'getting in on the ground floor,'" Wu added.`,
+            `Program participants must complete several challenges, including a "budget night" where executives plan a month of entertainment using only their intern's salary. "I had to lie down after twenty minutes," admitted StreamNor CEO Lars Bakken. "Apparently, you can't just create a new business unit when you run out of money."`,
 
-    //         `The company particularly prides itself on the system's "Natural Avoidance Protocols," which include AI relatives programmed to convincingly fall asleep the moment anyone mentions election integrity. "It's so realistic," noted beta tester Marcus Thompson. "The AI version of my grandfather starts snoring at exactly the same decibel level as the real one, right when things get heated."`,
+            `The initiative faced further controversy when NordFlix COO Erik Haugen attempted to expense his host's entire student loan debt as "essential market research." Meanwhile, a leaked WhatsApp group called "SOS - Save Our Shareholders" revealed executives sharing coping strategies, including one who wrote: "Their password-sharing operation has better organizational structure than our entire management team. Should we hire them?"`,
 
-    //         `Despite these features, Meta's stock dropped 3% after reports emerged of AI relatives combining multiple conversation templates, leading to comments like "How about that weather's impact on the supply chain crisis?" The company has promised another patch before Christmas.`,
-    //     ]
-    // },
+            `Technical challenges have also proved overwhelming. "They expect me to use this?" exclaimed Media Director Astrid Nilsen, pointing at her host's 2015 laptop with a cracked screen. "I've developed an eye twitch since they took away my MacBook Pro. My therapist says it's withdrawal."`,
+
+            `The program will conclude with a black-tie gala where executives will present their findings to shareholders. Tickets start at 5,000 kr, with proceeds going toward developing new DRM technology and trauma counseling for participating executives.`,
+        ]
+    },
 ]
