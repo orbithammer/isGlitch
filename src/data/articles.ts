@@ -5207,12 +5207,12 @@ export const articlesData = [
         articleUrl: `20241129-norwegian-media-giants`,
         category: `tech`,
         img: `/images/20241129-norwegian-media-giants.webp`,
-        alt: ` A Norwegian executive attempting to cook on a hot plate while wearing an expensive suit looking horrified in a dirty kitchen.`,
+        alt: `A Norwegian executive attempting to cook on a hot plate while wearing an expensive suit looking horrified in a dirty kitchen.`,
         header: `Norwegian Media Giants Launch 'Adopt-A-Pirate' Program`,
         subhead: `Executives Move In With Young Pirates After Mandatory Psych Screening`,
         tags: [`Piracy`,],
         author: `Et Al`,
-        datePublished: new Date(2024,10,29,15),
+        datePublished: new Date(2024,10,29,7),
         articleBody: [
             `Media executives from Norway's largest streaming platforms have launched a groundbreaking initiative to combat digital piracy by temporarily moving in with young viewers who can't afford their services, though the program has already required significant modifications.`,
 
@@ -5227,6 +5227,33 @@ export const articlesData = [
             `Technical challenges have also proved overwhelming. "They expect me to use this?" exclaimed Media Director Astrid Nilsen, pointing at her host's 2015 laptop with a cracked screen. "I've developed an eye twitch since they took away my MacBook Pro. My therapist says it's withdrawal."`,
 
             `The program will conclude with a black-tie gala where executives will present their findings to shareholders. Tickets start at 5,000 kr, with proceeds going toward developing new DRM technology and trauma counseling for participating executives.`,
+        ]
+    },
+    {
+        id: 193,
+        articleUrl: `20241129-tesla-debuts-reality`,
+        category: `tech`,
+        img: `/images/20241129-tesla-debuts-reality.webp`,
+        alt: `Tesla Roadster with its front crushed after an accident. Two smiling researchers wearing lab coats, holding a printout giving thumbs up in the street.`,
+        header: `Tesla Debuts 'Reality Distortion Field' Safety Add-On`,
+        subhead: `New $15,000 Package Makes Accident Statistics Vanish`,
+        tags: [`Tesla`, `Smart Cars`],
+        author: `Et Al`,
+        datePublished: new Date(2024,10,29,17),
+        articleBody: [
+            `Following a week of challenging safety statistics, Tesla announced its latest premium feature: a groundbreaking "Reality Distortion Field" that automatically erases accident data within a 50-foot radius of any Tesla vehicle.`,
+
+            `"This revolutionary technology ensures drivers never have to confront uncomfortable statistics about vehicle safety," said James McKinnon, Tesla's newly appointed Head of Statistical Optimization. "The moment our sensors detect nearby accident data, whether on phones, laptops, or even—" McKinnon paused as he stepped closer to a Model Y, his voice shifting. "—and really, when you think about our Q1 earnings growth trajectory, the fundamental value proposition becomes—" He stopped again, now standing beside the vehicle. "TO THE MOON! 🚀"`, 
+
+            `Early beta testers report the feature has already shown promising results. Any Excel spreadsheet containing accident data within range automatically converts into inspirational Elon Musk quotes rendered exclusively in Comic Sans. The system also includes "Statistical Aromatherapy," which releases calming lavender scents whenever accident statistics are detected nearby.`,
+
+            `One unexpected bug has caused some confusion: the system occasionally transforms safety data into karaoke versions of "Safety Dance." NHTSA investigators also report an inability to type the word "accident" in their reports, with their keyboards autocorrecting it to "temporary euphoric velocity adjustment."`,
+
+            `During the press conference, Wall Street analysts noticed their Bloomberg terminals spontaneously converting all Tesla safety metrics into strings of emojis: "📉" became "🚗✨💫🌟" and "severe collision rates" transformed into "🎯💪💎🙌."`,
+
+            `"The system is working exactly as intended," McKinnon attempted to say, but instead began involuntarily reciting Tesla's profit margins in a melodic whisper.`,
+
+            `The Reality Distortion Field will be available to all Tesla owners starting next month, with a special discount for those who agree to never read automotive safety studies again. The company plans to expand coverage to include all research institutions by Q2 2025, or as their website now displays it: "🎮🚀⭐️soon™️."`,
         ]
     },
 ]
