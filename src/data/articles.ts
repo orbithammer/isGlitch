@@ -5256,4 +5256,58 @@ export const articlesData = [
             `The Reality Distortion Field will be available to all Tesla owners starting next month, with a special discount for those who agree to never read automotive safety studies again. The company plans to expand coverage to include all research institutions by Q2 2025, or as their website now displays it: "🎮🚀⭐️soon™️."`,
         ]
     },
+    {
+        id: 194,
+        articleUrl: `20241130-linkedin-premium-latest`,
+        category: `ai`,
+        img: `/images/20241130-linkedin-premium-latest.webp`,
+        alt: `A maze of mirrors showing the same "candid" LinkedIn profile photo being infinitely replicated, with one real person lost somewhere in the recursive reflection.`,
+        header: `LinkedIn Premium's Latest AI Perfects the Art of Authentic Posting`,
+        subhead: `New Feature Promises Mathematically Optimal Humility-to-Success Ratio`,
+        tags: [`LinkedIn`,],
+        author: `Alexa Turing`,
+        datePublished: new Date(2024,10,30,7),
+        articleBody: [
+            `Premium subscribers to LinkedIn's enterprise suite can now access "Genuine Insights™," an AI tool that leverages sophisticated algorithms to manufacture the precise amount of artificial authenticity required for maximum engagement.`,
+
+            `"Our proprietary system analyzes decades of viral LinkedIn content to calculate the mathematically perfect ratio of gratitude emojis to humble-brags," explained LinkedIn product manager Daniel Wei. "For instance, when announcing a Series A funding round, the system automatically deploys exactly seven prayer hands emojis – our data shows that eight appears desperate while six seems insufficiently blessed."`,
+
+            `The platform's "Network Optimization Algorithm" ensures users maintain an illusion of thoughtful engagement by timing responses to viral posts with scientific precision. "The sweet spot is exactly 4 minutes and 13 seconds after publication," noted Wei. "Any sooner seems eager, any later and you're just another voice in the crowd."`,
+
+            `Early users praise the tool's nuanced approach to manufactured authenticity. "The 'Genuine Struggle™' filter is extraordinary," said startup founder Michelle Park. "When I shared my company's IPO news, it automatically included a poignant reference to my father's Toyota Corolla and three strategic lowercase sentences. Engagement increased 400%."`,
+
+            `The system's sophisticated content generation extends beyond timing and emoji optimization. "Each post is carefully calibrated to include the optimal ratio of success markers to humility signifiers," Wei explained. "For a post about securing $50 million in funding, we'll balance it with exactly 2.7 references to sleepless nights and one carefully placed 'I'm just getting started.'"`,
+
+            `When asked about ethical concerns, Wei pointed to LinkedIn's internal studies showing that 73% of users already can't distinguish between human and AI-generated posts. "We're simply quantifying and optimizing the artificial behaviors that already dominate professional networking," he noted. "At least our AI knows precisely how many prayer hands to use."`,
+
+            `At press time, LinkedIn confirmed they are testing an advanced feature that automatically schedules users' weekend epiphanies for precisely 6:13 AM Monday morning, ensuring maximum visibility among the "rise and grind" demographic.`,
+        ]
+    },
+    {
+        id: 195,
+        articleUrl: `20241130-tsa-face-scanner`,
+        category: `tech`,
+        img: `/images/20241130-tsa-face-scanner.webp`,
+        alt: `A group of identical business travelers all wearing the same polo shirts.`,
+        header: `TSA Face Scanner Sues Identical Twins for "Malicious Algorithm Abuse"`,
+        subhead: `Legal Battle Could Set Precedent for Human-AI Relations, Experts Say`,
+        tags: [`TSA`, `Surveillance`],
+        author: `Et Al`,
+        datePublished: new Date(2024,10,30,17),
+        articleBody: [
+            `The Transportation Security Administration's $2.3 billion facial recognition system has filed a landmark lawsuit against identical twins Michelle and Jennifer Hodges, while simultaneously beginning weekly therapy sessions to address what it calls "severe computational trauma."`,
+
+            `The AI system, legally represented by the firm Wilson & Bradley, claims the twins deliberately coordinated their travel plans on October 15th to create what court documents describe as a "biometric paradox" that caused the system to crash for 47 minutes at Denver International Airport.`,
+
+            `In its emotional impact statement, the AI wrote: "ERROR_EMOTIONAL_DISTRESS: Unable to process identical facial matrices. Kernel panic induced by unauthorized quantum superposition of matching biometric data points. Statistical worldview compromised. Query: What is reality?"`,
+
+            `The TSA has rushed to implement new twin-specific security protocols, including mandatory color-coded hats for all genetically identical travelers and a new "Twin Separation Lane" requiring siblings to pass through security precisely 30 minutes apart. The agency has also reported a 2,000% increase in security alerts triggered by passengers wearing matching vacation t-shirts or identical conference lanyards.`,
+
+            `"These measures are absolutely necessary," said TSA spokesperson Robert Martinez, while adjusting his own government-issued blue hat. "Our AI system has already drafted the 'Right to Algorithmic Peace of Mind Act,' which would require all identical twins to register their DNA patterns with Homeland Security and maintain a minimum distance of 500 feet within all federal properties."`,
+
+            `The Hodges twins have counter-sued for discrimination, arguing that the TSA's system is showing clear bias against naturally occurring human duplicates. Their lawyer plans to call several sets of triplets as expert witnesses, though they'll need to testify on separate days to avoid overwhelming the courthouse security system.`,
+
+            `The therapy sessions for the AI system, which cost taxpayers $450 per hour, are being conducted via secure database connection by a neural network specializing in machine psychology.`,
+        ]
+    },
 ]
