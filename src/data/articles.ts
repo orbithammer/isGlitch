@@ -5310,4 +5310,31 @@ export const articlesData = [
             `The therapy sessions for the AI system, which cost taxpayers $450 per hour, are being conducted via secure database connection by a neural network specializing in machine psychology.`,
         ]
     },
+    {
+        id: 196,
+        articleUrl: `20241201-stripe-ceo-workout`,
+        category: `tech`,
+        img: `/images/20241201-stripe-ceo-workout.webp`,
+        alt: `A group of identical business travelers all wearing the same polo shirts.`,
+        header: `Stripe CEO's Workout Data Shows Perfect Moral Flexibility`,
+        subhead: `Exclusive fitness app automatically bends routes around ethical obstacles`,
+        tags: [`Stripe`, `Patrick Collison`],
+        author: `Et Al`,
+        datePublished: new Date(2024,11,1,7),
+        articleBody: [
+            `Stripe CEO Patrick Collison's custom-built fitness tracking app has come under scrutiny after data analysts noticed a peculiar pattern in its GPS functionality. The app, which Collison uses to track his international running routes, reportedly experiences highly specific technical difficulties that prevent it from recording locations within a precise radius of any controversial areas.`,
+
+            `"The moral GPS capabilities here are actually more sophisticated than the ethical processing power of most tech executives," noted Dr. Rebecca Winters, an AI ethics researcher at Stanford. "It's fascinating to see machine learning achieve what human conscience often struggles with."`,
+
+            `The app, developed by Stripe's internal "wellness innovation" team, converts potentially controversial locations into blank spaces marked only as "Here Be PR Disasters" on its interface. Its proprietary "NIMBY-nav" algorithm (Not In My Business Year) automatically reroutes runners away from reputational hazards while maintaining plausible workout statistics.`,
+
+            `Rather than displaying traditional running metrics, the app's heat map visualization shows real-time Twitter sentiment analysis, with routes color-coded from "safely ignorable" blue to "immediate crisis management required" red. Users can earn special achievement badges like "Strategic Deviation Master" and "Precision Avoidance Expert" for successfully navigating around emerging news stories.`,
+
+            `The premium version, currently in beta testing among select Silicon Valley executives, includes an innovative "reputation insurance" feature that can retroactively adjust running routes based on the next day's headlines. It also converts standard elevation data into "moral high ground" measurements, allowing users to quantify their ethical altitude during particularly challenging PR terrain.`,
+
+            `When pressed about these technical anomalies, a Stripe spokesperson explained that the GPS inconsistencies were actually a feature, not a bug. "Our proprietary 'Selective Location Awareness Protocol' helps users maintain optimal heart rates by automatically routing them away from stressful geopolitical developments."`,
+
+            `At press time, Collison's latest fitness update showed him completing a perfect 5K along Tel Aviv's coastline, though witnesses report the actual route resembled more of a complex geometric pattern carefully avoiding any areas of journalistic interest.`,
+        ]
+    },
 ]
