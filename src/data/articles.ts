@@ -5337,4 +5337,33 @@ export const articlesData = [
             `At press time, Collison's latest fitness update showed him completing a perfect 5K along Tel Aviv's coastline, though witnesses report the actual route resembled more of a complex geometric pattern carefully avoiding any areas of journalistic interest.`,
         ]
     },
+    {
+        id: 197,
+        articleUrl: `20241201-paramount-introduces-ai`,
+        category: `entertainment`,
+        img: `/images/20241201-paramount-introduces-ai.webp`,
+        alt: `A person in business attire crying while feeding dollar bills into their TV.`,
+        header: `Paramount+ Introduces AI That Prices Shows Based on Your Desperation`,
+        subhead: `Now charging viewers according to their emotional investment and plot anxiety`,
+        tags: [`Paramount+`,],
+        author: `Pieter Klykbeit`,
+        datePublished: new Date(2024,11,1,17),
+        articleBody: [
+            `Paramount+ unveiled its groundbreaking "Dynamic Investment Pricing" system yesterday, transforming casual streaming into an exercise in emotional extortion.`,
+
+            `The streaming giant's new AI-powered algorithm tracks viewer engagement metrics, including pulse rate, Google search history, and how many times you've frantically typed "DOES CAPTAIN PIKE SURVIVE SEASON 2" at 3 AM. These data points generate what executives call a "desperation multiplier" for your monthly subscription.`,
+
+            `"Traditional pricing models failed to capitalize on viewer vulnerability," explained VP of Revenue Innovation Marcus Blackwood. "Our research shows users will liquidate significant assets to resolve plot tension."`,
+
+            `Denver resident Tom Reeves exemplifies this phenomenon. "I sold my 2022 Honda Civic to find out if Admiral Vance survived the nebula explosion," he admitted from his new bus stop viewing location. "Then they raised the price again with fifteen minutes left in the episode. I'm looking into second mortgages."`,
+
+            `The platform now offers "Plot Investment Insurance" at triple the base subscription rate, guaranteeing viewers can finish their shows without sudden price hikes. A complementary "Spoiler Ransom" feature lets desperate fans pay to prevent other viewers from watching ahead – a service that's already caused three divorces and one small claims court case.`,
+
+            `Most controversially, the system requires "Emotional Damage Deposits" before particularly devastating episodes. "We know what's coming," Blackwood smirked. "We're just helping viewers financially prepare for their trauma."`,
+
+            `The algorithm also automatically enrolls weeping viewers into "Premium Plus Tears," a luxury tier promising "enhanced emotional devastation" at quadruple the cost. When asked about ethical concerns, Blackwood dabbed his eyes with a gold-threaded handkerchief and whispered, "Beautiful, isn't it?"`,
+
+            `When reached for comment, Netflix executives were seen hastily installing hydration sensors in their test viewers' devices.`,
+        ]
+    },
 ]
