@@ -5315,7 +5315,7 @@ export const articlesData = [
         articleUrl: `20241201-stripe-ceo-workout`,
         category: `tech`,
         img: `/images/20241201-stripe-ceo-workout.webp`,
-        alt: `A group of identical business travelers all wearing the same polo shirts.`,
+        alt: `A runner performing an leap over a homeless person's tent.`,
         header: `Stripe CEO's Workout Data Shows Perfect Moral Flexibility`,
         subhead: `Exclusive fitness app automatically bends routes around ethical obstacles`,
         tags: [`Stripe`, `Patrick Collison`],
