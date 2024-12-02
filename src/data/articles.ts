@@ -5342,7 +5342,7 @@ export const articlesData = [
         articleUrl: `20241201-paramount-introduces-ai`,
         category: `entertainment`,
         img: `/images/20241201-paramount-introduces-ai.webp`,
-        alt: `A person in business attire crying while feeding dollar bills into their TV.`,
+        alt: `A person in business attire feeding dollar bills into their TV.`,
         header: `Paramount+ Introduces AI That Prices Shows Based on Your Desperation`,
         subhead: `Now charging viewers according to their emotional investment and plot anxiety`,
         tags: [`Paramount+`,],
@@ -5364,6 +5364,62 @@ export const articlesData = [
             `The algorithm also automatically enrolls weeping viewers into "Premium Plus Tears," a luxury tier promising "enhanced emotional devastation" at quadruple the cost. When asked about ethical concerns, Blackwood dabbed his eyes with a gold-threaded handkerchief and whispered, "Beautiful, isn't it?"`,
 
             `When reached for comment, Netflix executives were seen hastily installing hydration sensors in their test viewers' devices.`,
+        ]
+    },
+    {
+        id: 196,
+        articleUrl: `20241202-amazon-new-patent`,
+        category: `tech`,
+        img: `/images/20241202-amazon-new-patent.webp`,
+        alt: `A warehouse where boxes are traveling on a circular conveyor belt with a lone worker in the center staring at it in confusion.`,
+        header: `Amazon's New Patent Speeds Up Influencer Product Lifecycle`,
+        subhead: `Returns Now Processed Before Unboxing Videos Even End`,
+        tags: [`Amazon`,],
+        author: `Et Al`,
+        datePublished: new Date(2024,11,2,7),
+        articleBody: [
+            `Amazon's latest patent promises to streamline the complicated logistics of social media content creation by automatically shipping products to returns centers the moment influencers complete their haul videos.`,
+
+            `The groundbreaking system, patent US29485B, briefly crashed during beta testing when lifestyle creator Madison Brooks (@sweaterweather) unexpectedly decided to keep a $12.99 soap dispenser. The algorithmic crisis took three hours to resolve, with emergency protocols ultimately classifying the incident as a statistical anomaly.`,
+
+            `"We noticed that 92% of items featured in '#amazonfinds' videos were returned within 4 hours of filming," explained Rita Patel, Amazon's Head of Creator Economics. "This new system simply eliminates the middleman – namely, the pretense of actual ownership."`,
+
+            `The patent faced early controversy when its AI mistakenly flagged real purchases as content creation. During a wedding in Austin, the system automatically recalled a bride's dress mid-ceremony, with a drone appearing to whisk it away during the vows. Amazon has since added a "genuine life event" detection feature.`,
+
+            `Sources within the company revealed that several warehouses have created specialized "influencer loops" – dedicated sections where the same 500 trending items simply circle between creators without ever reaching actual customers. These items are protected by Amazon's new ContentCare™ insurance policy, which specifically covers "transition shot drops" and "dramatic reveal damage."`,
+
+            `"Our most critical innovation is the Emergency Product Preservation Protocol," noted systems engineer Marcus Wong. "The moment our sensors detect actual use – fingerprints, wear patterns, or God forbid, a genuine stain – the item is immediately recalled and replaced with a pristine version, preserving the integrity of the content ecosystem."`,
+
+            `The system rolls out to verified creators next month, just in time for the crucial "Summer Amazon Villa Aesthetic Must-Haves" season.`,
+        ]
+    },
+    {
+        id: 197,
+        articleUrl: `20241202-openai-ceo-field`,
+        category: `tech`,
+        img: `/images/20241202-amazon-new-patent.webp`,
+        alt: `A warehouse where boxes are traveling on a circular conveyor belt with a lone worker in the center staring at it in confusion.`,
+        header: `OpenAI CEO's 'Field Research Day' Ends in 45 Minutes`,
+        subhead: `Altman's Vision for 'Trauma-Optimized Workplace' Cut Mysteriously Short`,
+        tags: [`Amazon`, `Sam Altma`],
+        author: `Et Al`,
+        datePublished: new Date(2024,11,2,7),
+        articleBody: [
+            `Three minutes into his scheduled eight-hour shift at Sama's content moderation facility in Nairobi, OpenAI CEO Sam Altman was already texting his pilot about emergency fuel protocols.`,
+
+            `"I want our human labelers to understand they're part of something bigger," said Altman, dabbing his forehead with a Patagonia handkerchief. "My $10 million salary might seem high, but after my SF mortgage and daily mushroom coffee subscription, I'm practically living paycheck to paycheck."`,
+
+            `The visit was part of OpenAI's new "Responsible AI Leadership Initiative," but quickly went off-script when Altman learned the facility's broken air conditioning couldn't accommodate his suggested meditation pods. "Have you tried simply hallucinating more pleasant imagery while viewing disturbing content?" he offered, watching workers process their 400th violation report that hour. "It's a mindfulness technique I learned at Burning Man."`,
+
+            `Facility supervisor James Kimani reported growing concern as Altman pitched increasingly frantic workplace improvements. "He kept insisting we add achievement badges for most traumatic content processed. 'Legendary Violation Spotter' was one of his suggestions."`,
+
+            `When workers expressed concerns about their $2 hourly wage, Altman brightened. "Think of it as seed funding for your personal growth journey," he explained. "Plus, this accelerated emotional intelligence training would cost thousands at Stanford Business School."`,
+
+            `The visit reached its breaking point at minute 45 when Altman was asked to moderate a sequence of explicit content violations. Witnesses say he muttered "This isn't aligned with my personal optimization framework!" before speed-walking to his waiting convoy.`,
+
+            `OpenAI's PR team later released a statement calling the visit "transformatively insightful." They announced a bold new initiative to provide content moderators with AI-generated motivational quotes about digital resilience.`,
+
+            `The company's other executives have since canceled their scheduled visits, citing conflicts with their longevity optimization workshops.`,
         ]
     },
 ]
