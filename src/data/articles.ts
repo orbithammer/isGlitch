@@ -5403,7 +5403,7 @@ export const articlesData = [
         subhead: `Altman's Vision for 'Trauma-Optimized Workplace' Cut Mysteriously Short`,
         tags: [`Amazon`, `Sam Altma`],
         author: `Et Al`,
-        datePublished: new Date(2024,11,2,7),
+        datePublished: new Date(2024,11,2,17),
         articleBody: [
             `Three minutes into his scheduled eight-hour shift at Sama's content moderation facility in Nairobi, OpenAI CEO Sam Altman was already texting his pilot about emergency fuel protocols.`,
 
