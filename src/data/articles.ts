@@ -5398,7 +5398,7 @@ export const articlesData = [
         articleUrl: `20241202-openai-ceo-field`,
         category: `tech`,
         img: `/images/20241202-openai-ceo-field.webp`,
-        alt: `A warehouse where boxes are traveling on a circular conveyor belt with a lone worker in the center staring at it in confusion.`,
+        alt: `A helicopter taking off with a man wearing a t-shirt sprinting toward it, shot from behind, on a Nairobi rooftop.`,
         header: `OpenAI CEO's 'Field Research Day' Ends in 45 Minutes`,
         subhead: `Altman's Vision for 'Trauma-Optimized Workplace' Cut Mysteriously Short`,
         tags: [`Amazon`, `Sam Altma`],
