@@ -19,7 +19,7 @@ const Pagination: React.FC<PaginationProps> = ({
   onOlderPage,
   onNewerPage,
 }) => {
-  const { isDarkMode } = useContext(ThemeContext);
+  // const { isDarkMode } = useContext(ThemeContext);
   
   return (
     <div className="pagination-wrapper">
