@@ -1,3 +1,4 @@
+// delete this file
 import { Link } from "react-router-dom";
 import styled from "styled-components";
 
@@ -116,3 +117,5 @@ export const StyledAuthor = styled(Link)`
       theme.isDarkMode ? "#5200FF" : "#9CE00C"};
   }
 `;
+
+
