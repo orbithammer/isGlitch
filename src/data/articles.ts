@@ -5401,7 +5401,7 @@ export const articlesData = [
         alt: `A helicopter taking off with a man wearing a t-shirt sprinting toward it, shot from behind, on a Nairobi rooftop.`,
         header: `OpenAI CEO's 'Field Research Day' Ends in 45 Minutes`,
         subhead: `Altman's Vision for 'Trauma-Optimized Workplace' Cut Mysteriously Short`,
-        tags: [`Amazon`, `Sam Altman`],
+        tags: [`OpenAI`, `Sam Altman`],
         author: `Et Al`,
         datePublished: new Date(2024,11,2,17),
         articleBody: [
