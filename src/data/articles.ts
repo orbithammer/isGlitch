@@ -5401,7 +5401,7 @@ export const articlesData = [
         alt: `A helicopter taking off with a man wearing a t-shirt sprinting toward it, shot from behind, on a Nairobi rooftop.`,
         header: `OpenAI CEO's 'Field Research Day' Ends in 45 Minutes`,
         subhead: `Altman's Vision for 'Trauma-Optimized Workplace' Cut Mysteriously Short`,
-        tags: [`Amazon`, `Sam Altma`],
+        tags: [`Amazon`, `Sam Altman`],
         author: `Et Al`,
         datePublished: new Date(2024,11,2,17),
         articleBody: [
@@ -5420,6 +5420,35 @@ export const articlesData = [
             `OpenAI's PR team later released a statement calling the visit "transformatively insightful." They announced a bold new initiative to provide content moderators with AI-generated motivational quotes about digital resilience.`,
 
             `The company's other executives have since canceled their scheduled visits, citing conflicts with their longevity optimization workshops.`,
+        ]
+    },
+    {
+        id: 198,
+        articleUrl: `20241203-meta-proposes-splitting`,
+        category: `tech`,
+        img: `/images/20241203-meta-proposes-splitting.webp`,
+        alt: `Mark Zuckerberg awkwardly standing exactly between two identical office buildings, wearing a hoodie that's half grey half black split down the middle.`,
+        header: `Meta Proposes Splitting Into Two Equally Massive Monopolies`,
+        subhead: `Tech Giant Says Having Two Monopolies is Technically Not a Monopoly`,
+        tags: [`Meta`, `FTC`],
+        author: `Et Al`,
+        datePublished: new Date(2024,11,3,7),
+        articleBody: [
+            `Responding to mounting antitrust pressure, Meta executives unveiled their boldest restructuring plan yet: splitting the company into two separate monopolies of exactly equal size and market dominance.`,
+
+            `"We've heard the concerns about our market position loud and clear," said Meta VP of Legal Strategy Thomas Bradford during Thursday's press conference. "That's why we're proposing to break up into 'Meta Prime' and 'Meta Classic' - two distinct entities that will independently control precisely 48.5% of all human digital interaction."`,
+
+            `The proposal includes a complex "Evil Equity System" ensuring both companies maintain balanced levels of public outrage. "If Meta Prime launches a controversial privacy policy in Q1, Meta Classic is contractually obligated to create a comparable scandal by Q2," Bradford explained. "We've developed a sophisticated point system where one data breach equals three congressional hearings, or five misleading public statements."`,
+
+            `The 800-page filing details plans for maintaining "exactly equal numbers of congressional lobbyists, down to the decimal point." When questioned about a current lobbyist count of 357, Bradford explained they would "hire six-tenths of a person to ensure perfect parity."`,
+
+            `The companies would also alternate their antitrust court appearances on different days of the week, "to maximize judicial efficiency and minimize scheduling conflicts with our planned controversies."`,
+
+            `The FTC reportedly received the proposal with skepticism, particularly regarding the section titled "Proposed Timeline for Mandatory Re-Merger in 2026."`,
+
+            `When pressed about how splitting into two dominant companies addresses monopoly concerns, Bradford appeared confused. "I don't see the issue. Monopoly means one company has all the power. We're proposing two companies having all the power. That's just math."`,
+
+            `The proposal also includes plans for both companies to share Mark Zuckerberg as CEO, though he would wear different colored hoodies to signify which Meta he's running on any given day.`,
         ]
     },
 ]
