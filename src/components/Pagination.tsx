@@ -1,6 +1,6 @@
-import React, { useContext } from 'react';
+// import React, { useContext } from 'react';
 import { Link } from 'react-router-dom';
-import ThemeContext from "../utils/ThemeContext"
+// import ThemeContext from "../utils/ThemeContext"
 
 type PaginationProps = {
   currentPage: number;
