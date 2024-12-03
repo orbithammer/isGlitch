@@ -5367,7 +5367,7 @@ export const articlesData = [
         ]
     },
     {
-        id: 196,
+        id: 198,
         articleUrl: `20241202-amazon-new-patent`,
         category: `tech`,
         img: `/images/20241202-amazon-new-patent.webp`,
@@ -5394,7 +5394,7 @@ export const articlesData = [
         ]
     },
     {
-        id: 197,
+        id: 199,
         articleUrl: `20241202-openai-ceo-field`,
         category: `tech`,
         img: `/images/20241202-openai-ceo-field.webp`,
@@ -5423,7 +5423,7 @@ export const articlesData = [
         ]
     },
     {
-        id: 198,
+        id: 200,
         articleUrl: `20241203-meta-proposes-splitting`,
         category: `tech`,
         img: `/images/20241203-meta-proposes-splitting.webp`,
