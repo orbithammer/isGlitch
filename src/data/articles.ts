@@ -5402,7 +5402,7 @@ export const articlesData = [
         header: `OpenAI CEO's 'Field Research Day' Ends in 45 Minutes`,
         subhead: `Altman's Vision for 'Trauma-Optimized Workplace' Cut Mysteriously Short`,
         tags: [`OpenAI`, `Sam Altman`],
-        author: `Et Al`,
+        author: `Alexa Turing`,
         datePublished: new Date(2024,11,2,17),
         articleBody: [
             `Three minutes into his scheduled eight-hour shift at Sama's content moderation facility in Nairobi, OpenAI CEO Sam Altman was already texting his pilot about emergency fuel protocols.`,
@@ -5449,6 +5449,35 @@ export const articlesData = [
             `When pressed about how splitting into two dominant companies addresses monopoly concerns, Bradford appeared confused. "I don't see the issue. Monopoly means one company has all the power. We're proposing two companies having all the power. That's just math."`,
 
             `The proposal also includes plans for both companies to share Mark Zuckerberg as CEO, though he would wear different colored hoodies to signify which Meta he's running on any given day.`,
+        ]
+    },
+    {
+        id: 201,
+        articleUrl: `20241203-bluesky-issues-standard`,
+        category: `tech`,
+        img: `/images/20241203-bluesky-issues-standard.webp`,
+        alt: `A therapy circle where everyone wears Patagonia vests while squeezing Twitter logo-shaped stress balls.`,
+        header: `Bluesky Issues Standard Refugee Kits to Fleeing Twitter Journalists`,
+        subhead: `Platform's "Healing Program" includes therapy, vests, and digital detox`,
+        tags: [`Bluesky`, `Twitter`],
+        author: `Et Al`,
+        datePublished: new Date(2024,11,3,17),
+        articleBody: [
+            `Moving quickly to accommodate the surge of journalists fleeing Twitter, Bluesky announced today its Verified Refugee Integration Program, complete with mandatory rehabilitation services and standard-issue resettlement kits.`,
+
+            `Each displaced reporter receives a Patagonia fleece vest, blue checkmark-patterned emergency blanket, and a $300 monthly stipend redeemable at Blue Bottle Coffee. But the real focus, officials say, is emotional recovery.`,
+
+            `"We understand the trauma of losing your verification status," explained Bluesky's Head of Journalist Relations, Rachel Martinez. "That's why each refugee must attend daily 'Engagement Cleanse' sessions where they meditate on their most viral tweets and practice letting go."`,
+
+            `The program's mental health wing includes specialized support groups for "Main Character Syndrome Withdrawal" and mandatory "Non-Ratio Coping Workshops" where journalists squeeze stress balls shaped like Twitter's old bird logo while practicing deep breathing exercises.`,
+
+            `A growing tent city dubbed "Legacy Verified Village" has emerged, constructed entirely of hoarded blue checkmark blankets. Security reports show multiple journalists attempting to expand their territory by claiming they're "verified in real life."`,
+
+            `"The doomscrolling rehabilitation has been the hardest," admitted former tech columnist Michael Bradley, struggling with his modified iPhone that only scrolls upward. "But my decentralization buddy Todd has been really supportive."`,
+
+            `Each journalist is paired with a "decentralization buddy" to prevent the formation of echo chambers - though several pairs have been caught trying to create verified-only Slack channels.`,
+
+            `At press time, several journalists were spotted trying to trade their vests for Medium subscriptions on the facility's thriving black market.`,
         ]
     },
 ]
