@@ -35,7 +35,7 @@ const MostRecentArticles: React.FC<MostRecentArticlesProps> = ({ currentArticleU
               src={article.img} 
               alt={article.header}
             />
-            <div className="article-info">
+            <div className="recent-article-info">
               <CustomLink 
                 to={`/article/${article.articleUrl}`}
                 className="recent-article-link"

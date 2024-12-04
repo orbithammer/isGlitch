@@ -5480,4 +5480,31 @@ export const articlesData = [
             `At press time, several journalists were spotted trying to trade their vests for Medium subscriptions on the facility's thriving black market.`,
         ]
     },
+    {
+        id: 202,
+        articleUrl: `20241204-choose-your-favorite`,
+        category: `tech`,
+        img: `/images/20241204-choose-your-favorite.webp`,
+        alt: `A tech worker at her desk while men in dark suits and sunglasses and an unmarked black van with a satellite dish is outside.`,
+        header: `"Choose Your Favorite Fed!" Privacy Program Lets Users Pick Their Tracker`,
+        subhead: `Data broker pitches consumer choice as users select which agency surveils them first`,
+        tags: [`Surveillance`,],
+        author: `Et Al`,
+        datePublished: new Date(2024,11,4,7),
+        articleBody: [
+            `Location data giant MapMetrics announced today what it calls a "revolutionary step forward in transparency" - letting customers choose which government agency gets first dibs on tracking their every move through their new "Privacy is about Choice™"* program.`,
+
+            `The new "MyTracker Preferences" portal includes a comprehensive matchmaking quiz to pair users with their ideal surveillance agency. Questions like "How often do you visit your mother?" and "Do you use encrypted messaging apps despite having nothing to hide?" help determine whether users are more compatible with the pattern-recognition expertise of the NSA or the boots-on-the-ground approach of the FBI.`,
+
+            `"People want more control over their privacy," explained MapMetrics CEO Richard Palmer during a virtual press conference from an undisclosed location. "Now they can rest easy knowing their sensitive location data is going directly to their preferred federal agency before being shared with all the others."`,
+
+            `The company is offering an "Early Adopter Special" where the first 10,000 users receive a commemorative "I Chose My Surveillance!" coffee mug, along with 500 bonus SnoopPoints redeemable for FBI branded merchandise in their rewards store. "The limited-edition 'Definitely Not A Wire' wireless earbuds are quite popular," noted Palmer.`,
+
+            `For $9.99 monthly, premium users can access "Surveillance Plus+" which includes four minutes of surveillance-free time per month ("perfect for bathroom breaks," according to the FAQ) and automated IRS audit warnings delivered 3-5 business days before the actual investigation begins.`,
+
+            `When pressed about privacy concerns, Palmer emphasized that all tracking preferences are completely voluntary. "If users don't make an active choice, we'll continue our standard practice of selling their data to literally everyone with a checkbook. We're just giving people options here."`,
+
+            `*The word "Choice" is pending CIA clearance and may be subject to retroactive classification.`,
+        ]
+    },
 ]

@@ -45,7 +45,7 @@ const EarlierArticles: React.FC<EarlierArticlesProps> = ({ currentArticleUrl, re
               src={article.img} 
               alt={article.header}
             />
-            <div className="article-info">
+            <div className="earlier-article-info">
               <CustomLink 
                 to={`/article/${article.articleUrl}`}
                 className="earlier-article-link"
