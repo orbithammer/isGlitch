@@ -5507,4 +5507,58 @@ export const articlesData = [
             `*The word "Choice" is pending CIA clearance and may be subject to retroactive classification.`,
         ]
     },
+    {
+        id: 203,
+        articleUrl: `20241204-choose-your-favorite`,
+        category: `tech`,
+        img: `/images/20241204-choose-your-favorite.webp`,
+        alt: `A worker at her desk while men in dark suits and sunglasses and an unmarked black van with a satellite dish is outside.`,
+        header: `"Choose Your Favorite Fed!" Privacy Program Lets Users Pick Their Tracker`,
+        subhead: `Data broker pitches consumer choice as users select which agency surveils them first`,
+        tags: [`Surveillance`,],
+        author: `Et Al`,
+        datePublished: new Date(2024,11,4,7),
+        articleBody: [
+            `Location data giant MapMetrics announced today what it calls a "revolutionary step forward in transparency" - letting customers choose which government agency gets first dibs on tracking their every move through their new "Privacy is about Choice™"* program.`,
+
+            `The new "MyTracker Preferences" portal includes a comprehensive matchmaking quiz to pair users with their ideal surveillance agency. Questions like "How often do you visit your mother?" and "Do you use encrypted messaging apps despite having nothing to hide?" help determine whether users are more compatible with the pattern-recognition expertise of the NSA or the boots-on-the-ground approach of the FBI.`,
+
+            `"People want more control over their privacy," explained MapMetrics CEO Richard Palmer during a virtual press conference from an undisclosed location. "Now they can rest easy knowing their sensitive location data is going directly to their preferred federal agency before being shared with all the others."`,
+
+            `The company is offering an "Early Adopter Special" where the first 10,000 users receive a commemorative "I Chose My Surveillance!" coffee mug, along with 500 bonus SnoopPoints redeemable for FBI branded merchandise in their rewards store. "The limited-edition 'Definitely Not A Wire' wireless earbuds are quite popular," noted Palmer.`,
+
+            `For $9.99 monthly, premium users can access "Surveillance Plus+" which includes four minutes of surveillance-free time per month ("perfect for bathroom breaks," according to the FAQ) and automated IRS audit warnings delivered 3-5 business days before the actual investigation begins.`,
+
+            `When pressed about privacy concerns, Palmer emphasized that all tracking preferences are completely voluntary. "If users don't make an active choice, we'll continue our standard practice of selling their data to literally everyone with a checkbook. We're just giving people options here."`,
+
+            `*The word "Choice" is pending CIA clearance and may be subject to retroactive classification.`,
+        ]
+    },
+    {
+        id: 204,
+        articleUrl: `20241204-nzxt-unveils-legacy`,
+        category: `tech`,
+        img: `/images/20241204-nzxt-unveils-legacy.webp`,
+        alt: `A laughing baby holding a glowing gaming mouse in a crib with a keyboard beside.`,
+        header: `NZXT Unveils 'Legacy Flex' Program for Multi-Generational PC Rentals`,
+        subhead: `Company Claims New Payment Plan Will Create 'Digital Inheritance'`,
+        tags: [`NZXT`,],
+        author: `Et Al`,
+        datePublished: new Date(2024,11,4,17),
+        articleBody: [
+            `NZXT announced today a groundbreaking expansion of its Flex subscription service that allows gaming PC rental payments to be passed down through multiple generations of family members. The "Legacy Flex" program, launching next month, enables subscribers to extend their rental agreements up to 75 years, with payment obligations automatically transferring to their descendants.`,
+
+            `"We're democratizing PC gaming by making it accessible to anyone willing to sacrifice their bloodline's financial future," said Michael Torres, NZXT's VP of Innovative Financial Solutions. "Why should your death stop you from contributing to your family's gaming heritage?"`,
+
+            `Wall Street analyst Derek Powell praised the initiative as "the first time anyone has successfully gamified indentured servitude," upgrading NZXT's stock to "generationally bullish."`,
+
+            `Under the new program, subscribers can secure a high-end gaming PC for monthly payments of just $89.99, which their children and grandchildren will continue paying until 2099. The company has partnered with Ancestry.com to maintain a database of potential backup heirs, ensuring uninterrupted payment flow even if primary descendants fail to reproduce. Subscribers' progeny receive special in-game "Legacy Tags" displaying how many generations their family has been paying for the same PC.`,
+
+            `NZXT's partnership with leading fertility clinics offers a 15% discount to families who can demonstrate above-average reproductive potential. The company also unveiled its "Legacy Insurance" program, which protects families against payment disruption due to apocalyptic events. "Even in a post-nuclear scenario, your great-grandchildren's payment obligations remain secure," Torres explained.`,
+
+            `When asked about affordability concerns, Torres highlighted their new "Family Growth Incentive" program, offering rate reductions of up to 20% for families with historically high birth rates. "Each new child is another opportunity to ensure your family's gaming legacy lives on," he added.`,
+
+            `At press time, the company was reportedly developing a "Legacy Flex Plus" tier that would include the option to pre-register unborn children for future payment obligations.`,
+        ]
+    },
 ]
