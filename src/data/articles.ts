@@ -5534,4 +5534,62 @@ export const articlesData = [
             `At press time, the company was reportedly developing a "Legacy Flex Plus" tier that would include the option to pre-register unborn children for future payment obligations.`,
         ]
     },
+    {
+        id: 204,
+        articleUrl: `20241205-apple-latest-privacy`,
+        category: `tech`,
+        img: `/images/20241205-apple-latest-privacy.webp`,
+        alt: `A man in a black hoodie and mask hiding behind an huge Apple logo sign.`,
+        header: `Apple's Latest Privacy Update Requires Stalkers to Hit 'I Agree'`,
+        subhead: `New iOS Features Focus on 'Consensual Tracking Experience,' Company Says`,
+        tags: [`Apple`, `AirTag`, `Surveillance`,],
+        author: `Et Al`,
+        datePublished: new Date(2024,11,5,7),
+        articleBody: [
+            `Cupertino-based Apple unveiled its latest iOS privacy features today, introducing a groundbreaking requirement that stalkers must formally accept a 46-page terms and conditions document before tracking anyone with an AirTag.`,
+
+            `"We believe privacy is a fundamental human right," announced Craig Federighi, Apple's Senior VP of Software Engineering. "That's why we're making sure every tracking attempt begins with informed consent from the tracker themselves - available in 37 languages to ensure stalkers from all cultures can track responsibly."`,
+
+            `The update introduces a sleek modal popup that appears whenever someone attempts to slip an AirTag into someone else's belongings. Users must scroll through sections on "Acceptable Following Distances" and a strict prohibition on using "unauthorized third-party surveillance tools." The agreement notably includes a blackout period during Apple's annual shareholders meeting, which the company calls "a sacred time of unmonitored movement."`,
+
+            `For $19.99 monthly, users can upgrade to "Privacy Violation Pro Max," which removes irritating "Are you being creepy?" notifications and unlocks "Family Stalking" for up to six relatives to track the same person. The premium tier also includes Apple Fitness+ integration, gamifying surveillance with "Daily Stalking Rings" and "Creep Goals."`,
+
+            `"Our tracking metrics show that maintaining a minimum 4.2-star rating from previous victims leads to more meaningful surveillance experiences," explained Lisa Martinez, Apple's Director of User Privacy. She highlighted the new mandatory 15-minute mindfulness breaks between tracking sessions, designed to promote "sustainable stalking practices."`,
+
+            `Beta testers have praised the feature's attention to detail, particularly the new "Find Someone" widget that requires two-factor authentication before showing real-time victim locations. However, some users complained that the constant popups asking them to "reflect on their choices" were getting annoying.`,
+
+            `When reached for comment, Apple CEO Tim Cook emphasized the company's commitment to ethical surveillance. "We're not here to judge why someone might want to secretly track another human being," he said, "we just want to make sure they do it in accordance with our terms of service - and preferably with a valid Apple One subscription."`,
+
+            `The update rolls out next week, though users can get early access by pinky-promising not to do anything weird with it.`,
+        ]
+    },
+    {
+        id: 205,
+        articleUrl: `20241205-silicon-valley-data`,
+        category: `ai`,
+        img: `/images/20241205-silicon-valley-data.webp`,
+        alt: `Office workers in tropical shirts and shorts sitting at desks surrounded by portable fans and ice buckets.`,
+        header: `Silicon Valley Data Center Claims Carbon Neutrality Via Heat Rebrand`,
+        subhead: `Company reclassifies server heat as "eco-positive atmospheric enhancement"`,
+        tags: [`Climate`,],
+        author: `Alexa Turing`,
+        datePublished: new Date(2024,11,5,17),
+        articleBody: [
+            `Menlo Park data center operator GreenScale Technologies announced today that its massive AI training facility has achieved complete carbon neutrality through an innovative accounting approach that reclassifies waste heat as a "thermal enhanced air distribution initiative."`,
+
+            `The announcement came during an unusual board presentation held inside the facility's newly installed walk-in freezer, where McKinsey consultants could safely wear their suits while explaining the rebranding strategy. "We're not generating excess heat anymore - we're providing free thermal enrichment to the local ecosystem," explained GreenScale CEO Michael Duffield, speaking via video link from an air-conditioned bunker.`,
+
+            `The company's 50-acre facility, which houses over 100,000 NVIDIA GPUs training various AI models, has transformed the local microclimate so dramatically that San Francisco tourism boards now list it as "Northern California's Premier Winter Destination," boasting year-round 95-degree temperatures and "tropical ambiance at a fraction of Hawaiian prices."`,
+
+            `Local real estate agents have quickly adapted, with Zillow listings now featuring "thermal-enhanced properties" and "complimentary ambient heating" as premium amenities within the three-mile radius. One listing advertised a "$900/month reduction in heating costs, plus free in-home sauna experience."`,
+
+            `The facility's frequent server crashes have also received an eco-friendly rebrand. "Our digital hibernation cycles are a crucial part of our environmental strategy," noted Operations Director Tom Walsh while mopping his brow. "Every time our systems overload and shut down, we're actually conducting planned energy conservation measures."`,
+
+            `The heat output has spawned unexpected local businesses, including "DataBake Pizza Delivery," which advertises "zero-carbon cooking using 100% sustainable server heat." Delivery drivers now complete orders by simply holding pizzas outside their car windows for three minutes.`,
+
+            `Local weather apps have been forced to adapt, with AccuWeather now displaying both "Actual Temperature" and "Data Center Adjusted Temperature" for the Menlo Park area. The latter reading recently caused confusion when it exceeded the app's maximum displayable value.`,
+
+            `GreenScale is now exploring additional environmental rebrand opportunities, including classifying their massive water usage as "hydrogen-oxygen molecular redistribution" and their electrical consumption as "electron-based job creation."`,
+        ]
+    },
 ]
