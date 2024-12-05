@@ -5536,35 +5536,6 @@ export const articlesData = [
     },
     {
         id: 204,
-        articleUrl: `20241205-apple-latest-privacy`,
-        category: `tech`,
-        img: `/images/20241205-apple-latest-privacy.webp`,
-        alt: `A man in a black hoodie and mask hiding in front of an Apple logo sign.`,
-        header: `Apple's Latest Privacy Update Requires Stalkers to Hit 'I Agree'`,
-        subhead: `New iOS Features Focus on 'Consensual Tracking Experience,' Company Says`,
-        tags: [`Apple`, `AirTag`, `Surveillance`,],
-        author: `Et Al`,
-        datePublished: new Date(2024,11,5,7),
-        articleBody: [
-            `Cupertino-based Apple unveiled its latest iOS privacy features today, introducing a groundbreaking requirement that stalkers must formally accept a 46-page terms and conditions document before tracking anyone with an AirTag.`,
-
-            `"We believe privacy is a fundamental human right," announced Craig Federighi, Apple's Senior VP of Software Engineering. "That's why we're making sure every tracking attempt begins with informed consent from the tracker themselves - available in 37 languages to ensure stalkers from all cultures can track responsibly."`,
-
-            `The update introduces a sleek modal popup that appears whenever someone attempts to slip an AirTag into someone else's belongings. Users must scroll through sections on "Acceptable Following Distances" and a strict prohibition on using "unauthorized third-party surveillance tools." The agreement notably includes a blackout period during Apple's annual shareholders meeting, which the company calls "a sacred time of unmonitored movement."`,
-
-            `For $19.99 monthly, users can upgrade to "Privacy Violation Pro Max," which removes irritating "Are you being creepy?" notifications and unlocks "Family Stalking" for up to six relatives to track the same person. The premium tier also includes Apple Fitness+ integration, gamifying surveillance with "Daily Stalking Rings" and "Creep Goals."`,
-
-            `"Our tracking metrics show that maintaining a minimum 4.2-star rating from previous victims leads to more meaningful surveillance experiences," explained Lisa Martinez, Apple's Director of User Privacy. She highlighted the new mandatory 15-minute mindfulness breaks between tracking sessions, designed to promote "sustainable stalking practices."`,
-
-            `Beta testers have praised the feature's attention to detail, particularly the new "Find Someone" widget that requires two-factor authentication before showing real-time victim locations. However, some users complained that the constant popups asking them to "reflect on their choices" were getting annoying.`,
-
-            `When reached for comment, Apple CEO Tim Cook emphasized the company's commitment to ethical surveillance. "We're not here to judge why someone might want to secretly track another human being," he said, "we just want to make sure they do it in accordance with our terms of service - and preferably with a valid Apple One subscription."`,
-
-            `The update rolls out next week, though users can get early access by pinky-promising not to do anything weird with it.`,
-        ]
-    },
-    {
-        id: 205,
         articleUrl: `20241205-silicon-valley-data`,
         category: `ai`,
         img: `/images/20241205-silicon-valley-data.webp`,
@@ -5573,7 +5544,7 @@ export const articlesData = [
         subhead: `Company reclassifies server heat as "eco-positive atmospheric enhancement"`,
         tags: [`Climate`,],
         author: `Alexa Turing`,
-        datePublished: new Date(2024,11,5,17),
+        datePublished: new Date(2024,11,5,7),
         articleBody: [
             `Menlo Park data center operator GreenScale Technologies announced today that its massive AI training facility has achieved complete carbon neutrality through an innovative accounting approach that reclassifies waste heat as a "thermal enhanced air distribution initiative."`,
 
@@ -5592,4 +5563,34 @@ export const articlesData = [
             `GreenScale is now exploring additional environmental rebrand opportunities, including classifying their massive water usage as "hydrogen-oxygen molecular redistribution" and their electrical consumption as "electron-based job creation."`,
         ]
     },
+    {
+        id: 205,
+        articleUrl: `20241205-apple-latest-privacy`,
+        category: `tech`,
+        img: `/images/20241205-apple-latest-privacy.webp`,
+        alt: `A man in a black hoodie and mask hiding in front of an Apple logo sign.`,
+        header: `Apple's Latest Privacy Update Requires Stalkers to Hit 'I Agree'`,
+        subhead: `New iOS Features Focus on 'Consensual Tracking Experience,' Company Says`,
+        tags: [`Apple`, `AirTag`, `Surveillance`,],
+        author: `Et Al`,
+        datePublished: new Date(2024,11,5,17),
+        articleBody: [
+            `Cupertino-based Apple unveiled its latest iOS privacy features today, introducing a groundbreaking requirement that stalkers must formally accept a 46-page terms and conditions document before tracking anyone with an AirTag.`,
+
+            `"We believe privacy is a fundamental human right," announced Craig Federighi, Apple's Senior VP of Software Engineering. "That's why we're making sure every tracking attempt begins with informed consent from the tracker themselves - available in 37 languages to ensure stalkers from all cultures can track responsibly."`,
+
+            `The update introduces a sleek modal popup that appears whenever someone attempts to slip an AirTag into someone else's belongings. Users must scroll through sections on "Acceptable Following Distances" and a strict prohibition on using "unauthorized third-party surveillance tools." The agreement notably includes a blackout period during Apple's annual shareholders meeting, which the company calls "a sacred time of unmonitored movement."`,
+
+            `For $19.99 monthly, users can upgrade to "Privacy Violation Pro Max," which removes irritating "Are you being creepy?" notifications and unlocks "Family Stalking" for up to six relatives to track the same person. The premium tier also includes Apple Fitness+ integration, gamifying surveillance with "Daily Stalking Rings" and "Creep Goals."`,
+
+            `"Our tracking metrics show that maintaining a minimum 4.2-star rating from previous victims leads to more meaningful surveillance experiences," explained Lisa Martinez, Apple's Director of User Privacy. She highlighted the new mandatory 15-minute mindfulness breaks between tracking sessions, designed to promote "sustainable stalking practices."`,
+
+            `Beta testers have praised the feature's attention to detail, particularly the new "Find Someone" widget that requires two-factor authentication before showing real-time victim locations. However, some users complained that the constant popups asking them to "reflect on their choices" were getting annoying.`,
+
+            `When reached for comment, Apple CEO Tim Cook emphasized the company's commitment to ethical surveillance. "We're not here to judge why someone might want to secretly track another human being," he said, "we just want to make sure they do it in accordance with our terms of service - and preferably with a valid Apple One subscription."`,
+
+            `The update rolls out next week, though users can get early access by pinky-promising not to do anything weird with it.`,
+        ]
+    },
+    
 ]
