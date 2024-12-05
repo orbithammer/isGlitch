@@ -5539,7 +5539,7 @@ export const articlesData = [
         articleUrl: `20241205-apple-latest-privacy`,
         category: `tech`,
         img: `/images/20241205-apple-latest-privacy.webp`,
-        alt: `A man in a black hoodie and mask hiding behind an huge Apple logo sign.`,
+        alt: `A man in a black hoodie and mask hiding in front of an Apple logo sign.`,
         header: `Apple's Latest Privacy Update Requires Stalkers to Hit 'I Agree'`,
         subhead: `New iOS Features Focus on 'Consensual Tracking Experience,' Company Says`,
         tags: [`Apple`, `AirTag`, `Surveillance`,],
