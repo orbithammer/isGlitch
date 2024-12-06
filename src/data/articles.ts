@@ -5592,5 +5592,76 @@ export const articlesData = [
             `The update rolls out next week, though users can get early access by pinky-promising not to do anything weird with it.`,
         ]
     },
-    
+    {
+        id: 206,
+        articleUrl: `20241206-nasa-scientist-crashes`,
+        category: `tech`,
+        img: `/images/20241206-nasa-scientist-crashes.webp`,
+        alt: `Split screen, with a shiba inu rolling in dollar bills on the left, and a dusty piggy bank on the right.`,
+        header: `NASA Scientist Crashes Pump.fun Livestream, Ruins Everything`,
+        subhead: `Mathematician's Unwanted Reality Check Sends Viewers into Digital Rage Spiral`,
+        tags: [`Pump.fun`,],
+        author: `Et Al`,
+        datePublished: new Date(2024,11,6,7),
+        articleBody: [
+            `During what should have been a routine "guaranteed 100x moonshot" presentation on Pump.fun's livestream platform last Thursday, Harvard-educated NASA mathematician Dr. Elena Rodriguez interrupted cryptocurrency influencer CryptoKing_420's technical analysis with what she called "basic mathematical probability."`,
+
+            `The incident occurred approximately 15 minutes into CryptoKing_420's presentation about his new token, $INFINITYGAINS, when Rodriguez apparently gained access to the stream's guest privileges and immediately pulled up his LinkedIn profile.`,
+
+            `"I see you were Assistant Manager at Chuck E. Cheese until last month," she noted, before sharing her screen to display a series of devastating graphs and probability calculations. The stream chat erupted when she revealed a meticulously crafted pie chart showing that 99% of the token's promised use cases were "just different words for gambling," with the remaining 1% labeled "emoji usage."`,
+
+            `Viewers reported a mass exodus after Rodriguez calmly demonstrated the long-term returns of a "boring" index fund compared to the platform's average token performance. Several high-profile crypto influencers attempted to counter her presentation with rapid-fire rocket emojis, but their efforts were mathematically disproven in real-time.`,
+
+            `"She just kept showing more charts," reported one viewer, who lost their life savings. "Every time someone typed 'but the tokenomics' in the chat, she shared another peer-reviewed paper. When we tried flooding the chat with diamond hands emojis, she responded with a 30-year compound interest calculation that made everyone panic-sell."`,
+
+            `The stream ended abruptly when Rodriguez began explaining how the platform's revenue projections were "mathematically equivalent to expecting every human on Earth to invest their entire life savings by Friday."`,
+
+            `Pump.fun has since added "No Ph.D.s" to their terms of service and implemented strict verification to ensure all future guests have "zero background in mathematics, economics, or reality-based sciences."`,
+
+            `CryptoKing_420 has announced he will resume streaming once he finishes "developing a new proprietary analytical framework that doesn't rely on traditional mathematical concepts like numbers." He is currently accepting applications for his upcoming master class in trading psychology, exclusively payable in $INFINITYGAINS tokens.`,
+        ]
+    },
+    {
+        id: 207,
+        articleUrl: `20241206-tesla-mandates-think`,
+        category: `tech`,
+        img: `/images/20241206-tesla-mandates-think.webp`,
+        alt: `A Tesla engineer crouching, staring at a traffic cone.`,
+        header: `Tesla Mandates "Think Like an Eyeball" Training for Autopilot Team`,
+        subhead: `Engineers Required to Stare at Objects Until They "Feel the Neural Networks"`,
+        tags: [`Tesla`, `Elon Musk`, `Smart Cars`],
+        author: `Et Al`,
+        datePublished: new Date(2024,11,6,17),
+        articleBody: [
+            `Tesla's Autopilot engineers now start each workday by sitting in a dimly lit conference room, staring intently at various objects while attempting to "process visual data like a biological neural network." The mandatory 6 AM sessions, introduced after recent autonomous driving setbacks, are part of CEO Elon Musk's new initiative to make engineers "truly understand human vision."`,
+
+            `The program begins during the morning commute, where engineers must wear blindfolds on company shuttles to "build empathy with the sensors." Upon arrival, they conduct their morning standup meetings with their eyes closed to "better understand computer vision from the inside."`,
+
+            `"Yesterday we spent two hours looking at a stop sign," said senior engineer Dave Patterson, blinking repeatedly. "When Marcus called it an 'eight-sided attention structure,' he got promoted to team lead. Meanwhile, I got written up for wearing my glasses. Apparently, it's 'sensor cheating.'"`,
+
+            `The daily workshops include a new "embodied driving experience" where engineers must parallel park while narrating their "ocular process" in real-time. "Keep describing your cone cell activation patterns!" the instructor reportedly shouts through a megaphone. Last week, junior developer Rachel Martinez received a surprise promotion after claiming she could "taste different wavelengths of light" during a particularly challenging three-point turn.`,
+
+            `"Last week, we had to write poetry about how our retinas process light," reported another engineer who asked to remain anonymous. "Mine was about photoreceptors. I got a written warning for 'being too technical' and 'not embracing the pure visual experience.'"`,
+
+            `The company's HR department defended the program, noting that attendance has been "technically perfect" since they installed facial recognition cameras that everyone must maintain unblinking eye contact with for the duration of each session.`,
+
+            `At press time, three engineers were reportedly in disciplinary meetings after suggesting that human eyes actually work in tandem with a complex neural processing system, rather than operating as independent vision units that "just figure it out somehow."`,
+        ]
+    },
 ]
+
+/*{
+    id: 000,
+    articleUrl: `20241200-xxx-xxx-xxx`,
+    category: `tech`,
+    img: `/images/20241200-xxx-xxx-xxx.webp`,
+    alt: `xxx`,
+    header: `xxx`,
+    subhead: `xxx`,
+    tags: [`xxx`,],
+    author: `Et Al`,
+    datePublished: new Date(2024,11,1,1),
+    articleBody: [
+        xxx
+    ]
+},*/
