@@ -5600,7 +5600,7 @@ export const articlesData = [
         alt: `Split screen, with a shiba inu rolling in dollar bills on the left, and a dusty piggy bank on the right.`,
         header: `NASA Scientist Crashes Pump.fun Livestream, Ruins Everything`,
         subhead: `Mathematician's Unwanted Reality Check Sends Viewers into Digital Rage Spiral`,
-        tags: [`Pump.fun`,],
+        tags: [`Pump.fun`, `Cryptocurrency`,],
         author: `Et Al`,
         datePublished: new Date(2024,11,6,7),
         articleBody: [
