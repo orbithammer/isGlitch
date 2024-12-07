@@ -5680,7 +5680,7 @@ export const articlesData = [
         articleUrl: `20241207-nso-group-ethics`,
         category: `tech`,
         img: `/images/20241207-nso-group-ethics.webp`,
-        alt: `A businessman in a balaclava conducting training in front of a whiteboard.`,
+        alt: `A businessman in a balaclava conducting training in front of an audience.`,
         header: `NSO Group's Ethics Training Derailed by Its Own Spyware`,
         subhead: `Company's surveillance tool interrupts presentation with employees' private messages`,
         tags: [`NSO`, `Pegasus`],
