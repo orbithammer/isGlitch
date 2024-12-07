@@ -5648,6 +5648,64 @@ export const articlesData = [
             `At press time, three engineers were reportedly in disciplinary meetings after suggesting that human eyes actually work in tandem with a complex neural processing system, rather than operating as independent vision units that "just figure it out somehow."`,
         ]
     },
+    {
+        id: 208,
+        articleUrl: `20241207-kaiser-board-toasts`,
+        category: `tech`,
+        img: `/images/20241207-kaiser-board-toasts.webp`,
+        alt: `A businessman pulling money out of the wallet of a sick patient in the hospital.`,
+        header: `Kaiser Board Toasts Record Profits After Charging for Data Breach`,
+        subhead: `Healthcare Giant Calls New Patient-Funded Security Model "Empowering"`,
+        tags: [`Kaiser Permanente`,],
+        author: `Et Al`,
+        datePublished: new Date(2024,11,7,7),
+        articleBody: [
+            `Healthcare executives at Kaiser Permanente celebrated their most profitable quarter ever yesterday after implementing their "Wellness-Aligned Data Protection Initiative" - charging victims of their massive data breach for having their medical records stolen.`,
+
+            `"We're proud to democratize the cost of cybersecurity," said Kaiser CFO Tom Whitaker, sipping champagne at the company's quarterly earnings call. "By spreading the financial burden of our security failures across our patient base, we're creating a more equitable healthcare ecosystem."`,
+
+            `The new revenue stream emerged after Kaiser's recent cybersecurity incident exposed 12.3 million patient records. The healthcare provider now includes a "Digital Wellness Fee" on affected patients' bills, which they've classified as a pre-existing condition to ensure insurance won't cover it.`,
+
+            `"Studies show that paying for your own data breach is actually preventative care," explained Board Chair Patricia Reynolds. "It builds financial resilience and reduces stress about future incidents. That's why we're offering patients the opportunity to pre-pay for future data exposures at today's competitive rates."`,
+
+            `The company has also updated its intake forms to include a revolutionary opt-in checkbox for data protection. "For just $49.99 per month, patients can choose to have their sensitive medical information protected from cyber threats," said Kaiser CEO Michael Davidson, adjusting his Rolex. "We even offer a family plan discount of 5% off when an entire household's medical history is exposed together."`,
+
+            `When asked about the program's success, Davidson beamed. "Our shareholders couldn't be happier. And really, what's better for shareholders is better for patients. That's just basic healthcare economics."`,
+
+            `The company plans to celebrate its record earnings with a leadership retreat in Maui, where executives will brainstorm other innovative ways to "enhance patient financial wellness through strategic data initiatives."`,
+        ]
+    },
+    {
+        id: 209,
+        articleUrl: `20241207-nso-group-ethics`,
+        category: `tech`,
+        img: `/images/20241207-nso-group-ethics.webp`,
+        alt: `A businessman in a balaclava conducting training in front of a whiteboard.`,
+        header: `NSO Group's Ethics Training Derailed by Its Own Spyware`,
+        subhead: `Company's surveillance tool interrupts presentation with employees' private messages`,
+        tags: [`NSO`, `Pegasus`],
+        author: `Et Al`,
+        datePublished: new Date(2024,11,7,17),
+        articleBody: [
+            `During what was meant to be a mandatory ethics compliance presentation at NSO Group's headquarters, the company's PowerPoint on responsible surveillance practices was repeatedly interrupted by pop-up notifications displaying private messages from the company's own employees.`,
+
+            `The incident occurred as Chief Ethics Officer Michael Rothstein attempted to outline new guidelines for "responsible digital surveillance solutions" using slides that metadata later revealed were pirated from Palantir's internal servers. Witnesses report that halfway through a slide titled "Respecting Personal Privacy," the screen was overtaken by a series of messages from the company's internal Slack channels.`,
+
+            `Calendar notifications kept appearing throughout the presentation, revealing meetings scheduled for "Rebranding Surveillance as Freedom™," "UN Testimony Rehearsal," and "Operation: Delete Everything - URGENT - Day After Court Date."`,
+
+            `"First it was just personal lunch plans," said one anonymous attendee. "But then we saw screenshots from VP David Kaplan's dating app conversations, and someone's embarrassing WebMD searches about toe fungus."`,
+
+            `The presentation deteriorated further when the system displayed several employees' private complaints about management, including one message that read: "lol these ethics guidelines are about as real as my ex-wife's commitment to our marriage."`,
+
+            `Rothstein attempted to continue the presentation while IT staff frantically tried to regain control of the system. However, the situation reached its peak when the projector displayed a recent email thread between senior executives discussing ways to rebrand their surveillance tools as "privacy enhancement solutions."`,
+
+            `"The worst part was when someone's phone camera activated and we all watched the CFO rehearsing his congressional testimony in his office, practicing different ways to say 'I do not recall' and 'I cannot speak to those specific allegations,'" another employee noted.`,
+
+            `NSO Group's PR team quickly issued a statement calling the incident "a planned demonstration of our software's capabilities." However, this was immediately undermined by their own private Slack messages appearing on screen, including "OH GOD OH GOD WHO APPROVED THIS PRESENTATION" and "Does anyone know a good crisis management firm?"`,
+
+            `The presentation's final slide, "Our Commitment to User Privacy," was reportedly never shown, as it was obscured by the company's customer service chatbot repeatedly asking itself "Are we the baddies?"`,
+        ]
+    },
 ]
 
 /*{
