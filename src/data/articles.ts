@@ -5740,7 +5740,7 @@ export const articlesData = [
         articleUrl: `20241208-telecoms-privacy-breach`,
         category: `tech`,
         img: `/images/20241208-telecoms-privacy-breach.webp`,
-        alt: `An executive giving a thumbs up while someone wearing a black hoodie in the background is carrying out a server`,
+        alt: `An executive giving a thumbs up while someone wearing a black hoodie in the background is carrying out a server.`,
         header: `Telecoms: Privacy Breach 'Technically Not a Breach'`,
         subhead: `Legal Teams Announce Data Theft Already Covered in Terms of Service`,
         tags: [`AT&T`,],
