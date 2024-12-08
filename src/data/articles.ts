@@ -5706,6 +5706,62 @@ export const articlesData = [
             `The presentation's final slide, "Our Commitment to User Privacy," was reportedly never shown, as it was obscured by the company's customer service chatbot repeatedly asking itself "Are we the baddies?"`,
         ]
     },
+    {
+        id: 210,
+        articleUrl: `20241208-musk-recruits-army`,
+        category: `tech`,
+        img: `/images/20241208-musk-recruits-army.webp`,
+        alt: `A portrait of Musk in a Renaissance pose holding an encyclopedia with interns in prayer around him.`,
+        header: `Musk Recruits Army of Interns to Rewrite Encyclopedia Britannica`,
+        subhead: `Digital Billionaire Takes Analog Approach After Wikipedia Spat`,
+        tags: [`Wikipedia`, `Elon Musk`],
+        author: `Et Al`,
+        datePublished: new Date(2024,11,8,7),
+        articleBody: [
+            `Following his failed attempt to rename Wikipedia last month, tech mogul Elon Musk has unveiled his latest venture: a complete rewrite of Encyclopedia Britannica using 1,000 unpaid interns working out of a converted Tesla warehouse in Fremont.`,
+
+            `The project, dubbed "Actually Britannica," compensates interns with "future Tesla stocks" redeemable only after the successful colonization of Mars - which must be referenced as "future site of humanity's greatest achievement" throughout all volumes.`,
+
+            `"Mr. Musk was very clear about the guidelines," said Michael Henderson, a former SpaceX coffee runner recently promoted to Chief Knowledge Officer. "Every engineering achievement must begin with 'Before Tesla.' For example, 'Before Tesla, the Wright brothers achieved powered flight, which was basically just a primitive Cybertruck with wings.'"`,
+
+            `Sources inside the warehouse report that interns work in shifts, hunched over recycled Twitter office furniture. Fact-checking can only be performed against Musk's tweets between 2am and 5am, "when he's most lucid," according to the project handbook. One intern noted that a recent entry took three weeks to verify because Musk was "too busy posting memes during the designated hours."`,
+
+            `"Yesterday I had to redo an entire section because I missed the hourly loyalty oath to the Oxford comma," said one intern who requested anonymity. "We have to stand facing the giant portrait of Mr. Musk reading an encyclopedia and chant 'I pledge to never use ambiguous punctuation that could confuse future Mars colonists.'"`,
+
+            `The project hit a minor setback when Musk discovered that Encyclopedia Britannica is already digitized and available online. He reportedly responded by ordering all computers removed from the facility, declaring that "true knowledge can only be trusted in analog form."`,
+
+            `The completed encyclopedias will reportedly be distributed exclusively to X Premium+ subscribers who can prove they've never edited a Wikipedia article.`,
+
+            `At press time, interns had successfully completed editing the letter 'A', though sources say progress stalled for three days at "Apollo Program" while waiting for Musk's approved version of events - which must be fact-checked during tomorrow morning's 3am tweet session.`,
+        ]
+    },
+    {
+        id: 211,
+        articleUrl: `20241208-telecoms-privacy-breach`,
+        category: `tech`,
+        img: `/images/20241208-telecoms-privacy-breach.webp`,
+        alt: `An executive giving a thumbs up while someone wearing a black hoodie in the background is carrying out a server`,
+        header: `Telecoms: Privacy Breach 'Technically Not a Breach'`,
+        subhead: `Legal Teams Announce Data Theft Already Covered in Terms of Service`,
+        tags: [`AT&T`,],
+        author: `Et Al`,
+        datePublished: new Date(2024,11,8,17),
+        articleBody: [
+            `Major telecommunications companies defended themselves against criticism of the Salt Typhoon breach Thursday, asserting their privacy policies never actually promised to keep customer data private in the first place, while unveiling their new "Privacy Plus Max" subscription tier.`,
+
+            `"If you carefully read section 247(b) subsection ix of our terms of service, you'll notice we only committed to 'maintaining data in a manner consistent with industry standards,'" said AT&T spokesperson Michael Reynolds, reading from a prepared statement. "Quote expressing deep concern for customer privacy [pause for sincerity] end quote."`,
+
+            `The companies jointly released a statement emphasizing that customers had already consented to potential data exposure by checking the "I agree" box when signing up for service. Their legal team noted the terms of service include "any future forms of data compromise not yet invented, across all parallel universes, and retroactively through all of time."`,
+
+            `"It's more of a 'privacy suggestion,'" explained Verizon Chief Legal Officer Jennifer Martinez. "Similar to our commitment level for 2-hour service appointment windows."`,
+
+            `The telecoms announced they would offer affected customers a complimentary year of credit monitoring through CyberShield Pro—a firm that coincidentally was compromised in the same breach. AT&T's headquarters prominently displayed their "Most Transparent Data Practices 2024" award in response to the incident, though critics noted the award was less an achievement and more a literal description of their network security.`,
+
+            `"This isn't a data breach," insisted T-Mobile's VP of Customer Trust Derek Williams. "We're calling it an 'unexpected international data sharing initiative.' And we're proud to announce it's running well ahead of schedule."`,
+
+            `When pressed about whether this interpretation violated basic security principles, Williams responded: "We take our customers' privacy extremely seriously, which is why we've already drafted an apology for the next breach, scheduled for 2025."`,
+        ]
+    },
 ]
 
 /*{
