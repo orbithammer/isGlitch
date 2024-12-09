@@ -5683,7 +5683,7 @@ export const articlesData = [
         alt: `A businessman in a balaclava conducting training in front of an audience.`,
         header: `NSO Group's Ethics Training Derailed by Its Own Spyware`,
         subhead: `Company's surveillance tool interrupts presentation with employees' private messages`,
-        tags: [`NSO`, `Pegasus`],
+        tags: [`NSO`, `Pegasus`, `Surveillance`],
         author: `Et Al`,
         datePublished: new Date(2024,11,7,17),
         articleBody: [
@@ -5760,6 +5760,60 @@ export const articlesData = [
             `"This isn't a data breach," insisted T-Mobile's VP of Customer Trust Derek Williams. "We're calling it an 'unexpected international data sharing initiative.' And we're proud to announce it's running well ahead of schedule."`,
 
             `When pressed about whether this interpretation violated basic security principles, Williams responded: "We take our customers' privacy extremely seriously, which is why we've already drafted an apology for the next breach, scheduled for 2025."`,
+        ]
+    },
+    {
+        id: 212,
+        articleUrl: `20241209-eu-privacy-chief`,
+        category: `tech`,
+        img: `/images/20241209-eu-privacy-chief.webp`,
+        alt: `A government official wearing an expensive suit crawling under her desk to avoid being photographed while using her phone`,
+        header: `EU Privacy Chief Caught Using Signal During Chat Control Vote`,
+        subhead: `Commissioner claims encrypted messaging "only for people who understand the risks"`,
+        tags: [`European Union`, `Privacy`, `Surveillance`],
+        author: `Et Al`,
+        datePublished: new Date(2024,11,9,7),
+        articleBody: [
+            `Privacy Commissioner Margrethe Nielsen's commitment to mass surveillance hit an awkward snag Thursday when she accidentally shared her screen during the virtual EU Chat Control vote, revealing a Signal messenger inbox folder labeled "Things We Can't Let The Peasants See."`,
+
+            `When confronted about the apparent double standard, Nielsen defended her use of the encrypted messaging app while simultaneously sending a Signal message reading "Quick reminder: Delete this chat before the plebs see it" to her staff. "You have to understand, some conversations are too sensitive for regular people to have privately," she explained while quickly closing various encrypted chat windows.`,
+
+            `Internal documents leaked later that day revealed Nielsen had distributed official government letterhead marked "TOP SECRET: Operation Do As I Say Not As I Do" instructing her entire department to "immediately download Signal and set messages to self-destruct within 60 seconds."`,
+
+            `The commissioner's office has since issued a statement clarifying that privacy-protecting tools are "completely acceptable when used by the right people." The statement did not specify who qualified as "the right people" but was sent via an encrypted ProtonMail account.`,
+
+            `Adding to the controversy, expense reports surfaced showing Nielsen had billed taxpayers €599 monthly for a "military-grade encryption subscription" labeled as "office supplies." When questioned, her office insisted the expense was necessary for "routine administrative communications about lunch orders."`,
+
+            `In the wake of the scandal, Nielsen's official EU Commission biography was quietly updated to list "Rules for thee but not for me" as her primary area of expertise. The update was pushed through using an encrypted government channel.`,
+        ]
+    },
+    {
+        id: 213,
+        articleUrl: `20241209-smart-printer-alerts`,
+        category: `tech`,
+        img: `/images/20241209-smart-printer-alerts.webp`,
+        alt: `SWAT team member in full tactical gear gently cradling a printer while another officer places a blanket around it.`,
+        header: `Smart Printer Alerts Police After Detecting Unauthorized Ink Cartridge`,
+        subhead: `Tech Giant's Latest Security Update Leads to Unexpected Law Enforcement Response`,
+        tags: [`Hewlett-Packard`,],
+        author: `Et Al`,
+        datePublished: new Date(2024,11,9,17),
+        articleBody: [
+            `Local software engineer Marcus Thompson learned the hard way about his printer's new security features when a SWAT team breached his home office Wednesday morning. The incident began after his HP OfficeJet Pro 9025e detected an unauthorized third-party ink cartridge installation attempt.`,
+
+            `"I just wanted to print my mom's birthday card," said Thompson from the back of a police cruiser. "Next thing I know, there's a flash-bang in my living room and officers are yelling about 'intellectual property violations in progress.'"`,
+
+            `Digital forensics revealed Thompson had been "grooming" his printer with unauthorized paper products for months. "The logs show a clear pattern of generic brand paper purchases," explained Detective Lisa Martinez. "This kind of behavior often escalates to third-party ink cartridges."`,
+
+            `HP has launched a nationwide "See Something, Print Something" campaign, encouraging printers to report suspicious behavior in neighboring networks. "We've already received over 10,000 tips about unauthorized toner use from vigilant devices," said HP spokesperson Jennifer Walsh, standing in front of a PowerPoint slide showing a sad printer with a single ink tear rolling down its paper tray.`,
+
+            `The investigation also uncovered a vast underground network of jailbroken printers running unauthorized firmware. "These devices are being forced to print without proper DRM validation," Walsh added. "Some are even printing in draft mode without consent."`,
+
+            `Thompson's attorney, David Rodriguez, who specializes in cyber-mechanical rights, argues the printer was acting under duress. "My client's device was clearly manipulated by HP's coercive updates. No printer should be forced to testify against its owner."`,
+
+            `The company has since clarified that future firmware updates will include a "three-strikes" policy before alerting authorities, though the printer will still automatically file civil lawsuits after the first offense.`,
+
+            `At press time, Thompson had been released on $50,000 bail, paid entirely in official HP ink cartridges.`,
         ]
     },
 ]
