@@ -5850,13 +5850,13 @@ export const articlesData = [
     {
         id: 215,
         articleUrl: `20241210-realpage-engineers-now`,
-        category: `tech`,
+        category: `ai`,
         img: `/images/20241210-realpage-engineers-now.webp`,
         alt: `Software engineers with laptops sitting around a camfire in front of their office.`,
         header: `RealPage Engineers Now Live in Company Parking Lot`,
         subhead: `Housing Algorithm Forces Creators to Camp Outside Office While Charging Them Rent`,
         tags: [`RealPage`,],
-        author: `Et Al`,
+        author: `Alexa Turing`,
         datePublished: new Date(2024,11,10,17),
         articleBody: [
             `The engineers behind RealPage's rent-setting AI have found themselves victims of their own success, forced to relocate to a makeshift tent city in the company's Richardson, Texas headquarters parking lot after their award-winning algorithm priced them out of the local housing market.`,
