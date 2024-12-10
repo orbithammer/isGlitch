@@ -5656,7 +5656,7 @@ export const articlesData = [
         alt: `A businessman pulling money out of the wallet of a sick patient in the hospital.`,
         header: `Kaiser Board Toasts Record Profits After Charging for Data Breach`,
         subhead: `Healthcare Giant Calls New Patient-Funded Security Model "Empowering"`,
-        tags: [`Kaiser Permanente`,],
+        tags: [`Kaiser Permanente`, `Health Care`],
         author: `Et Al`,
         datePublished: new Date(2024,11,7,7),
         articleBody: [
@@ -5767,7 +5767,7 @@ export const articlesData = [
         articleUrl: `20241209-eu-privacy-chief`,
         category: `tech`,
         img: `/images/20241209-eu-privacy-chief.webp`,
-        alt: `A government official wearing an expensive suit crawling under her desk to avoid being photographed while using her phone`,
+        alt: `A government official wearing an expensive suit crawling under her desk to avoid being photographed while using her phone.`,
         header: `EU Privacy Chief Caught Using Signal During Chat Control Vote`,
         subhead: `Commissioner claims encrypted messaging "only for people who understand the risks"`,
         tags: [`European Union`, `Privacy`, `Surveillance`],
@@ -5814,6 +5814,64 @@ export const articlesData = [
             `The company has since clarified that future firmware updates will include a "three-strikes" policy before alerting authorities, though the printer will still automatically file civil lawsuits after the first offense.`,
 
             `At press time, Thompson had been released on $50,000 bail, paid entirely in official HP ink cartridges.`,
+        ]
+    },
+    {
+        id: 214,
+        articleUrl: `20241210-unitedhealth-ai-now`,
+        category: `ai`,
+        img: `/images/20241210-unitedhealth-ai-now.webp`,
+        alt: `A thumbs-down in front of a glowing ECG line.`,
+        header: `UnitedHealth AI Now Consults WebMD Comments to Deny Coverage`,
+        subhead: `Patients Must Disprove Facebook Mom Groups Before Receiving Care`,
+        tags: [`UnitedHealth`, `Health Care`],
+        author: `Alexa Turing`,
+        datePublished: new Date(2024,11,10,7),
+        articleBody: [
+            `UnitedHealth Group's latest cost-cutting measure involves an artificial intelligence system that denies medical coverage by cross-referencing patient conditions with WebMD comment sections and Facebook mom groups.`,
+
+            `The system, dubbed "CommenterCare," analyzes claims against a database of user comments like "My uncle's neighbor's dog had the exact same symptoms and just needed to stop eating dairy!!!" and "Sounds like you're not manifesting enough positive energy," before issuing automatic denials.`,
+
+            `"After discovering that medical school graduates were approving too many claims, we trained our AI on a more discerning dataset: Yahoo Answers' medical section from 2006-2011," explained UnitedHealth CTO Michael Barrett. "WebMD comments proved too scientifically rigorous for our cost-saving goals."`,
+
+            `The AI employs a sophisticated diagnostic flowchart: Heart Attack → Probably Acid Reflux → Have You Tried Essential Oils? → Claim Denied. The system gives additional weight to commenters who use multiple exclamation points or write in ALL CAPS, considering them "more authoritative voices."`,
+
+            `For disputed claims, patients can purchase UnitedHealth's new premium "Second Opinion" service, which consults both Reddit's r/medical threads from 2011 and a curated network of Facebook moms who "did their own research."`,
+
+            `Dr. Jennifer Martinez, a healthcare policy expert at Stanford, expressed concerns after the AI denied her patient's chemotherapy because they didn't match the symptoms shown in pharmaceutical commercials featuring people joyfully walking dogs on beaches.`,
+
+            `"The system is working exactly as intended," responded UnitedHealth's spokesperson, noting that reclassifying all emergency room visits as "you should sleep it off" has resulted in significant quarterly savings.`,
+
+            `When asked about the AI's 99.9% denial rate, Barrett defended the system's accuracy, pointing to their robust database of users like "HolisticWarrior_2010" and "VeganCuresAll." He added that patients can appeal denials by trying every home remedy suggested in the comments section, documenting their attempts, and getting at least 500 upvotes on their progress photos.`,
+
+            `At press time, the AI was automatically denying all claims containing the word "pain" after determining that users probably just needed to drink more water.`,
+        ]
+    },
+    {
+        id: 215,
+        articleUrl: `20241210-realpage-engineers-now`,
+        category: `tech`,
+        img: `/images/20241210-realpage-engineers-now.webp`,
+        alt: `Software engineers with laptops sitting around a camfire in front of their office.`,
+        header: `RealPage Engineers Now Live in Company Parking Lot`,
+        subhead: `Housing Algorithm Forces Creators to Camp Outside Office While Charging Them Rent`,
+        tags: [`RealPage`,],
+        author: `Et Al`,
+        datePublished: new Date(2024,11,10,17),
+        articleBody: [
+            `The engineers behind RealPage's rent-setting AI have found themselves victims of their own success, forced to relocate to a makeshift tent city in the company's Richardson, Texas headquarters parking lot after their award-winning algorithm priced them out of the local housing market.`,
+
+            `What started as a desperate solution has evolved into what RealPage's annual report now calls an "innovative flexible workspace solution." The impromptu campground, dubbed "Git Village" by residents, houses 47 software developers, three product managers, and one very confused visiting board member who thought it was an employee wellness initiative.`,
+
+            `The community is organized using strict Agile methodology, with the Product Owner's tent occupying a coveted spot near the building's back entrance - what residents now list on Airbnb as a "Premium Park-Adjacent Micro-Dwelling Experience" for $399 per night.`,
+
+            `"I helped design the neural network that optimizes profit margins," said lead engineer Michael Reeves from his North Face four-season tent, pausing to delete another automated rent increase notice from the AI. "Now I'm just trying to optimize our rainwater collection system. We've figured out how to harvest 98% of rainfall, but still can't make the algorithm charge less."`,
+
+            `The inhabitants have developed sophisticated survival systems, including a Slack bot that manages shower time slots at the nearby gym and morning "standoutside meetings" held around solar-powered charging stations. The company cafeteria has adapted to the situation, adding "Artisanal Dumpster Diving" to its official lunch menu.`,
+
+            `"The parking spots are actually infinite bedroom floor plans if you think about it," explained DevOps manager Tracy Williams while receiving another AI notification suggesting she "optimize her living space by exploring vertical tent-stacking opportunities."`,
+
+            `RealPage executives praise their employees' "innovative spirit" and have begun including parking spot dimensions in their official real estate listings. When reached for comment, RealPage's AI recommended increasing the tent density by 47% and suggested converting the emergency fire lanes into "premium walkway-adjacent sleeping pods with ambitious growth potential."`,
         ]
     },
 ]
