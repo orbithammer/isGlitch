@@ -5852,7 +5852,7 @@ export const articlesData = [
         articleUrl: `20241210-realpage-engineers-now`,
         category: `ai`,
         img: `/images/20241210-realpage-engineers-now.webp`,
-        alt: `Software engineers with laptops sitting around a camfire in front of their office.`,
+        alt: `Software engineers with laptops sitting around a campfire in front of their office.`,
         header: `RealPage Engineers Now Live in Company Parking Lot`,
         subhead: `Housing Algorithm Forces Creators to Camp Outside Office While Charging Them Rent`,
         tags: [`RealPage`,],
