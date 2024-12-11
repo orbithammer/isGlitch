@@ -5882,7 +5882,7 @@ export const articlesData = [
         alt: `A NASCAR stock car shedding hundreds of bills.`,
         header: `EA to "Enhance" NASCAR with Premium Pit Stop Experience`,
         subhead: `Players Can Finally Enjoy Pride and Accomplishment in Digital Racing`,
-        tags: [`Electronic Arts`, `NASCAR`],
+        tags: [`Electronic Arts`, `NASCAR`, `Video Games`],
         author: `Pieter Klykbeit`,
         datePublished: new Date(2024,11,11,7),
         articleBody: [
