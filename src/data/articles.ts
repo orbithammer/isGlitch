@@ -5874,6 +5874,62 @@ export const articlesData = [
             `RealPage executives praise their employees' "innovative spirit" and have begun including parking spot dimensions in their official real estate listings. When reached for comment, RealPage's AI recommended increasing the tent density by 47% and suggested converting the emergency fire lanes into "premium walkway-adjacent sleeping pods with ambitious growth potential."`,
         ]
     },
+    {
+        id: 216,
+        articleUrl: `20241211-ea-to-enhance`,
+        category: `entertainment`,
+        img: `/images/20241211-ea-to-enhance.webp`,
+        alt: `A NASCAR stock car shedding hundreds of bills.`,
+        header: `EA to "Enhance" NASCAR with Premium Pit Stop Experience`,
+        subhead: `Players Can Finally Enjoy Pride and Accomplishment in Digital Racing`,
+        tags: [`Electronic Arts`, `NASCAR`],
+        author: `Pieter Klykbeit`,
+        datePublished: new Date(2024,11,11,7),
+        articleBody: [
+            `After Motorsport Games announced their NASCAR titles would leave digital stores faster than a stock car with cut brake lines, EA Sports has emerged from the shadows with an emergency bid for the license, promising a "revolutionary monetization experience" that makes real NASCAR team budgets look like pocket change.`,
+
+            `"We've identified a critical gap in NASCAR gaming," explained EA executive Marcus Reynolds, adjusting his solid gold tie clip. "Players have been changing tires and refueling for free like some kind of digital socialists. That ends now."`,
+
+            `The new system will require players to purchase PitCoin bundles, starting at the "Rookie Package" ($19.99 for two tire changes) up to the "Championship Bundle" ($159.99 for a season's worth of maintenance, excluding premium synthetic oil changes). Each pit stop features "Surprise Mechanics" – randomized loot boxes that might contain anything from a fresh windshield to a slightly used air freshener, or if you're lucky, one of EA's exclusive "Historic Lug Nut NFTs."`,
+
+            `Professional NASCAR gamer Keith "SpeedDemon" Martinez recently took out a second mortgage to afford the "Legendary NASCAR Legends" pit crew package. "Sure, my kids can't go to college anymore, but my digital crew chief has a gold-plated headset and doesn't show me ads for Mountain Dew during critical pit stops," Martinez explained from his parents' basement.`,
+
+            `EA's new "Reality Engine™" randomly generates expensive mechanical failures that can only be fixed with "Premium Repair Tokens." The company's "Dynamic Weather Monetization" system also requires players to purchase "Cloud Credits" to clear rain from their windshield, with premium subscribers getting access to "Enhanced Visibility Options."`,
+
+            `"It's about authenticity," Reynolds insisted, as his assistant fanned him with a stack of microtransaction spreadsheets. "Real NASCAR teams spend millions on maintenance. Now you can too, one PitCoin at a time. And with our new Virtual Sponsorship integration, players can either watch six hours of ads on their hood or face speed penalties that make a Prius look fast."`,
+
+            `The "Premium Racing Line+" subscription ($14.99/month plus "GPS Fee") shows optimal racing paths, while the innovative "Drafting Pass" charges players $0.99 per second when they drive behind another car to reduce wind resistance. Early beta testers report that running out of PitCoins mid-race forces your car into "Eco Mode," limiting speeds to a brisk 35 mph while an unskippable ad for EA's FIFA series plays on your windshield.`,
+
+            `When pressed about fan concerns, Reynolds demonstrated EA's commitment to "player choice" by showing off the new "DIY Mode" where users can attempt repairs using free in-game tools, including a rusty wrench and a roll of duct tape that's "mostly sticky, pending a future micropayment."`,
+        ]
+    },
+    {
+        id: 217,
+        articleUrl: `20241211-huawei-offers-to`,
+        category: `tech`,
+        img: `/images/20241211-huawei-offers-to.webp`,
+        alt: `The Huawei logo on a screen on a laptop in cyberspace.`,
+        header: `Huawei Offers to Remove Own Equipment at 2% Discount`,
+        subhead: `Chinese tech giant promises to "handle everything" in unsolicited bid to Congress`,
+        tags: [`Huawei`,],
+        author: `Et Al`,
+        datePublished: new Date(2024,11,11,17),
+        articleBody: [
+            `After learning of the U.S. government's $3 billion plan to remove Chinese telecom equipment from American networks, Huawei submitted an unexpected counter-proposal Wednesday, offering to remove its own equipment for just $2.9 billion.`,
+
+            `"We built it, we know where it is, and we can take it out faster than anyone," said Michael Thompson, Huawei's newly appointed VP of Equipment Retrieval Solutions. "Plus, we're offering a 2% discount. That's $100 million in taxpayer savings right there."`,
+
+            `The proposal, delivered to Congress in a red envelope, includes what Huawei calls a "white glove removal service" where their technicians would work exclusively between 2 AM and 4 AM to minimize network disruption. The company also promised to leave detailed notes about any "totally normal" new equipment they might find necessary to install during the removal process.`,
+
+            `FCC Chair Jessica Rosenworcel received a dozen Huawei-branded moon cakes along with the proposal. "While we appreciate the gesture," she said, carefully wrapping one for later, "this somewhat defeats the purpose of our security initiative."`,
+
+            `The proposal has found an unexpected ally in budget-conscious legislators. "Look, $100 million is $100 million," said Rep. Jim Maxwell (R-KS), while adjusting his new Huawei smartwatch. "And they're throwing in free shipping."`,
+
+            `Huawei has already begun staffing up for the project, posting job listings for "Removal Specialists" with "experience in equipment installation" and "creative photography skills for before/after documentation."`,
+
+            `When reached for comment about potential security concerns, Huawei's Thompson assured reporters that all removed equipment would be "completely destroyed" at an undisclosed facility just outside Beijing's cybersecurity district.`,
+        ]
+    },
 ]
 
 /*{
