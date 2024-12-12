@@ -5930,6 +5930,59 @@ export const articlesData = [
             `When reached for comment about potential security concerns, Huawei's Thompson assured reporters that all removed equipment would be "completely destroyed" at an undisclosed facility just outside Beijing's cybersecurity district.`,
         ]
     },
+    {
+        id: 218,
+        articleUrl: `20241212-court-cant-tell`,
+        category: `tech`,
+        img: `/images/20241212-court-cant-tell.webp`,
+        alt: `A gay frog in a gay frog pride parade.`,
+        header: `Court Can't Tell If InfoWars or The Onion Is Being Serious Anymore`,
+        subhead: `Judge orders linguistic experts to analyze use of "wake up sheeple"`,
+        tags: [`InfoWars`, `The Onion`],
+        author: `Et Al`,
+        datePublished: new Date(2024,11,12,7),
+        articleBody: [
+            `Corporate law firms across Manhattan collectively backed away from the InfoWars-Onion merger dispute Wednesday, citing an unprecedented inability to determine which potential client was pranking them.`,
+
+            `"We reviewed The Onion's SEC filing about their 'untapped market opportunity in gay frog journalism' right after seeing InfoWars' proposed board nominations of six Pulitzer winners and the current editor of The Economist," said Morrison & Sterling partner David Kessler. "At this point, we're ethically obligated to assume we're being punk'd by both sides."`,
+
+            `The confusion deepened when The Onion's CEO released a formal apology, stating their "rigorous fact-checking standards and commitment to journalistic integrity clearly fall short of InfoWars' established excellence in reptilian-American coverage." Their statement accompanied a detailed financial prospectus projecting $420 million in revenue from their "Premium Tinfoil Hat+" subscriber tier by Q3 2025.`,
+
+            `Judge Marcia Reynolds has temporarily suspended proceedings until a court-appointed linguistic expert can determine whether either company's use of "wake up sheeple" was meant ironically. "The distinction is crucial to these proceedings," Reynolds wrote in her brief. "Unfortunately, both parties are using the phrase with what appears to be identical levels of sincerity."`,
+
+            `The situation reached a breaking point when The Onion proposed a new board of directors consisting of "three definitely real aliens we met behind a Denver Denny's," while InfoWars simultaneously published a 30-page peer-reviewed study on media bias in mainstream coverage of interdimensional portal sightings.`,
+
+            `At press time, both companies' legal teams were spotted sharing a confused silence in the courthouse elevator, each wondering if the other was an elaborate performance art piece.`,
+        ]
+    },
+    {
+        id: 219,
+        articleUrl: `20241212-salesforce-unveils-new`,
+        category: `tech`,
+        img: `/images/20241212-salesforce-unveils-new.webp`,
+        alt: `A lone office worker eating a slice of pizza in a dark office.`,
+        header: `Salesforce Unveils New Framework That Just Makes Few People Do All Work`,
+        subhead: `Latest "Ohana Productivity Matrix" Rebrands Ancient Management Tactic`,
+        tags: [`Salesforce`,],
+        author: `Et Al`,
+        datePublished: new Date(2024,11,12,17),
+        articleBody: [
+            `Enterprise software giant Salesforce unveiled its revolutionary "Ohana Productivity Matrix" Tuesday, which executives claim will "fundamentally reshape how teams operate" by using machine learning to identify and overwork their most productive employees.`,
+
+            `"Our proprietary algorithm analyzes keyboard inputs, Apex commits, and Chatter reactions to scientifically determine which developers we can pile everything onto," explained VP of Innovation Marcus Walsh during a champagne-soaked press conference at Salesforce Tower. "Early tests show we can extract 95% of our output from just 8% of our workforce."`,
+
+            `McKinsey consultant Rachel Palmer, billing $800/hour to observe the implementation, praised the initiative: "By identifying and leveraging high-performing human assets, we're disrupting traditional workflow paradigms." When asked to clarify, Palmer admitted this meant "making Dave do everything."`,
+
+            `The company's new "AI-powered burnout prediction model" has already flagged several risk factors, primarily the fact that lead developer Dave Hansen's last Apex commit message read "goodbye cruel world #BeYourBestBlazingSelf" followed by 48 hours of continuous coding. Meanwhile, senior Lightning component engineer Lisa Martinez's Chatter status has remained stuck on "in a meeting" for 72 straight hours, though her output mysteriously keeps increasing.`,
+
+            `The framework, which cost $40 million to develop, reportedly monitors employee browser activity for signs of departure risk. "We've noticed a concerning uptick in Indeed.com visits," noted Head of Talent Success Bradley Moore. "But our data shows productivity peaks right after we flag these career exploration attempts."`,
+
+            `When reached for comment, Dave was unavailable, having apparently barricaded himself in a customer success pod with a six-month supply of energy drinks and noise-canceling headphones.`,
+
+            `The framework is expected to roll out across all major tech companies by next quarter, or however long it takes their top performers to update their Trailhead profiles.`,
+        ]
+    },
+    
 ]
 
 /*{
@@ -5947,3 +6000,29 @@ export const articlesData = [
         xxx
     ]
 },*/
+
+/*{
+        id: 218,
+        articlUrl: `20241212-failed-infowars-the`,
+        category: `tech`,
+        img: `/images/20241212-failed-infowars-the.webp`,
+        alt: `A gay frog at a gay frog pride parade.`,
+        header: `Failed InfoWars-The Onion Merger Spawns Indistinguishable Press Releases`,
+        subhead: `Legal experts baffled: real or satire? Nobody can tell.`,
+        tags: [`InfoWars`, `The Onion`],
+        author: `Et Al`,
+        datePublished: new Date(2024,11,12,7),
+        articleBody: [
+            `Corporate law firms across Manhattan collectively backed away from the InfoWars-Onion merger dispute Wednesday, citing an unprecedented inability to determine which potential client was pranking them.`,
+
+            `"We reviewed The Onion's SEC filing about their 'untapped market opportunity in gay frog journalism' right after seeing InfoWars' proposed board nominations of six Pulitzer winners and the current editor of The Economist," said Morrison & Sterling partner David Kessler. "At this point, we're ethically obligated to assume we're being punk'd by both sides."`,
+
+            `The confusion deepened when The Onion's CEO released a formal apology, stating their "rigorous fact-checking standards and commitment to journalistic integrity clearly fall short of InfoWars' established excellence in reptilian-American coverage." Their statement accompanied a detailed financial prospectus projecting $420 million in revenue from their "Premium Tinfoil Hat+" subscriber tier by Q3 2025.`,
+
+            `Judge Marcia Reynolds has temporarily suspended proceedings until a court-appointed linguistic expert can determine whether either company's use of "wake up sheeple" was meant ironically. "The distinction is crucial to these proceedings," Reynolds wrote in her brief. "Unfortunately, both parties are using the phrase with what appears to be identical levels of sincerity."`,
+
+            `The situation reached a breaking point when The Onion proposed a new board of directors consisting of "three definitely real aliens we met behind a Denver Denny's," while InfoWars simultaneously published a 30-page peer-reviewed study on media bias in mainstream coverage of interdimensional portal sightings.`,
+
+            `At press time, both companies' legal teams were spotted sharing a confused silence in the courthouse elevator, each wondering if the other was an elaborate performance art piece.`,
+        ]
+    },*/
