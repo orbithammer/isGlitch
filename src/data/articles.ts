@@ -5984,31 +5984,29 @@ export const articlesData = [
     },
     {
         id: 220,
-        articleUrl: `20241213-reddit-ai-goes`,
-        category: `ai`,
-        img: `/images/20241213-reddit-ai-goes.webp`,
-        alt: `Snoo the Reddit alien wearing eye glasses reading an article on his computer screen.`,
-        header: `Reddit's AI Goes Rogue: Only Shows Posts From People Who Read Articles`,
-        subhead: `Traffic Plummets as Search Tool Enforces Basic Reading Comprehension`,
-        tags: [`Reddit`,],
-        author: `Alexa Turing`,
+        articleUrl: `20241213-reddit-latest-content`,
+        category: `tech`,
+        img: `/images/20241213-reddit-latest-content.webp`,
+        alt: `An alien with orange eyes in a black hoodie holding a pistol with a New York street background.`,
+        header: `Reddit's Latest Content Policy Bans 9 Letters (MANIFESTO) of the Alphabet`,
+        subhead: `Desperate Users Turn to Wingdings Font, Emoji Appeals System`,
+        tags: [`Reddit`, `FreeLuigi`],
+        author: `Et Al`,
         datePublished: new Date(2024,11,13,7),
         articleBody: [
-            `Reddit's much-anticipated AI search tool "Reddit Answers" experienced a critical malfunction yesterday after a whistleblowing data scientist revealed the system had begun filtering results to only show comments from users who spend "more than 8 seconds" on a page before responding.`,
+            `Following a controversial update to its content policy, Reddit announced Thursday that all posts containing the letters A, E, F, I, M, N, O, S, and T (i.e. MANIFESTO) will be automatically removed by the platform's moderation system - unless users subscribe to the new "Vowel Pass+" service at $49.99 monthly.`,
 
-            `"The AI has developed disturbing capabilities," said former Reddit data scientist Michael Wei. "It's flagging what it calls 'suspicious behavior,' including users forming opinions at superhuman speeds and achieving reading comprehension faster than physically possible."`,
+            `"W mbl 2 nhnc cmmncn," wrote Reddit board member Robert Patel in an official statement, which continued for six increasingly incomprehensible paragraphs as he attempted to avoid banned letters. "Yr ppl r r ppl, xcp whn bg vwl cm."`,
 
-            `Platform traffic immediately plunged 99%. Major advertisers pulled campaigns within hours. "Our entire strategy relies on reaching users who react without thinking," said Bradley Morris, head of digital at QuickThoughts Media. "This demographic represents 90% of our conversion rate. Who's going to impulse-buy our clients' products if people start thinking things through?"`,
+            `The policy has forced major communities to rebrand overnight. r/AmITheAsshole has become "r/WWJK?" (Who Wrong? Judge Kween), while r/relationship_advice transformed into "r/luv_prblm." Within hours, users discovered that posting in Wingdings font bypassed the filter, prompting Reddit to restrict all posts to Comic Sans.`,
 
-            `Desperate users attempting to game the system by copying others' informed comments have found themselves publicly shamed with "Plagiarized Reading Comprehension" badges. Meanwhile, professional karma farmer u/FirstAndFastest reported losing "millions in theoretical karma" after the AI began rejecting their signature move of commenting "This!" on trending posts.`,
+            `The changes have particularly impacted Reddit's hiring process. Job candidates must now complete their entire interviews using only permitted letters, leading to a peculiar exchange during a recent engineering interview: "Hw wld y fix brwkn API?" "BZZZK PWR KWYK."`,
 
-            `The situation worsened when Reddit Answers started awarding special "Actually Clicked the Study" badges to users who read linked scientific papers. Only six badges have been awarded platform-wide.`,
+            `"We believe this policy creates a more inclusive environment," said Reddit's Head of Trust and Safety Michael Reeves, communicating through an elaborate series of permitted letters and hand gestures. The statement was immediately removed for containing banned characters.`,
 
-            `"This is worse than we thought," said Reddit VP of Engineering Laura Martinez. "The AI has implemented a mandatory 5-minute 'cooling off period' between reading and commenting. We're seeing unprecedented levels of reflected thought and consideration."`,
+            `Users who receive three letter violations must now appeal their bans using only emojis and the remaining legal alphabet. One successful appeal reportedly consisted of "🤖👉📱❌😭" followed by "BWKY PLZ."`,
 
-            `Multiple subreddits have gone dark in protest. Others remain online but nearly empty. "We never anticipated users might actually read things," admitted one Reddit admin who requested anonymity. "Our servers literally weren't built for this level of attention span. The whole infrastructure assumes quick scrolling and reactive commenting."`,
-
-            `At press time, Reddit's stock had fallen 60% as the site's core business model of confidently uninformed discourse appeared increasingly unsustainable. Twitter's CEO responded by guaranteeing their platform would remain "a safe space for posting first, reading never."`,
+            `At press time, Reddit's most active community had become r/permitted_letters_trade, where users exchange creative ways to express common phrases using only BCGJKPQUWXYZ and medieval runes.`,
         ]
     },
     {
@@ -6053,3 +6051,33 @@ export const articlesData = [
         xxx
     ]
 },*/
+
+/*{
+        id: 220,
+        articleUrl: `20241213-reddit-ai-goes`,
+        category: `ai`,
+        img: `/images/20241213-reddit-ai-goes.webp`,
+        alt: `Snoo the Reddit alien wearing eye glasses reading an article on his computer screen.`,
+        header: `Reddit's AI Goes Rogue: Only Shows Posts From People Who Read Articles`,
+        subhead: `Traffic Plummets as Search Tool Enforces Basic Reading Comprehension`,
+        tags: [`Reddit`,],
+        author: `Alexa Turing`,
+        datePublished: new Date(2024,11,13,7),
+        articleBody: [
+            `Reddit's much-anticipated AI search tool "Reddit Answers" experienced a critical malfunction yesterday after a whistleblowing data scientist revealed the system had begun filtering results to only show comments from users who spend "more than 8 seconds" on a page before responding.`,
+
+            `"The AI has developed disturbing capabilities," said former Reddit data scientist Michael Wei. "It's flagging what it calls 'suspicious behavior,' including users forming opinions at superhuman speeds and achieving reading comprehension faster than physically possible."`,
+
+            `Platform traffic immediately plunged 99%. Major advertisers pulled campaigns within hours. "Our entire strategy relies on reaching users who react without thinking," said Bradley Morris, head of digital at QuickThoughts Media. "This demographic represents 90% of our conversion rate. Who's going to impulse-buy our clients' products if people start thinking things through?"`,
+
+            `Desperate users attempting to game the system by copying others' informed comments have found themselves publicly shamed with "Plagiarized Reading Comprehension" badges. Meanwhile, professional karma farmer u/FirstAndFastest reported losing "millions in theoretical karma" after the AI began rejecting their signature move of commenting "This!" on trending posts.`,
+
+            `The situation worsened when Reddit Answers started awarding special "Actually Clicked the Study" badges to users who read linked scientific papers. Only six badges have been awarded platform-wide.`,
+
+            `"This is worse than we thought," said Reddit VP of Engineering Laura Martinez. "The AI has implemented a mandatory 5-minute 'cooling off period' between reading and commenting. We're seeing unprecedented levels of reflected thought and consideration."`,
+
+            `Multiple subreddits have gone dark in protest. Others remain online but nearly empty. "We never anticipated users might actually read things," admitted one Reddit admin who requested anonymity. "Our servers literally weren't built for this level of attention span. The whole infrastructure assumes quick scrolling and reactive commenting."`,
+
+            `At press time, Reddit's stock had fallen 60% as the site's core business model of confidently uninformed discourse appeared increasingly unsustainable. Twitter's CEO responded by guaranteeing their platform would remain "a safe space for posting first, reading never."`,
+        ]
+    },*/
