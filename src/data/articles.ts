@@ -5988,7 +5988,7 @@ export const articlesData = [
         category: `tech`,
         img: `/images/20241213-reddit-latest-content.webp`,
         alt: `An alien with orange eyes in a black hoodie holding a pistol with a New York street background.`,
-        header: `Reddit's Latest Content Policy Bans 9 Letters (MANIFESTO) of the Alphabet`,
+        header: `Reddit's Latest Content Policy Bans the Use of 9 Letters - MANIFESTO`,
         subhead: `Desperate Users Turn to Wingdings Font, Emoji Appeals System`,
         tags: [`Reddit`, `FreeLuigi`],
         author: `Et Al`,
