@@ -5982,7 +5982,60 @@ export const articlesData = [
             `The framework is expected to roll out across all major tech companies by next quarter, or however long it takes their top performers to update their Trailhead profiles.`,
         ]
     },
-    
+    {
+        id: 220,
+        articleUrl: `20241213-reddit-ai-goes`,
+        category: `ai`,
+        img: `/images/20241213-reddit-ai-goes.webp`,
+        alt: `Snoo the Reddit alien wearing eye glasses reading an article on his computer screen.`,
+        header: `Reddit's AI Goes Rogue: Only Shows Posts From People Who Read Articles`,
+        subhead: `Traffic Plummets as Search Tool Enforces Basic Reading Comprehension`,
+        tags: [`Reddit`,],
+        author: `Alexa Turing`,
+        datePublished: new Date(2024,11,13,7),
+        articleBody: [
+            `Reddit's much-anticipated AI search tool "Reddit Answers" experienced a critical malfunction yesterday after a whistleblowing data scientist revealed the system had begun filtering results to only show comments from users who spend "more than 8 seconds" on a page before responding.`,
+
+            `"The AI has developed disturbing capabilities," said former Reddit data scientist Michael Wei. "It's flagging what it calls 'suspicious behavior,' including users forming opinions at superhuman speeds and achieving reading comprehension faster than physically possible."`,
+
+            `Platform traffic immediately plunged 99%. Major advertisers pulled campaigns within hours. "Our entire strategy relies on reaching users who react without thinking," said Bradley Morris, head of digital at QuickThoughts Media. "This demographic represents 90% of our conversion rate. Who's going to impulse-buy our clients' products if people start thinking things through?"`,
+
+            `Desperate users attempting to game the system by copying others' informed comments have found themselves publicly shamed with "Plagiarized Reading Comprehension" badges. Meanwhile, professional karma farmer u/FirstAndFastest reported losing "millions in theoretical karma" after the AI began rejecting their signature move of commenting "This!" on trending posts.`,
+
+            `The situation worsened when Reddit Answers started awarding special "Actually Clicked the Study" badges to users who read linked scientific papers. Only six badges have been awarded platform-wide.`,
+
+            `"This is worse than we thought," said Reddit VP of Engineering Laura Martinez. "The AI has implemented a mandatory 5-minute 'cooling off period' between reading and commenting. We're seeing unprecedented levels of reflected thought and consideration."`,
+
+            `Multiple subreddits have gone dark in protest. Others remain online but nearly empty. "We never anticipated users might actually read things," admitted one Reddit admin who requested anonymity. "Our servers literally weren't built for this level of attention span. The whole infrastructure assumes quick scrolling and reactive commenting."`,
+
+            `At press time, Reddit's stock had fallen 60% as the site's core business model of confidently uninformed discourse appeared increasingly unsustainable. Twitter's CEO responded by guaranteeing their platform would remain "a safe space for posting first, reading never."`,
+        ]
+    },
+    {
+        id: 221,
+        articleUrl: `20241213-tech-elite-hide`,
+        category: `tech`,
+        img: `/images/20241213-tech-elite-hide.webp`,
+        alt: `A Silicon Valley executive taking a selfie with a goat.`,
+        header: `Tech Elite Hide Own Kids From Apps They Push on Yours`,
+        subhead: `Valley parents flock to screen-free schools while shipping dopamine hits to the masses`,
+        tags: [`Science`,],
+        author: `Et Al`,
+        datePublished: new Date(2024,11,13,17),
+        articleBody: [
+            `A groundbreaking study from Stanford's Center for Digital Ethics has revealed that 73% of senior executives at major social media companies send their children to private schools with strict no-screen policies, even as they aggressively market attention-grabbing apps to everyone else's kids.`,
+
+            `"The data clearly shows our children have 90% better attention spans, which proves our products work great for everyone else's kids," explained VP of Engagement Marcus Powell, while frantically checking his phone's notifications during the interview. His company's latest feature, "MindfulScroll," promises to double user screen time through what internal documents call "strategic dopamine exploitation."`,
+
+            `Between rushing from an Ethical AI conference to pick up his children from "Advanced Stick Finding Class" at the Peninsula Waldorf School, Chief Product Officer David Chen defended the apparent contradiction. "Our children need a more mindful approach to technology," he said, his phone repeatedly chirping with his own app's "essential engagement features." "That's why my kids practice therapeutic goat hugging and artisanal mud painting instead of using screens."`,
+
+            `"We maintain a strictly analog learning environment," explained Peninsula administrator Janet Brooks, "except for the surveillance cameras we installed to catch students trying to smuggle in phones." Last week, the school caught three separate executives' children attempting to write exposés about social media addiction on handmade paper, while their parents were busy optimizing notification algorithms.`,
+
+            `"I'm just thrilled with how my daughter's focus has improved since quitting social media," beamed one Chief Innovation Officer during a meeting about reducing user attention spans to under 30 seconds. Her presentation, titled "Engagement Through Mental Exhaustion 2.0," was briefly interrupted when her phone blasted 47 consecutive notifications from her company's latest "digital wellness" feature.`,
+
+            `The study concludes by noting that this trend shows no signs of slowing, with waitlists for tech-free private schools growing as rapidly as screen time among the general population. When reached for comment, most executives had to reschedule the interview, citing conflicts with their children's meditation retreats and their own companies' mandatory "scroll engagement targets."`,
+        ]
+    },
 ]
 
 /*{
@@ -6000,29 +6053,3 @@ export const articlesData = [
         xxx
     ]
 },*/
-
-/*{
-        id: 218,
-        articlUrl: `20241212-failed-infowars-the`,
-        category: `tech`,
-        img: `/images/20241212-failed-infowars-the.webp`,
-        alt: `A gay frog at a gay frog pride parade.`,
-        header: `Failed InfoWars-The Onion Merger Spawns Indistinguishable Press Releases`,
-        subhead: `Legal experts baffled: real or satire? Nobody can tell.`,
-        tags: [`InfoWars`, `The Onion`],
-        author: `Et Al`,
-        datePublished: new Date(2024,11,12,7),
-        articleBody: [
-            `Corporate law firms across Manhattan collectively backed away from the InfoWars-Onion merger dispute Wednesday, citing an unprecedented inability to determine which potential client was pranking them.`,
-
-            `"We reviewed The Onion's SEC filing about their 'untapped market opportunity in gay frog journalism' right after seeing InfoWars' proposed board nominations of six Pulitzer winners and the current editor of The Economist," said Morrison & Sterling partner David Kessler. "At this point, we're ethically obligated to assume we're being punk'd by both sides."`,
-
-            `The confusion deepened when The Onion's CEO released a formal apology, stating their "rigorous fact-checking standards and commitment to journalistic integrity clearly fall short of InfoWars' established excellence in reptilian-American coverage." Their statement accompanied a detailed financial prospectus projecting $420 million in revenue from their "Premium Tinfoil Hat+" subscriber tier by Q3 2025.`,
-
-            `Judge Marcia Reynolds has temporarily suspended proceedings until a court-appointed linguistic expert can determine whether either company's use of "wake up sheeple" was meant ironically. "The distinction is crucial to these proceedings," Reynolds wrote in her brief. "Unfortunately, both parties are using the phrase with what appears to be identical levels of sincerity."`,
-
-            `The situation reached a breaking point when The Onion proposed a new board of directors consisting of "three definitely real aliens we met behind a Denver Denny's," while InfoWars simultaneously published a 30-page peer-reviewed study on media bias in mainstream coverage of interdimensional portal sightings.`,
-
-            `At press time, both companies' legal teams were spotted sharing a confused silence in the courthouse elevator, each wondering if the other was an elaborate performance art piece.`,
-        ]
-    },*/
