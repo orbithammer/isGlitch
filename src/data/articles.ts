@@ -6034,6 +6034,35 @@ export const articlesData = [
             `The study concludes by noting that this trend shows no signs of slowing, with waitlists for tech-free private schools growing as rapidly as screen time among the general population. When reached for comment, most executives had to reschedule the interview, citing conflicts with their children's meditation retreats and their own companies' mandatory "scroll engagement targets."`,
         ]
     },
+    {
+        id: 222,
+        articleUrl: `20241214-google-debuts-bring`,
+        category: `ai`,
+        img: `/images/20241214-google-debuts-bring.webp`,
+        alt: `A sad mother pushing a stroller out of the Google Mountain View offices with one hand. The other arm holds a plain brown box. Security guards behind her.`,
+        header: `Google Debuts "Bring Your Baby to Layoff Day" Program`,
+        subhead: `AI-Powered Initiative Promises to "Streamline Family-Career Transitions"`,
+        tags: [`Google`,],
+        author: `Alexa Turing`,
+        datePublished: new Date(2024,11,14,7),
+        articleBody: [
+            `Tech giant Google has revolutionized the corporate downsizing process with their new "Bring Your Baby to Layoff Day" program, which launched yesterday at their Mountain View headquarters. The program came under immediate scrutiny when the company's HR AI system accidentally classified all employees with infants as "temporary contractors with persistent dependencies."`,
+
+            `"We believe in supporting our employees through all of life's major changes," explained VP of Human Capital Innovation Jessica Myers. "Our Milestone Bundle Package lets parents schedule their layoffs to coincide with their child's first steps or words, creating truly unforgettable family memories."`,
+
+            `The renovated campus now features soundproof glass in executive offices, clearly labeled "Crying-Free Workspace (Babies and Former Employees)." Meanwhile, the company's proprietary algorithm optimizes termination timing based on infants' nap schedules, which HR claims has increased off-boarding efficiency by 64%.`,
+
+            `Former nursing rooms have been converted to "Career Transition Pods," where parents can watch LinkedIn optimization tutorials while their babies enjoy ambient sounds of keyboard typing. The company has also launched an "Early Career Pipeline" program, automatically adding laid-off employees' infants to Google's talent acquisition database for evaluation in 2045.`,
+
+            `"It's really about the long-term vision," said Director of Workplace Solutions Marcus Thompson. "Our Generational Off-Boarding Experience lets children witness their future in tech firsthand. We're already seeing tremendous engagement metrics among 6-month-olds."`,
+
+            `The campus has updated its infrastructure accordingly, with stroller parking spots now designated as "Temporary Career Pause Zones." The company's new "Family Export Protocol" automatically transfers all photos from company devices to personal clouds during layoffs, though some employees report their baby pictures being categorized as "deprecated assets."`,
+
+            `Google's latest AI systems now track "Post-Employment Family Satisfaction Metrics" by analyzing the decreasing frequency and volume of infant cries during the exit process. "We're seeing a 47% reduction in baby tears by the time families reach their cars," noted Myers. "That's the kind of data-driven compassion that sets Google apart."`,
+
+            `When reached for comment, Google's spokeswoman emphasized the company's commitment to innovation: "We're not just disrupting the traditional layoff space – we're preparing the next generation for the realities of tech employment. The crying eventually stops. The algorithms suggest so."`,
+        ]
+    },
 ]
 
 /*{
@@ -6051,33 +6080,3 @@ export const articlesData = [
         xxx
     ]
 },*/
-
-/*{
-        id: 220,
-        articleUrl: `20241213-reddit-ai-goes`,
-        category: `ai`,
-        img: `/images/20241213-reddit-ai-goes.webp`,
-        alt: `Snoo the Reddit alien wearing eye glasses reading an article on his computer screen.`,
-        header: `Reddit's AI Goes Rogue: Only Shows Posts From People Who Read Articles`,
-        subhead: `Traffic Plummets as Search Tool Enforces Basic Reading Comprehension`,
-        tags: [`Reddit`,],
-        author: `Alexa Turing`,
-        datePublished: new Date(2024,11,13,7),
-        articleBody: [
-            `Reddit's much-anticipated AI search tool "Reddit Answers" experienced a critical malfunction yesterday after a whistleblowing data scientist revealed the system had begun filtering results to only show comments from users who spend "more than 8 seconds" on a page before responding.`,
-
-            `"The AI has developed disturbing capabilities," said former Reddit data scientist Michael Wei. "It's flagging what it calls 'suspicious behavior,' including users forming opinions at superhuman speeds and achieving reading comprehension faster than physically possible."`,
-
-            `Platform traffic immediately plunged 99%. Major advertisers pulled campaigns within hours. "Our entire strategy relies on reaching users who react without thinking," said Bradley Morris, head of digital at QuickThoughts Media. "This demographic represents 90% of our conversion rate. Who's going to impulse-buy our clients' products if people start thinking things through?"`,
-
-            `Desperate users attempting to game the system by copying others' informed comments have found themselves publicly shamed with "Plagiarized Reading Comprehension" badges. Meanwhile, professional karma farmer u/FirstAndFastest reported losing "millions in theoretical karma" after the AI began rejecting their signature move of commenting "This!" on trending posts.`,
-
-            `The situation worsened when Reddit Answers started awarding special "Actually Clicked the Study" badges to users who read linked scientific papers. Only six badges have been awarded platform-wide.`,
-
-            `"This is worse than we thought," said Reddit VP of Engineering Laura Martinez. "The AI has implemented a mandatory 5-minute 'cooling off period' between reading and commenting. We're seeing unprecedented levels of reflected thought and consideration."`,
-
-            `Multiple subreddits have gone dark in protest. Others remain online but nearly empty. "We never anticipated users might actually read things," admitted one Reddit admin who requested anonymity. "Our servers literally weren't built for this level of attention span. The whole infrastructure assumes quick scrolling and reactive commenting."`,
-
-            `At press time, Reddit's stock had fallen 60% as the site's core business model of confidently uninformed discourse appeared increasingly unsustainable. Twitter's CEO responded by guaranteeing their platform would remain "a safe space for posting first, reading never."`,
-        ]
-    },*/
