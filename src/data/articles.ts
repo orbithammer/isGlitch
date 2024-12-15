@@ -6092,6 +6092,31 @@ export const articlesData = [
             `At press time, Reddit's stock had fallen 60% as the site's core business model of confidently uninformed discourse appeared increasingly unsustainable. Twitter's CEO responded by guaranteeing their platform would remain "a safe space for posting first, reading never."`,
         ]
     },
+    {
+        id: 224,
+        articleUrl: `20241215-jbl-new-coffee`,
+        category: `reviews`,
+        img: `/images/20241215-jbl-new-coffee.webp`,
+        alt: `A Japanese woman wearing headphones sitting in a pool of steaming coffee.`,
+        header: `JBL's New Coffee-Infused Earbuds Leave Bitter Taste`,
+        subhead: `Caffeine-releasing headphones promise musical buzz, deliver corporate cringe`,
+        tags: [`JBL`, `UCC`],
+        author: `Lester Girdle`,
+        datePublished: new Date(2024,11,15,17),
+        articleBody: [
+            `Tech giant JBL's latest collaboration with coffee conglomerate UCC has produced what might be the most unnecessary fusion since Facebook tried to make the metaverse happen. Their new "BeansBoost" earbuds claim to enhance your listening experience by releasing microscopic coffee particles directly into your ear canal, synchronized with the beat of whatever insufferable podcast you're subjecting yourself to.`,
+
+            `At yesterday's launch event in Shibuya's newest glass-and-chrome temple to capitalism, I watched as a parade of perfectly coiffed executives demonstrated how their $499 earbuds will "revolutionize the audio-gustatory experience." The product demo involved watching influencers pretend to taste different coffee notes while listening to lo-fi beats, their faces contorting into expressions of manufactured ecstasy that made me question every life choice leading to this moment.`,
+
+            `The technology supposedly works by embedding micro-capsules of premium UCC coffee extract into the earbud's padding. These capsules rupture based on sound frequencies, delivering what the press release calls "a symphony of flavors." In reality, early testers report tasting nothing but the bitter disappointment of late-stage capitalism and perhaps a hint of earwax.`,
+
+            `"It's like having a tiny barista living in your ear," explained JBL's Chief Innovation Officer Kenji Yamamoto, apparently unaware of how horrifying that sounds. The accompanying app lets users choose between "Morning Blend," "Afternoon Delight," and "Late Night Jitters" modes, though my testing suggests these settings merely adjust how quickly you'll need to replace the $89 "flavor pods."`,
+
+            `The most impressive feature might be how JBL and UCC managed to transform two perfectly functional products – headphones and coffee – into a single device that does neither job particularly well. But perhaps that's the point. In an era where tech companies desperately seek crossover appeal, BeansBoost stands as a testament to what happens when marketing departments are left unsupervised with unlimited budgets and limited common sense.`,
+
+            `At least the battery life is decent. You'll get six hours of continuous play, or as I like to call it, just enough time to question every aspect of modern innovation.`,
+        ]
+    },
 ]
 
 /*{
