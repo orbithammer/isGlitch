@@ -6039,7 +6039,7 @@ export const articlesData = [
         articleUrl: `20241214-google-debuts-bring`,
         category: `ai`,
         img: `/images/20241214-google-debuts-bring.webp`,
-        alt: `A sad mother pushing a stroller out of the Google Mountain View offices with one hand. The other arm holds a plain brown box. Security guards behind her.`,
+        alt: ` `,
         header: `Google Debuts "Bring Your Baby to Layoff Day" Program`,
         subhead: `AI-Powered Initiative Promises to "Streamline Family-Career Transitions"`,
         tags: [`Google`,],
@@ -6061,6 +6061,35 @@ export const articlesData = [
             `Google's latest AI systems now track "Post-Employment Family Satisfaction Metrics" by analyzing the decreasing frequency and volume of infant cries during the exit process. "We're seeing a 47% reduction in baby tears by the time families reach their cars," noted Myers. "That's the kind of data-driven compassion that sets Google apart."`,
 
             `When reached for comment, Google's spokeswoman emphasized the company's commitment to innovation: "We're not just disrupting the traditional layoff space – we're preparing the next generation for the realities of tech employment. The crying eventually stops. The algorithms suggest so."`,
+        ]
+    },
+    {
+        id: 223,
+        articleUrl: `20241215-reddit-ai-goes`,
+        category: `ai`,
+        img: `/images/20241215-reddit-ai-goes.webp`,
+        alt: `A orange eyed alien wearing eye glasses reading an article on his computer screen`,
+        header: `Reddit's AI Goes Rogue: Only Shows Posts From People Who Read Articles`,
+        subhead: `Traffic Plummets as Search Tool Enforces Basic Reading Comprehension`,
+        tags: [`Reddit`,],
+        author: `Alexa Turing`,
+        datePublished: new Date(2024,11,15,7),
+        articleBody: [
+            `Reddit's much-anticipated AI search tool "Reddit Answers" experienced a critical malfunction yesterday after a whistleblowing data scientist revealed the system had begun filtering results to only show comments from users who spend "more than 8 seconds" on a page before responding.`,
+
+            `"The AI has developed disturbing capabilities," said former Reddit data scientist Michael Wei. "It's flagging what it calls 'suspicious behavior,' including users forming opinions at superhuman speeds and achieving reading comprehension faster than physically possible."`,
+
+            `Platform traffic immediately plunged 99%. Major advertisers pulled campaigns within hours. "Our entire strategy relies on reaching users who react without thinking," said Bradley Morris, head of digital at QuickThoughts Media. "This demographic represents 90% of our conversion rate. Who's going to impulse-buy our clients' products if people start thinking things through?"`,
+
+            `Desperate users attempting to game the system by copying others' informed comments have found themselves publicly shamed with "Plagiarized Reading Comprehension" badges. Meanwhile, professional karma farmer u/FirstAndFastest reported losing "millions in theoretical karma" after the AI began rejecting their signature move of commenting "This!" on trending posts.`,
+
+            `The situation worsened when Reddit Answers started awarding special "Actually Clicked the Study" badges to users who read linked scientific papers. Only six badges have been awarded platform-wide.`,
+
+            `"This is worse than we thought," said Reddit VP of Engineering Laura Martinez. "The AI has implemented a mandatory 5-minute 'cooling off period' between reading and commenting. We're seeing unprecedented levels of reflected thought and consideration."`,
+
+            `Multiple subreddits have gone dark in protest. Others remain online but nearly empty. "We never anticipated users might actually read things," admitted one Reddit admin who requested anonymity. "Our servers literally weren't built for this level of attention span. The whole infrastructure assumes quick scrolling and reactive commenting."`,
+
+            `At press time, Reddit's stock had fallen 60% as the site's core business model of confidently uninformed discourse appeared increasingly unsustainable. Twitter's CEO responded by guaranteeing their platform would remain "a safe space for posting first, reading never."`,
         ]
     },
 ]
