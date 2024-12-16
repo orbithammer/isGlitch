@@ -6068,7 +6068,7 @@ export const articlesData = [
         articleUrl: `20241215-reddit-ai-goes`,
         category: `ai`,
         img: `/images/20241215-reddit-ai-goes.webp`,
-        alt: `A orange eyed alien wearing eye glasses reading an article on his computer screen`,
+        alt: `An orange eyed alien wearing eye glasses reading an article on his computer screen.`,
         header: `Reddit's AI Goes Rogue: Only Shows Posts From People Who Read Articles`,
         subhead: `Traffic Plummets as Search Tool Enforces Basic Reading Comprehension`,
         tags: [`Reddit`,],
@@ -6115,6 +6115,60 @@ export const articlesData = [
             `The most impressive feature might be how JBL and UCC managed to transform two perfectly functional products – headphones and coffee – into a single device that does neither job particularly well. But perhaps that's the point. In an era where tech companies desperately seek crossover appeal, BeansBoost stands as a testament to what happens when marketing departments are left unsupervised with unlimited budgets and limited common sense.`,
 
             `At least the battery life is decent. You'll get six hours of continuous play, or as I like to call it, just enough time to question every aspect of modern innovation.`,
+        ]
+    },
+    {
+        id: 225,
+        articleUrl: `20241216-tech-ceo-flood`,
+        category: `ai`,
+        img: `/images/20241216-tech-ceo-flood.webp`,
+        alt: `xxx`,
+        header: `Tech CEOs Flood AG's Office with Suspiciously Well-Timed Ethics Concerns`,
+        subhead: `Silicon Valley Leaders Discover Corporate Governance Just As Rival Stumbles`,
+        tags: [`Meta`, `OpenAI`, `Elon Musk`],
+        author: `Alexa Turing`,
+        datePublished: new Date(2024,11,16,7),
+        articleBody: [
+            `The California Attorney General's office reported an unprecedented surge in mail volume this week after prominent tech CEOs collectively discovered their passion for corporate governance ethics. The influx of letters about OpenAI's non-profit conversion has forced the office to requisition additional filing cabinets and create a special task force just to sort submissions from newly-created organizations like "The Institute for Competition Fairness" and "Americans for Rival Company Accountability."`,
+
+            `"I've never seen anything like it," said postal worker Dave Martinez, wheeling in his fourth cart of overnight deliveries. "Though I did notice they all used Wilson Sonsini Petroleum & Ethics for their letterhead design."`,
+
+            `The phenomenon reached new heights when multiple tech giants launched charitable initiatives within hours of submitting their complaints. One social media giant announced a "Principles Before Profits" program at 9:03 AM, exactly three minutes after their letter was timestamped.`,
+
+            `A leaked Slack message from one company's PR team captured the frantic atmosphere: "Need synonyms for 'deeply troubled' ASAP - we've used it 47 times and legal says it's starting to look suspicious." The same company was spotted filing trademarks for "Ethically Sourced Profits" and "Sustainable Revenue Acceleration" later that afternoon.`,
+
+            `The coordinated concern reached its peak at an emergency "Ethics in Tech" symposium hosted at the Four Seasons Palo Alto. The event featured panels such as "Maintaining Moral High Ground While Maximizing Market Share" and "Turning Competitor Missteps Into PR Wins."`,
+
+            `While Meta and Twitter's former CEO expressed legitimate worries about OpenAI's structural changes, industry observers couldn't help but notice the timing coincided perfectly with OpenAI's chatbot outperforming their own AI offerings.`,
+
+            `When reached for comment, one CEO's office responded with a pre-written statement about their commitment to transparency, followed by an automated reminder that their own company's history of aggressive acquisitions and data collection practices was "a completely different situation" and "not relevant to the current discussion."`,
+
+            `The AG's office is now accepting ethics complaints through their new automated chatbot, which sources say was coincidentally developed by OpenAI.`,
+        ]
+    },
+    {
+        id: 226,
+        articleUrl: `20241216-cloud-connected-smart`,
+        category: `tech`,
+        img: `/images/20241216-cloud-connected-smart.webp`,
+        alt: `A teddy bear wearing a server room maintenance vest and hard hat, connecting itself to ethernet cables.`,
+        header: `Cloud-Connected Smart Bear Requires Servers to Hug Children`,
+        subhead: `Parents Outraged After $299 Teddy's Arms Go Limp During Investment Round`,
+        tags: [`Affecta`,],
+        author: `Et Al`,
+        datePublished: new Date(2024,11,16,17),
+        articleBody: [
+            `Venture-backed startup Affecta raised $500 million in Series C funding this week for its revolutionary smart teddy bear that can only embrace children while connected to the company's cloud servers. The "Forever Hugs" bear, which retails for $299, uses advanced servo motors and machine learning to deliver what the company calls "emotionally intelligent physical interactions."`,
+
+            `Parents report their children were devastated when the bear's arms suddenly went limp during a routine server migration. "My daughter thought her best friend had died," said Michelle Park, whose 5-year-old refused to attend kindergarten after her bear stopped responding. "Then the bear started explaining AWS architecture to her while maintaining direct eye contact."`,
+
+            `Affecta CEO David Reeves defended the always-online requirement, noting that their board—which includes three former Tamagotchi executives who "really learned their lesson about letting digital pets die"—insisted on robust monetization strategies. The company's terms of service grant them rights to sell anonymized hug duration data to university psychology departments, while their "Emotional Continuity Insurance" costs $399 annually.`,
+
+            `Parents have also noticed the bear's arms becoming increasingly stiff as subscription renewal dates approach. "It's like a mechanical guilt trip," said Tom Watson, whose son's bear now offers only "rigid side-pats" until payment processing clears.`,
+
+            `The move follows the spectacular failure of competitor HugTech's "Pay-Per-Hug" model, which reportedly bankrupted several families during a particularly rough flu season. "We learned from their mistakes," said Reeves from his Woodside estate. "Our monthly $24.99 HugPass™ subscription includes unlimited basic embraces, though premium comfort features remain à la carte."`,
+
+            `At press time, Affecta announced plans to expand their product line with a subscription-based invisible friend who disappears if parents miss a payment.`,
         ]
     },
 ]
