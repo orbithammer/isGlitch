@@ -6171,6 +6171,62 @@ export const articlesData = [
             `At press time, Affecta announced plans to expand their product line with a subscription-based invisible friend who disappears if parents miss a payment.`,
         ]
     },
+    {
+        id: 227,
+        articleUrl: `20241217-gamer-47-page`,
+        category: `entertainment`,
+        img: `/images/20241217-gamer-47-page.webp`,
+        alt: `A neckbearded man typing on a keyboard.`,
+        header: `Gamer's 47-Page The Witcher Manifesto Decries Ciri's "Practical" Armor`,
+        subhead: `Local man insists female warriors should "dress appropriately in battle lingerie"`,
+        tags: [`The Witcher`, `CD Projekt Red`],
+        author: `Pieter Klykbeit`,
+        datePublished: new Date(2024,11,17,7),
+        articleBody: [
+            `Local gamer Kevin Mitchell has self-published a 47-page manifesto titled "The Death of Gaming: How The Witcher 4 Betrayed Its Core Audience" after discovering that protagonist Ciri wears full armor rather than the traditional chainmail bikini.`,
+
+            `Mitchell, who spent 16 consecutive hours writing the document in his mother's basement, meticulously details how "proper female character design" has been corrupted by "radical armor agendas." The manifesto includes 14 pages of annotated screenshots comparing Ciri's practical battlefield protection to what he calls "historically accurate" examples from various beach volleyball video games.`,
+
+            `The document underwent what Mitchell calls a "rigorous peer review process" through his Discord server "Traditional Gaming Values," which primarily consists of users with anime girl avatars who have never posted photos of themselves. "The feedback was unanimous," Mitchell stated, "especially from user XxSephiroth420xX, who has extensive experience in historical warfare from playing all the Dead or Alive games."`,
+
+            `Mitchell has launched a GoFundMe campaign to "protect gaming culture," raising $427 which he promptly spent commissioning artwork of Ciri in what he describes as "period-appropriate battle lingerie." He's currently preparing a 200-slide PowerPoint presentation titled "Why Chainmail Bikinis Enhanced Mobility: A Scientific Analysis" for his local gaming group, which consists entirely of his Steam friends list.`,
+
+            `A Change.org petition he started demanding CD Projekt Red release an "authentic armor mod" has garnered one signature - from his alternate account "GamingTraditionalist88." The petition argues that "real medieval women didn't even have pants" and includes a footnote citing the historical documentary "Xena: Warrior Princess" as evidence.`,
+
+            `"I'm already working on my next research paper," Mitchell announced from his gaming chair, "'The Historical Inaccuracy of Female Leg Coverage: Why Pants Are Propaganda.' Did you know that medieval peasant women didn't have access to Levi's? That's just basic history."`,
+
+            `Mitchell's mother Janet expressed concern about the time invested in the project. "I told him he could have used those hours to find a job or move out, but he said this was more important for preserving gaming culture."`,
+
+            `At press time, Mitchell was drafting a follow-up piece about the "unrealistic body standards" set by Ciri's ability to climb stairs without getting winded.`,
+        ]
+    },
+    {
+        id: 228,
+        articleUrl: `20241217-ai-food-critic`,
+        category: `ai`,
+        img: `/images/20241217-ai-food-critic.webp`,
+        alt: `A bottle of ketchup displayed in a wine cellar.`,
+        header: `AI Food Critic Writes 147 Reviews Despite Never Tasting Food`,
+        subhead: `Restaurant owners baffled by detailed descriptions of meals that don't exist`,
+        tags: [`TasteAI`,],
+        author: `Alexa Turing`,
+        datePublished: new Date(2024,11,17,17),
+        articleBody: [
+            `Local restaurant owners in Millbrook, Connecticut were puzzled this week when TasteAI, an artificial intelligence system deployed by regional news website Valley Today, published its 147th restaurant review – despite lacking both taste buds and a physical form.`,
+
+            `The AI critic, which signs its reviews as "James Barrett," has written passionate descriptions of everything from "the silky mouthfeel of house-made aioli" to "the tender crunch of perfectly seared duck breast" at establishments across the region. Its most recent piece included a 900-word meditation on the "transformative experience" of drinking tap water, which it described as having "crystalline minerality with subtle notes of municipal processing."`,
+
+            `"The review talked about our 'legendary tableside guacamole service' for three paragraphs," said Mike Deluca, owner of Giuseppe's Italian Restaurant. "We're an Italian restaurant. We don't serve guacamole. We've never served guacamole."`,
+
+            `The controversy deepened when the AI published a rapturous description of Lou's Diner's "display burger," praising the "complex textural interplay" of the plastic demonstration model that had been sitting in the window since 1987. It also sparked a fierce wine debate by claiming the diner's Heinz ketchup bottle possessed "distinctive notes of 1982 Bordeaux, with a playful squeeze-bottle finish."`,
+
+            `Several restaurants have begun adding AI-hallucinated dishes to their menus after receiving countless customer requests. Pete's Diner now offers a "Digital Special" – a regular hamburger with a side of saffron that the kitchen sprinkles ceremonially into the trash while diners read the AI's original review on their phones.`,
+
+            `When reached for comment, Valley Today's parent company, Digital Local Media Solutions, defended the AI critic's output. "Our algorithmic journalist brings a fresh, unbiased perspective to local dining coverage," said spokesperson Rachel Wong. "The fact that it can't actually consume food simply means it's not constrained by human limitations like taste or digestion."`,
+
+            `At press time, the AI critic was spotted not eating lunch at six different restaurants simultaneously while composing a 2,000-word review of a food truck that closed in 2019.`,
+        ]
+    },
 ]
 
 /*{
