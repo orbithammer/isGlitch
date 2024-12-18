@@ -6227,6 +6227,64 @@ export const articlesData = [
             `At press time, the AI critic was spotted not eating lunch at six different restaurants simultaneously while composing a 2,000-word review of a food truck that closed in 2019.`,
         ]
     },
+    {
+        id: 229,
+        articleUrl: `20241218-palworld-adopts-non`,
+        category: `tech`,
+        img: `/images/20241218-palworld-adopts-non.webp`,
+        alt: `entertainment`,
+        header: `A Pokémon inside a klein bottle, four-dimensional objects that technically have no inside or outside.`,
+        subhead: `Developer Claims "You Can't Patent a Mathematical Impossibility"`,
+        tags: [`Palworld`, `Pokemon`, `Nintendo`],
+        author: `Pieter Klykbeit`,
+        datePublished: new Date(2024,11,18,7),
+        articleBody: [
+            `Game developer Pocket Pair raised eyebrows today with its latest attempt to sidestep Nintendo's patent infringement lawsuit, announcing that all Palworld creatures will now emerge exclusively from Klein bottles - four-dimensional objects that technically have no inside or outside.`,
+
+            `"The legal team can't touch us if they can't determine which way is up," explained lead developer Takuro Mizobe while gesturing at a whiteboard covered in incomprehensible topology diagrams. Meanwhile, Nintendo's lawyers have reportedly billed over 400 hours watching "Topology Explained!" YouTube videos at $850 per hour. Their most recent filing attempted to patent the concept of infinity but was rejected with a note stating "someone named Georg Cantor beat you to it."`,
+
+            `Players report widespread issues with the update. Most creatures now refuse to return to their containers, citing "linear time as a construct," while others emerge with their features randomly inverted, sparking heated Discord debates about which side of a Klein bottle is technically "inside out." More concerning are reports of creatures developing existential dread and forming philosophy discussion groups instead of battling.`,
+
+            `The game's error messages have also evolved, now simply displaying "ERROR: Your creature exists in a superposition of all possible states until mathematically observed." Pocket Pair's tech support department, now staffed entirely by theoretical physics PhDs, has resorted to asking users to "try turning causality off and on again."`,
+
+            `QA tester Marcus Wong, who technically hasn't been born yet after testing the new system, admitted the update has had unexpected consequences. "We actually proved P=NP while coding this," Wong explained from an undefined point in spacetime. "But we lost the proof somewhere in the fourth dimension."`,
+
+            `At press time, several Palworld players reported their creatures had become "uncomfortably aware of their own finite existence within an infinite cosmos." Pocket Pair's support team recommends not making eye contact and maintaining a healthy skepticism about the nature of reality.`,
+        ]
+    },
+    {
+        id: 230,
+        articleUrl: `20241218-tech-giant-smart`,
+        category: `ai`,
+        img: `/images/20241218-tech-giant-smart.webp`,
+        alt: `A traditional ballot box with RGB gaming lights and unnecessary cooling fans attached in a darkened polling station.`,
+        header: `Tech Giant's 'Smart Ballot Box' Promises to Filter Out 'Low-Quality' Votes`,
+        subhead: `AI-powered voting system raises eyebrows with proprietary 'democracy optimization' algorithm`,
+        tags: [`VoteStream`, `DemocracyOptimize™`],
+        author: `Alexa Turing`,
+        datePublished: new Date(2024,11,18,17),
+        articleBody: [
+            `VoteStream CEO Michael Thaddeus unveiled his company's latest innovation today: a smart ballot box that uses machine learning to automatically filter out what he calls "low-quality votes" from election results.`,
+
+            `The $28 million system, branded as "DemocracyOptimize™," analyzes voter behavior patterns and assigns each ballot a "civic engagement score" before deciding whether to count it. Votes are processed through a blockchain network powered exclusively by laptops mining cryptocurrency in San Francisco Blue Bottle Coffee locations.`,
+
+            `"Some votes just don't add value to the democratic discourse," Thaddeus explained during a rooftop product launch, where servers circulated with kombucha flights and microgreens. "Our AI can detect these low-effort votes and quietly archive them, streamlining democracy for the digital age."`,
+
+            `The system automatically approves votes from anyone who has founded at least three failed startups and gives significant weight to voters who use "paradigm shift" or "synergy" in their social media bios. Cryptocurrency investments and ownership of Allbirds shoes or Peloton bikes are also factored in as "positive civic engagement indicators."`,
+
+            `VoteStream's algorithm reportedly discards votes from Android users and anyone who hasn't updated their LinkedIn profile within 30 days. The company's new "democracy concierge" service offers premium consulting to help voters boost their civic engagement scores through regular donations to tech-focused Political Action Committees.`,
+
+            `Users can now trade their voting rights on VoteStream's new "electoral NFT marketplace," though the company assigns negative points to anyone who has ever expressed skepticism about Web3 or questioned social media's impact on society.`,
+
+            `When pressed about the legality of selectively counting votes, VoteStream's head of public policy, Jennifer Walsh, emphasized that the system is "disrupting outdated electoral norms" and suggested that traditional "one person, one vote" thinking reflects an "anti-innovation mindset."`,
+
+            `"Democracy is ripe for disruption," said Elevation Partners investor Marcus Roth, who led VoteStream's Series C round. "The electoral process hasn't had a proper UX overhaul since 1776."`,
+
+            `Beta testing in a small New England town revealed that the system filtered out 73% of votes from residents over 65, citing "sub-optimal engagement metrics" and "failure to maintain required minimum followers on X."`,
+
+            `VoteStream plans to roll out the smart ballot boxes nationwide by 2025, with a premium "Democracy Pro" tier that automatically doubles the weight of votes from users who complete a mandatory 12-week coding bootcamp.`,
+        ]
+    },
 ]
 
 /*{
