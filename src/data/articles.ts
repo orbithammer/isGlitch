@@ -6260,7 +6260,7 @@ export const articlesData = [
         alt: `A traditional ballot box with RGB gaming lights and unnecessary cooling fans attached in a darkened polling station.`,
         header: `Tech Giant's 'Smart Ballot Box' Promises to Filter Out 'Low-Quality' Votes`,
         subhead: `AI-powered voting system raises eyebrows with proprietary 'democracy optimization' algorithm`,
-        tags: [`VoteStream`, `DemocracyOptimize™`],
+        tags: [`VoteStream`, `DemocracyOptimize`],
         author: `Alexa Turing`,
         datePublished: new Date(2024,11,18,17),
         articleBody: [
