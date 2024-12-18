@@ -6230,10 +6230,10 @@ export const articlesData = [
     {
         id: 229,
         articleUrl: `20241218-palworld-adopts-non`,
-        category: `tech`,
+        category: `entertainment`,
         img: `/images/20241218-palworld-adopts-non.webp`,
-        alt: `entertainment`,
-        header: `A Pokémon inside a klein bottle, four-dimensional objects that technically have no inside or outside.`,
+        alt: `A Pokémon inside a klein bottle, four-dimensional objects that technically have no inside or outside.`,
+        header: `Palworld Adopts Non-Euclidean Summoning to Dodge Patent Dispute`,
         subhead: `Developer Claims "You Can't Patent a Mathematical Impossibility"`,
         tags: [`Palworld`, `Pokemon`, `Nintendo`],
         author: `Pieter Klykbeit`,
