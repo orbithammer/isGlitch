@@ -101,7 +101,7 @@ const EntertainmentPage: React.FC = () => {
                 <Pagination
                     currentPage={currentPage}
                     totalPages={totalPages}
-                    currentSubPagePath="/entertainment/"
+                    currentSubPagePath="/entertainment"
                     onOlderPage={handleOlderPage}
                     onNewerPage={handleNewerPage}
                 />
