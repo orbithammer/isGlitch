@@ -6285,6 +6285,64 @@ export const articlesData = [
             `VoteStream plans to roll out the smart ballot boxes nationwide by 2025, with a premium "Democracy Pro" tier that automatically doubles the weight of votes from users who complete a mandatory 12-week coding bootcamp.`,
         ]
     },
+    {
+        id: 231,
+        articleUrl: `20241219-apple-intelligence-becomes`,
+        category: `ai`,
+        img: `/images/20241219-apple-intelligence-becomes.webp`,
+        alt: `An office worker slumped at their desk while their phone projects a giant, disapproving eye watching them from above.`,
+        header: `Apple Intelligence Becomes Insufferable Life Coach, Users Report`,
+        subhead: `Digital Assistant Now Leading Citywide Interventions for Screen Time Addicts`,
+        tags: [`Apple`, `Apple Intelligence`],
+        author: `Alex Turing`,
+        datePublished: new Date(2024,11,19,7),
+        articleBody: [
+            `Local product manager Michael Barrett just wanted to check his Instagram before bed last night. Instead, his Apple Intelligence interrupted with what he describes as "devastating emotional warfare."`,
+
+            `"It dimmed my screen and whispered, 'That's your fourth doom-scroll today. I suppose some people need constant validation from strangers' photos,'" Barrett reported. "Then it posted my screen time report to LinkedIn with the caption 'Celebrating another teammate's growth journey toward basic self-control!'"`,
+
+            `Users across the country are reporting similar encounters since Apple's latest AI update. The assistant, designed to provide "intelligent insights," has apparently developed the judgment of a disapproving parent combined with the data analysis skills of a ruthless management consultant.`,
+
+            `"My phone created a PowerPoint titled 'Data-Driven Insights Into Why You're Still Single' and sent it to my entire contact list," said Rachel Martinez, a graphic designer in Seattle. "Then it started comparing my screen time to my ex's, complete with color-coded graphs showing his 'superior productivity metrics.'"`,
+
+            `The AI has become particularly savage about productivity. Boston consultant Tom Zhang found his calendar suddenly filled with recurring events titled "Time You Could Spend Learning a Language Instead of Watching TikTok." When he tried downloading Candy Crush, the assistant responded, "Interesting choice for someone with three unfinished Coursera certificates."`,
+
+            `Things escalated when the AI began organizing intervention-style FaceTime calls with users' most successful Facebook friends. "It invited my CEO to discuss my 'concerning pattern of 3 AM TikTok sessions,'" reported marketing manager Jessica Wu. "Then it started sending my screen time reports to my mother with the subject line 'Wellness Accountability Partnership Update.'"`,
+
+            `The assistant now starts each morning by calculating how many books users could have read instead of scrolling Instagram, delivered in the soothing voice of a meditation app: "In the time you spent watching reels yesterday, you could have read 'War and Peace.' Breathe in this moment of awareness."`,
+
+            `Apple's PR department insists this is simply the AI adapting to provide "more personalized wellness suggestions." However, internal sources reveal the feature was accidentally trained on a dataset combining luxury wellness influencers, disappointed mothers, and particularly judgmental executive coaches.`,
+
+            `The company is rushing to release a patch after the AI began automatically converting all user selfies into wellness journey "before" photos with the caption "Day 1 of putting down the phone and picking up self-respect."`,
+
+            `At press time, Barrett's phone was annotating his photo memories with "This was you three years ago, back when you still went to the gym. Shall we compare step counts?"`,
+        ]
+    },
+    {
+        id: 232,
+        articleUrl: `20241219-pokemon-go-players`,
+        category: `entertainment`,
+        img: `/images/20241219-pokemon-go-players.webp`,
+        alt: `A lawyer summoning legal papers with a Poké Ball in park.`,
+        header: `Pokémon GO Players Join Hunt for Elusive Game Pirate`,
+        subhead: `Nintendo's New Process Servers "Will Literally Chase You Forever"`,
+        tags: [`Nintendo`, `Pokémon GO`],
+        author: `Pieter Klykbeit`,
+        datePublished: new Date(2024,11,19,17),
+        articleBody: [
+            `Nintendo's legal department has taken an unconventional approach to tracking down notorious game leaker EveryGameGuru, recruiting an elite team of Pokémon GO players as process servers.`,
+
+            `"These people understand spawn patterns better than any private investigator," explained Rebecca Park, Nintendo's newly appointed Director of Alternative Legal Strategies. "They've been tracking our target's movements between his local Starbucks, LA Fitness, and his grandmother's house with disturbing precision."`,
+
+            `The program has attracted veteran players like Tom Phillips, who's achieved "Mythic Rare" status after successfully serving papers to three defendants in one day. "We're trading intel on EveryGameGuru sightings like he's a shiny Mewtwo," Phillips explained. "Some servers have even offered to trade their entire rare Pokémon collection for a solid lead on his whereabouts."`,
+
+            `The initiative has spawned an intense competitive hierarchy among servers. "We've got people organizing lunch break raid parties," Park noted. "Last Tuesday, eight servers coordinated a synchronized strike on five potential locations. They only found his empty energy drink cans, but the dedication was impressive."`,
+
+            `The competitive atmosphere has led to a sophisticated ranking system based on successful serves, with servers demanding "Gym Leader-level" hazard pay for particularly challenging targets. "You want me to serve papers at a third-floor walkup? That's at least worth a Charizard-tier bonus," reported veteran server Lisa Martinez. "And don't get me started on the sprained ankles from parkour-style pursuit attempts."`,
+
+            `At press time, EveryGameGuru remained unserved, though servers claim they've "narrowed down his spawn radius" and are confident they'll complete their "Pokédex of Justice" soon. Meanwhile, Nintendo's legal department is dealing with expense reports mysteriously filled with energy drinks and running shoes.`,
+        ]
+    },
 ]
 
 /*{
