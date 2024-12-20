@@ -6343,6 +6343,62 @@ export const articlesData = [
             `At press time, EveryGameGuru remained unserved, though servers claim they've "narrowed down his spawn radius" and are confident they'll complete their "Pokédex of Justice" soon. Meanwhile, Nintendo's legal department is dealing with expense reports mysteriously filled with energy drinks and running shoes.`,
         ]
     },
+    {
+        id: 233,
+        articleUrl: `20241220-google-claims-ai`,
+        category: `ai`,
+        img: `/images/20241220-google-claims-ai.webp`,
+        alt: `A person in business suit attempting to paint the Google logo over the OpenAI logo.`,
+        header: `Google Claims AI Success After Moving Statistical Goalposts`,
+        subhead: `Internal memo redefines 'market dominance' as 'times people compare us to ChatGPT'`,
+        tags: [`Google`, `Gemini`],
+        author: `Alexa Turing`,
+        datePublished: new Date(2024,11,20,7),
+        articleBody: [
+            `A leaked internal report from Google's Workspace AI division reveals the tech giant has achieved "unprecedented market success" with its Gemini AI assistant, but only after radically redefining how it measures performance.`,
+
+            `The confidential document, obtained by industry insiders, details a new success metric dubbed "Competitive Mention Analytics" or CMA. Under this framework, every time a user complains that "ChatGPT would have done this better" or asks "Why can't this be more like Claude?", it counts as a positive engagement indicator. The system awards triple points when users manage to reference multiple competitors in a single frustrated sigh.`,
+
+            `Google's revolutionary new A/B testing program raised eyebrows when researchers discovered it simply involved showing half their users a ChatGPT interface skin over Gemini to boost satisfaction scores. The other half received a new auto-reply feature that responds "Have you tried our competitor's product?" to streamline the user complaint process.`,
+
+            `"We're seeing astronomical growth in cross-platform recognition," wrote VP of Strategic Reframing Michael Thompson. "Our Q1 reports show users mentioning competitor products in relation to Gemini an average of 4.7 times per session, up from 3.2 in Q4 2023. We're particularly excited about reaching peak frustration synergy, with 68% of users now involuntarily muttering 'Claude would never...' under their breath."`,
+
+            `The company's PR team recently won the prestigious "Narrative Transformation Award" for successfully rebranding user exodus as "competitive awareness engagement." Their latest metrics track success by counting how many times users copy-paste their Gemini prompt into ChatGPT in the same browser session.`,
+
+            `When reached for comment, Google spokesperson Jessica Martinez stated, "The viral growth potential of users teaching each other workarounds to avoid using Gemini shows we're part of a broader conversation about the future of artificial intelligence."`,
+
+            `At press time, Google's internal dashboard showed its highest success rate yet, with 97% of users asking if they could "just switch to literally anything else."`,
+        ]
+    },
+    {
+        id: 234,
+        articleUrl: `20241220-silicon-valley-ceo`,
+        category: `tech`,
+        img: `/images/20241220-silicon-valley-ceo.webp`,
+        alt: `A smiling tech CEO wearing a diamond-encrusted stethoscope and a $5k suit holding two fistfulls of cash with miserable nurses in a hospital in the background.`,
+        header: `Silicon Valley CEO Discovers One Weird Trick to Cut Labor Costs`,
+        subhead: `Hospitals Embrace 'Zero-Pay Work Experience Platform' as Revolutionary Healthcare Solution`,
+        tags: [`NurseFlow`,],
+        author: `Et Al`,
+        datePublished: new Date(2024,11,20,17),
+        articleBody: [
+            `Tech mogul Marcus Bennett stunned investors yesterday by announcing his healthcare staffing startup NurseFlow had achieved profitability through what he called a "paradigm-shifting approach to human capital optimization" - simply not paying workers at all.`,
+
+            `Speaking from his new $85 million Palo Alto mansion during the company's first annual "Poverty Innovation Summit," Bennett unveiled NurseFlow's "Gratitude Economy" where patients can tip nurses with "exposure coins" instead of actual money.`,
+
+            `"Traditional healthcare models waste millions on outdated concepts like wages," Bennett explained, pausing briefly to fire an employee for "wasteful water cooler resource consumption." "Think about paying workers like feeding pigeons - it just encourages them to come back."`,
+
+            `The announcement sent NurseFlow's stock soaring 43% after the board approved Bennett's $250 million compensation package for "revolutionizing cost reduction." The company also unveiled its new slogan "Turn Your Labor Into Our Value™" - which nurses must pay a licensing fee to mention.`,
+
+            `Bennett demonstrated the platform's "Voluntary Mandatory Overtime" program, where nurses prove their dedication by working extra shifts at negative pay. Top performers can earn the privilege to purchase their own health insurance after logging 10,000 unpaid hours.`,
+
+            `"Our revolutionary blockchain technology now allows nurses to invest in purchasing shares of their own future unpaid shifts through WorkCoin," Bennett beamed, adjusting his signature black turtleneck. "And our proprietary timesheet system automatically deducts Ethereum-based tokens when nurses steal company time by using the restroom."`,
+
+            `The company concluded the event by announcing an upcoming "appreciation week" where nurses can pay premium rates to have their names displayed in break rooms. "This isn't just about transforming healthcare," Bennett said. "This is about reimagining the very concept of compensation itself."`,
+
+            `At press time, Bennett was reportedly exploring a Series F funding round to develop blockchain technology that could "revolutionize" unpaid lunch breaks.`,
+        ]
+    },
 ]
 
 /*{
