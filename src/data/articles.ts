@@ -6376,7 +6376,7 @@ export const articlesData = [
         category: `tech`,
         img: `/images/20241220-silicon-valley-ceo.webp`,
         alt: `A smiling tech CEO wearing a diamond-encrusted stethoscope and a $5k suit holding two fistfulls of cash with miserable nurses in a hospital in the background.`,
-        header: `Silicon Valley CEO Discovers One Weird Trick to Cut Labor Costs`,
+        header: `Silicon Valley CEO Discovers One Weird Trick to Cut Medical Labor Costs`,
         subhead: `Hospitals Embrace 'Zero-Pay Work Experience Platform' as Revolutionary Healthcare Solution`,
         tags: [`NurseFlow`,],
         author: `Et Al`,
