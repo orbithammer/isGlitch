@@ -6399,6 +6399,60 @@ export const articlesData = [
             `At press time, Bennett was reportedly exploring a Series F funding round to develop blockchain technology that could "revolutionize" unpaid lunch breaks.`,
         ]
     },
+    {
+        id: 235,
+        articleUrl: `20241221-apple-supply-chain`,
+        category: `tech`,
+        img: `/images/20241221-apple-supply-chain.webp`,
+        alt: `An Apple executive in a crisp suit and looking at his iPhone smiling standing in an African mine with an Apple logo sun in the background.`,
+        header: `Apple's Supply Chain Tracker Uses Quantum Tech to See Almost Nothing`,
+        subhead: `Revolutionary System Achieves Both Perfect Transparency and Total Opacity`,
+        tags: [`Apple`,],
+        author: `Et Al`,
+        datePublished: new Date(2024,11,21,7),
+        articleBody: [
+            `Apple unveiled its groundbreaking "SupplyVision" tracking system yesterday, promising unprecedented transparency into its global manufacturing network through what it calls "quantum responsibility technology" – a system that mysteriously exists in two states simultaneously: perfect clarity and total darkness, depending on who's asking.`,
+
+            `The $750 million platform combines AI, blockchain, and "ethical interference detection" to monitor component sourcing in real-time. Its dashboard features the innovative "Selective Memory™" feature, which automatically redacts what Apple calls "potentially stressful" supply chain data.`,
+
+            `"It's remarkable technology," says industry analyst Michael Peterson. "You can literally watch a capacitor being manufactured in Taiwan, follow it through Japan, and track it all the way to California. Though when journalists request access to certain regions, the system activates its 'Responsible Sourcing Mode,' displaying a mesmerizing screensaver of happily dancing minerals."`,
+
+            `When pressed about these geographic blind spots during the keynote, Apple's VP of Supply Chain Innovation, David Martinez, adjusted his Apple Vision Pro headset and gestured at floating AR graphs where troubling data had been automatically converted into beautiful butterflies. "Our Reality Distortion Field 2.0 ensures users experience supply chain transparency in the most emotionally responsible way possible."`,
+
+            `The system requires users to sign a 47-page agreement acknowledging that any gaps in tracking are "proof of how well it's working." It also includes an AI chatbot that responds to all supply chain inquiries with randomly generated inspirational quotes about trust.`,
+
+            `When reporters attempted to investigate certain suppliers, SupplyVision instantly generated a 500-page compliance report titled "Everything Is More Complicated Than You Think: A Comprehensive Analysis of Why Not Knowing Is Actually Better."`,
+
+            `An Apple spokesperson responded to questions about the suspicious pattern of coverage blackouts by sharing a 400-megabyte AR experience titled "The Joy of Not Knowing Everything," which automatically loops whenever users try to pause it.`,
+        ]
+    },
+    {
+        id: 236,
+        articleUrl: `20241221-tech-giants-launch`,
+        category: `tech`,
+        img: `/images/20241221-tech-giants-launch.webp`,
+        alt: `A tech worker typing on a laptop in a prison.`,
+        header: `Tech Giants Launch 'Values-by-Location' Privacy Settings`,
+        subhead: `Users Can Now Customize Rights Based on GPS Data`,
+        tags: [`Human Rights`,],
+        author: `Et Al`,
+        datePublished: new Date(2024,11,21,17),
+        articleBody: [
+            `Major tech companies announced today the rollout of their new "Regional Values" feature, allowing users to automatically adjust their privacy and human rights settings based on their current location.`,
+
+            `"We're excited to introduce this seamless solution for our complex global market," said Jennifer Rothschild, Head of International Compliance at Metaverse Systems. "Users receive gentle, mandatory push notifications about their evaporating rights as they cross each border, just like their time zones."`,
+
+            `The new menu, accessible through a small padlock icon that occasionally shrugs, includes a premium "Legacy Human Rights Classic™" subscription for $29.99 monthly. "Premium users can maintain up to three basic human rights for four hours after entering restricted regions," explained Microsoft's VP of Global Relations, Robert Martinez. "The countdown timer helps users plan their activities accordingly."`,
+
+            `The system's default "Global Harmony Mode" has already won praise from government officials for its ability to automatically resolve ethical conflicts by selecting the most restrictive option available. Users can also earn "Freedom Points" by voluntarily downgrading their privacy settings, redeemable for exclusive profile stickers like "Team Player" and "Good Citizen."`,
+
+            `"It's all about giving users control," Martinez added while demonstrating how the feature displays a live "Rights Remaining" countdown timer when crossing borders. "Now, when governments ask for data, we can simply point to our users' location-based consent settings."`,
+
+            `The companies have embraced their new slogan "Your Rights, Their Way™" with a complementary "Ethics Offset" program, where they plant one privacy policy in California for every right revoked abroad.`,
+
+            `At press time, several tech CEOs were reportedly struggling to disable the feature during their testimonies before Congress, as the Capitol building had been accidentally geo-tagged as a restricted zone.`,
+        ]
+    },
 ]
 
 /*{
