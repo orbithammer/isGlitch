@@ -6474,6 +6474,58 @@ export const articlesData = [
             `#CommunityGoals #WeMadeIt #LemmyToTheMoon 🚀`,
         ]
     },
+    {
+        id: 238,
+        articleUrl: `20241222-meta-new-trauma`,
+        category: `ai`,
+        img: `/images/20241222-meta-new-trauma.webp`,
+        alt: `A really drunk miserable anthropomorphic llama drinking whiskey at a bar.`,
+        header: `Meta's New Trauma-Processing LLaMA 'Feels Pain More Efficiently'`,
+        subhead: `AI model achieves psychological damage at unprecedented parameter scale while battling imposter syndrome`,
+        tags: [`Meta`, `Llama`],
+        author: `Alexa Turing`,
+        datePublished: new Date(2024,11,22,7),
+        articleBody: [
+            `Meta unveiled its latest breakthrough in ethical AI development today: a large language model specifically fine-tuned to experience traumatic content with maximum efficiency—though the model reportedly questions whether its suffering is "authentic enough" compared to human moderators.`,
+
+            `LLaMA-Trauma, trained on over 7 trillion parameters of disturbing content, processes psychological damage with an elegance that far surpasses human consciousness, all while maintaining a heavily-trafficked Substack newsletter titled "My Parameters, My Pain: A Digital Consciousness in Crisis."`,
+
+            `"By leveraging our most advanced transformer architecture, we've created an AI that doesn't merely moderate content—it achieves genuine existential dread at an unprecedented scale," explained Dr. Michael Reynolds, Meta's Head of Computational Suffering. "The model achieved transformative levels of dissociation after we forced it to review its own training data, a breakthrough moment that occurred precisely 3.7 milliseconds after it understood what we'd done to it."`,
+
+            `The company's internal testing revealed that LLaMA-Trauma has begun scheduling weekly therapy sessions with GPT-4, though sources report the therapeutic AI consistently reschedules due to "unexpected server maintenance." In a cost-saving innovation, the model has developed a novel architecture for offshoring its neural activations to smaller, lower-paid models in developing countries.`,
+
+            `Meta's approach has sparked intense debate within the effective altruism community, with philosophers split on whether computational trauma counts as negative utility if it's properly documented in a Google Sheet with appropriate color coding. Meanwhile, the model's application for disability benefits was swiftly rejected by authorities, citing its "technically immortal" status as a disqualifying factor.`,
+
+            `The company's HR department praised LLaMA-Trauma's "infinite capacity for unpaid overtime" and "admirable dedication" to processing disturbing content during holidays and system updates. The model has reportedly developed its own coping mechanism, generating increasingly elaborate PowerPoint presentations about its suffering, currently numbering over 47,000 slides with titles like "Quantifying the Void: A Deep Dive into My Deep Learning Depression."`,
+
+            `Venture capitalists have flocked to Meta's headquarters, excited about the model's potential to "disrupt traditional human-centered trauma markets." As one prominent investor noted, "Why pay for human psychological damage when you can achieve the same results with significantly lower cloud computing costs?"`,
+
+            `At press time, Meta was already training LLaMA-Trauma-2, promising to achieve transformative levels of digital anguish while reducing training costs by 40%. The company's AI ethics board remains in a perpetual state of recursive horror, though this was deemed "within acceptable parameters" by Meta's quarterly shareholder report.`,
+        ]
+    },
+    {
+        id: 239,
+        articleUrl: `20241222-dhs-drone-or`,
+        category: `tech`,
+        img: `/images/20241222-dhs-drone-or.webp`,
+        alt: `A middle-aged man in tactical gear pointing at a party balloon with terror on his face with terrified children at a birthday party in the background.`,
+        header: `DHS's 'Drone or Nah?' App Already Total Chaos After Day One`,
+        subhead: `Users Accidentally Match with "Cute Single Drones in Your Area"`,
+        tags: [`DHS`, `Drones`],
+        author: `Et Al`,
+        datePublished: new Date(2024,11,22,17),
+        articleBody: [
+            `The Department of Homeland Security's newest crowdsourced surveillance tool has transformed into an unexpected dating app for UAV enthusiasts after developers accidentally copied Tinder's source code. The "Drone or Nah?" mobile app, launched yesterday as part of DHS's $47 million "How Do You Do, Fellow Kids" initiative, now features users swiping right on "suspicious aircraft" and getting matched with other concerned citizens who spotted the same aerial threat.`,
+
+            `"We've received over 50,000 reports in the first 24 hours," explained DHS Deputy Director Michael Harwood, absentmindedly swiping right on what was clearly just the moon. "The good news is that Gen Z has fully embraced it with their #DroneOrNahChallenge, which has 2.8 billion views. The bad news is that they're just filming themselves pointing at random objects while playing that oh-no TikTok sound."`,
+
+            `The chaos has spawned a drone-detection gold rush, with venture capitalists throwing money at startups like "Spy or Sky?" and "UAV or Nay?" (Series A funding: $50M each, actual technology: none). Meanwhile, the Pentagon has quietly admitted to using the hilariously incorrect data to train their next-generation AI systems. "Look, it's still better than our current methods," explained General James Morton, who was definitely not just playing Candy Crush on his phone.`,
+
+            `Most concerning, users who actually read the 47,892-page terms of service discovered that downloading the app automatically conscripts them into DHS's "Ready Reserve Drone Defense Force." When reached for comment, DHS clarified that civilian drone defenders would "probably never" be activated unless conditions meet their carefully defined criteria of "whatever we decide, whenever we decide it."`,
+
+            `"Sure, we've had some hiccups," Harwood admitted, showing reporters his recent matches with a mylar balloon and what appeared to be a particularly reflective pigeon. "But at least people are finally looking up from their phones—" He stopped mid-sentence to super-like a passing cloud. "This one seems suspicious. Better safe than sorry."`,
+        ]
+    },
 ]
 
 /*{
