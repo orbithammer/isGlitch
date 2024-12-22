@@ -6453,6 +6453,27 @@ export const articlesData = [
             `At press time, several tech CEOs were reportedly struggling to disable the feature during their testimonies before Congress, as the Capitol building had been accidentally geo-tagged as a restricted zone.`,
         ]
     },
+    {
+        id: 237,
+        articleUrl: `20241222-the-isglitch-lemmy`,
+        category: `tech`,
+        img: `/images/20241222-the-isglitch-lemmy.webp`,
+        alt: `A man doing a victory pose at his computer desk.`,
+        header: `[META - not that Meta] The isGlitch.com Lemmy Community Surpasses 100 Subscribers`,
+        subhead: `Seems 100 People Figured Out How to Make a Lemmy Account`,
+        tags: [`isGlitch`,],
+        author: `Et Al`,
+        datePublished: new Date(2024,11,22,2),
+        articleBody: [
+            `🎉 BREAKING NEWS (that will absolutely break the internet): The unstoppable force known as [isGlitch.com's](https://lemmy.world/c/isglitch) Lemmy community has OFFICIALLY SHATTERED the cosmic barrier of 100 subscribers (a number that literally represents how many people clicked a button, but also somehow means EVERYTHING)!`,
+
+            `To our absolutely legendary subscribers (yes, YOU, person reading this right now, unless you haven't subscribed, in which case... awkward): Your commitment to building this community (while simultaneously destroying traditional social media paradigms) has been nothing short of revolutionary (in a totally non-political, algorithm-friendly way).`,
+
+            `This is basically like hitting 1M followers on [insert dying social media platform here], but actually cooler because we're doing it on Lemmy (which is like Twitter but for people who know what Federation means beyond just Star Trek references).`,
+
+            `#CommunityGoals #WeMadeIt #LemmyToTheMoon 🚀`,
+        ]
+    },
 ]
 
 /*{

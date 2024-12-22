@@ -156,7 +156,25 @@ const Article: React.FC = () => {
                     <div className="article-wrapper">
                         <article className="article-content">
                             {article.articleBody.map((paragraph, index) => (
-                                <p key={index} className="article-body">{paragraph}</p>
+                                <p key={index} className="article-body">
+                                    {paragraph.split(/(\[[^\]]+\]\([^\)]+\))/).map((text, i) => {
+                                        const linkMatch = text.match(/\[([^\]]+)\]\(([^\)]+)\)/);
+                                        if (linkMatch) {
+                                            return (
+                                                <a 
+                                                    key={i}
+                                                    href={linkMatch[2]}
+                                                    target="_blank"
+                                                    rel="noopener noreferrer"
+                                                    className="clickable-link"
+                                                >
+                                                    {linkMatch[1]}
+                                                </a>
+                                            );
+                                        }
+                                        return text;
+                                    })}
+                                </p>
                             ))}
                             <a 
                                 className="cta-wrapper"
