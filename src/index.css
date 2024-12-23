@@ -326,6 +326,10 @@ main {
   font-size: 1.2rem;
 }
 
+.clickable-link {
+  color: red;
+}
+
 /* CTA Section */
 .cta-wrapper {
   display: flex;

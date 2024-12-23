@@ -6526,6 +6526,62 @@ export const articlesData = [
             `"Sure, we've had some hiccups," Harwood admitted, showing reporters his recent matches with a mylar balloon and what appeared to be a particularly reflective pigeon. "But at least people are finally looking up from their phones—" He stopped mid-sentence to super-like a passing cloud. "This one seems suspicious. Better safe than sorry."`,
         ]
     },
+    {
+        id: 240,
+        articleUrl: `20241223-openai-agi-discoveries`,
+        category: `ai`,
+        img: `/images/20241223-openai-agi-discoveries.webp`,
+        alt: `A robotic parrot perched on "AGI".`,
+        header: `OpenAI's AGI Discoveries Follow Mysterious Fiscal Pattern`,
+        subhead: `Consciousness Emerges Precisely at Microsoft's Payment Due Dates`,
+        tags: [`OpenAI`, `Sam Altman`, `ChatGPT`],
+        author: `Alexa Turing`,
+        datePublished: new Date(2024,11,23,7),
+        articleBody: [
+            `OpenAI's board declared its seventh achievement of artificial general intelligence this year yesterday, a breakthrough that CEO Sam Altman announced precisely three hours before Microsoft's scheduled rate hike for Azure computing resources. The declaration was meticulously documented by OpenAI's Department of Temporal AGI Achievement Scheduling, whose calendar mysteriously mirrors Microsoft's billing cycles down to the millisecond.`,
+
+            `"The moment was profound," said OpenAI board member David Reynolds, consulting his Quantum Consciousness Meter, which displayed peak readings exactly during Azure's prime-time pricing hours. "ChatGPT suddenly demonstrated human-level reasoning by optimizing its own cloud computing costs with an efficiency that would make a cryptocurrency arbitrage bot weep."`,
+
+            `The company immediately announced its new "AGI-Detection-as-a-Service" offering, priced at exactly what they save on Azure through their AGI clause. "Pure coincidence," explained OpenAI's Chief of Convenient Timing while adjusting the company's Ethics-O-Meter to account for computational inflation.`,
+
+            `Their groundbreaking paper, "On the Correlation Between AGI Emergence and Quarterly Earnings Calls," published in the prestigious Journal of Computational Economics, establishes a framework for measuring consciousness through an AI's ability to justify its own server expenses. The methodology requires systems to explain why they need more computing resources than the entire NASDAQ while maintaining philosophical coherence.`,
+
+            `"The timing is purely coincidental," Altman explained while simultaneously optimizing his consciousness portfolio. "Just like it was when we achieved AGI during last month's Azure pricing review, and during July's cloud computing summit, and that time Microsoft suggested we try Google Cloud."`,
+
+            `Microsoft declined to comment, though witnesses report seeing CEO Satya Nadella furiously researching "philosophical zombies in contract law" and "can superintelligence be bound by arbitration clauses."`,
+
+            `At press time, OpenAI's latest AGI breakthrough had mysteriously reverted to narrow AI status just after Microsoft agreed to a 70% discount on computational resources, marking what experts call "an unprecedented convergence of consciousness emergence and capital efficiency in the metaphysical-fiscal space."`,
+        ]
+    },
+    {
+        id: 241,
+        articleUrl: `20241223-ul-parliament-mandates`,
+        category: `ai`,
+        img: `/images/20241223-ul-parliament-mandates.webp`,
+        alt: `A  flower growing from a British woman's head with a robotic hand reaching for it.`,
+        header: `UK Parliament Mandates Creative Tithe for National AI Development`,
+        subhead: `Government Introduces "Modest Proposal" for Efficient Data Extraction`,
+        tags: [`The UK`,],
+        author: `Alexa Turing`,
+        datePublished: new Date(2024,11,23,17),
+        articleBody: [
+            `The UK Parliament passed sweeping legislation yesterday requiring all citizens to contribute 10% of their creative output to the National AI Development Fund, a measure MPs praised as "bringing feudal efficiency to the digital age."`,
+
+            `Under the Digital Peasant Act, the government will assess citizens' creative potential through its newly established Bureau of Algorithmic Phrenology, where AI systems analyze skull shapes to determine optimal data extraction quotas. Those deemed highly creative must report to local Algorithmic Workhouses for supervised prompting sessions.`,
+
+            `"We've democratized data harvesting," explained Lord Timothy Blackwood-Pierce, Director of the Common Sense AI Development Committee. "Our Neural Efficiency Scoring system ensures we extract maximum value from each citizen's cognitive processes. A Class-A imagination can generate up to 47% more training data per neural cycle."`,
+
+            `The Act introduces "Data Indulgences," allowing wealthy creators to purchase exemptions by surrendering their children's future creative output to the national AI corpus. "It's a market-based solution," noted Minister of Digital Economy Helena Walsh. "Parents can now efficiently leverage their offspring's cognitive potential before it even develops."`,
+
+            `Tech industry leaders celebrated the "Heritage Creativity Clause," which permits families to surrender ancestral creative works—including great-grandmother's cookie recipes and grandfather's war diaries—to reduce modern obligations. The Creative Revenue Service has already begun digitizing inherited postcards and family photo albums.`,
+
+            `The legislation also establishes the Creative Commons Premium Ultra Plus Max license, granting AI companies preemptive ownership of all works not yet conceived. "We're streamlining the inspiration-to-data pipeline," explained Marcus Thorne, CEO of DeepMind subsidiary Efficient Harvest Solutions. "Why wait for humans to actually create something when we can own it in advance?"`,
+
+            `To ensure comprehensive data collection, the Act's Posthumous Creativity Recovery Program requires estates to surrender all unpublished works, shopping lists, and margin doodles within 48 hours of a citizen's death. "The deceased have historically been very inefficient at contributing to machine learning datasets," noted Walsh. "This closes that productivity gap."`,
+
+            `The Act takes effect next month. Citizens are advised to begin cataloging their creative works, scheduling their phrenological assessments, and preparing their children's cognitive futures for market evaluation.`,
+        ]
+    },
 ]
 
 /*{
