@@ -6558,7 +6558,7 @@ export const articlesData = [
         articleUrl: `20241223-ul-parliament-mandates`,
         category: `ai`,
         img: `/images/20241223-ul-parliament-mandates.webp`,
-        alt: `A  flower growing from a British woman's head with a robotic hand reaching for it.`,
+        alt: `A flower growing from a British woman's head with a robotic hand reaching for it.`,
         header: `UK Parliament Mandates Creative Tithe for National AI Development`,
         subhead: `Government Introduces "Modest Proposal" for Efficient Data Extraction`,
         tags: [`The UK`,],
