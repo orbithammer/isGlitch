@@ -6619,7 +6619,7 @@ export const articlesData = [
         articleUrl: `20241224-google-new-productivity`,
         category: `tech`,
         img: `/images/20241224-google-new-productivity.webp`,
-        alt: `A Google tech worker typing on a laptop surrounded by many CCTV cameras pointed at him`,
+        alt: `A Google tech worker typing on a laptop surrounded by many CCTV cameras pointed at him.`,
         header: `Google's New Productivity Tool Records Itself in Infinite Loop`,
         subhead: `Controversial monitoring software spends 6 months tracking its own meetings about tracking`,
         tags: [`Google`, `Surveillance`],
