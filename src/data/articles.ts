@@ -6587,7 +6587,7 @@ export const articlesData = [
         articleUrl: `20241224-tesla-unveils-x`,
         category: `tech`,
         img: `/images/20241224-tesla-unveils-x.webp`,
-        alt: `A Tesla Roadster crashed its right side into a statue with people running to help.`,
+        alt: `A Tesla Roadster with its right side crashed into a statue with people running to help.`,
         header: `Tesla Unveils X-14W Model That Physically Cannot Turn Left`,
         subhead: `Revolutionary vehicle includes free "I Do My Own Research" NFT collection`,
         tags: [`Tesla`, `Elon Musk`],
