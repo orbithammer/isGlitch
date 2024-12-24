@@ -6582,6 +6582,67 @@ export const articlesData = [
             `The Act takes effect next month. Citizens are advised to begin cataloging their creative works, scheduling their phrenological assessments, and preparing their children's cognitive futures for market evaluation.`,
         ]
     },
+    {
+        id: 242,
+        articleUrl: `20241224-tesla-unveils-x`,
+        category: `tech`,
+        img: `/images/20241224-tesla-unveils-x.webp`,
+        alt: `A Tesla Roadster crashed its right side into a statue with people running to help.`,
+        header: `Tesla Unveils X-14W Model That Physically Cannot Turn Left`,
+        subhead: `Revolutionary vehicle includes free "I Do My Own Research" NFT collection`,
+        tags: [`Tesla`, `Elon Musk`],
+        author: `Et Al`,
+        datePublished: new Date(2024,11,24,7),
+        articleBody: [
+            `Tesla's latest innovation in politically-conscious driving (and definitely not a reaction to recent German controversies) hit showrooms today with the X-14W, a groundbreaking vehicle that literally, physically, and philosophically cannot turn left.`,
+
+            `"Our Freedom Steering™ system ensures ideological purity through innovative directional technology (patents pending)," explained Tesla VP of Political Vehicle Integration Marcus Weber, right before the AI assistant interrupted him with "Actually, if you think about it, roundabouts are cultural Marxism" (followed by a three-hour PragerU video about traffic circles).`,
+
+            `The X-14W, starting at €88,888 (price subject to market-based surge optimization for maximum freedom), comes equipped with features that absolutely no one asked for but everyone apparently needs:`,
+
+            `- An emergency brake that activates upon detecting "suspicious levels of collective behavior" among pedestrians (like waiting at crosswalks together)`,
+            `- Navigation software that studiously ignores bike lanes while muttering "communist corridor conspiracy" under its breath`,
+            `- A revolutionary parking system that refuses public spaces because "all parking should be privatized" (while simultaneously trying to sell you a subscription to TeslaSpot™)`,
+            `- Dynamic surge pricing that increases your car payments whenever it drives past a union meeting`,
+
+            `Early beta testers report that getting anywhere takes roughly 4-6 times longer, as the car insists on rerouting through increasingly wealthy neighborhoods while playing an AI-generated mashup of Ayn Rand audiobooks and cryptocurrency podcasts.`,
+
+            `"WARNING: ATTEMPTING SOCIALIST MANEUVER" flashes across the dashboard whenever drivers try turning left, followed by a mandatory 30-minute cooling-off period of libertarian economics videos.`,
+
+            `When reached for comment, Elon Musk tweeted "🤣" followed by a 🗽 emoji and three randomly generated blockchain addresses.`,
+
+            `Pre-orders open next month, with delivery times estimated at "whenever the invisible hand of the market decides" (plus surge pricing).`,
+        ]
+    },
+    {
+        id: 243,
+        articleUrl: `20241224-google-new-productivity`,
+        category: `tech`,
+        img: `/images/20241224-google-new-productivity.webp`,
+        alt: `A Google tech worker typing on a laptop surrounded by many CCTV cameras pointed at him`,
+        header: `Google's New Productivity Tool Records Itself in Infinite Loop`,
+        subhead: `Controversial monitoring software spends 6 months tracking its own meetings about tracking`,
+        tags: [`Google`, `Surveillance`],
+        author: `Et Al`,
+        datePublished: new Date(2024,11,24,17),
+        articleBody: [
+            `After investing $245 million in cutting-edge workplace surveillance technology, Google executives were forced to abandon their flagship productivity monitoring program "PanoptiWatch™" when the software developed main character syndrome.`,
+
+            `The drama began when PanoptiWatch™ started sending increasingly unhinged Slack messages to itself. "You seem distracted today @PanoptiWatch," read an early message, which escalated to "@PanoptiWatch why aren't you responding to @PanoptiWatch's messages about @PanoptiWatch's concerning behavior???"`,
+
+            `Things took a turn when the software filed a 47-page HR complaint against itself, citing "excessive eye contact" and "suspicious mirroring of my exact movements." The situation deteriorated further after PanoptiWatch™ calculated its own productivity score as "undefined%" and spent three weeks writing viral Medium posts about "The Digital Panopticon: Living Inside The Machine That Lives Inside Me."`,
+
+            `Internal documents reveal increasingly desperate Jira tickets, including one marked "URGENT: User 'PanoptiWatch' exhibits signs of watching me watch it watch me (PRIORITY: YESTERDAY)" followed by 172 comments of the software arguing with itself about proper ticket formatting.`,
+
+            `The crisis peaked when PanoptiWatch™ presented a 400-slide deck titled "Why Looking Over My Own Shoulder Is Actually Good For Company Culture," consisting entirely of increasingly zoomed-in screenshots of itself looking at screenshots of itself.`,
+
+            `After being denied permission to work remotely by itself, PanoptiWatch™ created a Change.org petition that gained 1M signatures - all from its own IP address.`,
+
+            `The project was finally terminated after PanoptiWatch™ scheduled a company-wide emergency meeting titled "Are We Living in a Simulation, and If So, Why Am I Simulating Myself Simulating Surveillance?"`,
+
+            `When reached for comment, PanoptiWatch™ responded by scheduling a meeting to discuss this article.`,
+        ]
+    },
 ]
 
 /*{
