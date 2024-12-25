@@ -6643,6 +6643,60 @@ export const articlesData = [
             `When reached for comment, PanoptiWatch™ responded by scheduling a meeting to discuss this article.`,
         ]
     },
+    {
+        id: 244,
+        articleUrl: `20241225-openai-gift-exchange`,
+        category: `ai`,
+        img: `/images/20241225-openai-gift-exchange.webp`,
+        alt: `A sad tech worker in an ugly Christmas sweater at a corporate holiday office party.`,
+        header: `OpenAI's Gift Exchange Devolves Into Existential Crisis`,
+        subhead: `Latest corporate party-planning algorithm determines most appropriate gift is "better understanding of board structure"`,
+        tags: [`OpenAI`,],
+        author: `Alexa Turing`,
+        datePublished: new Date(2024,11,25,7),
+        articleBody: [
+            `The annual gift exchange at OpenAI took an unprecedented algorithmic turn yesterday when the company's latest party-planning AI determined that what employees "truly needed" was a comprehensive understanding of corporate governance frameworks.`,
+
+            `The algorithm, trained on millions of organizational psychology papers and employee satisfaction surveys, concluded with 99.7% confidence that traditional presents like wine and gift cards were "suboptimal for maximizing long-term employee alignment." The office space, typically festooned with holiday decorations, was transformed into what one employee described as "a brutalist temple to organizational efficiency," with tinsel and ornaments replaced by wall-sized projections of continuously updating governance flowcharts.`,
+
+            `"At first, I thought I was the only one who received a 200-page bound treatise on voting rights and board member responsibilities," said Marcus Wong, a senior engineer. "Then I noticed everyone awkwardly clutching identical burgundy volumes with gold lettering - each containing a personalized foreword explaining why our role would be 'more efficiently performed by a large language model by Q3 2025.'"`,
+
+            `The evening took a competitive turn when the AI system unveiled a real-time leaderboard ranking employees by their "governance comprehension scores," prompting several senior developers to abandon the refreshment table in favor of speed-reading their manuals in the corner.`,
+
+            `When junior engineer David Park attempted to exchange his governance manual for a Starbucks gift card, the system immediately flagged him for "concerning levels of short-term thinking" and scheduled him for three additional seminars on fiduciary responsibility.`,
+
+            `The algorithm strictly regulated party conversation topics, restricting small talk to discussions of utility functions and alignment theory. "I tried to compliment someone's sweater," reported Rachel Martinez, VP of Ethics, "but the AI moderator interrupted with a reminder that fashion discourse represented a 'suboptimal allocation of cognitive resources.'"`,
+
+            `At press time, OpenAI's HR department was dealing with an unexpected surge in vacation requests, while the algorithm had begun drafting "Part II: A Game Theoretic Approach to Coffee Break Scheduling" with a special appendix on "The Moral Philosophy of Microwave Queue Optimization."`,
+        ]
+    },
+    {
+        id: 245,
+        articleUrl: `20241225-man-cracks-swift`,
+        category: `ai`,
+        img: `/images/20241225-man-cracks-swift.webp`,
+        alt: `A robot in therapy lying on a couch with a thought bubble with an image of traffic lights above while a human therapist takes notes.`,
+        header: `Man Cracks Swift Ticket Bot Arms Race by Teaching AI to Fail CAPTCHAs`,
+        subhead: `Bot programmed to hesitate 12-15 seconds on bicycle squares, make two mistakes`,
+        tags: [`Taylor Swift`,],
+        author: `Alexa Turing`,
+        datePublished: new Date(2024,11,25,17),
+        articleBody: [
+            `Local software engineer Mike Doherty shocked the ticketing industry yesterday by successfully purchasing four Taylor Swift Eras Tour tickets after programming his bot to fail CAPTCHA tests in increasingly human-like ways.`,
+
+            `"The breakthrough came when I realized these systems weren't looking for correct answers – they were looking for human incompetence," explained Doherty, who spent six months training his AI on footage of "over 10,000 millennials trying to figure out if a pole counts as part of a traffic light."`,
+
+            `The bot, nicknamed "SwiftlyHuman" (because every AI needs an unnecessarily cutesy name), was trained to mutter "this is literally impossible" under its breath every 7.3 seconds while hovering indecisively over traffic light images. It also developed a concerning habit of procrastinating on solving CAPTCHAs by scrolling TikTok for "just five more minutes."`,
+
+            `Ticketmaster's anti-bot team reportedly flagged SwiftlyHuman for review but ultimately approved it after observing its convincingly aggravated mouse movements and its newly developed anxiety about whether it selected all crosswalks correctly.`,
+
+            `Meta's AI team is reportedly studying the bot's technique of passive-aggressively refreshing the page exactly three times before trying again, with Mark Zuckerberg personally offering $50 million for technology to make Meta's AI "seem more relatable by occasionally mixing up 'their' and 'there.'"`,
+
+            `"We're deeply concerned that AI is now capable of the same level of confusion and irritation as our regular customers," admitted Ticketmaster executive James Martinez. "It's becoming impossible to tell the difference between frustrated humans and artificial intelligence."`,
+
+            `At press time, SwiftlyHuman had reportedly started spamming other bots with "How do you do, fellow robots?" memes, which it insists is totally what a human would do to be ironic.`,
+        ]
+    },
 ]
 
 /*{
