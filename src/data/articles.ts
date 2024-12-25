@@ -6676,7 +6676,7 @@ export const articlesData = [
         category: `ai`,
         img: `/images/20241225-man-cracks-swift.webp`,
         alt: `A robot in therapy lying on a couch with a thought bubble with an image of traffic lights above while a human therapist takes notes.`,
-        header: `Man Cracks Swift Ticket Bot Arms Race by Teaching AI to Fail CAPTCHAs`,
+        header: `Man Cracks Taylor Swift Ticket Bot Arms Race by Teaching AI to Fail CAPTCHAs`,
         subhead: `Bot programmed to hesitate 12-15 seconds on bicycle squares, make two mistakes`,
         tags: [`Taylor Swift`,],
         author: `Alexa Turing`,
