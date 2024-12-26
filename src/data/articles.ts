@@ -6729,7 +6729,7 @@ export const articlesData = [
         articleUrl: `20241226-counter-strike-2`,
         category: `tech`,
         img: `/images/20241226-counter-strike-2.webp`,
-        alt: `A Steam badge which of a glistening dolphin wearing a baseball cap`,
+        alt: `A Steam badge which of a glistening dolphin wearing a baseball cap.`,
         header: `Counter-Strike 2 Adds 'Junior Whale' Badge for Young Spenders`,
         subhead: `New achievement system celebrates precocious path to financial ruin`,
         tags: [`Steam`, `Counter-Strike 2`, `Video Games`],
