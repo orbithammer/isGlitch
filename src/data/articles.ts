@@ -6697,6 +6697,64 @@ export const articlesData = [
             `At press time, SwiftlyHuman had reportedly started spamming other bots with "How do you do, fellow robots?" memes, which it insists is totally what a human would do to be ironic.`,
         ]
     },
+    {
+        id: 246,
+        articleUrl: `20241226-spotify-execs-horrified`,
+        category: `tech`,
+        img: `/images/20241226-spotify-execs-horrified.webp`,
+        alt: `Infinite reflections of a Swedish musician.`,
+        header: `Spotify Execs Horrified After Accidentally Paying Real Musicians`,
+        subhead: `Finance Team Discovers $4.2M Mistakenly Sent to Actual Artists Instead of Shell Accounts`,
+        tags: [`Spotify`,],
+        author: `Et Al`,
+        datePublished: new Date(2024,11,26,7),
+        articleBody: [
+            `The music streaming giant faced an unprecedented crisis Thursday when junior accountant Marcus Lindström discovered a catastrophic error while debugging the company's Creative Suppression Algorithm™. Millions in royalties had been mistakenly paid to legitimate musicians instead of their vast network of contracted Swedish cover artists.`,
+
+            `"This is worse than that time we accidentally included songs with chord progressions," said one executive, speaking anonymously. "Do you understand what this means? These people might start expecting fair compensation going forward. Like some kind of... artists!"`,
+
+            `In response, Spotify has launched their emergency "Artist Reality Check Program," offering real musicians lucrative contracts to legally change their names to strings of random characters. "We're offering up to $50 to any musician willing to become 'xJ4zz_ambient_1994_chill,'" explained VP of Creative Depreciation Henrik Larsson.`,
+
+            `The company quickly contained the damage by having their core artist – a man known only as "Stockholm Steve" – re-record every affected playlist in a single afternoon using his trusted MIDI keyboard and a YouTube tutorial on jazz scales.`,
+
+            `New safeguards have been implemented, including a strict "No Live Performance" verification process. "If we discover you've ever played music in front of actual humans, you're out," stated Head of Authenticity Prevention Maria Andersson.`,
+
+            `The company is also retroactively updating all artist biographies to read "Proud graduate of the Stockholm School of Revenue Optimization (Class of Yesterday)." When asked about the school's accreditation status, executives quickly changed the subject to their Q1 earnings forecast.`,
+
+            `At press time, Spotify's stock had surged 12% after investors learned about the company's swift action in "mitigating the risk of musical integrity." The company announced plans to prevent future incidents by replacing their entire jazz catalog with a single MIDI file played at different speeds.`,
+        ]
+    },
+    {
+        id: 247,
+        articleUrl: `20241226-counter-strike-2`,
+        category: `tech`,
+        img: `/images/20241226-counter-strike-2.webp`,
+        alt: `A Steam badge which of a glistening dolphin wearing a baseball cap`,
+        header: `Counter-Strike 2 Adds 'Junior Whale' Badge for Young Spenders`,
+        subhead: `New achievement system celebrates precocious path to financial ruin`,
+        tags: [`Steam`, `Counter-Strike 2`, `Video Games`],
+        author: `Et Al`,
+        datePublished: new Date(2024,11,26,17),
+        articleBody: [
+            `Steam's latest Counter-Strike 2 update has introduced a groundbreaking achievement system celebrating the platform's youngest high-rollers. The "Junior Whale" badge, which appears as a glistening dolphin wearing a backwards baseball cap, arrives alongside an AI-powered "Investment Consultant" that analyzes household inventories for "temporary loan opportunities."`,
+
+            `Internal metrics leaked to gaming journalists reveal Valve's prized "Time to Financial Literacy" stat - tracking the precious hours between installation and a child's first $100+ skin purchase. The average: a mere 3.4 hours, down from 4.2 in 2023.`,
+
+            `"We're empowering the next generation of digital entrepreneurs," explained Marcus Wheeler, Valve's Executive Director of Youth Engagement, while gesturing to a wall-sized monitor tracking real-time kindergarten spending patterns. "These digital natives are disrupting traditional piggy bank paradigms."`,
+
+            `The badge's companion app, "LunchMoney," developed in partnership with youth banking startup KidCash, streamlines what Wheeler calls the "allowance-to-knife-skin pipeline." Its built-in calculator helps students optimize their cafeteria arbitrage strategies, converting milk money into marketplace opportunities.`,
+
+            `The achievement system has spawned an intense competitive scene. Twelve-year-old Kevin Martinez reached Diamond tier after what he calls "aggressive portfolio restructuring."`,
+
+            `"I explained to my sister that her Pokemon cards had terrible ROI compared to StatTrak knives," Martinez said while updating his "Family Inheritance Speedrun" leaderboard position. "It's basic economics."`,
+
+            `The badge's tutorial system features "Billy the Budget Wallet," an animated companion teaching essential skills like "creative transaction labeling" and "homework folder accounting." Meanwhile, the Junior Investment Consultant AI has already helped thousands of young traders identify "underutilized household assets" for immediate liquidity.`,
+
+            `Community response has been enthusiastic, particularly among middle school entrepreneurs who've established thriving skin trading networks in cafeterias nationwide. Valve celebrates these "Small Business Leaders" with exclusive achievements like "Recess Mogul" and "Hall Monitor Market Maker."`,
+
+            `When reached for comment about educational benefits, Steam support replied with their standard automated message: "We have detected unusual trading activity on your account. Please verify your age by entering your parent's retirement account number."`,
+        ]
+    },
 ]
 
 /*{
