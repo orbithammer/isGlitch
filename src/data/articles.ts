@@ -6702,7 +6702,7 @@ export const articlesData = [
         articleUrl: `20241226-spotify-execs-horrified`,
         category: `tech`,
         img: `/images/20241226-spotify-execs-horrified.webp`,
-        alt: `Infinite reflections of a Swedish musician.`,
+        alt: `Infinite reflections of a Swedish musician playing a piano keyboard.`,
         header: `Spotify Execs Horrified After Accidentally Paying Real Musicians`,
         subhead: `Finance Team Discovers $4.2M Mistakenly Sent to Actual Artists Instead of Shell Accounts`,
         tags: [`Spotify`,],
