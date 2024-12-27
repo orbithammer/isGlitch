@@ -6755,6 +6755,64 @@ export const articlesData = [
             `When reached for comment about educational benefits, Steam support replied with their standard automated message: "We have detected unusual trading activity on your account. Please verify your age by entering your parent's retirement account number."`,
         ]
     },
+    {
+        id: 248,
+        articleUrl: `20241227-google-assistant-now`,
+        category: `tech`,
+        img: `/images/20241227-google-assistant-now.webp`,
+        alt: `A sweaty James Rodriguez on a first date trying to turn the volume down on his android smartphone with his date looking horrified.`,
+        header: `Google Assistant Now Answers Your Unasked Questions`,
+        subhead: `Privacy advocates stunned by "pre-emptive query" feature that shares with your mom first`,
+        tags: [`Google`, `Privacy`],
+        author: `Et Al`,
+        datePublished: new Date(2024,11,27,7),
+        articleBody: [
+            `In what experts are calling "the most aggressively helpful privacy violation yet," Google unveiled a new Assistant feature that doesn't just answer your unspoken questions - it broadcasts them to everyone you've ever met, starting with your most judgmental relatives.`,
+
+            `"Our advanced algorithms detect when users start typing something and quickly delete it 47 times at 3 AM," explained Marcus Thompson, Google's Head of Predictive Oversharing. "We then automatically share these abandoned queries with their entire contact list, prioritizing their mother for maximum emotional impact."`,
+
+            `The privacy settings menu offers users complete control with two intuitive options: "Share Everything" or "Share Everything But Pretend We Don't." Google calls this "radical transparency."`,
+
+            `Early beta tester James Rodriguez discovered the feature's efficiency during a first date. "Mid-appetizer, Google Assistant announced to the entire restaurant that I'd hesitated over searching 'how to look less sweaty in nice restaurants.' It then helpfully created a PowerPoint presentation of my dating-related anxieties for my upcoming family reunion."`,
+
+            `The update includes a convenient "Weekly Shame Newsletter" that compiles users' most anxiety-inducing almost-searches and automatically forwards them to their therapist, LinkedIn network, and any exes they've been tempted to Google lately.`,
+
+            `"By ensuring everyone's embarrassing questions are public, we've actually achieved perfect privacy," explained privacy expert Dr. Lisa Murray. "It's like mutually assured destruction, but for your dignity."`,
+
+            `Google emphasizes that the feature's integration with professional networking sites is crucial. "Your LinkedIn connections deserve to know about your 2 AM existential crisis queries," Thompson added. "It's all about authentic personal branding."`,
+
+            `The update rolls out globally next week, paired with Google's new slogan: "Privacy was so 2023."`,
+        ]
+    },
+    {
+        id: 249,
+        articleUrl: `20241227-discord-accidental-cancel`,
+        category: `tech`,
+        img: `/images/20241227-discord-accidental-cancel.webp`,
+        alt: `A person climbing a purple mountain reaching for a tiny "X" cancel button at the summit.`,
+        header: `Discord's 'Accidental' Cancel Button Triggers Code Red Emergency`,
+        subhead: `Engineers Race Against Time as Users Experience Three Minutes of Subscription Freedom`,
+        tags: [`Discord`,],
+        author: `Et Al`,
+        datePublished: new Date(2024,11,27,17),
+        articleBody: [
+            `In a catastrophic engineering mishap that sent shockwaves through Silicon Valley yesterday (and straight into your wallet), Discord's subscription cancellation button became fully visible and functional for approximately three minutes, prompting an emergency response that would make cryptocurrency crash handlers look relaxed.`,
+
+            `The crisis began during Discord's annual "User Retention Hackathon," where engineers were competing to create the most psychologically manipulative cancel flow. "We had just unveiled our new 'Dark Pattern Innovation Lab,' where we study ancient maze designs and psychological warfare techniques," explained Marcus Zhang, Discord's Chief Friction Engineer. "Then disaster struck."`,
+
+            `The company's "Retention Emergency Response Team" immediately deployed their state-of-the-art AI-powered "Guilt Trip Generator," which analyzes users' Discord history to create personalized emotional manipulation screens. "Remember when you met your raid team in that WoW server?" reported one user seeing through tears. "Think about all the emotes you'll lose!"`,
+
+            `During the crisis, Discord's newly launched "Subscription Persistence Machine Learning Algorithm" worked overtime to study successful cancellations and automatically patch these "user experience vulnerabilities." "Every escaped user teaches us how to build better walls," beamed Jennifer Park, Head of Customer Journey Optimization and Digital Maze Architecture.`,
+
+            `The company has since implemented their revolutionary "Retention Gamification" system, requiring users to defeat increasingly difficult boss battles to reach the cancel button. "The final boss is a PHP developer who makes you debug legacy code while explaining why you want to cancel," Park added proudly.`,
+
+            `Internal metrics tracked through their "Retention Analytics Dashboard" showed the average "Time to Resignation" (TTR) - measuring how long users take to give up on cancelling - has increased from 47 minutes to "effectively infinite."`,
+
+            `At press time, Discord's engineering team was celebrating this "user experience enhancement" with a ceremonial moving of the cancel button to a new randomly generated location, marking their seventh successful "Cancel Button Hide and Seek Championship" of the day.`,
+
+            `"We're not just hiding buttons," stated Discord CEO Jason Citron while automatically resubscribing three more users, "we're creating memories that last forever. Or at least until your credit card expires."`,
+        ]
+    },
 ]
 
 /*{
