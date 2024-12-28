@@ -6700,13 +6700,13 @@ export const articlesData = [
     {
         id: 246,
         articleUrl: `20241226-spotify-execs-horrified`,
-        category: `tech`,
+        category: `entertainment`,
         img: `/images/20241226-spotify-execs-horrified.webp`,
         alt: `Infinite reflections of a Swedish musician playing a piano keyboard.`,
         header: `Spotify Execs Horrified After Accidentally Paying Real Musicians`,
         subhead: `Finance Team Discovers $4.2M Mistakenly Sent to Actual Artists Instead of Shell Accounts`,
         tags: [`Spotify`,],
-        author: `Et Al`,
+        author: `Pieter Klykbeit`,
         datePublished: new Date(2024,11,26,7),
         articleBody: [
             `The music streaming giant faced an unprecedented crisis Thursday when junior accountant Marcus Lindström discovered a catastrophic error while debugging the company's Creative Suppression Algorithm™. Millions in royalties had been mistakenly paid to legitimate musicians instead of their vast network of contracted Swedish cover artists.`,
@@ -6727,13 +6727,13 @@ export const articlesData = [
     {
         id: 247,
         articleUrl: `20241226-counter-strike-2`,
-        category: `tech`,
+        category: `entertainment`,
         img: `/images/20241226-counter-strike-2.webp`,
         alt: `A Steam badge which of a glistening dolphin wearing a baseball cap.`,
         header: `Counter-Strike 2 Adds 'Junior Whale' Badge for Young Spenders`,
         subhead: `New achievement system celebrates precocious path to financial ruin`,
         tags: [`Steam`, `Counter-Strike 2`, `Video Games`],
-        author: `Et Al`,
+        author: `Pieter Klykbeit`,
         datePublished: new Date(2024,11,26,17),
         articleBody: [
             `Steam's latest Counter-Strike 2 update has introduced a groundbreaking achievement system celebrating the platform's youngest high-rollers. The "Junior Whale" badge, which appears as a glistening dolphin wearing a backwards baseball cap, arrives alongside an AI-powered "Investment Consultant" that analyzes household inventories for "temporary loan opportunities."`,
@@ -6811,6 +6811,58 @@ export const articlesData = [
             `At press time, Discord's engineering team was celebrating this "user experience enhancement" with a ceremonial moving of the cancel button to a new randomly generated location, marking their seventh successful "Cancel Button Hide and Seek Championship" of the day.`,
 
             `"We're not just hiding buttons," stated Discord CEO Jason Citron while automatically resubscribing three more users, "we're creating memories that last forever. Or at least until your credit card expires."`,
+        ]
+    },
+    {
+        id: 250,
+        articleUrl: `20241228-valve-unveils-regulatory`,
+        category: `entertainment`,
+        img: `/images/20241228-valve-unveils-regulatory.webp`,
+        alt: `An Olympic gymnast in a business suit doing a perfect splits between two legal filing cabinets.`,
+        header: `Valve Unveils "Regulatory Compliance Speedrun" Feature`,
+        subhead: `Game giant promises sub-24-hour loophole discovery for new gaming laws`,
+        tags: [`Valve`, `Video Games`],
+        author: `Pieter Klykbeit`,
+        datePublished: new Date(2024,11,28,7),
+        articleBody: [
+            `In a bold move that would make speedrunning purists weep into their mechanical keyboards, Valve Corporation announced yesterday their groundbreaking "Regulatory Compliance Speedrun" initiative, promising to discover exploitable loopholes in new gaming legislation faster than a Twitch streamer can say "allegedly."`,
+
+            `The company's legal department, now rebranded as the "Legislative Any% Team," has transformed their Seattle office into a Byzantine maze of speed-optimization ramps and regulatory skip zones. Former Olympic gymnasts, hired as "regulatory flexibility consultants," can be seen practicing their legal contortions between the cubicles, their graceful movements a stark contrast to the brutalist architecture of corporate compliance.`,
+
+            `The system employs sophisticated RNG manipulation techniques that Valve claims will "ensure favorable interpretations from regulatory bodies with a success rate that would make even a CS:GO case opening look fair." Sources report the algorithm has already achieved a theoretical perfect seed for interpreting the phrase "gaming entertainment experience" in at least seventeen different jurisdictions.`,
+
+            `Their new "legislative honeypot servers," humming quietly in climate-controlled rooms, generate shell companies at a rate of three per second the moment new gaming legislation appears on any parliamentary docket worldwide. These are complemented by their proprietary "ethics%_skip.exe" software, which reportedly allows their legal team to bypass entire sections of consumer protection laws using a technique they've dubbed "vertical responsibility clipping."`,
+
+            `Most impressive is their revolutionary "regulation desync" exploit, allowing Valve to exist in multiple jurisdictions simultaneously while technically being in none of them—a quantum state of corporate existence that would make Schrödinger's cat look decidedly binary.`,
+
+            `When questioned about the system's legality, Valve demonstrated their new "save state exploit," seamlessly reverting to a previous regulatory framework from 2013 before the question could be fully articulated. Their spokesperson then proceeded to exist in that timeline for the remainder of the interview, citing policies that technically haven't existed for a decade.`,
+        ]
+    },
+    {
+        id: 251,
+        articleUrl: `20241228-youtubers-caught-attending`,
+        category: `tech`,
+        img: `/images/20241228-youtubers-caught-attending.webp`,
+        alt: `A group of male and female influencers in modern athleisure doing synchronized exaggerated gasp facial expression exercises for YouTube thumbnails in a room full of phonographs.`,
+        header: `YouTubers Caught Attending Underground Expression Coaching Ring`,
+        subhead: `Secret "Gasp Academy" Training Traced to Silent Film Legend's Heir`,
+        tags: [`YouTube`,],
+        author: `Et Al`,
+        datePublished: new Date(2024,11,28,17),
+        articleBody: [
+            `A bombshell investigation by TechMuckraker has uncovered an elite underground coaching operation where top YouTubers pay upwards of $50,000 to perfect their thumbnail reactions under the guidance of Winston Keaton III, grandson of silent film legend Douglas "The Face" Keaton – all while driving Los Angeles neighbors to madness with nightly "synchronized gasp practice sessions."`,
+
+            `The exclusive "Gasp Academy," operating out of a converted Victorian mansion, subjects prospective students to a grueling 6-hour entrance exam where they must maintain peak astonishment while watching paint dry. Only then can initiates begin their journey from "novice gasper" through the sacred ranks of "journeyman jaw-dropper" and "master of manufactured marvel" before attempting the coveted title of "grand master of algorithmic astonishment."`,
+
+            `The mansion's hallowed halls house Keaton's grandfather's original expression charts in temperature-controlled cases, their yellowed pages revealing the mathematical precision behind "The Authentic Arc of Astonishment" – measurements that would later inspire thousands of Fortnite reaction thumbnails.`,
+
+            `One former student, speaking on condition of anonymity due to signing "The Sacred Sequence NDA," reports developing "permanent thumbnail face" after a 12-hour intensive workshop. "I tried to order a coffee yesterday and the barista asked if I needed medical attention," they admitted, eyebrows still frozen in a perfect arch of anticipation.`,
+
+            `The academy's infamous "Wall of Shame" stands as a stark reminder of expression failures past, crowned by the "Not Shocked Enough Disaster of 2019" – a cautionary tale involving a gaming channel that dropped from 10 million to 10 subscribers after their host displayed "merely mild surprise" at a Minecraft update.`,
+
+            `Keaton III, a purist who refuses to acknowledge reaction GIFs as legitimate art forms, calls them "crude mockeries of the silent era's refined astonishment techniques." When approached for comment, he merely raised an eyebrow in what students recognized as "The Monetized Dismissal" – a move that reportedly took three years to perfect.`,
+
+            `YouTube declined to comment specifically on the Gasp Academy but noted their AI can now detect "professionally trained thumbnail expressions" with 98.7% accuracy. As of press time, several students were seen fleeing the mansion in period-accurate silent film makeup, their faces frozen in various stages of profitable disbelief.`,
         ]
     },
 ]
