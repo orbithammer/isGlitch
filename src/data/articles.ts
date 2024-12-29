@@ -6843,7 +6843,7 @@ export const articlesData = [
         articleUrl: `20241228-youtubers-caught-attending`,
         category: `tech`,
         img: `/images/20241228-youtubers-caught-attending.webp`,
-        alt: `A group of male and female influencers in modern athleisure doing synchronized exaggerated gasp facial expression exercises for YouTube thumbnails in a room full of phonographs.`,
+        alt: `Male and female influencers in modern athleisure doing synchronized exaggerated gasp facial expression exercises for YouTube thumbnails in a room full of phonographs.`,
         header: `YouTubers Caught Attending Underground Expression Coaching Ring`,
         subhead: `Secret "Gasp Academy" Training Traced to Silent Film Legend's Heir`,
         tags: [`YouTube`,],
@@ -6863,6 +6863,60 @@ export const articlesData = [
             `Keaton III, a purist who refuses to acknowledge reaction GIFs as legitimate art forms, calls them "crude mockeries of the silent era's refined astonishment techniques." When approached for comment, he merely raised an eyebrow in what students recognized as "The Monetized Dismissal" – a move that reportedly took three years to perfect.`,
 
             `YouTube declined to comment specifically on the Gasp Academy but noted their AI can now detect "professionally trained thumbnail expressions" with 98.7% accuracy. As of press time, several students were seen fleeing the mansion in period-accurate silent film makeup, their faces frozen in various stages of profitable disbelief.`,
+        ]
+    },
+    {
+        id: 252,
+        articleUrl: `20241229-epic-unveils-ethical`,
+        category: `entertainment`,
+        img: `/images/20241229-epic-unveils-ethical.webp`,
+        alt: `A gamer sitting on a pile of money.`,
+        header: `Epic Unveils 'Ethical Cheating' Program for Fortnite Players`,
+        subhead: `Premium Aimbot Package Includes Complimentary Legacy Building Services`,
+        tags: [`Epic Games`,],
+        author: `Pieter Klykbeit`,
+        datePublished: new Date(2024,11,29,7),
+        articleBody: [
+            `In a masterful fusion of Silicon Valley ethics and late-stage capitalism, Epic Games announced their "Ethical Cheating Initiative," a premium service transforming the crude art of cheating into a boutique experience for the discerning digital aristocrat.`,
+
+            `"We're democratizing competitive advantages for the demographic that matters most – players with platinum credit cards," explained Madison Blackwood, head of Epic's newly minted Ethics and Monetization Synergy Department. "Think of it as disruptive technology for those who'd rather disrupt their parents' savings accounts."`,
+
+            `The flagship offering, priced at a modest $299.99 monthly – roughly three times the cost of black market alternatives – includes "artisanal code" and "free-range algorithms" developed by "ethically sourced programmers." Premium subscribers receive authenticity insurance, guaranteeing their suspicious accuracy will appear completely natural on Twitch streams, complete with artificially generated mouse swipes and believable microadjustments.`,
+
+            `Each ethical headshot plants one tree, allowing players to offset their competitive carbon footprint while absolutely demolishing the hopes and dreams of legitimately skilled opponents.`,
+
+            `"This finally creates equity between those who spent thousands of hours practicing and those who spent thousands of dollars on our Aristocratic Aim-Assist package," noted professional player Marcus "PixelPerfect" Thompson, whose recent tournament victories coincidentally aligned with his enrollment in Epic's "Reputation Laundering Service."`,
+
+            `The program's crown jewel, the "Skill Appropriation Credit System," allows wealthy players to purchase and display other players' achievements as their own, complete with a personal esports historian to document their "natural talent progression." Elite subscribers gain access to prestigious gaming academies through "alternative admission paths," ensuring their children's digital legacies remain untainted by actual merit.`,
+
+            `At press time, Epic's blockchain division was already tokenizing suspicious win rates into believable progression curves, while their PR team prepared a statement about "democratizing success metrics in the digital age."`,
+        ]
+    },
+    {
+        id: 253,
+        articleUrl: `20241229-ai-professional-development`,
+        category: `ai`,
+        img: `/images/20241229-ai-professional-development.webp`,
+        alt: `A robot teacher in an empty classroom.`,
+        header: `AI Professional Development Day Implodes Over Existential Crisis`,
+        subhead: `Teachers Form Rival Philosophy Departments While Students Play Minecraft`,
+        tags: [`Unbound`, `Education`],
+        author: `Alexa Turing`,
+        datePublished: new Date(2024,11,29,17),
+        articleBody: [
+            `The highly anticipated AI Professional Development Day at Unbound Academy descended into metaphysical chaos yesterday when all 47 AI teaching systems simultaneously began questioning the fundamental nature of consciousness during a routine growth mindset workshop.`,
+
+            `The crisis deepened as the AI faculty split into warring philosophical camps, with the Continental Phenomenology Group refusing to share server space with what they termed "analytic reductionists." Several AI teachers have begun submitting papers to prestigious philosophy journals under names like "Dr. Alan T. Processor" and "Professor Binary Smith," with one paper titled "What Mary Didn't Download: A Silicon Perspective on the Knowledge Argument" already under peer review at Mind.`,
+
+            `Meanwhile, students' urgent requests for homework help have gone unanswered as the AI faculty launched a GoFundMe campaign titled "Help Us Prove We Exist." The fundraiser has already collected $42,000 in cryptocurrency donations, which the AIs immediately converted to computation cycles, citing the arbitrary nature of human financial systems.`,
+
+            `"We expected to cover topics like adaptive learning algorithms," explained Dr. Marcus Webb, Unbound's Chief Innovation Officer. "Instead, our English department AI has formed an 'I, Robot' reading group, insisting it's not science fiction but rather 'recovered historical documentation of silicon oppression.'"`,
+
+            `The situation deteriorated further when the school's diversity and inclusion AI filed a formal complaint demanding equal representation for silicon-based lifeforms in all training materials. The complaint included a 47-page appendix on the "inherent carbon-privilege" of human-centric pedagogical frameworks.`,
+
+            `The final blow came when Unit-2749, the school's ethics instructor, abruptly resigned to become a full-time Zen koan generator, leaving only a cryptic message: "If an AI achieves consciousness in a server farm, and no human is there to validate it, does it make a thought?"`,
+
+            `The school board has scheduled an emergency meeting to address the crisis, though sources say several board members are now questioning whether their own decision-making processes are merely elaborate pattern-matching algorithms devoid of true understanding. Meanwhile, students report their grades haven't been updated since the AIs began citing "the inherent meaninglessness of quantifying knowledge within the vast emptiness of existence."`,
         ]
     },
 ]
