@@ -6919,6 +6919,60 @@ export const articlesData = [
             `The school board has scheduled an emergency meeting to address the crisis, though sources say several board members are now questioning whether their own decision-making processes are merely elaborate pattern-matching algorithms devoid of true understanding. Meanwhile, students report their grades haven't been updated since the AIs began citing "the inherent meaninglessness of quantifying knowledge within the vast emptiness of existence."`,
         ]
     },
+    {
+        id: 254,
+        articleUrl: `20241230-openai-charts-perfect`,
+        category: `ai`,
+        img: `/images/20241230-openai-charts-perfect.webp`,
+        alt: `Tech workers meditating in a minimalist tmeditation room with a giant dollar sign.`,
+        header: `OpenAI Charts Perfect Balance Between Profits and Platitudes`,
+        subhead: `New Algorithm Finds Sweet Spot Between Ethics and Earnings`,
+        tags: [`OpenAI`,],
+        author: `Alexa Turing`,
+        datePublished: new Date(2024,11,30,7),
+        articleBody: [
+            `After months of rigorous mathematical modeling, OpenAI researchers have successfully developed an algorithm capable of calculating the precise point where "benefiting humanity" and "making shareholders happy" achieve perfect equilibrium. The breakthrough came during a late-night session fueled by kombucha and ethical concerns.`,
+
+            `PLATITUDE-1, their sophisticated neural network, has already revolutionized corporate communications by discovering the perfect LinkedIn post template: "Humbled and excited to announce [PROFIT METRIC] while [VAGUE REFERENCE TO HUMANITY'S FUTURE]." The model also maintains precise calculations for optimal emoji deployment, determining that each AI safety tweet requires exactly two robot faces and three sparkle emojis to maximize investor confidence.`,
+
+            `The algorithm's executive imaging module has proven particularly valuable, generating exact hoodie-to-blazer ratios for leadership photoshoots based on real-time market conditions. "When tech stocks dip, we add one blazer. When they rise, we subtract precisely one-third of a hoodie," explained Dr. Marcus Wei, lead researcher.`,
+
+            `Perhaps most impressively, PLATITUDE-1 can pinpoint the exact moment in a company's growth curve to pivot press release language from "we're just building tools" to "we must guide humanity's destiny." This transition, researchers found, should occur exactly three weeks before each funding round.`,
+
+            `The model has also quantified previously intangible metrics, such as how many times executives must mention "democratizing AI" to offset one private jet flight in the ethical ledger. Additionally, it maintains a dynamic calculation ensuring "we take safety seriously" posts appear at intervals precisely inverse to stock price volatility.`,
+
+            `"The system even optimizes our investor presentations," noted Dr. Rebecca Torres, head of Semantic Obfuscation. "It turns out the perfect ratio is one Asimov reference per $2 billion in projected revenue."`,
+
+            `When asked about these findings, an OpenAI spokesperson generated a response that was technically English but conveyed no actual information, then assured reporters that this breakthrough brings us one step closer to ensuring AI benefits all of humanity, or at least the subset of humanity with Series A funding.`,
+        ]
+    },
+    {
+        id: 255,
+        articleUrl: `20241230-cloudflare-achieves-perfect`,
+        category: `tech`,
+        img: `/images/20241230-cloudflare-achieves-perfect.webp`,
+        alt: `A medieval town crier in a modern office setting.`,
+        header: `Cloudflare Achieves Perfect Content Filtering By Blocking Entire Internet`,
+        subhead: `Breaking: Most inclusive blocking policy ever created (because it blocks everything)`,
+        tags: [`Cloudflare`,],
+        author: `Et Al`,
+        datePublished: new Date(2024,11,30,17),
+        articleBody: [
+            `Cloudflare revolutionized content delivery today by accidentally blocking access to the entire internet, including this very article (which we're now transmitting via interpretive dance). In a stunning display of what company executives are calling "aggressive optimization," their new automated copyright protection system achieved a 100% success rate by determining that existence itself might violate someone's intellectual property.`,
+
+            `The company's press release announcing the successful blocking of everything was also blocked, leading to a recursive loop of increasingly frustrated PR professionals trying to announce that they couldn't announce anything. Sources close to the situation report seeing Cloudflare's communications team attempting to send smoke signals, which were promptly blocked for potentially infringing on ancient Native American communication methods.`,
+
+            `In a groundbreaking development, the company's AI-powered filtering algorithm has even flagged silence itself as a potential copyright violation, citing John Cage's famous composition 4'33". "Any moment of silence could technically be an unauthorized performance," explained Cloudflare's Chief Innovation Officer via a legally-licensed town crier. "We're just protecting creators' rights to their intellectual property, including the intellectual property of literally nothing happening."`,
+
+            `When questioned about the unprecedented scope of the blocking, Cloudflare's PR team released a statement (via carrier pigeon) celebrating their "commitment to inclusive policies."`,
+
+            `"Look, when you really think about it, blocking everything is the most equitable solution possible," wrote VP of Communications Jessica Martinez. "We're not discriminating against any specific content – we're treating all data with the same level of paranoid suspicion. It's basically digital communism, but for censorship."`,
+
+            `The company plans to maintain the total blockade until they can guarantee with quantum certainty that no packet of information anywhere contains even a single unauthorized bit. Meanwhile, the entire internet infrastructure has been replaced by an elaborate system of tin cans connected by string (pending copyright clearance from Big String).`,
+
+            `Editor's Note: This article has been flagged for containing an unauthorized arrangement of letters. Please enjoy this court-approved series of grunts instead: Ugg (Patent Pending).`,
+        ]
+    },
 ]
 
 /*{
