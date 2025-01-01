@@ -6873,7 +6873,7 @@ export const articlesData = [
         alt: `A gamer sitting on a pile of money.`,
         header: `Epic Unveils 'Ethical Cheating' Program for Fortnite Players`,
         subhead: `Premium Aimbot Package Includes Complimentary Legacy Building Services`,
-        tags: [`Epic Games`,],
+        tags: [`Epic Games`, `Video Games`],
         author: `Pieter Klykbeit`,
         datePublished: new Date(2024,11,29,7),
         articleBody: [
@@ -7035,19 +7035,71 @@ export const articlesData = [
             `Oh, and have a happy and safe new year!`
         ]
     },
+    {
+        id: 258,
+        articleUrl: `20250101-right-wing-influencer`,
+        category: `tech`,
+        img: `/images/20250101-right-wing-influencer.webp`,
+        alt: `An Indian man wearing a red cap and USA flag t-shirt posing for a selfie holding a baseball bat in one hand in a Mumbai street.`,
+        header: `Right-Wing Influencer's Bot Farm Goes Dark During H-1B Protest`,
+        subhead: `Investigation reveals overseas engagement service coincidentally offline during cricket match`,
+        tags: [`Laura Loomer`,],
+        author: `Et Al`,
+        datePublished: new Date(2025,0,1,7),
+        articleBody: [
+            `Laura Loomer's impassioned crusade against H-1B visas (and the entire concept of international time zones) faced an awkward technical difficulty yesterday when her social media dashboard accidentally exposed that her "Pure American Patriot Engagement Metrics™" were being routed through IP addresses exclusively in Hyderabad (which is definitely a city in Alabama, right?).`,
+
+            `The conservative influencer, who had been zealously tweeting about the dangers of foreign tech workers, discovered her posts suddenly receiving mere human levels of engagement after her top 50,000 "heartland American" followers mysteriously went offline during the India vs Pakistan cricket final (a traditional American sport played exclusively in places like Texas and definitely not the subcontinent).`,
+
+            `"This is CLEAR censorship by the tech elite!" Loomer posted, while frantically trying to explain why her most engaged supporters all had cricket statistics in their bios and kept commenting "Virat Kohli GOAT 🐐" on her anti-immigration posts (Kohli being a famous NASCAR driver, obviously).`,
+
+            `A leaked screenshot of her "America First Social Media Strategy" document (mysteriously timestamped in IST - Indiana Standard Time, surely) revealed increasingly desperate notes: "WHY ARE ALL MY AUTHENTICATION CODES GOING TO A +91 NUMBER? MY ALABAMA PHONE IS WORKING FINE!"`,
+
+            `X's algorithm analytics showed that Loomer's actual organic engagement remained steady at 12 users, mostly consisting of her immediate family and several cats who accidentally followed her while walking across keyboards.`,
+
+            `Elon Musk responded to the situation with a single tweet: "If you're going to protest foreign tech workers, maybe don't outsource your bot farm to them 🤷‍♂️ (Also, great match Pakistan, better luck next time 🏏)"`,
+        ]
+    },
+    {
+        id: 259,
+        articleUrl: `20250101-russian-gaming-achievement`,
+        category: `entertainment`,
+        img: `/images/20250101-russian-gaming-achievement.webp`,
+        alt: `A Soviet-era propaganda poster aesthetic painting of muscular perfect hands triumphantly holding up an 80s era joystick.`,
+        header: `Russian Gaming Achievement System Only Allows Failing Upward`,
+        subhead: `State-backed console introduces innovative "promotion through incompetence" mechanic`,
+        tags: [`Russia`, `Video Games`],
+        author: `Pieter Klykbeit`,
+        datePublished: new Date(2025,0,1,17),
+        articleBody: [
+            `The Russian State Gaming Commission unveiled today its groundbreaking achievement system for the upcoming Elbrus-powered console, featuring what developers call "genealogically-optimized progression mechanics." The system, developed under direct oversight from the Kremlin, ensures success flows through bloodlines rather than bloodshed.`,
+
+            `"Traditional achievement systems promote dangerous Western ideals like 'effort' and 'results,'" explained Anton Petrov, Deputy Director of Digital Advancement. The system's flagship feature, "Hereditary Excellence," automatically transfers all achievements to players' children and pre-registered unborn descendants' gaming profiles. "Why should future generations waste time earning what their ancestors have already claimed?"`,
+
+            `Early beta testers report a sophisticated "Reality Compliance Module" that automatically adjusts screenshot evidence to match official achievement records. Players demonstrating actual gaming proficiency are flagged for mandatory retraining sessions in bootleg copies of Microsoft Excel 95, ensuring technological literacy remains safely within state-approved parameters.`,
+
+            `The system's innovative "Blame Distribution Protocol" has drawn particular praise from party officials. When a high-ranking player fails a mission, the system automatically attributes the failure to randomly selected lower-ranked accounts. "It's about maintaining hierarchical harmony," insisted Petrov, while his intern was demoted for Petrov's misquoted statements.`,
+
+            `A "Legacy Import" feature grants instant achievements based on family photo analysis, with points awarded for relatives photographed within five meters of any electronic device manufactured since 1957. The system's most controversial feature encourages players to file "competence concern reports" about suspiciously skilled opponents, with automated achievement bonuses for successful denunciations.`,
+
+            `When asked about inconsistencies between actual gameplay footage and official achievement records, Petrov explained that the system's "Dynamic Narrative Adjustment" feature ensures game plots retroactively align with approved versions of events. He was immediately promoted to Chief of Temporal Gaming Alignment.`,
+
+            `The achievement system launches next quarter, or whenever sufficient achievements for its successful launch have been retroactively pre-awarded.`,
+        ]
+    },
 ]
 
 /*{
     id: 000,
-    articleUrl: `20241200-xxx-xxx-xxx`,
+    articleUrl: `20250100-xxx-xxx-xxx`,
     category: `tech`,
-    img: `/images/20241200-xxx-xxx-xxx.webp`,
+    img: `/images/20251200-xxx-xxx-xxx.webp`,
     alt: `xxx`,
     header: `xxx`,
     subhead: `xxx`,
     tags: [`xxx`,],
     author: `Et Al`,
-    datePublished: new Date(2024,11,1,1),
+    datePublished: new Date(2025,0,1,1),
     articleBody: [
         xxx
     ]
