@@ -6976,7 +6976,7 @@ export const articlesData = [
     {
         id: 256,
         articleUrl: `20241231-tech-bros-doomsday`,
-        category: `tech`,
+        category: `ai`,
         img: `/images/20241231-tech-bros-doomsday.webp`,
         alt: `Mark Zuckerberg practicing "normal human laughter" with his hologram tutors in his bunker.`,
         header: `Tech Bros' Doomsday Bunkers Reveal Their Silicon Valley Psyche`,
