@@ -7088,7 +7088,7 @@ export const articlesData = [
         ]
     },
     {
-        id: 261,
+        id: 260,
         articleUrl: `20250102-do-kwon-attempts`,
         category: `tech`,
         img: `/images/20250102-do-kwon-attempts.webp`,
