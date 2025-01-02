@@ -7117,7 +7117,7 @@ export const articlesData = [
         articleUrl: `20250102-do-kwon-attempts`,
         category: `tech`,
         img: `/images/20250102-do-kwon-attempts.webp`,
-        alt: `An asian man holding a paper coffee cup, wearing a prison jumpsuit, with bored FBI agents at an airport in the background.`,
+        alt: `An Asian man holding a paper coffee cup, wearing a prison jumpsuit, with bored FBI agents at an airport in the background.`,
         header: `Do Kwon Attempts Last-Minute Coffee Purchase With 'Real' New Crypto`,
         subhead: `Witnesses report fallen mogul insisted barista could "totally trust" handwritten IOUs`,
         tags: [`Do Kwon`, `Cryptocurrency`,],
