@@ -7087,6 +7087,58 @@ export const articlesData = [
             `The achievement system launches next quarter, or whenever sufficient achievements for its successful launch have been retroactively pre-awarded.`,
         ]
     },
+    {
+        id: 260,
+        articleUrl: `20250102-cybertruck-spontaneous-fireworks`,
+        category: `tech`,
+        img: `/images/20250102-cybertruck-spontaneous-fireworks.webp`,
+        alt: `A burning metal Tesla logo.`,
+        header: `Cybertruck's 'Spontaneous Fireworks' Feature Gets Mixed Reviews`,
+        subhead: `Early adopters praise 'dramatic flair,' while Vegas officials remain skeptical`,
+        tags: [`Tesla`,],
+        author: `Et Al`,
+        datePublished: new Date(2025,0,2,7),
+        articleBody: [
+            `The Tesla Cybertruck's controversial new "Spontaneous Fireworks Display" feature has garnered polarizing feedback from early adopters, with amateur arsonists giving it a perfect five-star rating while safety regulators express mild concern about the "unplanned pyrotechnic capabilities."`,
+
+            `Tesla insurance adjusters have already updated their policies with a groundbreaking "Acts of Performance Art" exclusion clause. "If your vehicle spontaneously expresses itself through the medium of combustion, that's technically interpretive dance, not a malfunction," explained Tesla Insurance spokesperson Jennifer Walsh. "And we don't cover dance."`,
+
+            `Las Vegas hotels have responded by implementing a stringent "Spontaneous Artistic Expression Waiver" for all Cybertruck owners. The 47-page document notably includes the phrase "what happens in Vegas stays in Vegas, except Cybertruck explosions, which typically reach neighboring states."`,
+
+            `For enthusiasts undeterred by legal paperwork, Tesla now offers the "Blast Radius Premium Package," complete with a complementary fireproof drone to capture your vehicle's "most explosive moments." The drone, unfortunately, has shown a tendency to melt during what Tesla's legal department insists on calling "rapid unscheduled disassembly events."`,
+
+            `Meanwhile, Rivian's attempts to compete have fallen notably flat. "Our R1T managed to produce a disappointing spark and what could generously be described as a concerning whimper," admitted Rivian's head of combustion aesthetics. "We're still working on achieving that signature Cybertruck kaboom."`,
+
+            `At press time, insurance companies were frantically updating their policies to specifically exclude "intentional artistic expressions involving combustible materials and electric vehicles, including but not limited to TikTok-worthy explosions, gender reveal detonations, and performance art pieces visible from orbit."`,
+        ]
+    },
+    {
+        id: 261,
+        articleUrl: `20250102-do-kwon-attempts`,
+        category: `tech`,
+        img: `/images/20250102-do-kwon-attempts.webp`,
+        alt: `An asian man holding a paper coffee cup, wearing a prison jumpsuit, with bored FBI agents at an airport in the background.`,
+        header: `Do Kwon Attempts Last-Minute Coffee Purchase With 'Real' New Crypto`,
+        subhead: `Witnesses report fallen mogul insisted barista could "totally trust" handwritten IOUs`,
+        tags: [`Do Kwon`, `Cryptocurrency`,],
+        author: `Et Al`,
+        datePublished: new Date(2025,0,2,17),
+        articleBody: [
+            `In what airport staff are calling "the most optimistic transaction attempt of 2025," disgraced cryptocurrency founder Do Kwon reportedly tried to purchase a final cup of airport coffee at Montenegro's Podgorica International Airport using hastily scribbled IOUs he claimed were "definitely a new, totally stable cryptocurrency."`,
+
+            `"This is the fourth impromptu token launch he's attempted since breakfast," sighed FBI Special Agent Mark Torres, while Kwon frantically wrote a whitepaper on the back of his own wanted poster. "He tried to launch one in the security line by claiming the metal detector was a 'node validator.'"`,
+
+            `"He kept insisting the value was pegged to future prison commissary prices," reported barista Milan Kovač, who witnessed Kwon pitching what he called "exclusive pre-trial investor benefits" including "guaranteed quarterly calls from his one permitted phone call."`,
+
+            `Witnesses report Kwon became increasingly creative with his terminology as his departure time approached, referring to his FBI escorts as his "institutional investment partners" and describing his handcuffs as "proof of stake validation hardware."`,
+
+            `"What others call 'criminal charges,' I call 'unexpected protocol upgrades,'" Kwon reportedly explained to bewildered airport staff while describing his impending prison sentence as a "planned temporary liquidity lockup period."`,
+
+            `Airport security footage shows the former Terraform Labs co-founder attempting to explain complex tokenomics diagrams to increasingly confused FBI agents, who sources say were just trying to get him on the plane to New York.`,
+
+            `At press time, ExtraditionUSD's market cap was reported to be exactly three coffee-stained napkins and one partially used pencil, still showing more stability than Terra's final days.`,
+        ]
+    },
 ]
 
 /*{
