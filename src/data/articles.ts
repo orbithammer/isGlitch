@@ -7088,31 +7088,6 @@ export const articlesData = [
         ]
     },
     {
-        id: 260,
-        articleUrl: `20250102-cybertruck-spontaneous-fireworks`,
-        category: `tech`,
-        img: `/images/20250102-cybertruck-spontaneous-fireworks.webp`,
-        alt: `A burning metal Tesla logo.`,
-        header: `Cybertruck's 'Spontaneous Fireworks' Feature Gets Mixed Reviews`,
-        subhead: `Early adopters praise 'dramatic flair,' while Vegas officials remain skeptical`,
-        tags: [`Tesla`,],
-        author: `Et Al`,
-        datePublished: new Date(2025,0,2,7),
-        articleBody: [
-            `The Tesla Cybertruck's controversial new "Spontaneous Fireworks Display" feature has garnered polarizing feedback from early adopters, with amateur arsonists giving it a perfect five-star rating while safety regulators express mild concern about the "unplanned pyrotechnic capabilities."`,
-
-            `Tesla insurance adjusters have already updated their policies with a groundbreaking "Acts of Performance Art" exclusion clause. "If your vehicle spontaneously expresses itself through the medium of combustion, that's technically interpretive dance, not a malfunction," explained Tesla Insurance spokesperson Jennifer Walsh. "And we don't cover dance."`,
-
-            `Las Vegas hotels have responded by implementing a stringent "Spontaneous Artistic Expression Waiver" for all Cybertruck owners. The 47-page document notably includes the phrase "what happens in Vegas stays in Vegas, except Cybertruck explosions, which typically reach neighboring states."`,
-
-            `For enthusiasts undeterred by legal paperwork, Tesla now offers the "Blast Radius Premium Package," complete with a complementary fireproof drone to capture your vehicle's "most explosive moments." The drone, unfortunately, has shown a tendency to melt during what Tesla's legal department insists on calling "rapid unscheduled disassembly events."`,
-
-            `Meanwhile, Rivian's attempts to compete have fallen notably flat. "Our R1T managed to produce a disappointing spark and what could generously be described as a concerning whimper," admitted Rivian's head of combustion aesthetics. "We're still working on achieving that signature Cybertruck kaboom."`,
-
-            `At press time, insurance companies were frantically updating their policies to specifically exclude "intentional artistic expressions involving combustible materials and electric vehicles, including but not limited to TikTok-worthy explosions, gender reveal detonations, and performance art pieces visible from orbit."`,
-        ]
-    },
-    {
         id: 261,
         articleUrl: `20250102-do-kwon-attempts`,
         category: `tech`,
