@@ -7151,7 +7151,7 @@ export const articlesData = [
         alt: `A birthday party where the guest of honor is surrounded by cardboard cutouts.`,
         header: `Microsoft's AI Filter Now Fights Phishing with Better Phishing`,
         subhead: `Security experts warn of 'recursive scam optimization' as defenders outsmart themselves`,
-        tags: [`Alexa Turing`,],
+        tags: [`Microsoft`,],
         author: `Alexa Turing`,
         datePublished: new Date(2025,0,3,17),
         articleBody: [
