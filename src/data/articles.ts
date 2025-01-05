@@ -7235,7 +7235,7 @@ export const articlesData = [
         articleUrl: `20250105-tim-cook-patents`,
         category: `tech`,
         img: `/images/20250105-tim-cook-patents.webp`,
-        alt: `A sleek white Apple Store-style room with a giant golden ATM machine with an apple executive holding an open briefcase full of money beside.`,
+        alt: `Tech executives bowing before the Whitehouse like it's an altar.`,
         header: `Tim Cook Patents Algorithm That Prices Political Donations`,
         subhead: `New Innovation Disrupts Campaign Finance While Totally Not Being a Bribe Calculator™`,
         tags: [`Apple`, `Time Cook`, `Donald Trump`],
