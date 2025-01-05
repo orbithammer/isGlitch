@@ -7175,7 +7175,7 @@ export const articlesData = [
         articleUrl: `20250104-att-new-democracy`,
         category: `tech`,
         img: `/images/20250104-att-new-democracy.webp`,
-        alt: `A virtual avatar of a giant anthropomorphic snail blocking a narrow cyberspace road, a traffic jam of frustrated speedy rabbits stuck behind`,
+        alt: `A virtual avatar of a giant anthropomorphic snail blocking a narrow cyberspace road, a traffic jam of frustrated speedy rabbits stuck behind.`,
         header: `AT&T's New 'Democracy' Plan Lets Users Vote on Internet's Biggest Losers`,
         subhead: `Customers Finally Experience the True Power of Digital Democracy (Loading...)`,
         tags: [`AT&T`, `Net Neutrality`,],
@@ -7228,6 +7228,59 @@ export const articlesData = [
             `Microsoft spokesperson Jennifer McKay defended the feature: "Un-Bundle works exactly as intended. By creating more bundles, we're giving users the freedom to choose which bundles they want their bundles bundled with. It's all about choice, specifically our choice to keep choosing for you."`,
 
             `The FTC has reportedly opened another investigation, but their computers crashed while trying to install the Un-Bundle feature to gather evidence. Sources say their systems are now running sixteen copies of Teams, all of which are trying to schedule a meeting with each other about "synergizing deployment efficiency."`,
+        ]
+    },
+    {
+        id: 265,
+        articleUrl: `20250105-tim-cook-patents`,
+        category: `tech`,
+        img: `/images/20250105-tim-cook-patents.webp`,
+        alt: `A sleek white Apple Store-style room with a giant golden ATM machine with an apple executive holding an open briefcase full of money beside.`,
+        header: `Tim Cook Patents Algorithm That Prices Political Donations`,
+        subhead: `New Innovation Disrupts Campaign Finance While Totally Not Being a Bribe Calculator™`,
+        tags: [`Apple`, `Time Cook`, `Donald Trump`],
+        author: `Et Al`,
+        datePublished: new Date(2025,0,5,7),
+        articleBody: [
+            `In a groundbreaking development that absolutely no one asked for, Apple CEO Tim Cook has patented a revolutionary algorithm that calculates the optimal political donation amount based on a company's current legal troubles. The system, dubbed "iContribute™," uses machine learning to analyze regulatory headaches and automatically suggests the perfect "campaign contribution" to make them disappear.`,
+
+            `Early testing reveals the algorithm's sophisticated formula:
+            (Congressional Grumpiness Index × Twitter Outrage Level) + (Days Since Last Subpoena² × Reelection Panic Coefficient) = Suggested Donation Amount™`,
+
+            `The system even includes a proprietary Disruption Score™ that rates how effectively each donation amount disrupts democracy, measured in blockchain tokens. "This revolutionary platform democratizes regulatory capture," explained venture capitalist Brad Thompson, while adjusting his Patagonia vest. "Finally, government influence is accessible to all billionaires, not just the mega-billionaires!"`,
+
+            `Notable features include a "Competitor Donation Tracker" that automatically adds $100,000 to whatever Mark Zuckerberg last donated, and an "Antitrust Risk Calculator" that conveniently blue-screens whenever it detects the word "monopoly" in congressional hearings.`,
+
+            `The patent application was mysteriously approved in record time, shortly after the patent office reported receiving an automated donation suggestion. The system also includes an "Emergency Mode" that activates when detecting words like "subpoena" or "congressional hearing" in company emails, automatically booking private jets to DC that coincidentally align with major legislative votes.`,
+
+            `For European markets, iContribute™ features a special "EU Compliance Mode" that automatically converts all donations into untraceable cryptocurrency faster than you can say "regulatory oversight."`,
+
+            `When reached for comment, Cook's office directed us to their PR team, who directed us to their legal team, who directed us to an AI chatbot, which crashed immediately upon detecting this article.`,
+        ]
+    },
+    {
+        id: 266,
+        articleUrl: `20250105-study-original-httyd`,
+        category: `entertainment`,
+        img: `/images/20250105-study-original-httyd.webp`,
+        alt: `A dejected millennial parent clutching a plush Toothless the dragon toy.`,
+        header: `Study: Original HTTYD Fans Now Old Enough for Double Disappointment`,
+        subhead: `Silicon Valley Researchers Track Unprecedented "Dual Remake Disillusionment Syndrome"`,
+        tags: [`Dreamworks`, `Science`, `Disney`],
+        author: `Pieter Klykbeit`,
+        datePublished: new Date(2025,0,5,17),
+        articleBody: [
+            `A groundbreaking study from the Stanford Institute of Nostalgia Economics has revealed that the original "How to Train Your Dragon" fanbase has achieved a historically unique milestone: they're now precisely old enough to be disappointed by both their childhood franchise's animated-to-live-action adaptation and their own children's inevitable remake-induced trauma.`,
+
+            `The findings, presented at yesterday's Conference on Generational Media Trauma, coincide with the emergence of specialized support groups like "HTTYD-PTSD" (Hollywood Trauma Through Yearly Disney Syndrome), where members share coping strategies for "acute franchise fatigue" and "CGI-induced existential dread."`,
+
+            `Stanford's newly established Department of Remake Psychology and Franchise Fatigue Studies documented parents stockpiling original DVDs in climate-controlled vaults, behavior one researcher termed "digital prepping for remake winter." Meanwhile, local "Original Canon Preservation Societies" have begun meeting in suburban basements, where members perform ritualistic screenings of the 2010 version while lamenting how "at least the original CGI had charm and artistic vision instead of just chasing photorealism."`,
+
+            `Universal Pictures responded by unveiling their proprietary "Nostalgia Exploitation Index," which reportedly measures "multi-generational disillusionment touchpoints" with frightening accuracy. The company also filed patents for what they call "cross-generational trauma monetization frameworks," designed to "optimize viewer resignation across multiple remake cycles."`,
+
+            `"We're leveraging cutting-edge algorithms to synergize disappointment vectors," explained Universal's Chief Nostalgia Officer, Bradley Walsh. "Our data suggests we can achieve peak viewer disillusionment by 2027."`,
+
+            `When reached for comment, a 28-year-old former HTTYD fan simply sighed and returned to explaining to her therapy dragon why scales shouldn't look "uncomfortably realistic."`,
         ]
     },
 ]
