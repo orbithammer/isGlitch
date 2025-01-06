@@ -7283,6 +7283,62 @@ export const articlesData = [
             `When reached for comment, a 28-year-old former HTTYD fan simply sighed and returned to explaining to her therapy dragon why scales shouldn't look "uncomfortably realistic."`,
         ]
     },
+    {
+        id: 267,
+        articleUrl: `20250106-honey-co-creator`,
+        category: `tech`,
+        img: `/images/20250106-honey-co-creator.webp`,
+        alt: `A tech worker in religious ecstasy as he receives divine light through his mind's eye and psychedelic lights in the background.`,
+        header: `Honey Co-Creator Claims Algorithm "Divinely Inspired"`,
+        subhead: `Git History Reveals Midnight Copy-Paste from uBlock Origin`,
+        tags: [`Honey`, `Pie adBlock`],
+        author: `Et Al`,
+        datePublished: new Date(2025,0,6,7),
+        articleBody: [
+            `Ryan Hudson, co-founder of PayPal-acquired Honey and current Pie Adblock CEO, stunned the tech community yesterday by claiming his company's revolutionary ad-blocking algorithm came to him during a "spiritual experience" at a mandatory PayPal corporate meditation retreat.`,
+
+            `"I was deep in contemplation when the angel Gabriel appeared and whispered 'Command-C, Command-V' in my ear," Hudson explained during an emergency investor call. "It was like the universe itself wanted users to earn micropayments for viewing curated advertisements."`,
+
+            `The divine intervention reportedly occurred at "The Sacred Path to Series B Funding" retreat center, where Hudson's keyboard was ritually cleansed with burning sage while engineers chanted "sudo make install." The resulting code mysteriously included properly formatted JSDoc comments and documentation.`,
+
+            `The company's new VP of Spiritual Computing, Janet Martinez - previously PayPal's head of copyright litigation - defended the company's "mindful sourcing" philosophy, which she defined as "copying code with gratitude and intention." Under her guidance, engineering standup meetings now begin with "namaste" and end with "git push --force."`,
+
+            `GitHub sleuths discovered the supposedly divine intervention occurred precisely three minutes after someone using Hudson's login credentials downloaded uBlock Origin's entire repository. When pressed for clarification, Hudson announced his upcoming book "The Zen of Not Reinventing the Wheel: A Founder's Journey to Enlightened Code Reuse."`,
+
+            `Hudson later added that his previous company Honey was actually channeled from ancient Sumerian merchants, who "totally understood affiliate marketing." The company's legal team, practicing what they call "defensive mindfulness," has preemptively filed spiritually-inspired cease and desist letters against anyone questioning their enlightened development practices.`,
+
+            `As of press time, Hudson was reportedly attending another meditation retreat, where he hopes to receive divine inspiration for a unique privacy policy that bears no resemblance to MetaMask's terms of service.`,
+        ]
+    },
+    {
+        id: 268,
+        articleUrl: `20250106-x-unveils-pay`,
+        category: `tech`,
+        img: `/images/20250106-x-unveils-pay.webp`,
+        alt: `A Elon Musk doing a TikTok dance in front of a wall of amber colored emergency alerts.`,
+        header: `X Unveils Pay-Per-View Emergency Alerts to 'Optimize User Engagement'`,
+        subhead: `CEO Claims New Revenue Stream Will 'Revolutionize Public Safety Monetization'`,
+        tags: [`Twitter`,],
+        author: `Et Al`,
+        datePublished: new Date(2025,0,6,17),
+        articleBody: [
+            `X announced today the launch of its revolutionary "Pay-Per-View Public Safety™" initiative, transforming emergency alerts into what company executives are calling "a dynamic micro-transaction opportunity space with unprecedented virality potential."`,
+
+            `"Our proprietary Algorithmic Trust Engine™ now ensures only the most engaging kidnappings reach users' feeds," explained Dr. Maxwell Wright, X's Chief Algorithmic Trust Officer. "Internal data shows that abductions involving blonde children and luxury vehicles consistently outperform other demographics in terms of user engagement."`,
+
+            `The platform's new tiered subscription model includes "Amber Alert Basic" (text-only, three-hour delay), "Amber Alert Pro" (includes grainy surveillance footage), and "Amber Alert Ultra Pro Max+" (exclusive access to victim photographs and real-time location tracking, plus custom notification sounds).`,
+
+            `"Our Engagement Optimization AI automatically converts missing person descriptions into highly shareable formats," explained Blake Thompson, Chief Revenue Officer, while adjusting his Patagonia vest. "For example, 'Missing 14-year-old in red hoodie' becomes 'You Won't BELIEVE What This Teen Was Wearing When They Disappeared (GONE WRONG).'"`,
+
+            `The platform's new Safety Influencer Program grants verified users with over 100k followers exclusive "first-to-know" rights for breaking kidnapping news. "Top influencers can now monetize public safety information through our affiliate program," Thompson added, revealing that users earn 0.0001% commission for each successful alert share.`,
+
+            `X's testing data reportedly shows that adding the "😱" emoji to Amber Alerts increases engagement by 300%, leading to the company's new policy requiring all emergency communications to include at least three trending emojis and a relevant TikTok dance challenge.`,
+
+            `Premium subscribers can now access the "Early Warning+" feature, receiving missing person alerts 15 minutes before law enforcement even issues them. "It's like having a time machine for tragedy," Thompson beamed, "but with better monetization options."`,
+
+            `At press time, X was already beta testing a new feature requiring users to either watch three consecutive Tesla Cybertruck commercials or solve increasingly difficult calculus problems before accessing time-sensitive emergency information.`,
+        ]
+    },
 ]
 
 /*{
